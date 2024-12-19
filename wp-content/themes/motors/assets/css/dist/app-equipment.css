@@ -1,0 +1,3548 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-equipment .archive-listing-page .image .interactive-hoverable,
+.stm-hoverable-interactive-galleries.stm-template-equipment #modern-filter-listing .image .interactive-hoverable {
+    min-height: 185px;
+    min-width: 257px;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries.stm-template-equipment .archive-listing-page .image .interactive-hoverable,
+  .stm-hoverable-interactive-galleries.stm-template-equipment #modern-filter-listing .image .interactive-hoverable {
+        min-height: 160px;
+    }
+}
+
+.stm-hoverable-interactive-galleries.stm-template-equipment .archive-listing-page .image .stm-listing-compare,
+.stm-hoverable-interactive-galleries.stm-template-equipment .archive-listing-page .image .stm-listing-favorite,
+.stm-hoverable-interactive-galleries.stm-template-equipment #modern-filter-listing .image .stm-listing-compare,
+.stm-hoverable-interactive-galleries.stm-template-equipment #modern-filter-listing .image .stm-listing-favorite {
+    bottom: 13px;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-equipment .archive-listing-page .listing-list-loop .image .interactive-hoverable,
+.stm-hoverable-interactive-galleries.stm-template-equipment #modern-filter-listing .listing-list-loop .image .interactive-hoverable {
+    min-height: 185px;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-equipment .stm-equip-inventory .listing-car-item-inner .image .interactive-hoverable {
+    min-height: 205px;
+}
+
+.admin-bar .select2-container.stm-multi-currency .select2-dropdown {
+    top: 36px;
+}
+
+.select2-container.stm-multi-currency .select2-dropdown {
+    min-width: -moz-fit-content;
+    min-width: fit-content;
+    top: 0;
+}
+
+@media (max-width: 1024px) {
+    body.post-type-archive-listings .classic-filter-row {
+        margin-top: 0;
+    }
+}
+
+.stm-template-equipment .heading-font {
+    color: #ffffff;
+}
+
+.stm-template-equipment .mobile-filter-sticky {
+    display: none;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.42);
+}
+
+.stm-template-equipment .mobile-filter-sticky.sticky-filter {
+    display: block;
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+    background-color: #000000;
+    bottom: 0;
+    z-index: 99999;
+}
+
+.stm-template-equipment .archive-listing-page .listing-list-loop .content .title {
+    color: #ffffff;
+}
+
+.stm-template-equipment .stm-isearch-results-carousel-wrap .stm-template-front-loop .special-label {
+    font-size: 11px;
+}
+
+.stm-template-equipment a.wp-block-latest-posts__post-title {
+    color: unset;
+}
+
+.stm-template-equipment .stm_gmap .dismissButton {
+    background-color: #cc6119 !important;
+    color: #ffffff !important;
+    box-shadow: none !important;
+}
+
+.stm-template-equipment.stm-layout-header-aircrafts #wrapper #header {
+    top: 53px;
+}
+
+.stm-template-equipment .stm-ajax-row:before {
+    background: rgba(14, 15, 15, 0.8) !important;
+}
+
+.stm-template-equipment .classic-filter-row .filter-sidebar {
+    background-color: #333333 !important;
+}
+
+.stm-template-equipment .stm-car-listing-sort-units .stm-view-by .view-type.active {
+    background-color: #969696;
+    color: #ffffff;
+}
+
+.stm-template-equipment .listing-list-loop .video-preview {
+    right: unset;
+    left: 9px;
+}
+
+.stm-template-equipment h1, .stm-template-equipment .h1 {
+    font-weight: 900;
+}
+
+.stm-template-equipment .stm-h3-styling {
+    display: block;
+    font-size: 30px;
+    line-height: 1;
+    font-weight: 900 !important;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 20px !important;
+    margin-bottom: 40px !important;
+}
+
+.stm-template-equipment .stm-h3-styling:before {
+    content: "";
+    display: block;
+    width: 38px;
+    height: 3px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #cc6119;
+}
+
+.stm-template-equipment .colored {
+    color: #cc6119;
+}
+
+.stm-template-equipment table > tbody tr td {
+    border-bottom: 1px solid #333333;
+}
+
+.stm-template-equipment hr {
+    border-top: 1px solid #333333;
+}
+
+.stm-template-equipment .form-hr {
+    background-color: #333333;
+}
+
+.stm-template-equipment ul.list-style-1 li {
+    color: #969696;
+}
+
+.stm-template-equipment .vc_tta-accordion .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title > a {
+    color: #ffffff;
+}
+
+.stm-template-equipment.home h3.vc_custom_heading {
+    display: block;
+    font-size: 30px;
+    font-weight: 900 !important;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.stm-template-equipment .stm-car-carousels .stm-big-car-gallery .special-label.special-label-small {
+    left: unset;
+    right: -70px;
+    top: 35px;
+}
+
+.stm-template-equipment .select2-container--default.select2-container--disabled .select2-selection--single {
+    opacity: 1;
+}
+
+.stm-template-equipment .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #1d1f1f;
+}
+
+.stm-template-equipment .wpb_heading {
+    position: relative;
+    padding-bottom: 23px;
+    margin-bottom: 32px !important;
+}
+
+.stm-template-equipment .wpb_heading:before {
+    content: "";
+    display: block;
+    width: 38px;
+    height: 3px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #cc6119;
+}
+
+.stm-template-equipment .wpb_tour_tabs_wrapper.stm_tabs_style_2 ul.wpb_tabs_nav > li.ui-state-active a {
+    color: #232628;
+}
+
+.stm-template-equipment .wpb_tour_tabs_wrapper.stm_tabs_style_2 .wpb_tab.ui-tabs-panel .icon-box .icon i {
+    color: #232628;
+}
+
+.stm-template-equipment .wpb_tour_tabs_wrapper.stm_tabs_style_2 .wpb_tab.ui-tabs-panel .icon-box .icon-text h4.title {
+    font-weight: 900 !important;
+    text-transform: uppercase;
+    color: #232628;
+}
+
+.stm-template-equipment .vc_tta-accordion .vc_tta-panels-container .vc_tta-panels {
+    border-bottom: 1px solid #333333;
+}
+
+.stm-template-equipment .vc_tta-accordion .vc_tta-panels-container .vc_tta-panels .vc_tta-panel {
+    border-top: 1px solid #333333;
+}
+
+.stm-template-equipment .vc_single_image-wrapper {
+    position: relative;
+}
+
+.stm-template-equipment .vc_single_image-wrapper:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.15);
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}
+
+.stm-template-equipment .vc_single_image-wrapper:hover:before {
+    opacity: 1;
+}
+
+.stm-template-equipment.page a.button {
+    box-shadow: none;
+}
+
+.stm-template-equipment.page .stm-contact-us-form-wrapper {
+    background: #1d1f1f;
+}
+
+.stm-template-equipment.page .stm-contact-us-form-wrapper .contact-us-label {
+    color: #aaaaaa;
+}
+
+.stm-template-equipment.page .stm-contact-us-form-wrapper input[type=submit] {
+    box-shadow: none;
+}
+
+.stm-template-equipment .stm-service-contact-us-form-wrapper .row .col-md-12 {
+    margin-top: 5px;
+}
+
+.stm-template-equipment .stm-service-contact-us-form-wrapper .row .col-md-12 p {
+    margin-top: 3px;
+}
+
+.stm-template-equipment .stm-service-contact-us-form-wrapper .row .col-md-12 p input[type=submit] {
+    padding: 18px 43px 16px;
+}
+
+.stm-template-equipment .stm-service-contact-us-form-wrapper input[type=text], .stm-template-equipment .stm-service-contact-us-form-wrapper input[type=email] {
+    height: 40px;
+    line-height: 40px;
+    padding: 0 11px;
+}
+
+.stm-template-equipment .stm-service-contact-us-form-wrapper textarea {
+    padding: 10px 11px;
+}
+
+.stm-template-equipment .stm-service-contact-us-form-wrapper input[type=submit] {
+    box-shadow: none;
+}
+
+.stm-template-equipment .button {
+    box-shadow: none;
+}
+
+.stm-template-equipment .single-add-to-compare {
+    background-color: #1d1f1f;
+}
+
+.stm-template-equipment .single-add-to-compare .compare-fixed-link:hover {
+    color: #1d1f1f;
+}
+
+.stm-template-equipment .single-add-to-compare.danger, .stm-template-equipment .single-add-to-compare.overadded {
+    background-color: #ff0000;
+}
+
+.stm-template-equipment .single-add-to-compare.danger .compare-fixed-link:hover, .stm-template-equipment .single-add-to-compare.overadded .compare-fixed-link:hover {
+    color: #ff0000;
+}
+
+@media (max-width: 1024px) {
+    .stm-template-equipment .sidebar-area-vc {
+        margin-left: unset;
+    }
+}
+
+.stm-template-equipment input[type=submit] {
+    box-shadow: none;
+    color: #1d1f1f !important;
+}
+
+.stm-template-equipment .entry-header {
+    display: block;
+    width: 100%;
+    max-width: 1110px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.stm-template-equipment .entry-header > .container {
+    min-height: 317px;
+}
+
+.stm-template-equipment #wrapper {
+    padding-bottom: 95px;
+}
+
+.stm-template-equipment #wrapper .stm-archives.stm-view-type-grid .post-grid-single-unit img {
+    width: 100%;
+}
+
+.stm-template-equipment .special-label {
+    left: unset;
+    right: -91px;
+    transform: rotate(45deg) translateZ(0);
+}
+
+.stm-template-equipment.single-listings #wrapper {
+    padding-bottom: 0;
+    position: relative;
+    z-index: 50;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border-bottom: 1px solid rgba(170, 170, 170, 0.4);
+    padding: 0 0 25px 0;
+    margin-bottom: 26px;
+}
+
+@media (max-width: 767px) {
+    .stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title {
+        flex-wrap: wrap;
+    }
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .listing-title-wrap {
+    display: block;
+    max-width: 70%;
+}
+
+@media (max-width: 1000px) {
+    .stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .listing-title-wrap {
+        max-width: 70%;
+    }
+}
+
+@media (max-width: 450px) {
+    .stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .listing-title-wrap {
+        max-width: 100%;
+    }
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .listing-title-wrap .terms-wrap {
+    line-height: 13px;
+    font-size: 13px;
+    margin-bottom: 6px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .listing-title-wrap .terms-wrap a {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .listing-title-wrap .title {
+    display: block;
+    position: relative;
+    width: 100%;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 32px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+@media (max-width: 1000px) {
+    .stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .listing-title-wrap .title {
+        white-space: normal;
+    }
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .listing-title-wrap .title .labels {
+    display: inline-block;
+    color: #cc6119;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 0 0 0 auto;
+}
+
+@media (max-width: 450px) {
+    .stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap {
+        margin: 20px auto 0 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap {
+        width: 100%;
+        margin: 20px auto 0 0;
+    }
+
+    .stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .rent-price-wrap {
+        width: 100%;
+    }
+
+    .stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .price_unit {
+        width: 100%;
+    }
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .rent-price-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #1d1f1f;
+    color: #ffffff !important;
+    padding: 7px 15px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .rent-price-wrap .label {
+    padding: 0;
+    margin: 0;
+    font-size: 11px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 14px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .rent-price-wrap .price {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .rent-price-wrap .price span {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .price_unit {
+    display: flex;
+    flex-direction: column;
+    background-color: #cc6119;
+    color: #1d1f1f;
+    justify-content: center;
+    padding: 7px 15px;
+    min-height: 100%;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .price_unit .stm_label, .stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .price_unit .stm_custom_label {
+    padding: 0;
+    margin: 0;
+    font-size: 11px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 14px;
+    color: #1d1f1f;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-single-price-title .price-wrap .price_unit .inner {
+    font-size: 20px;
+    font-weight: 900;
+    color: #1d1f1f;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery {
+    margin-bottom: 20px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-car-medias {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    z-index: 20;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-car-medias > div {
+    display: inline-block;
+    margin-right: 9px;
+    padding: 4px 15px 2px 10px;
+    border-radius: 2px;
+    background: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-size: 11px;
+    line-height: 22px;
+    font-weight: 600;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-car-medias > div i {
+    font-size: 12px;
+    margin-right: 2px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-car-medias > div span {
+    position: relative;
+    top: -1px;
+    text-transform: uppercase;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-car-medias > div:hover {
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-car-medias > div.stm-listing-videos-unit i {
+    position: relative;
+    top: -1px;
+    left: 1px;
+    margin-right: 3px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-gallery-actions {
+    position: absolute;
+    right: 9px;
+    top: inherit;
+    z-index: 20;
+    bottom: 40px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-gallery-actions .stm-gallery-action-unit {
+    padding: 0 6px 0;
+    position: relative;
+    float: left;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: 28px;
+    margin-right: 9px;
+    background: rgba(0, 0, 0, 0.3);
+    text-align: center;
+    line-height: 28px;
+    overflow: hidden;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-gallery-actions .stm-gallery-action-unit i {
+    color: #fff;
+    position: relative;
+    top: 2px;
+    margin-right: 2px;
+    font-size: 14px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-gallery-actions .stm-gallery-action-unit:hover {
+    cursor: pointer;
+    background: #000;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-gallery-actions .stm-gallery-action-unit.active {
+    background: #cc6119;
+    background: linear-gradient(180deg, #609bd1 0%, #4782b8 100%);
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-gallery-actions .stm-gallery-action-unit.active i {
+    color: #1d1f1f;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-gallery-actions .stm-gallery-action-unit.active span {
+    color: #1d1f1f;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-gallery-actions .stm-gallery-action-unit span {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-gallery-actions .stm-gallery-action-unit .st_sharethis_large {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .boats-image-unit {
+    position: absolute;
+    top: 14px;
+    left: 15px;
+    z-index: 100;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-photos-unit,
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-videos-unit {
+    display: inline-block;
+    padding: 1px 7px;
+    vertical-align: top;
+    font-size: 11px;
+    text-transform: uppercase;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+    color: #fff !important;
+    cursor: pointer;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-photos-unit:hover,
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-videos-unit:hover {
+    background: black;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-photos-unit i,
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-videos-unit i {
+    margin-right: 3px;
+    font-size: 12px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-photos-unit i:before,
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-videos-unit i:before {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-style: normal;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-photos-unit {
+    margin-right: 5px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-photos-unit i:before {
+    content: "\f030";
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-listing-car-gallery .stm-listing-videos-unit i:before {
+    content: "\f008";
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-equip-no-wpb {
+    padding-top: 75px;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-equip-no-wpb .single-car-data {
+    background: #1d1f1f;
+}
+
+.stm-template-equipment.single-listings #wrapper #main .stm-equip-single-car-page .stm-equip-no-wpb .stm-single-car-links .stm-single-car-link a {
+    background-color: #1d1f1f;
+}
+
+@media (max-width: 989px) {
+    .stm-template-equipment.single-listings #wrapper #main .stm-single-car-side {
+        margin-top: 40px;
+    }
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab a span {
+    white-space: nowrap;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs.vc_tta-tabs-position-bottom .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body {
+    padding: 0 0 37px 2px !important;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container {
+    padding-top: 4px;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list {
+    margin: 0;
+    background-color: transparent;
+    border-left: 0;
+    border-right: 0;
+    overflow: visible;
+    padding-bottom: 10px;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab {
+    width: 100%;
+    position: relative;
+    margin: 0 1px;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: unset;
+    bottom: -4px;
+    left: 50%;
+    width: 20px;
+    height: 4px;
+    opacity: 0;
+    background: transparent;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 4px solid #cc6119;
+    transform: translateX(-50%);
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab > a {
+    padding: 13px 18px;
+    background-color: rgba(29, 31, 31, 0.8);
+    border-radius: 0;
+    border: none;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab > a .vc_tta-icon {
+    position: relative;
+    top: 3px;
+    color: #ffffff;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab > a .vc_tta-title-text {
+    position: relative;
+    top: 1px;
+    left: 2px;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab > a span {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab > a .vc_tta-title-text:not(:empty):not(:first-child) {
+    margin-left: 8px;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active:before {
+    opacity: 1;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active a {
+    background-color: #cc6119;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active a .vc_tta-icon {
+    position: relative;
+    top: 3px;
+    color: #121e24;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active a span {
+    color: #121e24;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+@media (max-width: 450px) {
+    .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel {
+        background: #1d1f1f;
+    }
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body {
+    padding: 15px 30px 30px !important;
+    border: none;
+    background: rgba(14, 15, 15, 0.9);
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body h2, .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body h3, .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .title {
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .vc_custom_heading {
+    border-bottom: 1px solid rgba(170, 170, 170, 0.4);
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper {
+    background: transparent;
+    padding: 0;
+    box-shadow: none;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper h2 {
+    border-bottom: 1px solid rgba(170, 170, 170, 0.4);
+    padding-bottom: 20px;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper .col-md-12.col-sm-12 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper .form-group {
+    width: 32%;
+    margin-bottom: 15px;
+}
+
+@media (max-width: 450px) {
+    .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper .form-group {
+        width: 100%;
+    }
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=text], .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=email], .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=tel], .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper textarea {
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=text]:active, .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=text]:focus, .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=email]:active, .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=email]:focus, .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=tel]:active, .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=tel]:focus, .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper textarea:active, .stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper textarea:focus {
+    background: #ffffff;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper input[type=submit] {
+    margin: 0 0 0 auto;
+    background: #cc6119;
+    box-shadow: none;
+    color: #1d1f1f !important;
+    font-size: 14px;
+    letter-spacing: 0;
+}
+
+.stm-template-equipment .vc_tta-container .vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel-body .stm-contact-us-form-wrapper .ajax-loader {
+    position: absolute;
+    right: -5px;
+    bottom: 15px;
+}
+
+.stm-template-equipment .select2-selection__rendered, .stm-template-equipment .stm_dynamic_listing_filter .tab-content .stm-filter-tab-selects .stm-select-col .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #222;
+}
+
+.stm-template-equipment .stm-current-slider-labels {
+    color: #fff;
+}
+
+.stm-template-equipment .compose-mode .stm-tech-infos table {
+    position: absolute;
+    top: 44px;
+    z-index: 1;
+}
+
+.stm-template-equipment .compose-mode .stm-tech-infos {
+    position: relative;
+    margin-top: 10px;
+}
+
+.stm-template-equipment .compose-mode .vc_element.vc_stm_tech_info {
+    min-height: 40px;
+}
+
+.stm-template-equipment .compose-mode .vc_element {
+    z-index: 10;
+    position: relative;
+}
+
+.stm-template-equipment .stm-tech-infos {
+    margin-bottom: 31px;
+}
+
+.stm-template-equipment .stm-tech-infos .stm-tech-title {
+    padding-left: 0;
+    margin-bottom: 21px;
+}
+
+.stm-template-equipment .stm-tech-infos .stm-tech-title .title.h5 {
+    color: #cc6119;
+    line-height: 25px !important;
+}
+
+.stm-template-equipment .stm-tech-infos td {
+    border-top: 1px solid rgba(76, 77, 77, 0.5);
+    border-bottom: none;
+}
+
+.stm-template-equipment .stm-tech-infos .text-transform {
+    font-size: 12px;
+    color: #aaaaaa;
+}
+
+.stm-template-equipment .stm-tech-infos .h6 {
+    font-size: 14px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.stm-template-equipment .stm-equip-contact-information h4 {
+    border-bottom: 1px solid rgba(170, 170, 170, 0.4);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.stm-template-equipment .stm-equip-contact-information .stm-list-duty {
+    list-style: none;
+    padding: 0;
+}
+
+.stm-template-equipment .stm-equip-contact-information .stm-list-duty li {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+    padding-left: 48px;
+    min-height: 36px;
+    min-width: 175px;
+    max-width: 253px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.stm-template-equipment .stm-equip-contact-information .stm-list-duty li .icon {
+    position: absolute;
+    left: 6px;
+    top: 50%;
+    margin-top: -15px;
+    font-size: 31px;
+    color: #cc6119;
+}
+
+.stm-template-equipment .stm-equip-contact-information .stm-list-duty li a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.stm-template-equipment .stm-equip-contact-information .stm-list-duty li a:hover {
+    color: #cc6119;
+}
+
+.stm-template-equipment .stm-car-listing-data-single.stm-border-top-unit .title {
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid rgba(170, 170, 170, 0.4);
+}
+
+.stm-template-equipment .stm-single-listing-car-features ul li {
+    color: #ffffff;
+    padding-left: 25px;
+}
+
+.stm-template-equipment .stm-single-listing-car-features ul li:before {
+    content: "\f061";
+    font-size: 12px;
+}
+
+.stm-template-equipment .equip-gallery .row {
+    margin: 0 -10px;
+}
+
+@media (max-width: 767px) {
+    .stm-template-equipment .equip-gallery .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+.stm-template-equipment .equip-gallery .row .col-md-4 {
+    padding: 0 10px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 450px) {
+    .stm-template-equipment .equip-gallery .row .col-md-4 {
+        margin-bottom: 20px;
+    }
+}
+
+.stm-template-equipment .equip-gallery .row .col-md-4 img {
+    min-height: 140px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.stm-template-equipment .single-car-data {
+    background: #0e0f0f;
+    border-top: 3px solid #cc6119;
+    padding: 17px 26px 17px 23px;
+}
+
+.stm-template-equipment .single-car-data td {
+    border-bottom-color: rgba(170, 170, 170, 0.4);
+}
+
+.stm-template-equipment .single-car-data .t-label {
+    font-size: 11px;
+    color: #aaaaaa;
+    font-weight: 700;
+}
+
+.stm-template-equipment .single-car-data .t-value {
+    font-size: 14px;
+    font-weight: 700;
+    text-align: right;
+}
+
+.stm-template-equipment .stm-single-car-links {
+    margin-bottom: 20px;
+    position: relative;
+    transition: all 0.1s ease-in;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-single-car-link {
+    position: relative;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-single-car-link:first-child a {
+    background: #cc6119 !important;
+    color: #1d1f1f;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-single-car-link:first-child a i {
+    color: #1d1f1f !important;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-single-car-link.unit-stm-moto-icon-chat {
+    margin-bottom: 20px;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-single-car-link .st_sharethis_large {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-single-car-link:hover a {
+    background: #cc6119 !important;
+    color: #1d1f1f;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-single-car-link:hover a i {
+    color: #1d1f1f !important;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-single-car-link a {
+    display: block;
+    position: relative;
+    padding: 15px 20px 13px 60px;
+    min-height: 50px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    background: #0e0f0f;
+    text-decoration: none !important;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-single-car-link a i {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+    color: #aaaaaa;
+    font-size: 19px;
+    transition: all 0.3s ease;
+}
+
+.stm-template-equipment .stm-single-car-links:hover .stm-a2a-popup {
+    display: block;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-a2a-popup {
+    display: none;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    padding: 0px 0 4px;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-a2a-popup.stm-a2a-popup-active {
+    top: -100%;
+    opacity: 1;
+    z-index: 30;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-a2a-popup .addtoany_shortcode {
+    background: #ffffff;
+    padding: 8px 5px 0;
+    border-radius: 3px;
+    border: 1px solid #dddddd;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-a2a-popup .addtoany_shortcode .a2a_kit {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.stm-template-equipment .stm-single-car-links .stm-a2a-popup .addtoany_shortcode .a2a_kit a {
+    padding: 0 5px;
+    margin: 0;
+    background: transparent !important;
+    min-height: unset;
+    max-height: 40px;
+}
+
+.stm-template-equipment .car-listing-row .listing-car-item-meta div.car-title {
+    color: #ffffff;
+}
+
+.stm-template-equipment .car-listing-row .listing-car-item-meta .price {
+    color: #1d1f1f;
+}
+
+.stm-template-equipment .car-listing-row .listing-car-item-meta .price .regular-price, .stm-template-equipment .car-listing-row .listing-car-item-meta .price .sale-price {
+    color: #1d1f1f;
+}
+
+.stm-template-equipment .listing-car-item-inner a {
+    margin-top: 8px;
+    transition: all 0.2s ease-in-out;
+}
+
+.stm-template-equipment .listing-car-item-inner a:hover {
+    opacity: 1;
+    margin-top: 0;
+}
+
+.stm-template-equipment .stm_auto_loan_calculator input {
+    color: #1d1f1f;
+}
+
+.stm-template-equipment .row-compare-features .list-style-2 li {
+    color: #ffffff;
+}
+
+.stm-template-equipment .stm-compact-sidebar {
+    border: 0;
+}
+
+.stm-template-equipment .stm-compact-sidebar .content p {
+    margin: 0;
+    font-weight: 700;
+}
+
+.stm-template-equipment .stm-image-links .stm-image-link .inner {
+    background: #fff;
+}
+
+.stm-template-equipment .socials_widget_wrapper .widget_socials li {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.stm-template-equipment .owl-controls .stm-owl-prev, .stm-template-equipment .owl-controls .stm-owl-next {
+    display: none;
+}
+
+.stm-template-equipment .owl-controls .owl-dots .owl-dot {
+    padding: 4px 8px;
+}
+
+.stm-template-equipment .owl-controls .owl-dots .owl-dot.active {
+    padding: 2px 8px 0;
+}
+
+.stm-template-equipment .owl-controls .owl-dots .owl-dot.active span {
+    background: transparent;
+    border: 2px solid #cc6119;
+    width: 12px;
+    height: 12px;
+}
+
+.stm-template-equipment .owl-controls .owl-dots .owl-dot span {
+    width: 8px;
+    height: 8px;
+}
+
+.stm-template-equipment .owl-controls .owl-dots button {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.stm-template-equipment .stm-sell-a-car-form .title.h5 {
+    color: #232528;
+}
+
+@media (min-width: 1025px) {
+    .stm-template-equipment #footer {
+        z-index: 1;
+        position: relative;
+    }
+
+    .stm-template-equipment #footer .stm-isearch-results-carousel-wrap {
+        margin-top: 50px;
+    }
+
+    .stm-template-equipment #footer .stm-isearch-results-carousel-wrap .stm-template-front-loop .listing-car-item-meta .car-meta-top .car-title {
+        color: #ffffff;
+    }
+}
+
+@media (max-width: 1024px) {
+    .stm-template-equipment .stm-isearch-results-carousel-wrap {
+        margin-top: 50px;
+    }
+
+    .stm-template-equipment .stm-isearch-results-carousel-wrap .stm-template-front-loop .listing-car-item-meta .car-meta-top .car-title {
+        color: #ffffff;
+    }
+}
+
+.stm-template-equipment .footer_widgets_wrapper .widget_mc4wp_form_widget .stm-mc-unit:after {
+    content: "\e905";
+    font-family: "stm-icon";
+}
+
+.stm-template-equipment .stm-working-days {
+    border: 3px solid #333333;
+}
+
+.stm-template-equipment .listing-car-item .special-label-small {
+    top: unset;
+    bottom: 20px;
+    right: -81px;
+    transform: rotate(-45deg) translateZ(0);
+}
+
+.stm-template-equipment #modern-filter-listing .stm-accordion-single-unit > a.title {
+    background-color: #cc6119;
+    padding: 15px 20px 15px 25px;
+}
+
+.stm-template-equipment #modern-filter-listing .stm-accordion-content-wrapper {
+    padding: 20px;
+}
+
+.stm-template-equipment #modern-filter-listing .stm-accordion-content-wrapper .stm-single-unit {
+    color: #ffffff;
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .stm-template-equipment .cols_4 aside:nth-child(4n+1) {
+        clear: both;
+    }
+}
+
+/*Default*/
+/*Red*/
+/*Orange*/
+/*Light blue*/
+/*Blue*/
+.stm_motors_listing_types_multilisting_active .wrap_multilisting_carousel.visible_items_2 img {
+    height: 332.5px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.stm_motors_listing_types_multilisting_active .wrap_multilisting_carousel.visible_items_3 img {
+    height: 217.5px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.stm_motors_listing_types_multilisting_active .wrap_multilisting_carousel.visible_items_4 img {
+    height: 160px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-hoverable-interactive-galleries .wrap_multilisting_carousel .image:before {
+    background-color: transparent;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-hoverable-interactive-galleries .wrap_multilisting_carousel.visible_items_2 img {
+    height: 332.5px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-hoverable-interactive-galleries .wrap_multilisting_carousel.visible_items_2 .interactive-hoverable {
+    min-width: 530px;
+    min-height: 332.5px;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-hoverable-interactive-galleries .wrap_multilisting_carousel.visible_items_3 img {
+    height: 217.5px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-hoverable-interactive-galleries .wrap_multilisting_carousel.visible_items_3 .interactive-hoverable {
+    min-width: 346.6px;
+    min-height: 217.5px;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-hoverable-interactive-galleries .wrap_multilisting_carousel.visible_items_4 img {
+    height: 160px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-hoverable-interactive-galleries .wrap_multilisting_carousel.visible_items_4 .interactive-hoverable {
+    min-width: 255px;
+    min-height: 160px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap {
+    display: block;
+    margin-top: -49px;
+    z-index: 10;
+    position: relative;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .nav.nav-tabs {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    justify-content: center;
+    border: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .nav.nav-tabs li:last-child a {
+    border-right: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .nav.nav-tabs li a {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 12px 22px 12px;
+    border: 0;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: rgba(255, 255, 255, 0.2);
+    border-right: 1px solid #fff;
+    border-radius: 0;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    min-height: 49px;
+}
+
+@media (max-width: 450px) {
+    .stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .nav.nav-tabs li a {
+        padding: 12px 10px;
+    }
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .nav.nav-tabs li a.active {
+    background: #fff;
+    border-top-color: #cc6119;
+    border-left: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .nav.nav-tabs li a i {
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+@media (max-width: 767px) {
+    .stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap {
+        margin-top: 10px !important;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap > .nav.nav-tabs {
+        overflow-y: scroll;
+        justify-content: flex-start;
+        padding-bottom: 5px;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap > .nav.nav-tabs li {
+        width: 100%;
+        border-bottom: 1px solid #222;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap > .nav.nav-tabs li a {
+        justify-content: flex-start;
+    }
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content input {
+    background-color: #e5e5e5 !important;
+    border: 1px solid #e5e5e5 !important;
+    height: 46px;
+    line-height: 46px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content button[type=submit] {
+    position: relative;
+    top: -1px;
+    float: right;
+    margin-left: 16px;
+    min-width: 170px;
+    padding: 16px 25px 13px 25px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content button[type=submit] span {
+    margin-right: 4px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content button[type=submit] i {
+    display: inline-block;
+    margin-right: 6px;
+    font-size: 16px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content button[type=submit]:active {
+    top: -1px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .stm-select-col {
+    min-height: 46px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .btn-search {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 15%;
+    padding-top: 39px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .btn-search a {
+    height: 46px;
+    line-height: 46px;
+    padding-top: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .select2.select2-container .selection .select2-selection--single {
+    display: block;
+    height: 46px !important;
+    line-height: 46px;
+    background: #e5e5e5;
+    border: none;
+    box-shadow: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .select2.select2-container .selection .select2-selection--single .select2-selection__rendered {
+    height: 46px;
+    line-height: 46px;
+    font-size: 14px;
+    padding: 0 22px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .select2.select2-container .selection .select2-selection--single .select2-selection__arrow {
+    right: 12px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .select2.select2-container .selection .select2-selection--single .select2-selection__arrow b {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-style: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, -50%);
+    top: 50%;
+    left: -3px;
+    margin-left: 0;
+    font-size: 17px;
+    color: #888;
+    width: 15px;
+    height: 17px;
+    border: none;
+    text-align: center;
+    border: none;
+    line-height: 22px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .select2.select2-container .selection .select2-selection--single .select2-selection__arrow b:before {
+    content: "\f107";
+    font-size: 20px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .stm-filter-tab-selects {
+    width: 100%;
+    overflow: visible !important;
+    transition: all 0.3s ease-in;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .stm-filter-tab-selects .stm-select-col {
+    margin-bottom: 30px;
+    padding: 0 8px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .stm-filter-tab-selects .col-md-12 {
+    padding: 0 15px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .stm-filter-tab-selects > .row {
+    margin: 0 -8px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .stm-filter-tab-selects .taxonomy_range_wrap label {
+    margin-bottom: 10px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .stm-filter-tab-selects .taxonomy_range_wrap .stm-current-slider-labels {
+    display: block;
+    text-align: right;
+    font-size: 13px;
+    opacity: 0.7;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .stm-filter-tab-selects .taxonomy_range_wrap:hover .stm-current-slider-labels {
+    opacity: 1;
+}
+
+@media (max-width: 767px) {
+    .stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane {
+        flex-direction: column;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .row {
+        width: 100%;
+        padding-bottom: 0;
+        margin: 0;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm-c-f-search-form-wrap .tab-content .tab-pane .btn-search {
+        width: 33%;
+        padding-top: 15px;
+        margin-bottom: 30px;
+        margin-left: 15px;
+    }
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card {
+    border-radius: 0;
+    border: none;
+    margin-bottom: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    background: #e5e5e5;
+    border-radius: 0;
+    padding: 28px 20px 28px 30px;
+    transition: all 0.2s ease-in-out;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body .card-icon {
+    display: block;
+    width: auto;
+    min-width: 35px;
+    height: 30px;
+    position: relative;
+    margin-right: 20px;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body .card-icon img {
+    display: block;
+    width: auto;
+    height: 30px;
+    -o-object-fit: contain;
+    object-fit: contain;
+    margin: 0 auto 0 0;
+    transition: all 0.2s ease-in-out;
+}
+
+@media (max-width: 450px) {
+    .stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body .card-icon {
+        max-width: 35px;
+    }
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body .card-title {
+    font-size: 18px;
+    margin: 0;
+    transition: all 0.2s ease-in-out;
+    color: #333333;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body .btn {
+    background: transparent;
+    margin: 0 0 0 auto;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body .btn i {
+    display: inline-block;
+    color: #fff;
+    vertical-align: middle;
+    margin-top: 4px;
+    font-weight: 900;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body:hover {
+    background: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body:hover .card-icon img {
+    filter: brightness(100%) contrast(200%) invert(100%);
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body:hover .card-title {
+    color: #fff;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body:hover .btn {
+    opacity: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-type-list .card .card-body:hover i {
+    color: #fff;
+}
+
+@media (max-width: 1023px) {
+    .stm_motors_listing_types_multilisting_active .listing-type-list > .stm-row {
+        flex-wrap: wrap;
+    }
+
+    .stm_motors_listing_types_multilisting_active .listing-type-list > .stm-row > .stm-col-3 {
+        width: 100%;
+        max-width: 33.33%;
+        flex: 0 0 33.33%;
+    }
+}
+
+@media (max-width: 450px) {
+    .stm_motors_listing_types_multilisting_active .listing-type-list > .stm-row {
+        flex-wrap: wrap;
+    }
+
+    .stm_motors_listing_types_multilisting_active .listing-type-list > .stm-row > .stm-col-3 {
+        width: 100%;
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+}
+
+.stm_motors_listing_types_multilisting_active .plus-added-emeht-mts {
+    position: relative;
+}
+
+.stm_motors_listing_types_multilisting_active .plus-added-emeht-mts .add-new-term {
+    display: block;
+    position: absolute;
+    top: 11px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_listing_tabs_style_2 {
+    border-top: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_listing_tabs_style_2 .tab-content .stm-directory-grid-loop .image img {
+    height: 160px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.stm_motors_listing_types_multilisting_active .multilisting-masonry-carousel-wrap div.title h2 {
+    font-size: 28px;
+}
+
+.stm_motors_listing_types_multilisting_active .multilisting-masonry-carousel-wrap .owl-controls {
+    top: -76px !important;
+}
+
+.stm_motors_listing_types_multilisting_active .multilisting-masonry-carousel-wrap .owl-controls .owl-nav .owl-prev, .stm_motors_listing_types_multilisting_active .multilisting-masonry-carousel-wrap .owl-controls .owl-nav .owl-next {
+    background-color: #ddd;
+}
+
+.stm_motors_listing_types_multilisting_active .multilisting-masonry-carousel-wrap .owl-controls .owl-nav .owl-prev:hover, .stm_motors_listing_types_multilisting_active .multilisting-masonry-carousel-wrap .owl-controls .owl-nav .owl-next:hover {
+    background: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .car-listing-row .listing-car-item-meta .price {
+    background-color: #cc6119;
+    color: #fff;
+}
+
+.stm_motors_listing_types_multilisting_active .car-listing-row .listing-car-item-meta .price:before {
+    background-color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-list-loop.stm-listing-directory-list-loop .content .meta-top .price, .stm_motors_listing_types_multilisting_active .listing-list-loop.stm-listing-directory-list-loop .content .meta-top .price:before {
+    background-color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .archive-listing-page .image .image-inner {
+    min-height: 152px;
+}
+
+.stm_motors_listing_types_multilisting_active .listing-list-loop .content .meta-middle .meta-middle-unit .icon {
+    font-size: 12px;
+}
+
+.stm_motors_listing_types_multilisting_active .classic-filter-row {
+    margin-top: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .classic-filter-row input[type=text], .stm_motors_listing_types_multilisting_active .classic-filter-row input[type=search] {
+    height: 40px;
+    line-height: 40px;
+}
+
+.stm_motors_listing_types_multilisting_active .filter-sidebar .sidebar-entry-header .h4 {
+    font-size: 18px;
+}
+
+.stm_motors_listing_types_multilisting_active .select2-container.statistics-period {
+    z-index: 2000;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form {
+    margin-top: 3px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form #stm_sell_a_car_form {
+    margin-bottom: 40px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-border-top-unit {
+    position: relative;
+    padding-right: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-border-top-unit .step_number {
+    position: absolute;
+    top: 30px;
+    right: 0;
+    text-transform: uppercase;
+    color: #cc6119;
+    font-weight: 700;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-car-listing-data-single {
+    margin-bottom: 17px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form1-intro-unit {
+    padding: 23px 30px 11px;
+    background-color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form1-intro-unit .stm-label {
+    margin-bottom: 8px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form1-intro-unit .stm-form-1-selects {
+    margin-bottom: 15px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form1-intro-unit .select2-container--default .select2-selection--single,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form1-intro-unit .select2-container--default .select2-selection--single .select2-selection__rendered {
+    height: 40px;
+    line-height: 40px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form1-intro-unit .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 41px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form1-intro-unit .select2-container--default .select2-selection--single .select2-selection__rendered {
+    background-color: #fff;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form1-intro-unit .select2-container--default .select2-selection--single {
+    background-color: transparent !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit {
+    margin: 41px -15px 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter {
+    position: relative;
+    float: left;
+    padding: 0 15px;
+    margin-bottom: 12px;
+    width: 33.333%;
+    min-height: 48px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter a {
+    clear: both;
+    float: left;
+    margin-top: 5px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-car-listing-data-single {
+    padding: 15px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-car-listing-data-single .title {
+    color: #cc6119;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stn-add-car-location-wrap {
+    display: flex;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    flex-direction: column;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stn-add-car-location-wrap .stm-form-1-quarter {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stn-add-car-location-wrap .stm-form-1-quarter .stm-location-input-wrap {
+    display: flex;
+    overflow: hidden;
+    width: 31.5%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stn-add-car-location-wrap .stm-form-1-quarter .stm-location-input-wrap .stm-label {
+    margin-top: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-link-lat-lng-wrap {
+    display: block;
+    width: 100%;
+    text-align: right;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-link-lat-lng-wrap a {
+    float: right;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter:hover i {
+    color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=text],
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=number] {
+    float: right;
+    max-width: 220px;
+    padding-left: 13px;
+    border-width: 1px !important;
+    color: #555;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=text]:nth-child(2),
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=number]:nth-child(2) {
+    margin: 5px 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=number]::-webkit-outer-spin-button,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=text].stm_has_value,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=number].stm_has_value {
+    background-color: #fff;
+    border-color: #efefef;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=text]:focus,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=number]:focus {
+    border-color: #cc6119;
+    box-shadow: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .select2 {
+    float: right;
+    max-width: 220px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label {
+    margin-top: 9px;
+    color: #cc6119;
+    font-size: 13px;
+    vertical-align: top;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i {
+    display: inline-block;
+    position: relative;
+    min-width: 20px;
+    margin-right: 5px;
+    top: 3px;
+    font-size: 14px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-icon-road {
+    font-size: 16px;
+    top: 4px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-service-icon-body_type {
+    font-size: 11px;
+    top: 6px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-service-icon-hashtag {
+    font-size: 13px;
+    top: 4px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-icon-engine_fill {
+    font-size: 18px;
+    top: 1px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-icon-time {
+    font-size: 18px;
+    top: 1px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-icon-drive_2 {
+    font-size: 18px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-icon-key {
+    top: 2px;
+    font-size: 19px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-icon-transmission_fill {
+    font-size: 17px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-service-icon-vin_check {
+    font-size: 18px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-service-icon-pin_2 {
+    top: 4px;
+    font-size: 16px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .stm-label i.stm-service-icon-color_type {
+    font-size: 16px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .select2-container--default .select2-selection--single,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    height: 40px;
+    line-height: 40px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 41px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    background-color: #fff;
+    border: 1px solid #efefef;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-2-features .stm-border-top-unit {
+    margin-bottom: 7px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-2-features .stm-single-feature {
+    float: left;
+    width: 16.6666%;
+    margin-bottom: 38px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-2-features .stm-single-feature .heading-font {
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-2-features .stm-single-feature .feature-single label {
+    width: 100%;
+    padding: 8px 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-2-features .stm-single-feature .feature-single label:hover {
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos #stm_car_gallery_add {
+    display: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-border-top-unit {
+    margin-bottom: 8px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car {
+    padding-right: 9px;
+}
+
+@media (max-width: 991px) {
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car {
+        padding-right: 0 !important;
+    }
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery {
+    margin: 0 -12px 46px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder {
+    float: left;
+    padding: 0 12px;
+    margin-bottom: 15px;
+    width: 25%;
+}
+
+@media (max-width: 767px) {
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder {
+        width: 50%;
+    }
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder__text {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #888888;
+    text-transform: uppercase;
+    margin: 10px 0 0;
+    display: block;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .inner {
+    background-color: #EBEBEB;
+    position: relative;
+    min-height: 140px;
+    line-height: 1;
+    color: #bebebe;
+    font-size: 41px;
+    text-align: center;
+    transition: 300ms ease;
+    border-radius: 4px;
+    border: 1px solid #A8A8A8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .inner:hover {
+    border-color: #153e4d;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .inner .stm-image-preview {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .inner .stm-image-preview .fas {
+    display: block;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    font-size: 17px;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    background-color: #DE0000;
+    border-radius: 50%;
+    color: #fff;
+    opacity: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .inner .stm-image-preview .fas:before {
+    display: block;
+    margin-top: 7px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .inner .stm-image-preview .fas:hover {
+    background-color: #f80b0b;
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .inner .stm-image-preview.ui-draggable:before {
+    content: "\f0b2";
+    font: normal 600 14px/24px "Font Awesome 6 Free";
+    position: absolute;
+    display: block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    bottom: 0;
+    left: 0;
+    width: 22px;
+    height: 22px;
+    text-align: center;
+    text-indent: -2px;
+    background-color: #1bc744;
+    color: #fff;
+    opacity: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .inner.active .stm-image-preview:before, .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .inner.active .stm-image-preview .fas {
+    opacity: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder-native .inner {
+    border-style: dashed;
+    border-color: #153e4d;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder-native:hover .inner {
+    border-color: #1bc744;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder-native:hover .stm-placeholder__text {
+    color: #1bc744;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder.deleting .stm-image-preview:before {
+    opacity: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder:hover .inner.deleting {
+    border-width: 3px;
+    border-color: #f80b0b;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar {
+    width: 28px;
+    height: 28px;
+    position: relative;
+    display: inline-block;
+    margin: 0 auto 10px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar__item {
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin: 3px;
+    border-radius: 50%;
+    animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #1bc744 transparent transparent transparent;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar__item:nth-child(1) {
+    animation-delay: -0.45s;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar__item:nth-child(2) {
+    animation-delay: -0.3s;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar__item:nth-child(3) {
+    animation-delay: -0.15s;
+}
+
+@keyframes lds-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar__wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 15px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar__info, .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar__wrapper, .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar__text {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #153e4d;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-3-photos .stm-add-media-car .stm-media-car-gallery .stm-placeholder .stm-progress-bar__percent {
+    display: inline-block;
+    margin: 0 0 0 5px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-media-car-add-nitofication {
+    margin-top: -2px;
+    font-size: 13px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-media-car-add-nitofication span {
+    line-height: 22px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-media-car-add-nitofication h4 {
+    margin-bottom: 27px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-media-car-add-nitofication strong {
+    display: inline-block;
+    line-height: 18px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos {
+    margin-bottom: 60px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-border-top-unit {
+    margin-bottom: 7px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit {
+    padding: 23px 30px 14px;
+    background-color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit .heading-font {
+    margin-bottom: 8px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit input[type=text] {
+    margin-bottom: 26px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-simple-notice {
+    position: relative;
+    padding-left: 25px;
+    margin-top: 27px;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+    line-height: 22px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-simple-notice i {
+    position: absolute;
+    top: 5px;
+    left: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-video-link-unit {
+    position: relative;
+    padding-right: 46px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-video-link-unit .stm-after-video {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-video-link-unit .stm-after-video:hover {
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-video-link-unit .stm-after-video:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 15px;
+    left: 18px;
+    width: 3px;
+    height: 11px;
+    background-color: #fff;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-video-link-unit .stm-after-video:after {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 19px;
+    left: 14px;
+    width: 11px;
+    height: 3px;
+    background-color: #fff;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-video-link-unit .stm-after-video.active {
+    background-color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-video-link-unit .stm-after-video.active:hover {
+    cursor: default;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-video-link-unit .stm-after-video.active:before {
+    top: 17px;
+    left: 13px;
+    height: 8px;
+    transform: rotate(-40deg);
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-video-link-unit .stm-after-video.active:after {
+    top: 18px;
+    left: 14px;
+    width: 17px;
+    transform: rotate(-45deg);
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes {
+    margin-bottom: 53px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-border-top-unit {
+    margin-bottom: 10px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes textarea {
+    height: 202px;
+    padding: 10px 10px 10px 12px;
+    font-size: 13px;
+    color: #888;
+    background-color: #efefef;
+    border: 1px solid #e1e2e4;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes textarea:focus {
+    background-color: #fff;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-seller-notes-phrases {
+    position: relative;
+    margin-top: 75px;
+    text-align: center;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-seller-notes-phrases:after {
+    position: absolute;
+    display: block;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-style: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    content: "\f067";
+    color: #fff;
+    font-size: 14px;
+    line-height: 25px;
+    top: 0;
+    left: 7px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-seller-notes-phrases:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    height: 24px;
+    width: 24px;
+    background-color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-seller-notes-phrases span {
+    border-bottom: 1px dashed #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-seller-notes-phrases:hover {
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases {
+    position: absolute;
+    width: 445px;
+    right: -200px;
+    top: 50%;
+    transform: translateY(-50%);
+    border-top: 4px solid #cc6119;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 20;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases .inner {
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 5px 29px rgba(0, 0, 0, 0.24);
+    z-index: 2;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases .inner .fas {
+    position: absolute;
+    padding: 10px;
+    top: 0;
+    right: 0;
+    font-size: 14px;
+    color: #888;
+    opacity: 0.5;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases .inner .fas:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases .inner:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0px;
+    left: 0;
+    height: 100%;
+    width: 30px;
+    background-color: #fff;
+    z-index: 3;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases .inner:after {
+    position: absolute;
+    content: "";
+    display: block;
+    height: 20px;
+    width: 20px;
+    left: -10px;
+    top: 50%;
+    margin-top: -10px;
+    background-color: #fff;
+    transform: rotate(-45deg);
+    box-shadow: 0 5px 29px rgba(0, 0, 0, 0.24);
+    z-index: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases.activated {
+    right: 0;
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases h5 {
+    margin-bottom: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases .clearfix {
+    margin: 0 -15px 20px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases .clearfix label {
+    display: block;
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+    padding: 0 15px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-phrases-unit .stm_phrases .button {
+    display: inline-block;
+    font-size: 12px;
+    padding: 12px 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user {
+    padding: 0 40px;
+    background-color: #f0f2f5;
+    border: 1px solid #ddd;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user:before, .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user:after {
+    display: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner .add-car-btns-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0;
+    align-self: center;
+    margin: 20px 0;
+    list-style: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner .add-car-btns-wrap li {
+    margin: 7px 3px;
+    padding: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner .add-car-btns-wrap li .tooltip-inner {
+    background-color: #cc6119;
+    font-size: 14px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner .add-car-btns-wrap li .tooltip.top .tooltip-arrow {
+    border-top-color: #cc6119;
+    border-width: 5px 5px 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner .stm-add-a-car-user .add-car-btns-wrap {
+    justify-content: center;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner .form-group-submit .stm-icon-load1 {
+    top: 12px;
+    font-size: 18px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: -2000px;
+    bottom: 0;
+    right: -2000px;
+    background: rgba(255, 255, 255, 0.8);
+    opacity: 0;
+    visibility: hidden;
+    z-index: 40;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner .stm-icon-load1 {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -10px 0 0 -10px;
+    font-size: 30px;
+    color: #cc6119;
+    animation: rotating 2s infinite linear;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 50;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner.activated > .stm-icon-load1, .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-form-inner.activated:before {
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-title {
+    margin: -5px 0 23px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-text {
+    font-size: 13px;
+    line-height: 24px;
+    color: #888;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm_register_title {
+    padding-top: 35px;
+    margin-bottom: 20px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm_register_title h3 {
+    float: left;
+    margin-right: 42px;
+    font-size: 20px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm_register_title .stm_login_me {
+    margin-top: 3px;
+    font-size: 13px;
+    color: #888;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-login-register-form {
+    margin-top: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user .stm-login-register-form .stm-register-form form .stm-listing-loader.visible i {
+    margin-left: 10px;
+    visibility: visible;
+    color: #cc6119;
+    opacity: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user button[type=submit] {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    padding: 17px 20px 11px 62px;
+    font-size: 12px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user button[type=submit] i {
+    position: absolute;
+    top: 12px;
+    left: 21px;
+    font-size: 20px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user button[type=submit].disabled {
+    background-color: #838588;
+    opacity: 0.33;
+    box-shadow: 0 2px 0 #686a6d;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-checking-user button[type=submit].disabled:hover {
+    cursor: not-allowed;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup {
+    position: absolute;
+    bottom: 100%;
+    z-index: 1000;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .inner {
+    position: relative;
+    width: 486px;
+    padding: 30px 23px 30px;
+    background-color: #fff;
+    border-top: 4px solid #cc6119;
+    box-shadow: 0 5px 29px rgba(0, 0, 0, 0.24);
+    z-index: 2;
+    overflow: hidden;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .inner .fa-times {
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .inner:before {
+    position: absolute;
+    content: "";
+    display: block;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    height: 20px;
+    background-color: #fff;
+    z-index: 3;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .inner:after {
+    position: absolute;
+    content: "";
+    display: block;
+    height: 20px;
+    width: 20px;
+    bottom: -10px;
+    left: 50%;
+    margin-left: -10px;
+    background-color: #fff;
+    transform: rotate(-45deg);
+    box-shadow: 0 5px 29px rgba(0, 0, 0, 0.24);
+    z-index: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup h5 {
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .labels-units {
+    margin: 0 -15px 15px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .labels-units label {
+    display: inline-block;
+    margin: 0 13px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup input[type=text] {
+    float: none !important;
+    max-width: 100% !important;
+    height: 40px !important;
+    line-height: 40px !important;
+    margin-bottom: 20px !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .button {
+    display: inline-block;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup.stm-invisible {
+    opacity: 0;
+    visibility: hidden;
+    bottom: 110%;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-video-link-unit-wrap .video-label {
+    display: inline-block;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-price-edit .stm_price_input {
+    padding: 30px 40px 45px 40px;
+    background-color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-price-edit .stm_price_input .stm_label {
+    margin-bottom: 12px;
+    color: #fff;
+    letter-spacing: 0.3px;
+    font-weight: 700;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup {
+    position: absolute;
+    bottom: 100%;
+    z-index: 1000;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .inner {
+    position: relative;
+    width: 486px;
+    padding: 30px 23px 30px;
+    background-color: #fff;
+    border-top: 4px solid #cc6119;
+    box-shadow: 0 5px 29px rgba(0, 0, 0, 0.24);
+    z-index: 2;
+    overflow: hidden;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .inner .fa-times {
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .inner:before {
+    position: absolute;
+    content: "";
+    display: block;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    height: 20px;
+    background-color: #fff;
+    z-index: 3;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .inner:after {
+    position: absolute;
+    content: "";
+    display: block;
+    height: 20px;
+    width: 20px;
+    bottom: -10px;
+    left: 50%;
+    margin-left: -10px;
+    background-color: #fff;
+    transform: rotate(-45deg);
+    box-shadow: 0 5px 29px rgba(0, 0, 0, 0.24);
+    z-index: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup h5 {
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .labels-units {
+    margin: 0 -15px 15px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .labels-units label {
+    display: inline-block;
+    margin: 0 13px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup input[type=text] {
+    float: none !important;
+    max-width: 100% !important;
+    height: 40px !important;
+    line-height: 40px !important;
+    margin-bottom: 20px !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup .button {
+    display: inline-block;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-history-popup.stm-invisible {
+    opacity: 0;
+    visibility: hidden;
+    bottom: 110%;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-video-link-unit-wrap .video-label {
+    display: inline-block;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-plans {
+    margin-bottom: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-plans .user-plans-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 220px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-non-relative {
+    position: static;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-relative {
+    position: relative;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user {
+    position: relative;
+    z-index: 5;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .left-info {
+    display: flex;
+    align-items: center;
+    padding: 30px 0;
+    max-width: 300px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .left-info .avatar {
+    float: left;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 23px;
+    overflow: hidden;
+    background-color: #eee;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .left-info .avatar .stm-service-icon-user {
+    position: relative;
+    left: 1px;
+    line-height: 75px;
+    text-align: center;
+    font-size: 34px;
+    color: #acb9bd;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .left-info.left-dealer-info .stm-dealer-image-custom-view {
+    margin-bottom: 14px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .left-info.left-dealer-info h4 {
+    margin: 0 15px 7px 20px;
+    font-size: 20px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .left-info .user-info {
+    overflow: hidden;
+    display: inline-block;
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .left-info .user-info h4 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .left-info .user-info .stm-label {
+    font-size: 13px;
+    color: #888;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .right-info {
+    overflow: hidden;
+    text-align: right;
+    font-size: 13px;
+    padding: 40px 0 20px 30px;
+    border-left: 1px solid #ddd;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .right-info .fas.fa-external-link-alt {
+    position: relative;
+    top: 1px;
+    margin-right: 7px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-user .right-info .stm_logout {
+    margin-top: 6px;
+    letter-spacing: 0.2px;
+    color: #888;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-not-enabled {
+    display: none;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.89);
+    z-index: 9999;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login-overlay.visiblity {
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login {
+    position: fixed;
+    top: 50%;
+    width: 350px;
+    left: 50%;
+    margin: -198px 0 0 -175px;
+    z-index: 99999;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login.visiblity {
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-listing-loader .stm-icon-load1 {
+    margin-left: 10px !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-listing-loader.visible .stm-icon-load1 {
+    font-size: 18px;
+    visibility: visible;
+    opacity: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form {
+    margin-bottom: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form {
+    padding: 41px 30px 36px;
+    background-color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form h4 {
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 14px;
+    letter-spacing: -0.5px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form .form-checker {
+    margin-bottom: 26px !important;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form .form-checker label:hover {
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form .form-group {
+    margin-bottom: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form .form-group.form-checker {
+    margin-top: -5px;
+    font-size: 13px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form .form-group.form-checker .checker {
+    margin-right: 5px !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=text],
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=number],
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=tel],
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=email],
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=search],
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=password] {
+    padding-left: 17px;
+    border-color: #f0f2f5 !important;
+    background-color: #f0f2f5 !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=text].form-error,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=number].form-error,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=tel].form-error,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=email].form-error,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=search].form-error,
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=password].form-error {
+    border-color: #ff2325 !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form input[type=submit] {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 12px !important;
+    padding: 16px 46px 12px;
+    visibility: inherit;
+    font-weight: 700;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form .stm-listing-loader {
+    position: relative;
+    top: 1px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 15px;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form .stm-listing-loader i {
+    display: inline-block;
+    animation: rotating 2s infinite linear;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form .stm-listing-loader.visible {
+    visibility: visible;
+    opacity: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-login .stm-login-form form .stm-message-ajax-validation {
+    margin-top: 18px;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-loader {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-loader .stm-icon-load1 {
+    margin: 12px 0 0 !important;
+    position: static !important;
+    font-size: 18px !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-loader.activated i {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-add-a-car-message {
+    display: none;
+    margin: 10px 0 25px;
+    padding: 15px 30px;
+    background-color: #cc6119;
+    color: #fff !important;
+    font-weight: 700;
+    border-radius: 4px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-show-password {
+    position: relative;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-show-password .fas {
+    position: absolute;
+    right: 0;
+    width: 50px;
+    height: 100%;
+    line-height: 46px;
+    text-align: center;
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-show-password .fas:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-show-password input {
+    padding-right: 45px !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form {
+    margin: 27px 0 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form h3 {
+    margin-bottom: 28px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form {
+    margin-bottom: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form {
+    padding: 41px 30px 36px;
+    background-color: #cc6119;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form h4 {
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 14px;
+    letter-spacing: -0.5px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form .form-checker {
+    margin-bottom: 26px !important;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form .form-checker label:hover {
+    cursor: pointer;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form .form-group {
+    margin-bottom: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form .form-group.form-checker {
+    margin-top: -5px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form .form-group.form-checker .checker {
+    margin-right: 5px !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=text],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=number],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=tel],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=email],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=search],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=password] {
+    padding-left: 17px;
+    border-color: #f0f2f5 !important;
+    background-color: #f0f2f5 !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=text].form-error,
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=number].form-error,
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=tel].form-error,
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=email].form-error,
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=search].form-error,
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=password].form-error {
+    border-color: #ff2325 !important;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form input[type=submit] {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 12px !important;
+    padding: 16px 46px 12px;
+    font-weight: 700;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form .stm-listing-loader {
+    position: relative;
+    top: 1px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 15px;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form .stm-listing-loader i {
+    display: inline-block;
+    animation: rotating 2s infinite linear;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form .stm-listing-loader.visible {
+    visibility: visible;
+    opacity: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-login-form form .stm-message-ajax-validation {
+    margin-top: 18px;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form {
+    margin-bottom: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form {
+    padding: 37px 30px 4px;
+    background-color: #fff;
+    border-top: 4px solid #cc6119;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form h4 {
+    font-size: 15px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form .form-group {
+    margin-bottom: 30px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form .form-group h4 {
+    margin-bottom: 14px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form .form-group.form-checker {
+    margin-bottom: 25px;
+    color: #888;
+    font-size: 13px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form .form-group input[type=submit] {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 16px 22px 12px;
+    font-size: 12px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form input[type=submit][disabled] {
+    background-color: #c9cccf !important;
+    box-shadow: 0 2px 0 rgba(201, 204, 207, 0.5);
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form input[type=submit][disabled]:hover {
+    cursor: not-allowed;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form input[type=submit].cptch_nbld {
+    margin-top: 16px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form input[type=text],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form input[type=number],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form input[type=tel],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form input[type=email],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form input[type=search],
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form input[type=password] {
+    padding-left: 17px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form .stm-listing-loader {
+    position: relative;
+    top: 1px;
+    color: #cc6119;
+    font-size: 15px;
+    line-height: 15px;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form .stm-listing-loader i {
+    display: inline-block;
+    animation: rotating 2s infinite linear;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form .stm-listing-loader.visible {
+    visibility: visible;
+    opacity: 1;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-login-register-form .stm-register-form form .stm-message-ajax-validation {
+    margin-bottom: 20px;
+    background-color: #cc6119;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.stm_motors_listing_types_multilisting_active .stm-user-public-profile .tab-content .multilisting-select {
+    margin-right: 10px;
+    float: right;
+}
+
+@media (max-width: 1100px) {
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=text],
+  .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter input[type=number],
+  .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter .select2 {
+        max-width: 170px;
+    }
+}
+
+@media (max-width: 991px) {
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-form-1-quarter {
+        width: 50%;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-2-features .stm-single-feature {
+        width: 33.33333%;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-4-videos .stm-simple-notice {
+        margin: 10px 0 15px;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-seller-notes-phrases:after {
+        top: -27px;
+        left: 50%;
+        margin-left: -5px;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-5-notes .stm-seller-notes-phrases:before {
+        top: -27px;
+        left: 50%;
+        margin-left: -12px;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stn-add-car-location-wrap .stm-form-1-quarter .stm-location-input-wrap {
+        width: 48%;
+    }
+
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm_add_car_form_1 .stm-form-1-end-unit .stm-link-lat-lng-wrap {
+        width: 48%;
+    }
+}
+
+@media (max-width: 767px) {
+    .stm_motors_listing_types_multilisting_active .stm-form-price-edit .stm_price_input {
+        padding: 20px 15px 25px;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 430px) {
+    .stm_motors_listing_types_multilisting_active .stm_add_car_form .stm-form-2-features .stm-single-feature {
+        width: 100%;
+    }
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-car_dealer .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-car_dealer .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-car_dealer .stm-form1-intro-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-car_dealer .stm-login-form form {
+    background-color: #232628 !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-car_dealer .stm-border-top-unit {
+    border-top: 4px solid #232628;
+    padding-top: 27px;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-car_dealer_two .mce-container .mce-btn > button {
+    background-color: unset !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-equipment .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-equipment .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-equipment .stm-form1-intro-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-equipment .stm-form-checking-user,
+.stm_motors_listing_types_multilisting_active.stm-template-equipment .stm-form-checking-user:before,
+.stm_motors_listing_types_multilisting_active.stm-template-equipment .stm-form-checking-user:after,
+.stm_motors_listing_types_multilisting_active.stm-template-equipment .stm-login-form form {
+    background-color: #232628 !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-equipment .stm_add_car_form .stm-border-top-unit {
+    padding-right: 0 !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-equipment .add-car-btns-wrap button {
+    box-shadow: 0 2px 0 #cc6119 !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-motorcycle .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-motorcycle .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-motorcycle .stm-form1-intro-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-motorcycle .stm-login-form form {
+    background-color: #161e21 !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-motorcycle .stm-form-checking-user,
+.stm_motors_listing_types_multilisting_active.stm-template-motorcycle .stm-form-checking-user:before,
+.stm_motors_listing_types_multilisting_active.stm-template-motorcycle .stm-form-checking-user:after {
+    background-color: #0e1315 !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-motorcycle .stm_add_car_form .stm-border-top-unit {
+    padding-right: 0 !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-boats .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-boats .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-boats .stm-form1-intro-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-boats .stm-login-form form {
+    background-color: #232628 !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-listing .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-listing .stm-form1-intro-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing .stm-login-form form {
+    background-color: #153e4d !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-listing .stm-login-register-form .stm-register-form form {
+    border-top: 4px solid #153e4d;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-listing_two .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_two .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_two .stm-form1-intro-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_two .stm-login-form form, .stm_motors_listing_types_multilisting_active.stm-template-listing_two_elementor .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_two_elementor .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_two_elementor .stm-form1-intro-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_two_elementor .stm-login-form form {
+    background-color: #153e4d !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-listing_two .stm-login-register-form .stm-register-form form, .stm_motors_listing_types_multilisting_active.stm-template-listing_two_elementor .stm-login-register-form .stm-register-form form {
+    border-top: 4px solid #153e4d;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-listing_three .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_three .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_three .stm-form1-intro-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_three .stm-login-form form {
+    background-color: #153e4d !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-listing_three .stm-login-register-form .stm-register-form form {
+    border-top: 4px solid #153e4d;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-listing_four .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_four .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_four .stm-form1-intro-unit, .stm_motors_listing_types_multilisting_active.stm-template-listing_four_elementor .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_four_elementor .stm_price_input,
+.stm_motors_listing_types_multilisting_active.stm-template-listing_four_elementor .stm-form1-intro-unit,
+.stm_motors_listing_types_multilisting_active .stm-login-form form .stm_add_car_form .stm-form-4-videos .stm-add-videos-unit,
+.stm_motors_listing_types_multilisting_active .stm-login-form form .stm_price_input,
+.stm_motors_listing_types_multilisting_active .stm-login-form form .stm-form1-intro-unit {
+    background-color: #232628 !important;
+}
+
+.stm_motors_listing_types_multilisting_active.stm-template-listing_four .stm-login-register-form .stm-register-form form, .stm_motors_listing_types_multilisting_active.stm-template-listing_four_elementor .stm-login-register-form .stm-register-form form,
+.stm_motors_listing_types_multilisting_active .stm-login-form form .stm-login-register-form .stm-register-form form {
+    border-top: 4px solid #232628;
+}
+
+@media (max-width: 767px) {
+    .stm-add-a-car-user-wrapper {
+        flex-direction: column;
+        align-items: center !important;
+    }
+
+    .stm_add_car_form .stm-add-a-car-user .right-info {
+        text-align: center !important;
+        border-left: none;
+        padding: 20px;
+    }
+
+    .add-car-btns-wrap {
+        flex-direction: column !important;
+        align-items: center;
+        margin-right: 0 !important;
+    }
+}

@@ -1,0 +1,33 @@
+.stm-data-table {
+    margin-bottom: 46px;
+}
+
+.stm-data-table h3 {
+    font-size: 26px;
+}
+
+.stm-data-table .stm-data-table-wrap .data-row-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stm-data-table .stm-data-table-wrap .data-row-wrap .left {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.stm-data-table .stm-data-table-wrap .data-row-wrap .right {
+    font-size: 15px;
+    line-height: 50px;
+}
+
+@media (max-width: 500px) {
+    .stm-data-table .stm-data-table-wrap .data-row-wrap .right {
+        text-align: right;
+        line-height: 22px;
+    }
+}

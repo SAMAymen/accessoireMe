@@ -1,0 +1,194 @@
+.stm-call-to-action {
+    padding: 23px 46px 22px 28px;
+    background-color: #fab637;
+}
+
+.stm-call-to-action .call-to-action-meta {
+    display: inline-block;
+    color: #fff;
+    position: relative;
+    margin-left: 20px;
+    padding-top: 14px;
+    padding-left: 56px;
+    min-height: 30px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.stm-call-to-action .call-to-action-meta i {
+    position: absolute;
+    left: 0;
+    top: 8px;
+    font-size: 38px;
+}
+
+.stm-call-to-action .call-to-action-meta .content {
+    font-size: 30px;
+    line-height: 1;
+}
+
+.stm-call-to-action .call-to-action-right {
+    overflow: hidden;
+    min-height: 55px;
+    text-align: right;
+}
+
+.stm-call-to-action .call-to-action-content {
+    position: relative;
+    padding-left: 75px;
+    min-height: 55px;
+    color: #fff;
+    overflow: hidden;
+    font-weight: 400;
+}
+
+.stm-call-to-action .call-to-action-content i {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 55px;
+}
+
+.stm-call-to-action .call-to-action-content .content {
+    padding-top: 14px;
+    font-size: 30px;
+    line-height: 1;
+}
+
+.stm-template-car_rental .stm-call-to-action, .stm-template-car_dealer_two .stm-call-to-action {
+    padding: 40px 46px 35px 28px;
+}
+
+.stm-template-car_rental .stm-call-to-action .call-to-action-content, .stm-template-car_dealer_two .stm-call-to-action .call-to-action-content {
+    padding-left: 0;
+}
+
+.stm-template-car_rental .stm-call-to-action .call-to-action-content .content, .stm-template-car_dealer_two .stm-call-to-action .call-to-action-content .content {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.stm-template-car_rental .stm-call-to-action .call-to-action-content .content span, .stm-template-car_dealer_two .stm-call-to-action .call-to-action-content .content span {
+    color: #273f44;
+}
+
+.stm-template-car_rental .stm-call-to-action .call-to-action-right .call-to-action-meta .content, .stm-template-car_dealer_two .stm-call-to-action .call-to-action-right .call-to-action-meta .content {
+    font-weight: 700;
+    font-size: 24px;
+    color: #273f44;
+}
+
+.stm-template-car_rental .stm-call-to-action .call-to-action-right .call-to-action-meta .content i, .stm-template-car_dealer_two .stm-call-to-action .call-to-action-right .call-to-action-meta .content i {
+    left: 11px;
+    top: 8px;
+    font-size: 33px;
+    color: #fff;
+}
+
+.stm-template-car_rental .stm-call-to-action .stm-button-rental, .stm-template-car_dealer_two .stm-call-to-action .stm-button-rental {
+    float: right;
+    position: relative;
+    margin-left: 50px;
+    padding: 15px 21px 15px 47px;
+    border: 2px solid #fff;
+    font-size: 14px;
+    font-weight: 700;
+    box-shadow: none !important;
+    background: transparent !important;
+    color: #273f44 !important;
+    transition: all 0.3s ease;
+}
+
+.stm-template-car_rental .stm-call-to-action .stm-button-rental i, .stm-template-car_dealer_two .stm-call-to-action .stm-button-rental i {
+    position: absolute;
+    left: 17px;
+    top: 13px;
+    color: #273f44;
+    font-size: 18px;
+}
+
+.stm-template-car_rental .stm-call-to-action .stm-button-rental:hover, .stm-template-car_dealer_two .stm-call-to-action .stm-button-rental:hover {
+    background-color: #fff !important;
+}
+
+.stm-template-car_dealer_two .stm-call-to-action {
+    padding: 40px 0 35px 0;
+}
+
+@media (max-width: 1050px) {
+    .stm-template-car_rental .stm-call-to-action .call-to-action-content {
+        margin-top: 0;
+    }
+
+    .stm-template-car_rental .stm-call-to-action .call-to-action-right {
+        overflow: visible;
+    }
+
+    .stm-template-car_rental .stm-call-to-action .call-to-action-right .stm-button-rental {
+        float: none;
+        margin-left: 0;
+    }
+
+    .stm-template-car_rental .stm-call-to-action .call-to-action-right .call-to-action-meta {
+        padding: 10px 0 0;
+        display: block;
+        width: auto;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .stm-template-car_rental .stm-call-to-action .call-to-action-right .call-to-action-meta .content {
+        padding-top: 10px;
+    }
+
+    .stm-template-car_rental .stm-call-to-action .call-to-action-right .call-to-action-meta .content i {
+        position: relative;
+        top: 5px;
+        left: -10px;
+    }
+}
+
+@media (max-width: 1050px) {
+    .stm-call-to-action {
+        padding: 20px 10px 20px 10px;
+        text-align: center;
+    }
+
+    .stm-call-to-action .call-to-action-right {
+        text-align: center;
+    }
+
+    .stm-call-to-action .call-to-action-right .call-to-action-meta {
+        margin-left: 0;
+        display: inline-block;
+    }
+
+    .stm-call-to-action .pull-left {
+        text-align: center;
+        float: none !important;
+    }
+
+    .stm-call-to-action .call-to-action-content {
+        margin-top: 15px;
+        display: inline-block;
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .stm-call-to-action .call-to-action-content {
+        margin-top: 0;
+        margin-bottom: 10px;
+        padding-left: 0 !important;
+    }
+
+    .stm-call-to-action .call-to-action-content .content {
+        line-height: 1.2;
+        font-size: 25px;
+    }
+
+    .stm-call-to-action .call-to-action-content i {
+        display: none;
+    }
+}

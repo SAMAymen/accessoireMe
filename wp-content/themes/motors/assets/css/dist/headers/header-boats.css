@@ -1,0 +1,2360 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+body.stm-template-car_dealer #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li.stm_megamenu > ul {
+    left: 50%;
+}
+
+.stm-layout-header-boats #top-bar .language-switcher-unit ul.dropdown-menu li a {
+    color: #aaa !important;
+}
+
+.stm-layout-header-boats #top-bar {
+    text-transform: uppercase;
+    line-height: normal;
+}
+
+.stm-layout-header-boats #top-bar .top_bar_menu {
+    margin-left: 20px;
+}
+
+.stm-layout-header-boats #top-bar .top_bar_menu ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats #top-bar .top_bar_menu ul li {
+    display: inline-block;
+    position: relative;
+    margin-right: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+    font-size: 12px;
+}
+
+.stm-layout-header-boats #top-bar .top_bar_menu ul li:last-child {
+    margin-right: 0;
+}
+
+.stm-layout-header-boats #top-bar .top_bar_menu ul li:last-child:after {
+    content: "";
+    display: none;
+}
+
+.stm-layout-header-boats #top-bar .top_bar_menu ul li:after {
+    content: "";
+    display: block;
+    position: absolute;
+    right: -13px;
+    top: 4px;
+    background-color: #aaa;
+    width: 1px;
+    height: 9px;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-wrapper .pull-left .stm-multiple-currency-wrap {
+    position: relative;
+    margin-left: 20px;
+    line-height: 13px;
+    opacity: 0.5;
+    transition: all 0.2s ease-in-out;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-wrapper .pull-left .stm-multiple-currency-wrap .select2-container--default .select2-selection--single {
+    background-color: transparent;
+    height: auto;
+    border: none;
+    border-radius: 0;
+    outline: none !important;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-wrapper .pull-left .stm-multiple-currency-wrap .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #fff;
+    line-height: 14px;
+    font-size: 11px;
+    font-weight: 400;
+    padding-left: 14px;
+    padding-right: 40px;
+    outline: none !important;
+    text-transform: none;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-wrapper .pull-left .stm-multiple-currency-wrap .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 14px;
+    width: 19px;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-wrapper .pull-left .stm-multiple-currency-wrap .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    color: #fff;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-wrapper .pull-left .stm-multiple-currency-wrap:hover {
+    opacity: 1;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-wrapper .pull-left .stm-multiple-currency-wrap:hover .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    color: #fff;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-wrapper .pull-left .stm-multiple-currency-wrap:hover .select2-container--default .select2-selection--single .select2-selection__arrow b:before {
+    color: #fff;
+}
+
+.stm-layout-header-boats #top-bar .language-switcher-unit {
+    position: relative;
+}
+
+.stm-layout-header-boats #top-bar .language-switcher-unit .stm_current_language {
+    text-transform: none;
+}
+
+.stm-layout-header-boats #top-bar .language-switcher-unit .stm_current_language i {
+    position: relative;
+    top: -2px;
+    margin-left: 5px;
+    vertical-align: middle;
+    font-size: 16px;
+}
+
+.stm-layout-header-boats #top-bar .language-switcher-unit:hover {
+    cursor: pointer;
+}
+
+.stm-layout-header-boats #top-bar .header-login-url {
+    margin-left: 30px;
+}
+
+.stm-layout-header-boats #top-bar .header-login-url a {
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats #top-bar .header-login-url a:hover {
+    color: #ffffff;
+}
+
+.stm-layout-header-boats #top-bar .header-login-url .stm-boats-icon-cap-hat {
+    position: relative;
+    top: 1px;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.stm-layout-header-boats #top-bar .header-login-url .fas.fa-user {
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.stm-layout-header-boats #top-bar .header-top-bar-socs {
+    margin-left: 30px;
+}
+
+.stm-layout-header-boats #top-bar .header-top-bar-socs ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.stm-layout-header-boats #top-bar .header-top-bar-socs ul li {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats #top-bar .header-top-bar-socs ul li:first-child {
+    margin-right: 14px;
+}
+
+.stm-layout-header-boats #top-bar .header-top-bar-socs ul li a .fab {
+    font-size: 14px;
+}
+
+.stm-layout-header-boats #top-bar .header-top-bar-socs ul li a:hover {
+    color: #ffffff;
+}
+
+.stm-layout-header-boats #top-bar .header-top-bar-socs ul li:last-child {
+    margin-right: 0;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-info {
+    list-style: none;
+    padding: 0;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-info li {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 0;
+    line-height: normal;
+    font-size: 12px;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-info li:hover {
+    color: #ffffff;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-info li .fancy-iframe {
+    display: block;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-info li .fas {
+    font-size: 14px;
+    margin-right: 5px;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-info li .fas.fa-phone {
+    position: relative;
+    top: 1px;
+}
+
+.stm-layout-header-boats #top-bar .top-bar-info li:last-child {
+    margin-left: 0;
+}
+
+.stm-layout-header-boats #header-nav-holder {
+    position: relative;
+    z-index: 3;
+}
+
+.stm-layout-header-boats #stm-boats-header {
+    position: relative;
+}
+
+.stm-layout-header-boats.home #stm-boats-header, .stm-layout-header-boats.stm-boats-transparent #stm-boats-header {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.stm-layout-header-boats.home .header-listing.listing-nontransparent-header:not(.stm-fixed) {
+    background-color: transparent;
+}
+
+.stm-layout-header-boats.stm-boats-transparent #wrapper #stm-boats-header #header:after {
+    display: none !important;
+}
+
+.stm-layout-header-boats.admin-bar .select2-container.stm-multi-currency .select2-dropdown {
+    top: 36px;
+}
+
+.stm-layout-header-boats .select2-container.stm-multi-currency .select2-dropdown {
+    min-width: -moz-fit-content;
+    min-width: fit-content;
+    top: 0;
+}
+
+.stm-layout-header-boats .select2-container--open.stm-multi-currency .select2-dropdown {
+    background: transparent;
+    border: 0;
+}
+
+.stm-layout-header-boats .select2-container--open.stm-multi-currency .select2-dropdown .select2-results ul {
+    min-width: 160px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+}
+
+.stm-layout-header-boats .select2-container--open.stm-multi-currency .select2-dropdown .select2-results ul li {
+    font-size: 11px;
+    color: #232628;
+    padding: 3px 20px;
+}
+
+.stm-layout-header-boats .vertical-divider {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 8px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #373b3e;
+}
+
+.stm-layout-header-boats #header {
+    position: relative;
+    z-index: 60;
+}
+
+.stm-layout-header-boats #header .logo-main {
+    float: left;
+}
+
+.stm-layout-header-boats #header .logo-main .blogname {
+    text-transform: uppercase;
+}
+
+.stm-layout-header-boats #header .logo-main .blogname h1 {
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats #header .logo-main .blogname:hover {
+    text-decoration: none;
+}
+
+.stm-layout-header-boats .header-main {
+    padding: 28px 0 25px;
+    line-height: 14px;
+    background-color: transparent !important;
+}
+
+.stm-layout-header-boats .header-main .header-top-info {
+    float: right;
+}
+
+.stm-layout-header-boats .header-main .header-main-socs {
+    margin-left: 46px;
+}
+
+.stm-layout-header-boats .header-main .header-main-socs ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.stm-layout-header-boats .header-main .header-main-socs ul:after {
+    display: table;
+    content: "";
+    clear: both;
+}
+
+.stm-layout-header-boats .header-main .header-main-socs ul li {
+    display: block;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats .header-main .header-main-socs ul li:first-child {
+    margin-left: 0;
+}
+
+.stm-layout-header-boats .header-main .header-main-socs ul li a {
+    display: block;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #2f3234;
+    color: #ffffff;
+    text-indent: 1px;
+}
+
+.stm-layout-header-boats .header-main .header-main-socs ul li a i {
+    font-size: 14px;
+}
+
+.stm-layout-header-boats .header-main .header-main-socs ul li a:hover {
+    background-color: #ceac61;
+}
+
+.stm-layout-header-boats .header-main .header-main-socs ul li.facebook a {
+    text-indent: 0;
+}
+
+.stm-layout-header-boats .header-main .header-secondary-phone {
+    margin-left: 39px;
+}
+
+.stm-layout-header-boats .header-main .header-secondary-phone .phone {
+    margin-bottom: 3px;
+    vertical-align: bottom;
+}
+
+.stm-layout-header-boats .header-main .header-secondary-phone .phone .phone-label {
+    margin-right: 2px;
+    color: #31a3c6;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.stm-layout-header-boats .header-main .header-secondary-phone .phone .phone-number {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.stm-layout-header-boats .header-main .header-secondary-phone-single .phone .phone-label {
+    display: block;
+    margin-bottom: 1px;
+}
+
+.stm-layout-header-boats .header-main .header-secondary-phone-single .phone .phone-number {
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.stm-layout-header-boats .header-main .header-main-phone {
+    position: relative;
+    padding-left: 41px;
+    margin-left: 30px;
+}
+
+.stm-layout-header-boats .header-main .header-main-phone .stm-icon-phone {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #31a3c6;
+    font-size: 33px;
+}
+
+.stm-layout-header-boats .header-main .header-main-phone .phone {
+    margin-top: 1px;
+}
+
+.stm-layout-header-boats .header-main .header-main-phone .phone .phone-label {
+    margin-right: 2px;
+    color: #31a3c6;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 1px;
+}
+
+.stm-layout-header-boats .header-main .header-main-phone .phone .phone-number {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.stm-layout-header-boats .header-main .header-address {
+    position: relative;
+    padding-left: 42px;
+    max-width: 248px;
+}
+
+.stm-layout-header-boats .header-main .header-address .stm-icon-pin {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 34px;
+    color: #31a3c6;
+}
+
+.stm-layout-header-boats .header-main .header-address .address .heading-font {
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.stm-layout-header-boats .header-main .header-address .address .fancy-iframe {
+    position: relative;
+    top: -1px;
+    margin-left: 3px;
+    color: #31a3c6;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-bottom: 1px dashed #31a3c6;
+}
+
+.stm-layout-header-boats .header-main .header-address .address .fancy-iframe:hover {
+    color: #ceac61;
+    border-bottom-color: #ceac61;
+}
+
+.stm-layout-header-boats .fancy-iframe:hover {
+    cursor: pointer;
+}
+
+.stm-layout-header-boats .header-nav {
+    margin-bottom: 15px;
+    background: #ffffff;
+    z-index: 15;
+}
+
+.stm-layout-header-boats .header-nav.header-nav-default {
+    background-color: #eaedf0;
+    margin-bottom: 0;
+  /*Default header fixed*/
+}
+
+.stm-layout-header-boats .header-nav.header-nav-default.header-nav-fixed.header-nav-sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #eaedf0;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+}
+
+.stm-layout-header-boats .header-nav.header-nav-transparent {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: rgba(234, 237, 240, 0.8);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+  /*Transparent header fixed*/
+}
+
+.stm-layout-header-boats .header-nav.header-nav-transparent.header-nav-fixed.header-nav-sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #eaedf0;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+}
+
+.stm-layout-header-boats .header-nav:after {
+    display: table;
+    content: "";
+    clear: both;
+}
+
+.stm-layout-header-boats .main-menu {
+    float: left;
+}
+
+.stm-layout-header-boats .main-menu .header-menu {
+    padding: 0;
+    margin: 0;
+    margin-left: -21px;
+    list-style: none;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li {
+    position: relative;
+    float: left;
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li.menu-item-has-children > a:after {
+    position: absolute;
+    content: "";
+    display: block;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-style: normal;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 7px;
+    font-size: 12px;
+    content: "\f107";
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li:first-child {
+    margin-left: 0;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li.current-menu-item:first-child,
+.stm-layout-header-boats .main-menu .header-menu > li .current_page_item:first-child {
+    margin-left: 21px;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li.current-menu-item > a,
+.stm-layout-header-boats .main-menu .header-menu > li .current_page_item > a {
+    background-color: #31a3c6;
+    color: #ffffff;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li:hover > a {
+    background-color: #31a3c6;
+    color: #ffffff !important;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > a {
+    display: block;
+    position: relative;
+    height: 52px;
+    padding: 0 21px;
+    line-height: 52px;
+    text-transform: uppercase;
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li:hover > ul {
+    visibility: visible;
+    top: 100%;
+    opacity: 1;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul {
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    width: 250px;
+    top: 105%;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li {
+    position: relative;
+    margin-bottom: 0;
+    margin-left: 0 !important;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li.menu-item-has-children > a:after {
+    position: absolute;
+    content: "";
+    display: block;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-style: normal;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 20px;
+    font-size: 14px;
+    content: "\f105";
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li a {
+    position: relative;
+    display: block;
+    padding: 12px 30px 12px 34px;
+    text-decoration: none !important;
+    font-weight: 400;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li a:hover {
+    color: #ffffff;
+    background-color: #31a3c6;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li > ul {
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    width: 250px;
+    top: 0;
+    left: 105%;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    z-index: -1;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li > ul li > ul {
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    width: 250px;
+    top: 0;
+    left: 105%;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    z-index: -1;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li > ul li > ul li > ul {
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    width: 250px;
+    top: 0;
+    left: 105%;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    z-index: -1;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li > ul li > ul li:hover > ul {
+    visibility: visible;
+    left: 100%;
+    opacity: 1;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li > ul li:hover > ul {
+    visibility: visible;
+    left: 100%;
+    opacity: 1;
+}
+
+.stm-layout-header-boats .main-menu .header-menu > li > ul li:hover > ul {
+    visibility: visible;
+    left: 100%;
+    opacity: 1;
+}
+
+.stm-layout-header-boats .header-help-bar {
+    float: right;
+    margin-left: 15px;
+}
+
+.stm-layout-header-boats .header-help-bar > ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.stm-layout-header-boats .header-help-bar > ul:after {
+    display: table;
+    content: "";
+    clear: both;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li {
+    display: block;
+    float: left;
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li.nav-search > a {
+    padding: 0;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li:first-child {
+    margin-left: 0;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li a {
+    padding: 0 13px;
+    display: block;
+    position: relative;
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li a:hover {
+    background-color: #f7f8f9;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li a .list-label {
+    position: relative;
+    top: 1px;
+    margin-right: 4px;
+    text-transform: uppercase;
+    color: #232628;
+    font-size: 11px;
+    line-height: 52px;
+    font-weight: 700;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li a .list-icon {
+    position: relative;
+    top: -1px;
+    vertical-align: middle;
+    color: #232628;
+    font-size: 24px;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li a .list-badge {
+    position: absolute;
+    top: 7px;
+    right: 2px;
+    min-width: 18px;
+    font-weight: 700;
+    font-size: 11px;
+    color: #ffffff;
+    background-color: #31a3c6;
+    padding: 0 2px;
+    line-height: 18px;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.14);
+}
+
+.stm-layout-header-boats .header-help-bar > ul li.help-bar-compare .list-label {
+    margin-right: 3px;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li.help-bar-live-chat .list-icon {
+    top: 0;
+    font-size: 26px;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li.nav-search {
+    margin-left: 13px;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li.nav-search > a {
+    display: block;
+    margin-top: 8px;
+    height: 35px;
+    width: 35px;
+    text-align: center;
+    line-height: 35px;
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    color: #232628;
+    text-indent: 1px;
+    font-size: 13px;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li.nav-search > a i {
+    position: relative;
+    top: -1px;
+}
+
+.stm-layout-header-boats .header-help-bar > ul li.nav-search > a:hover {
+    background-color: #ceac61;
+    border-color: #ceac61;
+    color: #ffffff;
+}
+
+.stm-layout-header-boats .tp-bannertimer {
+    background-color: #31a3c6 !important;
+    opacity: 0.5;
+}
+
+.stm-layout-header-boats .stm-slider-round {
+    padding: 40px 20px;
+    padding-top: 30px;
+}
+
+.stm-layout-header-boats .stm-slider-round:after {
+    position: absolute;
+    content: "";
+    display: block;
+    top: -18px;
+    left: -18px;
+    right: -18px;
+    bottom: -18px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.12);
+    z-index: -1;
+}
+
+.stm-layout-header-boats .stm-white {
+    color: #ffffff !important;
+}
+
+.stm-layout-header-boats .rev_slider_wrapper .heading-font {
+    letter-spacing: 0 !important;
+}
+
+.stm-layout-header-boats .text-transform {
+    text-transform: uppercase;
+}
+
+.stm-layout-header-boats .font-weight-normal {
+    font-weight: 400 !important;
+}
+
+.stm-layout-header-boats .slider-text-padding-right {
+    padding-right: 30px;
+}
+
+.stm-layout-header-boats .stm-slider-round-text {
+    margin-top: 18px;
+    padding-left: 40px;
+    padding-right: 25px;
+    font-size: 11px;
+    line-height: 14px;
+    color: #232628;
+    text-transform: uppercase;
+}
+
+.stm-layout-header-boats .stm-slider-price-unit {
+    padding-top: 16px;
+    vertical-align: top;
+    word-spacing: -9px;
+}
+
+.stm-layout-header-boats .stm-slider-price-unit .stm-slider-currency {
+    font-size: 50px;
+    color: #ffffff;
+    line-height: 50px;
+    vertical-align: top;
+}
+
+.stm-layout-header-boats .stm-slider-price-unit .stm-slider-price {
+    font-size: 106px;
+    line-height: 75px;
+    vertical-align: top;
+    color: #ffffff;
+    font-weight: 700;
+    letter-spacing: -6px;
+}
+
+.stm-layout-header-boats .stm-slider-price-unit .stm-slider-divider {
+    position: relative;
+    left: 3px;
+    top: -4px;
+    font-size: 50px;
+    color: #232628;
+    vertical-align: top;
+    line-height: 50px;
+}
+
+.stm-layout-header-boats .stm-slider-price-unit .stm-slider-labels {
+    position: relative;
+    top: -3px;
+    display: inline-block;
+    max-width: 100px;
+    vertical-align: top;
+    line-height: 14px;
+    color: #232628;
+    font-weight: 700;
+}
+
+.stm-layout-header-boats .stm-slider-price-unit .stm-slider-labels .stm-slider-time-label {
+    font-size: 50px;
+    line-height: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.stm-layout-header-boats .stm-slider-price-unit .stm-slider-labels .stm-slider-time-value {
+    padding-left: 4px;
+    display: block;
+    white-space: normal;
+    font-size: 16px;
+    line-height: 14px;
+    word-spacing: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.stm-layout-header-boats #searchform .search-input {
+    padding: 20px 75px 20px 25px !important;
+    margin: 0;
+    height: 67px;
+    line-height: 67px;
+    font-size: 20px;
+    color: #5f5f5f;
+    border: 0;
+    border-color: transparent;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.stm-layout-header-boats #searchform .search-submit {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 0;
+    height: 67px;
+    width: 70px;
+    border: 0;
+    font-size: 24px;
+    color: #fff;
+    border-radius: 0 4px 4px 0;
+    box-shadow: none;
+}
+
+.stm-layout-header-boats #searchform .search-wrapper {
+    position: relative;
+}
+
+.stm-layout-header-boats #searchModal .modal-body {
+    padding: 0;
+}
+
+.stm-layout-header-boats #searchModal .modal-content {
+    box-shadow: none !important;
+    background-color: transparent;
+    border: none;
+}
+
+.stm-layout-header-boats #searchModal .modal-dialog {
+    margin-top: 20%;
+}
+
+.stm-layout-header-boats .search-title {
+    margin-bottom: 18px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+}
+
+.stm-layout-header-boats #chat-widget:hover {
+    cursor: pointer;
+}
+
+.stm-layout-header-boats .header-main-phone a,
+.stm-layout-header-boats .header-secondary-phone a {
+    color: #ffffff !important;
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats .help-bar-live-chat {
+    display: none !important;
+}
+
+.stm-layout-header-boats .header-help-bar-trigger {
+    display: none;
+    float: right;
+    margin-top: 10px;
+    height: 32px;
+    width: 32px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font-size: 12px;
+    color: #232628;
+}
+
+.stm-layout-header-boats .header-help-bar-trigger.active i {
+    transform: rotate(180deg);
+}
+
+.stm-layout-header-boats .header-help-bar > ul li.mobile-search {
+    display: none;
+    visibility: hidden;
+}
+
+.stm-layout-header-boats .mobile-menu-trigger {
+    position: absolute;
+    top: 2px;
+    right: 0;
+    width: 32px;
+    height: 32px;
+    padding: 5px 3px;
+}
+
+.stm-layout-header-boats .mobile-menu-trigger span {
+    display: block;
+    height: 3px;
+    background: #ceac61;
+    border-radius: 3px;
+    width: 100%;
+}
+
+.stm-layout-header-boats .mobile-menu-trigger span:nth-child(2) {
+    margin-top: 5px;
+}
+
+.stm-layout-header-boats .mobile-menu-trigger span:nth-child(3) {
+    margin-top: 5px;
+}
+
+.stm-layout-header-boats .mobile-menu-holder {
+    display: none;
+    margin: 0 -15px 25px;
+    padding: 0 15px;
+}
+
+.stm-layout-header-boats .mobile-menu-holder .header-menu {
+    margin: 0 -15px;
+    padding: 10px 15px;
+    background-color: #eaedf0;
+    list-style: none;
+}
+
+.stm-layout-header-boats .mobile-menu-holder .header-menu > li .arrow {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 34px;
+    line-height: 34px;
+    width: 50px;
+    font-size: 22px;
+    text-align: right;
+}
+
+.stm-layout-header-boats .mobile-menu-holder .header-menu > li .arrow.active i {
+    transform: rotate(90deg);
+}
+
+.stm-layout-header-boats .mobile-menu-holder .header-menu > li > .sub-menu {
+    display: none;
+    list-style: disc;
+}
+
+.stm-layout-header-boats .mobile-menu-holder .header-menu > li > .sub-menu > li > .sub-menu > li:last-child {
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats .mobile-menu-holder .header-menu > li.opened > a {
+    color: #31a3c6;
+}
+
+.stm-layout-header-boats .mobile-menu-holder .header-menu li {
+    position: relative;
+}
+
+.stm-layout-header-boats .mobile-menu-holder .header-menu li a {
+    position: relative;
+    display: block;
+    padding: 10px 60px 10px 0;
+    color: #232628;
+    text-transform: uppercase;
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats .mobile-menu-holder .header-menu li:last-child {
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar {
+    position: relative;
+    z-index: 103;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .vertical-divider {
+    top: 3px;
+    background-color: #ffffff;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar:after {
+    position: absolute;
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #002568;
+    opacity: 0.9;
+    z-index: 2;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar > .container {
+    position: relative;
+    z-index: 5;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-login-url {
+    margin-left: 8px;
+    text-transform: none;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-login-url .stm-boats-icon-cap-hat {
+    top: 0px;
+    font-size: 16px;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-login-url .logout-link .stm-boats-icon-cap-hat {
+    top: 2px;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-login-url .vertical-divider {
+    height: 11px;
+    top: 3px;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-login-url a {
+    opacity: 0.6;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-login-url a:hover {
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-login-url .vertical-divider {
+    opacity: 0.6;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .top-bar-wrapper {
+    padding: 21px 0 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-top-bar-socs ul li {
+    margin-right: 29px;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-top-bar-socs ul li:first-child {
+    margin-right: 29px;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-top-bar-socs ul li:last-child {
+    margin-right: 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-top-bar-socs a {
+    opacity: 0.5;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .header-top-bar-socs a:hover {
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .top-bar-info li {
+    opacity: 0.5;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .top-bar-info li #top-bar-address {
+    cursor: pointer;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .top-bar-info li:hover {
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .language-switcher-unit .stm_current_language {
+    opacity: 0.5;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .language-switcher-unit .stm_current_language:hover {
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #top-bar .language-switcher-unit .stm_current_language i {
+    margin-left: 15px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header {
+    padding: 29px 0 19px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header:after {
+    position: absolute;
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.9;
+    z-index: 2;
+    background-color: #002568;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-listing-boats.stm-fixed {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: #232628;
+    padding: 15px 0 10px;
+    z-index: 10;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content,
+.stm-layout-header-boats #stm-boats-header #header .header-main {
+    position: relative;
+    z-index: 5;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-logo-main {
+    float: left;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right {
+    padding-top: 10px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li {
+    position: relative;
+    display: inline-block;
+    margin: 0 18px;
+    vertical-align: top;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > .sub-menu:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: -19px;
+    height: 30px;
+    width: 100%;
+    background-color: transparent;
+    opacity: 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > a {
+    position: relative;
+    display: block;
+    padding-bottom: 12px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > a:after {
+    position: absolute;
+    content: "";
+    display: block !important;
+    height: 2px;
+    bottom: 6px;
+    left: 0;
+    right: 0;
+    background-color: #ceac61;
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(0);
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > a:hover:after {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1);
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li.current-menu-item a:after {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1);
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li.menu-item-has-children a {
+    position: relative;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li.menu-item-has-children a:before {
+    position: absolute;
+    content: "";
+    display: block;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-style: normal;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    content: "\f107";
+    top: 1px;
+    right: -18px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li:hover > ul {
+    visibility: visible;
+    top: 100%;
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li:not(.stm_megamenu) > ul li {
+    display: block;
+    position: relative;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li:not(.stm_megamenu) > ul li a:hover {
+    color: #ffffff;
+    background-color: #31a3c6;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul {
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+    margin-top: 19px;
+    list-style: none;
+    position: absolute;
+    width: 250px;
+    top: 115%;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li {
+    margin: 0 !important;
+    text-align: left;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li > a {
+    position: relative;
+    display: block;
+    padding: 12px 30px 12px 34px;
+    text-decoration: none !important;
+    font-weight: 400;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li.stm_menu_use_post > a {
+    text-align: left;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li a:before {
+    display: none !important;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li.menu-item-has-children > a:after {
+    position: absolute;
+    content: "";
+    display: block;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-style: normal;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 20px;
+    font-size: 14px;
+    content: "\f105";
+    transition: none !important;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li > ul {
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    width: 250px;
+    top: 0;
+    left: 105%;
+    margin-top: 0;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    z-index: -1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li > ul li > ul {
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    width: 250px;
+    top: 0;
+    left: 105%;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    z-index: -1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li > ul li > ul li > ul {
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    width: 250px;
+    top: 0;
+    left: 105%;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    z-index: -1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li > ul li > ul li:hover > ul {
+    visibility: visible;
+    left: 100%;
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li > ul li:hover > ul {
+    visibility: visible;
+    left: 100%;
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li > ul li:hover > ul {
+    visibility: visible;
+    left: 100%;
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-right-actions {
+    float: right;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-right-actions .help-bar-shop {
+    position: relative;
+    top: -9px;
+    margin-left: 22px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-right-actions .help-bar-shop a {
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-right-actions .help-bar-shop i {
+    font-size: 30px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-right-actions .help-bar-shop .list-badge {
+    position: absolute;
+    top: 8px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .lOffer-compare {
+    position: relative;
+    top: -2px;
+    padding-right: 15px;
+    text-transform: uppercase;
+    color: #ffffff;
+    vertical-align: top;
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .lOffer-compare:hover {
+    color: #31a3c6;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .lOffer-compare:hover .heading-font {
+    color: #31a3c6;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .lOffer-compare:hover .stm-current-cars-in-compare {
+    color: #ffffff;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .lOffer-compare .heading-font {
+    color: #ffffff;
+    margin-right: 7px;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .lOffer-compare i {
+    position: relative;
+    top: 3px;
+    font-size: 18px;
+    transition: all 0.2s ease-in-out;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-inner-content .lOffer-compare .stm-current-cars-in-compare {
+    position: absolute;
+    right: -7px;
+    top: -7px;
+    display: inline-block;
+    background-color: #31a3c6;
+    color: #ffffff;
+    padding: 0 6px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 11px;
+    line-height: 18px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .listing-service-right {
+    padding-top: 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .header-inner-content .lOffer-compare i {
+    top: 8px;
+    font-size: 24px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .listing-right-actions {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .listing-right-actions .help-bar-shop {
+    top: 0 !important;
+    margin: 0 30px 0 20px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .listing_add_cart {
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .listing_add_cart > div {
+    display: block;
+    position: relative;
+    padding: 12px 22px 10px 61px;
+    background: #1bc744;
+    color: #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none !important;
+    border-radius: 2px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .listing_add_cart > div:hover {
+    background: rgba(27, 199, 68, 0.85);
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .listing_add_cart > div .list-label {
+    color: #ffffff;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .listing_add_cart > div > i {
+    position: absolute;
+    top: 13px;
+    left: 21px;
+    font-size: 19px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit {
+    margin: 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit:hover .lOffer-account-dropdown {
+    top: 100%;
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 24px 0 0;
+    background-color: #eee;
+    color: #5b6771;
+    font-size: 12px;
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    line-height: 28px;
+    border-radius: 50%;
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account:hover {
+    color: #fff;
+    background: #1bc744;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account .stm-dropdown-user-small-avatar {
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    z-index: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account .stm-dropdown-user-small-avatar img {
+    vertical-align: top;
+    border-radius: 50%;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account:hover {
+    background: #6c98e1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown {
+    position: absolute;
+    top: 110%;
+    padding: 21px 15px 0px 30px;
+    background-color: #fff;
+    width: 215px;
+    margin: 14px 0 0 -94px;
+    opacity: 0;
+    visibility: hidden;
+    box-shadow: -1px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered {
+    margin-left: -104px;
+    width: 235px;
+    padding: 25px 20px 25px 20px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered.active {
+    top: 100%;
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered.working {
+    top: 100%;
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered .stm-message-ajax-validation {
+    margin-top: 20px;
+    padding: 7px 15px;
+    background-color: #232628;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered .stm-listing-loader {
+    margin: 0 10px;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered .stm-listing-loader i {
+    display: inline-block;
+    color: #cc6119;
+    animation: rotating 2s infinite linear;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered .stm-listing-loader.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered h4 {
+    font-size: 14px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered .form-group {
+    margin-bottom: 15px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered input[type=text],
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered input[type=password] {
+    padding-left: 8px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered input[type=submit] {
+    visibility: inherit;
+    display: inline-block;
+    padding: 14px 15px 11px;
+    font-size: 12px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown.stm-login-form-unregistered .stm_label {
+    display: inline-block;
+    font-size: 13px;
+    color: #888;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: -14px;
+    left: 0;
+    background-color: transparent;
+    opacity: 0;
+    width: 100%;
+    height: 14px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown:after {
+    position: absolute;
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    top: -5px;
+    left: 50%;
+    margin-left: -5px;
+    border-bottom: 5px solid #fff;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .settings {
+    display: block;
+    position: absolute;
+    right: 14px;
+    top: 15px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    background-color: #eee;
+    border-radius: 2px;
+    text-decoration: none !important;
+    padding: 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .settings .stm-settings-icon {
+    line-height: 30px;
+    font-size: 14px;
+    color: #232628;
+    opacity: 0.3;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .settings:hover .stm-settings-icon {
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .name {
+    margin-bottom: 12px;
+    padding-right: 37px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .name a {
+    color: #232628;
+    font-weight: 700;
+    font-size: 13px;
+    text-decoration: none !important;
+    padding: 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .name a:hover {
+    color: #cc6119;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .account-list {
+    display: block;
+    padding: 0;
+    margin: 0 0 14px;
+    list-style: none;
+    position: relative;
+    overflow: hidden;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .account-list li {
+    display: block;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .account-list li a {
+    display: block;
+    line-height: 26px;
+    font-size: 13px;
+    color: #232628;
+    text-decoration: none !important;
+    padding: 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .account-list li a:hover {
+    color: #cc6119;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .logout {
+    display: block;
+    margin: 0 -15px 0 -30px;
+    padding: 10px 15px 10px 30px;
+    background-color: #e5e5e5;
+    color: #232628;
+    opacity: 0.7;
+    font-size: 13px;
+    text-decoration: none !important;
+    text-align: left;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .logout .fas {
+    position: relative;
+    top: 1px;
+    left: -1px;
+    margin-right: 5px;
+    color: #232628;
+    font-size: 15px;
+    letter-spacing: -0.5px;
+    opacity: 0.5;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .logout:hover {
+    opacity: 0.9;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .lOffer-account-dropdown .logout:hover .fas {
+    opacity: 0.7;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper {
+    display: none;
+    position: fixed;
+    height: 100vh;
+    top: 74px;
+    right: 0;
+    background-color: #153e4d;
+    padding: 16px 0 16px;
+    width: 300px;
+    box-shadow: -1px 3px 5px rgba(0, 0, 0, 0.2);
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 100;
+    transform: translateX(300px);
+    transition: 300ms ease;
+    opacity: 0;
+}
+
+@media (max-width: 991px) {
+    .stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper {
+        display: block;
+    }
+}
+
+@media (max-width: 1024px) {
+    .stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper {
+        top: 58px;
+        right: -43px;
+    }
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper.active {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered {
+    padding: 25px 20px 25px 20px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered .stm-message-ajax-validation {
+    margin-top: 20px;
+    padding: 7px 5px;
+    background-color: #232628;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered .stm-listing-loader {
+    margin: 0 10px;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered .stm-listing-loader i {
+    display: inline-block;
+    color: #cc6119;
+    animation: rotating 2s infinite linear;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered .stm-listing-loader.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered h4 {
+    color: #fff;
+    font-size: 14px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered .form-group {
+    margin-bottom: 15px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered input[type=text],
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered input[type=password] {
+    padding-left: 8px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered input[type=submit] {
+    display: inline-block;
+    padding: 18px 15px 14px;
+    font-size: 12px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered .stm_label {
+    font-size: 13px;
+    color: #fff;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-login-form-mobile-unregistered .form-checker span {
+    color: #fff;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-user-private-sidebar {
+    padding: 15px 20px 0 30px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-user-private-sidebar .phone-label, .stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-user-private-sidebar .mail-label {
+    margin-bottom: 6px;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit .stm-user-mobile-info-wrapper .stm-user-private-sidebar .show-my-profile i {
+    top: 7px;
+}
+
+@media (max-width: 1100px) {
+    .stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit {
+        margin-right: 40px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit {
+        margin-right: 0;
+    }
+
+    .stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit:hover .lOffer-account-dropdown {
+        top: 0;
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+@media (max-width: 991px) {
+    .stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit {
+        margin-right: 20px;
+        margin-left: 16px;
+    }
+}
+
+@media (max-width: 500px) {
+    .stm-layout-header-boats #stm-boats-header #header .is-listing .lOffer-account-unit {
+        margin-top: 3px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-listing-boats ul.listing-menu li.stm_megamenu {
+    position: static;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-listing-boats ul.listing-menu li.stm_megamenu > .sub-menu {
+    width: 100%;
+    padding: 15px 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-listing-boats ul.listing-menu li.stm_megamenu > .sub-menu > li > .sub-menu {
+    padding: 0;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-listing-boats ul.listing-menu li.stm_megamenu > .sub-menu > li > .sub-menu > li:first-child a {
+    padding-top: 0 !important;
+}
+
+.stm-layout-header-boats #stm-boats-header #header .header-listing-boats ul.listing-menu li.stm_megamenu .stm-special-offers {
+    padding: 0;
+    margin: 0;
+}
+
+.stm-layout-header-boats .stm-boats-top-bar-centered {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stm-layout-header-boats .stm-boats-top-bar-centered .top-bar-info,
+.stm-layout-header-boats .stm-boats-top-bar-centered .header-top-bar-socs {
+    display: inline-block;
+    margin: unset;
+}
+
+.stm-layout-header-boats .stm-boats-top-bar-centered .top-bar-info {
+    text-transform: none;
+    margin-left: 20px;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 30px 50px 30px 15px;
+    background-color: #002568;
+    z-index: 9999;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .bloglogo img {
+    max-height: 40px;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .stm-menu-boats-trigger {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    margin-top: -13px;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .stm-menu-boats-trigger span {
+    display: block;
+    width: 28px;
+    height: 4px;
+    margin-bottom: 7px;
+    border-radius: 2px;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .stm-menu-boats-trigger span:first-child {
+    position: relative;
+    top: 0;
+    transition: top 0.3s 0.3s, transform 0.3s 0s;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .stm-menu-boats-trigger span:nth-child(2) {
+    opacity: 1;
+    transition: opacity 0.3s;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .stm-menu-boats-trigger span:last-child {
+    margin-bottom: 0;
+    position: relative;
+    top: 0;
+    transition: top 0.3s 0.3s, transform 0.3s 0s;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .stm-menu-boats-trigger.opened span {
+    background: rgb(255, 255, 255);
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .stm-menu-boats-trigger.opened span:first-child {
+    top: 11px;
+    transform: rotate(-45deg);
+    transition: top 0.3s 0s, transform 0.3s 0.3s;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .stm-menu-boats-trigger.opened span:nth-child(2) {
+    opacity: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-header .stm-menu-boats-trigger.opened span:last-child {
+    top: -11px;
+    transform: rotate(45deg);
+    transition: top 0.3s 0s, transform 0.3s 0.3s;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu {
+    display: none;
+    position: fixed;
+    top: 80px;
+    bottom: 0;
+    right: -320px;
+    background-color: #021f53;
+    width: 320px;
+    box-shadow: -1px 3px 5px rgba(0, 0, 0, 0.2);
+    overflow-y: auto;
+    overflow-x: hidden;
+    transition: right 0.3s 0s;
+    z-index: 100;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .inner {
+    position: relative;
+    z-index: 15;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .inner:after {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .inner-content {
+    padding: 20px 30px 30px;
+    position: relative;
+    z-index: 25;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .listing-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .listing-menu li {
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .listing-menu li:last-child {
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .listing-menu li .sub-menu {
+    margin: 0;
+    list-style: none;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .listing-menu li .sub-menu a {
+    font-size: 16px;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .listing-menu li a {
+    position: relative;
+    display: block;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .listing-menu li a .stm-boats-menu-first-lvl:after {
+    position: absolute;
+    content: "";
+    display: block;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-style: normal;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    right: -15px;
+    top: 10px;
+    content: "\f107";
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .listing-menu li a .stm-boats-menu-first-lvl.active:after {
+    transform: rotate(-180deg);
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu .listing-menu .sub-menu {
+    display: none;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu.opened {
+    right: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm-boats-top-bar-centered {
+    text-align: left;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm-boats-top-bar-centered .top-bar-info,
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm-boats-top-bar-centered .header-top-bar-socs ul {
+    display: block;
+    list-style: none;
+    text-align: left;
+    padding: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm-boats-top-bar-centered .top-bar-info {
+    padding: 20px 0;
+    color: #ffffff;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm-boats-top-bar-centered .top-bar-info li {
+    margin-bottom: 15px;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm-boats-top-bar-centered .top-bar-info li:last-child {
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm-boats-top-bar-centered .header-top-bar-socs ul li {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm-boats-top-bar-centered .header-top-bar-socs ul li:last-child {
+    margin-right: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .language-switcher-unit {
+    position: relative;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .language-switcher-unit .dropdown-menu {
+    margin: 0;
+    padding: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .language-switcher-unit .dropdown-menu li {
+    margin-bottom: 0;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm_current_language {
+    color: #ffffff;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu #top-bar-mobile .stm_current_language .fas {
+    margin-left: 15px;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu ul.listing-menu li:not(.stm_megamenu) .sub-menu li a {
+    color: #fff !important;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu ul.listing-menu li.stm_megamenu > .sub-menu > li a {
+    color: #002e5b !important;
+}
+
+.stm-layout-header-boats .stm-boats-mobile-menu ul.listing-menu li.stm_megamenu > .sub-menu .stm-special-offers .img-wrap a {
+    padding: 0;
+}
+
+@media (max-width: 1025px) {
+    .stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right {
+        display: block;
+    }
+
+    .stm-layout-header-boats #stm-boats-header #header .header-inner-content .listing-service-right .listing-menu > li {
+        margin: 0 10px;
+    }
+}
+
+@media (max-width: 992px) {
+    .stm-layout-header-boats #stm-boats-header {
+        overflow: hidden;
+    }
+
+    .stm-layout-header-boats #top-bar-mobile {
+        padding-top: 10px;
+    }
+
+    .stm-layout-header-boats #top-bar-mobile .stm-boats-top-bar-centered {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .stm-layout-header-boats #top-bar-mobile .stm-boats-top-bar-centered .top-bar-info {
+        margin-left: 0;
+    }
+
+    .stm-layout-header-boats #top-bar-mobile .stm-boats-top-bar-centered .top_bar_menu {
+        display: none;
+    }
+}
+
+@media (max-width: 991px) {
+    .stm-layout-header-boats #stm-boats-header {
+        display: none;
+    }
+
+    .stm-layout-header-boats .stm-boats-mobile-header {
+        display: block;
+    }
+
+    .stm-layout-header-boats .stm-boats-mobile-menu {
+        display: block;
+    }
+}
+
+.stm-layout-header-boats.has_envato_iframe .stm-boats-mobile-header {
+    top: 54px;
+}
+
+@media (max-width: 767px) {
+    .stm-layout-header-boats.has_envato_iframe {
+        top: 132px;
+    }
+}
+
+.stm-layout-header-boats.has_envato_iframe .stm-boats-mobile-menu.opened {
+    top: 153px;
+}

@@ -1,0 +1,63 @@
+.stm_demo_import_choices {
+    margin-top: 30px;
+}
+
+.stm_demo_import_choices label {
+    display: block;
+    max-width: 230px;
+    margin-right: 35px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+.stm_demo_import_choices label img {
+    max-width: 100%;
+}
+
+.stm_demo_import_choices:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.stm_demo_import_choices .stm_choice_radio_button {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.stm_demo_import_choices img {
+    border-radius: 3px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.17);
+    transition: all 0.5s ease;
+}
+
+.stm_demo_import_choices img:hover {
+    box-shadow: 0 5px 17px rgba(0,0,0,0.6);
+}
+
+.stm_demo_button_align {
+    max-width: 1290px;
+    text-align: center;
+}
+
+.stm_demo_button_align .size_big {
+    height: 36px;
+    line-height: 34px;
+    padding: 0 15px 1px;
+}
+
+.stm-pick-icon {
+    max-width: 30px;
+    overflow: hidden;
+}
+
+.stm-pick-icon i {
+    display: block;
+    max-width: 100%;
+    width: 20px;
+    overflow: hidden;
+}
+
+.stm_table-two-columns-image label {
+    margin-right: 15px;
+}

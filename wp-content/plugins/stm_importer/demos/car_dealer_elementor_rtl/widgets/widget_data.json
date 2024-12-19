@@ -1,0 +1,188 @@
+[
+  {
+    "wp_inactive_widgets": [
+      "block-5",
+      "block-6",
+      "block-2",
+      "block-3",
+      "block-4"
+    ],
+    "default": [
+      "search-2",
+      "text-7",
+      "stm_similar_cars-2",
+      "tag_cloud-2",
+      "archives-3",
+      "recent-posts-4"
+    ],
+    "footer": [
+      "stm_text-2",
+      "text-6",
+      "stm-recent-posts-2",
+      "socials-2",
+      "mc4wp_form_widget-2",
+      "text-3",
+      "text-4",
+      "text-5"
+    ],
+    "shop": [
+      "woocommerce_product_search-2"
+    ],
+    "stm_listing_car": [
+      "car_location-2"
+    ]
+  },
+  {
+    "search": {
+      "2": {
+        "title": "Search"
+      },
+      "_multiwidget": 1
+    },
+    "text": {
+      "3": {
+        "title": "ساعات البيع",
+        "text": "<span class = \"date\"> الإثنين - الجمعة: </ span> 09:00 صباحًا - 09:00 مساءً <br/>\n<span class = \"date\"> السبت: </ span> 09:00 صباحًا - 07:00 مساءً <br/>\n<span class = \"date\"> الأحد: </ span> مغلق",
+        "filter": false,
+        "visual": false
+      },
+      "4": {
+        "title": "ساعات الخدمة",
+        "text": "<span class = \"date\"> الإثنين - الجمعة: </ span> 09:00 صباحًا - 09:00 مساءً <br/>\n<span class = \"date\"> السبت: </ span> 09:00 صباحًا - 07:00 مساءً <br/>\n<span class = \"date\"> الأحد: </ span> مغلق",
+        "filter": false,
+        "visual": false
+      },
+      "5": {
+        "title": "ساعات القطع",
+        "text": "<span class = \"date\"> الإثنين - الجمعة: </ span> 09:00 صباحًا - 09:00 مساءً <br/>\n<span class = \"date\"> السبت: </ span> 09:00 صباحًا - 07:00 مساءً <br/>\n<span class = \"date\"> الأحد: </ span> مغلق",
+        "filter": false,
+        "visual": false
+      },
+      "6": {
+        "title": "معرض الصور",
+        "text": "[instagram feed=\"1404\"]",
+        "filter": true,
+        "visual": true
+      },
+      "7": {
+        "title": "القطعة النصية",
+        "text": "<span class = \"stm-small-text\"> المحركات هي موضوع ووردبريس لتاجر السيارات والسيارات وتجار السيارات. </ span>\nهذا هو المظهر المثالي لتاجر السيارات ، ووكيل السيارات ، والموقع الإلكتروني لـ وورد السيارات وأي من <a href=\"#\"> نشاط بيع سيارات </a> آخر يبيع أو يشتري أو يؤجر المركبات عبر موقع الويب.",
+        "filter": false,
+        "visual": false
+      },
+      "_multiwidget": 1
+    },
+    "stm_similar_cars": {
+      "2": {
+        "title": false
+      },
+      "_multiwidget": 1
+    },
+    "tag_cloud": {
+      "2": {
+        "title": "القطعة العلامة",
+        "count": 0,
+        "taxonomy": "post_tag"
+      },
+      "_multiwidget": 1
+    },
+    "archives": {
+      "3": {
+        "title": "أرشيف",
+        "count": 0,
+        "dropdown": 1
+      },
+      "_multiwidget": 1
+    },
+    "recent-posts": {
+      "4": {
+        "title": "الأخيرة",
+        "number": 5,
+        "show_date": false
+      },
+      "_multiwidget": 1
+    },
+    "stm_text": {
+      "2": {
+        "title": "وكالة سيارات",
+        "text": "<p> بصفتنا تاجرًا رائدًا في شيكاغو ، إلينوي ، نحن على ثقة من أننا سنوفر لك الوقت والمال. موتورز هي الموضوع النهائي لتاجر السيارات ، السيارات ، تاجر سيارات WordPress. </p>",
+        "filter": false,
+        "socials": false
+      },
+      "_multiwidget": 1
+    },
+    "stm-recent-posts": {
+      "2": {
+        "title": "أحدث مشاركات المدونة",
+        "number": 5,
+        "show_date": false,
+        "number_of_posts": "1"
+      },
+      "_multiwidget": 1
+    },
+    "socials": {
+      "2": {
+        "title": "شبكة اجتماعية",
+        "facebook": "#",
+        "twitter": "#",
+        "vk": "#",
+        "instagram": "#",
+        "behance": "#",
+        "dribbble": "#",
+        "flickr": "#",
+        "git": "#",
+        "linkedin": "",
+        "pinterest": "",
+        "yahoo": "",
+        "delicious": "",
+        "dropbox": "",
+        "reddit": "",
+        "soundcloud": "",
+        "google": "",
+        "google-plus": "",
+        "skype": "",
+        "youtube": "",
+        "youtube-play": "",
+        "tumblr": "",
+        "whatsapp": ""
+      },
+      "_multiwidget": 1
+    },
+    "mc4wp_form_widget": {
+      "2": {
+        "title": "الإشتراك"
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_product_search": {
+      "2": {
+        "title": "يبحث"
+      },
+      "_multiwidget": 1
+    },
+    "car_location": {
+      "2": {
+        "title": false
+      },
+      "_multiwidget": 1
+    },
+    "block": {
+      "2": {
+        "content": "<!-- wp:search /-->"
+      },
+      "3": {
+        "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts</h2><!-- /wp:heading --><!-- wp:latest-posts /--></div><!-- /wp:group -->"
+      },
+      "4": {
+        "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments</h2><!-- /wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} /--></div><!-- /wp:group -->"
+      },
+      "5": {
+        "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives</h2><!-- /wp:heading --><!-- wp:archives /--></div><!-- /wp:group -->"
+      },
+      "6": {
+        "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories</h2><!-- /wp:heading --><!-- wp:categories /--></div><!-- /wp:group -->"
+      },
+      "_multiwidget": 1
+    }
+  }
+]

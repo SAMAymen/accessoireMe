@@ -1,0 +1,4773 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-25 04:51+0000\n"
+"PO-Revision-Date: 2023-01-26 03:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.0.3\n"
+"X-Domain: motors"
+
+#: woocommerce/myaccount/form-edit-account.php:69
+#: woocommerce/myaccount/form-edit-account.php:79
+msgid " (leave blank to leave unchanged)"
+msgstr " (اتركه فارغا ترك دون تغيير) "
+
+#: woocommerce/order/tracking.php:25
+msgid " ago"
+msgstr " قبل"
+
+#: inc/woocommerce_setups_rental.php:1312
+msgid " to "
+msgstr " إلى "
+
+#: partials/rental/common/order-info-empty.php:66
+#, php-format
+msgid "%1$d x %2$s"
+msgstr "%1$d x %2$s"
+
+#: partials/rental/main-shop/price.php:75
+#: partials/rental/main-shop/price.php:151
+#, php-format
+msgid "%1$s Days / %2$s Hours"
+msgstr "%1$s أيام / %2$s ساعات"
+
+#: inc/woocommerce_setups_rental.php:1319
+#, php-format
+msgid "%1$s days and more: %2$s"
+msgstr "%1$s أيام و أكثر: %2$s"
+
+#: inc/woocommerce_setups_rental.php:1326
+#, php-format
+msgid "%1$s days and more: %2$s sale"
+msgstr "%1$s أيام و أكثر: %2$s للبيع"
+
+#. 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:82
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] "%1$s %2$s البند"
+msgstr[1] "%1$s %2$s البنود"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:33
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s استعراض %2$s"
+msgstr[1] "%1$s استعراض %2$s"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: partials/rental/common/order-info.php:173
+#, php-format
+msgid "%1$s x %2$1s"
+msgstr "%1$s x %2$1s"
+
+#. 1. quantity, 2. option name, 3. number of days
+#: partials/rental/common/order-info.php:176
+#, php-format
+msgid "%1$s x %2$1s %3$s %4$s day(s)"
+msgstr "%1$s x %2$1s %3$s %4$s day(s)"
+
+#. number of remaining photos
+#: partials/car-filter-ev-loop.php:46 partials/car-filter-loop.php:50
+#: partials/listing-cars/motos/grid.php:124
+#: partials/listing-cars/motos/list.php:124
+#: partials/listing-cars/motos/moto-single-grid.php:88
+#: listings/loop/classified/list/image-inventory-no-filter.php:134
+#: listings/loop/classified/list/image.php:131
+#: listings/loop/classified/grid/image.php:91
+#: listings/loop/boats/list/image.php:34
+#: listings/loop/default/list/image.php:36
+#: listings/loop/default/grid/image.php:76
+#, php-format
+msgid "%d more photo"
+msgid_plural "%d more photos"
+msgstr[0] "%d المزيد من الصور"
+msgstr[1] "%d المزيد من الصور"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: partials/rental/main-shop/promo-popup.php:33
+#: partials/rental/main-shop/promo-popup.php:47
+#: partials/rental/main-shop/promo-popup.php:74
+#: partials/rental/common/order-info.php:56
+#: partials/rental/common/order-info.php:73
+#: partials/rental/common/order-info.php:97
+#, php-format
+msgid "%s Days"
+msgstr "%s أيام"
+
+#: partials/rental/common/order-info.php:228
+#, php-format
+msgid "%s Days and more"
+msgstr "%s أيام وأكثر"
+
+#. %s product name
+#: woocommerce/myaccount/my-downloads.php:42
+#, php-format
+msgid "%s download(s) remaining"
+msgstr "%s تحميل(s) المتبقية"
+
+#: woocommerce/myaccount/my-orders.php:82
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s %s البند"
+msgstr[1] "%s %s البنود"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: partials/single-car/car-gallery.php:119
+#: partials/single-car/car-gallery.php:173
+#: partials/single-car-listing/car-gallery.php:176
+#: partials/single-car-listing/car-gallery.php:201
+#: partials/single-aircrafts/gallery.php:88
+#, php-format
+msgid "%s full"
+msgstr "%s كامل"
+
+#: inc/stm-ajax.php:57
+#, php-format
+msgid "%s has already been added"
+msgstr "%s تم بالفعل إضافة"
+
+#: inc/stm-ajax.php:50
+#, php-format
+msgid "%s has been added to compare!"
+msgstr "%s تمت إضافة للمقارنة!"
+
+#: inc/stm-ajax.php:44
+#, php-format
+msgid "%s has been removed from compare"
+msgstr "%s تم إزالتها من مقارنة"
+
+#: partials/rental/main-shop/promo-popup.php:88
+#: partials/rental/common/order-info.php:110
+#, php-format
+msgid "%s Hours"
+msgstr "%s ساعات"
+
+#. rating sum
+#: partials/single-car/car-review_rating.php:27
+#: partials/listing-cars/listing-grid-loop-magazine.php:57
+#: listings/loop/default/list/features.php:209
+#, php-format
+msgid "%s out of 5.0"
+msgstr "%s من 5.0"
+
+#: inc/woocommerce_setups_rental.php:1333
+#, php-format
+msgid "%s Per hour"
+msgstr "%s في الساعة"
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr "%s الكمية"
+
+#: partials/rental/wizard-nav/nav-step-2.php:19
+#, php-format
+msgid "%s Type"
+msgstr "%s نوع"
+
+#: partials/single-car-listing/car-gallery.php:118
+#, php-format
+msgid "%s Video"
+msgstr "%s Video"
+
+#: inc/woocommerce_setups_rental.php:1312 partials/rental/product/option.php:64
+#: partials/rental/product/option.php:69 partials/rental/main-shop/price.php:79
+#: partials/rental/main-shop/price.php:156
+#, php-format
+msgid "%s/Day"
+msgstr "%s/يوم"
+
+#: partials/rental/main-shop/price.php:63
+#: partials/rental/main-shop/price.php:138
+#, php-format
+msgid "%s/Total"
+msgstr "%s/مجموع"
+
+#: partials/single-aircrafts/gallery.php:154
+#, php-format
+msgid "+%s Images"
+msgstr "+%s صور"
+
+#: hb_templates/elements/cart-2/cart-2.php:31
+#, php-format
+msgid "<span class=\"cart__quantity-badge\">%d</span> items"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:27
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+"إعادة تعيين كلمة المرور البريد الإلكتروني تم إرسالها إلى عنوان البريد "
+"الإلكتروني للحساب الخاص بك ، ولكن قد يستغرق عدة دقائق تظهر في البريد الوارد "
+"الخاص بك. يرجى الانتظار 10 دقيقة على الأقل قبل محاولة إعادة تعيين آخر."
+
+#: partials/trade-in.php:36 partials/trade-in.php:602
+#: partials/trade-in.php:1153
+msgid "Accident"
+msgstr "حادث"
+
+#: partials/header/header-car_dealer.php:148
+#: partials/header/header-ev-dealer/header.php:182
+#: partials/header/header-classified-five/header.php:94
+msgid "Account"
+msgstr "الحساب"
+
+#: partials/user/private/dealer-settings.php:363
+#: partials/user/private/become-dealer.php:206
+msgid "Account data saved. Reloading the page."
+msgstr "حساب البيانات المحفوظة. إعادة تحميل الصفحة."
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Account Settings"
+msgstr "إعدادات الحساب"
+
+#: ulisting/account/saved-searches.php:23
+msgid "Action"
+msgstr "العمل"
+
+#: inc/value_my_car/admin-page.php:93
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: listings/filter/sidebar.php:56 listings/classified/filter/sidebar.php:112
+#: listings/boats/filter/sidebar.php:62
+#: listings/modern_filter/filters/sold_filter.php:28
+#: listings/motorcycles/filter/sidebar.php:109
+msgid "Active"
+msgstr "نشط"
+
+#: partials/title_box.php:244
+msgid "Ad limit has been reached. Buy a new plan"
+msgstr "الإعلان تم الوصول إلى الحد. شراء خطة جديدة"
+
+#: inc/rental/PriceForQuantityDays.php:380 inc/rental/DiscountByDays.php:219
+#: inc/rental/PriceForDatePeriod.php:515 partials/rental/product/option.php:76
+msgid "Add"
+msgstr "إضافة"
+
+#: inc/email_template_manager/email_template_manager.php:25
+msgid "Add a car"
+msgstr "إضافة سيارة"
+
+#: listings/add_car/check_user.php:85
+msgid "Add a Listing using Free or Paid Plan limits"
+msgstr "إضافة قائمة باستخدام المجانية أو المدفوعة خطة حدود"
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Add a review"
+msgstr "إضافة إلى استعراض"
+
+#: partials/compare.php:10
+msgid "Add boat to compare"
+msgstr "إضافة قارب مقارنة"
+
+#: partials/compare.php:7
+msgid "Add car to compare"
+msgstr "إضافة سيارة مقارنة"
+
+#: ulisting/add-listing/add-listing.php:31
+msgid "Add New Item"
+msgstr "إضافة عنصر جديد"
+
+#: listings/add_car/step_5.php:58
+msgid "Add the Template Phrases"
+msgstr "إضافة قالب العبارات"
+
+#: inc/stm-ajax.php:32 partials/car-filter-ev-loop.php:129
+#: partials/car-filter-loop.php:134 partials/compare.php:7
+#: partials/single-car/car-actions.php:67
+#: partials/listing-cars/listing-list-loop-actions.php:69
+#: partials/listing-cars/listing-directive-list-loop-actions.php:72
+#: partials/single-car-boats/boats-actions.php:62
+#: partials/single-aircrafts/action-bar.php:63
+#: partials/listing-cars/motos/grid.php:16
+#: partials/listing-cars/motos/moto-single-grid.php:16
+#: listings/loop/classified/list/image-inventory-no-filter.php:78
+#: listings/loop/classified/grid/image.php:239
+#: listings/loop/default/list/features.php:101
+#: listings/loop/default/list/compare.php:23
+#: listings/loop/default/grid/image.php:7
+msgid "Add to compare"
+msgstr "إضافة إلى مقارنة"
+
+#: listings/loop/classified/list/image-inventory-no-filter.php:88
+#: listings/loop/classified/list/image.php:83
+#: listings/loop/classified/grid/image.php:225
+msgid "Add to favorites"
+msgstr "أضف إلى المفضلة"
+
+#: partials/compare.php:12
+msgid "Add vehicle to compare"
+msgstr "إضافة مركبة مقارنة"
+
+#: listings/add_car/step_4.php:4 listings/add_car/step_4.php:37
+msgid "Add Videos"
+msgstr "إضافة الفيديو"
+
+#: partials/trade-in.php:1266 partials/trade-in.php:1273
+msgid "Add your boat details"
+msgstr "إضافة القارب الخاص بك التفاصيل"
+
+#: partials/header/header-nav.php:69 partials/header/header-motorcycle.php:24
+#: partials/header/header-ev-dealer/header.php:22
+#: partials/header/parts/add_a_car.php:4
+#: partials/header/parts/mobile_menu_items.php:6
+#: partials/header/header-classified-five/header.php:22
+msgid "Add your item"
+msgstr "إضافة البند الخاص بك"
+
+#: partials/trade-in.php:149 partials/trade-in.php:156
+#: partials/trade-in.php:696 partials/trade-in.php:703
+msgid "Add your vehicle details"
+msgstr "إضافة تفاصيل السيارة"
+
+#: inc/woocommerce_setups_rental.php:556
+#: partials/rental/common/order-info.php:153
+#: partials/rental/common/order-info-empty.php:48
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: partials/rental/common/order-info.php:190
+msgid "Add-ons Charges Rate"
+msgstr "إضافات التهم معدل"
+
+#: partials/rental/product/option.php:82
+msgid "Added"
+msgstr "وأضاف"
+
+#. added date
+#: partials/single-car/car-actions.php:30
+#: partials/single-car-listing/car-price-title.php:40
+#, php-format
+msgid "ADDED: %s"
+msgstr "وأضاف: %s"
+
+#: partials/compare.php:353 listings/filter/types/features.php:27
+msgid "Additional features"
+msgstr "ميزات إضافية"
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr "معلومات إضافية"
+
+#: woocommerce/checkout/form-shipping.php:78
+msgid "Additional information"
+msgstr "معلومات إضافية"
+
+#: partials/rental/wizard-nav/nav-step-2.php:43
+#: partials/rental/wizard-nav/nav-step-2.php:45
+msgid "Addons"
+msgstr "ماكسثون"
+
+#: ulisting/account/edit-profile.php:103
+#: woocommerce/myaccount/my-address.php:87
+msgid "Address"
+msgstr "عنوان"
+
+#: woocommerce/order/tracking.php:22
+msgid "ago"
+msgstr "قبل"
+
+#: inc/setup.php:83 inc/helpers.php:29
+msgid "AIRCRAFTS"
+msgstr "الطائرات"
+
+#: ulisting/account/my-listing.php:78 inc/value_my_car/admin-page.php:52
+#: partials/single-car-motorcycle/tabs.php:26
+#: partials/user/private/user-inventory.php:35
+msgid "All"
+msgstr "كل"
+
+#: partials/user/user-public-profile.php:71
+#: partials/user/private/user-favourite.php:27
+#: partials/user/private/user-inventory.php:24
+msgid "All listing types"
+msgstr "كل قائمة أنواع"
+
+#: partials/user/dealer-inventory.php:55
+msgid "All Listings"
+msgstr "جميع القوائم"
+
+#: partials/magazine/content/title_box_magazine_archive.php:29
+msgid "All News"
+msgstr "جميع الأخبار"
+
+#: ulisting/pricing-plan/payment.php:72 ulisting/pricing-plan/payment.php:101
+msgid "All transactions are secure and encrypted."
+msgstr "جميع المعاملات آمنة ومشفرة."
+
+#: listings/add_car/registration.php:4
+msgid "Already Registered? Members"
+msgstr "بالفعل تسجيلها ؟ الأعضاء"
+
+#: ulisting/account/payment-history.php:34
+msgid "Amount"
+msgstr "المبلغ"
+
+#: partials/rental/common/coupon.php:13
+msgid "amount"
+msgstr "المبلغ"
+
+#: woocommerce/order/tracking.php:25
+msgid "and was completed"
+msgstr "واكتمل"
+
+#: woocommerce/myaccount/form-login.php:185
+msgid "Anti-spam"
+msgstr "مكافحة البريد المزعج"
+
+#: inc/value_my_car/admin-page.php:73 listings/add_car/step_5.php:30
+#: listings/add_car/step_1_additional_fields.php:81
+#: listings/filter/types/checkboxes.php:105
+msgid "Apply"
+msgstr "تطبيق"
+
+#: woocommerce/cart/cart.php:132
+msgid "Apply Coupon"
+msgstr "تطبيق القسيمة"
+
+#: partials/rental/common/coupon-form.php:9
+msgid "Apply coupon"
+msgstr "تطبيق القسيمة"
+
+#: partials/blog/content.php:175 partials/magazine/main-interview.php:77
+#: partials/magazine/main.php:85
+msgid "Author:"
+msgstr "المؤلف:"
+
+#: inc/setup.php:71 inc/helpers.php:28
+msgid "AUTO PARTS"
+msgstr "قطع غيار السيارات"
+
+#. Description of the theme
+msgid ""
+"Automotive, Cars, Vehicle, Boat Dealership, Classifieds WordPress Theme by "
+"StylemixThemes."
+msgstr ""
+"السيارات, السيارات, السيارة, القارب بيع, إعلانات مبوبة وورد موضوع "
+"StylemixThemes."
+
+#: woocommerce/myaccount/my-downloads.php:32
+msgid "Available downloads"
+msgstr "التنزيلات المتوفرة"
+
+#: woocommerce/cart/cart.php:73
+msgid "Available on backorder"
+msgstr "المتاحة على المؤجل"
+
+#: inc/woocommerce_setups_rental.php:484
+msgid "Availble payment method"
+msgstr "افايلبلي طريقة الدفع"
+
+#: ulisting/account/edit-profile.php:33
+msgid "Avatar"
+msgstr "الصورة الرمزية"
+
+#: woocommerce/single-product-reviews.php:104 partials/trade-in.php:347
+#: partials/trade-in.php:348 partials/trade-in.php:376
+#: partials/trade-in.php:377 partials/trade-in.php:894
+#: partials/trade-in.php:895 partials/trade-in.php:923
+#: partials/trade-in.php:924 partials/trade-in.php:1410
+#: partials/trade-in.php:1411 partials/trade-in.php:1439
+#: partials/trade-in.php:1440
+msgid "Average"
+msgstr "متوسط"
+
+#: partials/user/dealer-reviews.php:12
+msgid "Average rating"
+msgstr "متوسط التقييم"
+
+#: partials/user/dealer-reviews.php:24
+#, php-format
+msgid "Based on %d %s"
+msgstr "على أساس %d %s"
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "كن أول من يكتب مشاركة \"%s\""
+
+#: partials/user/dealer-reviews.php:92 partials/user/dealer-reviews.php:96
+msgid "Be the first to write a review!"
+msgstr "كن أول من يكتب تقييم!"
+
+#: partials/user/private/user.php:60
+#: partials/user/private/become-dealer.php:222
+#: partials/user/private/mobile/user-profile.php:104
+msgid "Become a dealer"
+msgstr "تصبح تاجر"
+
+#: partials/trade-in.php:352 partials/trade-in.php:353
+#: partials/trade-in.php:381 partials/trade-in.php:382
+#: partials/trade-in.php:899 partials/trade-in.php:900
+#: partials/trade-in.php:928 partials/trade-in.php:929
+#: partials/trade-in.php:1415 partials/trade-in.php:1416
+#: partials/trade-in.php:1444 partials/trade-in.php:1445
+msgid "Below Average"
+msgstr "أقل من المتوسط"
+
+#: woocommerce/content-product.php:70
+msgid "Best Seller Product"
+msgstr "أفضل بائع المنتج"
+
+#: partials/modals/test-drive.php:46
+msgid "Best time"
+msgstr "أفضل وقت"
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr "الفواتير والشحن"
+
+#: woocommerce/order/order-details-customer.php:65
+#: woocommerce/myaccount/my-address.php:32
+#: woocommerce/myaccount/my-address.php:38
+msgid "Billing address"
+msgstr "عنوان الفواتير"
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing details"
+msgstr "تفاصيل الفواتير"
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Billing email"
+msgstr "الفواتير عبر البريد الإلكتروني"
+
+#: partials/trade-in.php:1272
+msgid "Boat Condition"
+msgstr "القارب في حالة"
+
+#: partials/trade-in.php:1265
+msgid "Boat Information"
+msgstr "قارب المعلومات"
+
+#: partials/trade-in.php:1145 partials/trade-in.php:1315
+msgid "Boat type"
+msgstr "نوع القارب"
+
+#: inc/setup.php:53 inc/helpers.php:25
+msgid "BOATS DEALERSHIP"
+msgstr "قوارب بيع"
+
+#: inc/setup.php:549
+msgid "Bottom menu"
+msgstr "أسفل القائمة"
+
+#: listings/modern_filter/filters/images.php:63
+msgid "Brand"
+msgstr "العلامة التجارية"
+
+#: ulisting/account/my-plans/list.php:89
+msgid "But you can buy them."
+msgstr "ولكن يمكنك شرائها."
+
+#: partials/single-car/car-price.php:116
+#: listings/loop/classified/list/title_price.php:31
+msgid "BUY CAR ONLINE"
+msgstr "شراء السيارات عبر الإنترنت"
+
+#: partials/single-car/car-price.php:68
+msgid "BUY CAR ONLINE:"
+msgstr "شراء السيارات على الانترنت:"
+
+#: ulisting/pricing-plan/list.php:32 ulisting/pricing-plan/list.php:64
+msgid "Buy Now"
+msgstr "شراء الآن"
+
+#: listings/loop/default/grid/title_price.php:14
+msgid "BUY ONLINE"
+msgstr "شراء عبر الإنترنت"
+
+#: ulisting/pricing-plan/payment.php:93 ulisting/add-listing/form.php:180
+#: ulisting/add-listing/form.php:241 ulisting/account/my-plans/list.php:91
+msgid "Buy plan"
+msgstr "شراء خطة"
+
+#: partials/user/dealer-write-review.php:45
+#: partials/user/dealer-single-review.php:11
+msgid "Buying Process"
+msgstr "عملية الشراء"
+
+#: partials/user/dealer-single-review.php:104
+msgid "By"
+msgstr "قبل"
+
+#: woocommerce/content-widget-reviews.php:33
+#: woocommerce/content-widget-reviews.php:46
+#, php-format
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#: partials/trade-in.php:1054 partials/trade-in.php:1541
+msgid ""
+"By submitting this form, you will be requesting trade-in value at no "
+"obligation and\n"
+"\t\twill be contacted within 48 hours by a sales representative."
+msgstr ""
+"من خلال تقديم هذا النموذج ، سوف تكون الطالبة التجارة في القيمة في أي التزام "
+"، سوف يتم الاتصال بك خلال 48 ساعة من قبل ممثل مبيعات."
+
+#: partials/trade-in.php:507
+msgid ""
+"By submitting this form, you will be requesting trade-in value at no "
+"obligation and will be contacted within 48 hours by a sales representative."
+msgstr ""
+"من خلال تقديم هذا النموذج ، سوف تكون الطالبة التجارة في القيمة في أي التزام "
+"، سوف يتم الاتصال بك خلال 48 ساعة من قبل ممثل مبيعات."
+
+#: partials/single-car/car-calculator.php:74
+#: partials/modals/car-calculator.php:92
+#: partials/single-car-boats/boats-calculator.php:58
+msgid "Calculate"
+msgstr "حساب"
+
+#: partials/modals/car-calculator.php:9
+msgid "Calculate Payment"
+msgstr "حساب الدفع"
+
+#: ulisting/custom/widget/widget_dealer_info.php:52
+msgid "Call Free 24/7"
+msgstr "الكلمة الحرة 24/7"
+
+#: woocommerce/myaccount/my-orders.php:98
+#: ulisting/account/my-plans/detail.php:83
+#: partials/user/private/user-inventory.php:9
+#: partials/user/private/user-plans.php:99
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: inc/value_my_car/admin-page.php:90
+#: partials/rental/common/order-info-empty.php:7
+msgid "Car"
+msgstr "السيارة"
+
+#: inc/email_template_manager/email_template_manager.php:18
+msgid "Car Added"
+msgstr "وأضاف السيارة"
+
+#: inc/email_template_manager/email_template_manager.php:26
+msgid "Car Approved"
+msgstr "سيارة المعتمدة"
+
+#: partials/single-car/car-actions.php:82
+#: partials/listing-cars/listing-list-loop-actions.php:85
+#: partials/listing-cars/listing-directive-list-loop-actions.php:87
+#: partials/single-car-boats/boats-actions.php:78
+#: partials/single-aircrafts/action-bar.php:96
+#: listings/loop/default/list/features.php:121
+msgid "Car brochure"
+msgstr "كتيب السيارة"
+
+#: inc/setup.php:11 inc/helpers.php:15
+msgid "CAR DEALERSHIP ONE"
+msgstr "بيع السيارات واحدة"
+
+#: inc/setup.php:17 inc/helpers.php:16
+msgid "CAR DEALERSHIP TWO"
+msgstr "بيع السيارات اثنين"
+
+#: partials/single-car-listing/car-main-four.php:20
+#: partials/single-car-listing/car-main.php:21
+msgid "Car Details"
+msgstr "تفاصيل السيارة"
+
+#: inc/stm_single_dealer.php:7
+msgid "Car in stock"
+msgstr "السيارة في الأوراق المالية"
+
+#: partials/trade-in.php:148 partials/trade-in.php:695
+msgid "Car Information"
+msgstr "معلومات السيارة"
+
+#: inc/setup.php:65 inc/helpers.php:27
+msgid "CAR MAGAZINE"
+msgstr "مجلة السيارات"
+
+#: inc/woocommerce_setups_rental.php:38
+msgid "Car Option"
+msgstr "سيارة الخيار"
+
+#: inc/setup.php:59 inc/helpers.php:26
+msgid "CAR REPAIR SERVICE"
+msgstr "خدمة إصلاح السيارات"
+
+#: inc/email_template_manager/email_template_manager.php:16
+msgid "Car Trade In"
+msgstr "سيارة التجارة في"
+
+#: listings/filter/actions.php:3
+msgid "Cars for sale"
+msgstr "سيارات للبيع"
+
+#: inc/stm_single_dealer.php:5
+msgid "Cars in stock"
+msgstr "السيارات في الأوراق المالية"
+
+#: partials/header/header-nav.php:55 partials/header/header-listing.php:142
+#: partials/header/header-car_dealer.php:162
+#: partials/header/parts/mobile_menu_items.php:38
+msgid "Cart"
+msgstr "عربة"
+
+#: woocommerce/cart/cart-totals.php:29
+msgid "Cart totals"
+msgstr "عربة المجاميع"
+
+#: ulisting/add-listing/form.php:50
+msgid "Category"
+msgstr "الفئة"
+
+#: partials/blog/content.php:126
+msgid "Category:"
+msgstr "الفئة:"
+
+#: partials/user/private/dealer-settings.php:582
+#: partials/user/private/user-settings.php:129
+msgid "Change password"
+msgstr "تغيير كلمة المرور"
+
+#: partials/single-car-listing/car-dealer.php:75
+#: partials/single-car-listing/car-dealer.php:142
+msgid "Chat via WhatsApp"
+msgstr "الدردشة عبر ال WhatsApp"
+
+#: ulisting/pricing-plan/payment.php:31
+msgid "Checkout"
+msgstr "الخروج"
+
+#: partials/user/private/dealer-settings.php:421
+#: partials/user/private/dealer-settings.php:457
+#: partials/user/private/user-settings.php:63
+#: partials/user/private/become-dealer.php:242
+msgid "Choose file"
+msgstr "اختر ملف"
+
+#: partials/trade-in.php:280 partials/trade-in.php:561
+#: partials/trade-in.php:806 partials/trade-in.php:1110
+#: partials/trade-in.php:1343 partials/trade-in.php:1597
+msgid "Choose file..."
+msgstr "اختيار ملف..."
+
+#: listings/add_car/step_3.php:34 listings/add_car/step_3.php:70
+msgid "Choose files"
+msgstr "اختيار الملفات"
+
+#: inc/woocommerce_setups_rental.php:485
+msgid ""
+"Choose payment method available only for this variable product. If this "
+"product will be in cart, all other payment methods will be disabled on "
+"checkout page."
+msgstr ""
+"اختيار طريقة الدفع الوحيدة المتاحة لهذا المنتج متغير. إذا كان هذا المنتج سوف "
+"يكون في عربة, جميع طرق الدفع الأخرى سيتم تعطيل على صفحة الخروج."
+
+#: listings/add_car/step_7.php:13
+msgid "Choose plan"
+msgstr "اختيار خطة"
+
+#: woocommerce/myaccount/my-address.php:91
+#: partials/listing-cars/listing-grid-loop-magazine.php:46
+msgid "City"
+msgstr "المدينة"
+
+#: partials/single-car/car-mpg.php:12
+#: partials/single-car-boats/boats-mpg.php:12
+msgid "city mpg"
+msgstr "مدينة ميلا في الغالون"
+
+#: inc/setup.php:23 inc/helpers.php:17
+msgid "CLASSIFIED LISTING"
+msgstr "مصنفا"
+
+#: inc/setup.php:29 inc/helpers.php:18
+msgid "CLASSIFIED LISTING 2"
+msgstr "تصنف قائمة 2"
+
+#: inc/setup.php:35 inc/helpers.php:19
+msgid "CLASSIFIED LISTING 3"
+msgstr "مصنفا 3"
+
+#: inc/setup.php:77 inc/helpers.php:20
+msgid "CLASSIFIED LISTING 4"
+msgstr "مصنفا 4"
+
+#: inc/helpers.php:21
+msgid "CLASSIFIED LISTING 5"
+msgstr "مصنفا 5"
+
+#: inc/helpers.php:22
+msgid "CLASSIFIED LISTING 6"
+msgstr "مصنفا 6"
+
+#: partials/trade-in.php:342 partials/trade-in.php:343
+#: partials/trade-in.php:371 partials/trade-in.php:372
+#: partials/trade-in.php:889 partials/trade-in.php:890
+#: partials/trade-in.php:918 partials/trade-in.php:919
+#: partials/trade-in.php:1405 partials/trade-in.php:1406
+#: partials/trade-in.php:1434 partials/trade-in.php:1435
+msgid "Clean"
+msgstr "نظيفة"
+
+#: ulisting/filter/stm_search_form_advanced.php:35
+msgid "Clear all"
+msgstr "مسح جميع"
+
+#: footer.php:103
+msgid "Close"
+msgstr "قريب"
+
+#: partials/single-car/car-review_rating.php:41
+#: partials/listing-cars/listing-grid-loop-magazine.php:69
+msgid "Comfort"
+msgstr "الراحة"
+
+#. Name of the template
+msgid "Coming soon"
+msgstr "قريبا"
+
+#: comments.php:28
+msgid "Comment navigation"
+msgstr "تعليق الملاحة"
+
+#: partials/trade-in.php:39 partials/trade-in.php:476 partials/trade-in.php:605
+#: partials/trade-in.php:1017 partials/trade-in.php:1156
+#: partials/trade-in.php:1510
+msgid "Comments"
+msgstr "تعليقات"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: woocommerce/myaccount/my-address.php:83
+msgid "Company"
+msgstr "الشركة"
+
+#: partials/user/private/become-dealer.php:67
+msgid "Company license"
+msgstr "ترخيص شركة"
+
+#: ulisting/account/edit-profile.php:75
+msgid "Company Name"
+msgstr "اسم الشركة"
+
+#: inc/user-extra.php:137 partials/user/private/dealer-settings.php:528
+#: partials/user/private/become-dealer.php:66
+#: partials/user/private/become-dealer.php:261
+msgid "Company name"
+msgstr "اسم الشركة"
+
+#: partials/user/private/dealer-settings.php:476
+msgid "Company Website URL"
+msgstr "موقع الشركة URL"
+
+#: partials/compare-notification.php:19 partials/compare.php:22
+#: partials/single-car-motorcycle/car-gallery.php:48
+#: partials/header/header-nav.php:41 partials/header/header-listing.php:138
+#: partials/header/header-car_magazine.php:81
+#: partials/header/header-car_magazine.php:121
+#: partials/header/header-car_dealer.php:155
+#: partials/listing-cars/motos/grid.php:189
+#: partials/listing-cars/motos/list.php:192
+#: partials/listing-cars/motos/moto-single-grid.php:157
+#: partials/header/header-ev-dealer/header.php:190
+#: partials/header/parts/mobile_menu_items.php:57
+#: partials/header/parts/compare.php:11
+#: partials/header/header-classified-five/header.php:102
+msgid "Compare"
+msgstr "قارن"
+
+#: listings/loop/default/list/features.php:101
+msgid "compare"
+msgstr "قارن"
+
+#: partials/compare.php:18
+msgid "Compare Boats"
+msgstr "قارن القوارب"
+
+#: ulisting/listing-compare/compare-page.php:10
+msgid "COMPARE ITEMS"
+msgstr "مقارنة البنود"
+
+#: partials/compare.php:15
+msgid "Compare Vehicles"
+msgstr "قارن المركبات"
+
+#: woocommerce/myaccount/form-edit-account.php:87
+msgid "Confirm new password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#: ulisting/account/edit-profile.php:170 ulisting/account/edit-profile.php:171
+msgid "Confirmation new password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#: partials/user/private/dealer-settings.php:59
+msgid "Confirmation password is wrong"
+msgstr "تأكيد كلمة المرور خطأ"
+
+#: partials/trade-in.php:162 partials/trade-in.php:709
+#: partials/trade-in.php:1279
+msgid "Contact details"
+msgstr "تفاصيل الاتصال"
+
+#: woocommerce/order/order-again.php:29
+msgid "Contact Us"
+msgstr "الاتصال بنا"
+
+#: partials/rental/common/order-info-accept.php:8
+msgid "Continue"
+msgstr "تواصل"
+
+#: partials/blog/grid-loop.php:49 partials/blog/content-grid-loop.php:87
+msgid "Continue reading"
+msgstr "مواصلة القراءة"
+
+#: woocommerce/checkout/thankyou.php:112
+msgid "Continue Shopping"
+msgstr "مواصلة التسوق"
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "Country"
+msgstr "البلد"
+
+#: woocommerce/cart/cart.php:131 partials/rental/common/coupon-form.php:5
+#: partials/rental/common/coupon.php:11
+msgid "Coupon code"
+msgstr "رمز القسيمة"
+
+#: partials/rental/common/coupon.php:7
+msgid "Coupons"
+msgstr "كوبونات"
+
+#: ulisting/add-listing/add.php:27
+msgid "Create"
+msgstr "إنشاء"
+
+#: woocommerce/checkout/form-billing.php:73
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"إنشاء حساب عن طريق إدخال المعلومات أدناه. إذا كنت زبون يرجى تسجيل الدخول في "
+"أعلى الصفحة."
+
+#: woocommerce/checkout/form-billing.php:62
+msgid "Create an account?"
+msgstr "إنشاء حساب ؟ "
+
+#: ulisting/custom/add_listing_step_nav.php:23
+msgid "Create listing"
+msgstr "إنشاء قائمة"
+
+#: ulisting/account/payment-history.php:35
+#: ulisting/account/my-plans/list.php:36
+msgid "Created"
+msgstr "خلق"
+
+#: woocommerce/myaccount/orders.php:63
+msgid "Created Date"
+msgstr "تاريخ الإنشاء"
+
+#. %s: Selected currency.
+#: inc/multiple_currencies.php:29
+#, php-format
+msgid "Currency (%s)"
+msgstr "العملة (%s)"
+
+#: hb_templates/elements/multi-currency/multi-currency.php:22
+msgid "Currency: "
+msgstr "العملة: "
+
+#: partials/user/private/dealer-settings.php:657
+#: partials/user/private/user-settings.php:215
+msgid "Current Password"
+msgstr "كلمة المرور الحالية"
+
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Current password"
+msgstr "كلمة المرور الحالية"
+
+#: woocommerce/myaccount/form-edit-account.php:72
+msgid "Current password (leave blank to leave unchanged)"
+msgstr "كلمة المرور الحالية (اتركه فارغا ترك دون تغيير)"
+
+#: partials/user/private/dealer.php:70 partials/user/private/dealer.php:111
+#: partials/user/private/user.php:87 partials/user/private/user.php:128
+#: partials/user/private/mobile/dealer-profile.php:41
+#: partials/user/private/mobile/dealer-profile.php:75
+#: partials/user/private/mobile/user-profile.php:57
+#: partials/user/private/mobile/user-profile.php:89
+msgid "Current Plan"
+msgstr "الخطة الحالية"
+
+#: listings/add_car/step_6.php:48
+msgid "Custom label instead of price"
+msgstr "تسمية مخصصة بدلا من السعر"
+
+#: woocommerce/order/order-details-customer.php:26
+msgid "Customer Details"
+msgstr "تفاصيل العملاء"
+
+#: partials/user/dealer-write-review.php:44
+#: partials/user/dealer-single-review.php:10
+msgid "Customer Service"
+msgstr "خدمة العملاء"
+
+#: ulisting/account/navigation.php:23
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+#: woocommerce/myaccount/my-orders.php:30
+#: woocommerce/myaccount/my-orders.php:56
+#: woocommerce/myaccount/my-orders.php:75
+msgid "Date"
+msgstr "تاريخ"
+
+#: woocommerce/checkout/thankyou.php:65
+msgid "Date:"
+msgstr "التاريخ:"
+
+#: inc/rental/PriceForQuantityDays.php:295
+#: inc/rental/PriceForQuantityDays.php:341 inc/rental/DiscountByDays.php:154
+#: inc/rental/DiscountByDays.php:191
+msgid "Days"
+msgstr "أيام"
+
+#: inc/woocommerce_setups.php:102
+msgid "Dealer"
+msgstr "تاجر"
+
+#: partials/user/private/dealer.php:53
+#: partials/user/private/mobile/dealer-profile.php:106
+msgid "Dealer Contact Phone"
+msgstr "تاجر الاتصال الهاتف"
+
+#: partials/user/private/dealer.php:60
+#: partials/user/private/mobile/dealer-profile.php:114
+msgid "Dealer Email"
+msgstr "تاجر البريد الإلكتروني"
+
+#: inc/user-extra.php:181
+msgid "Dealer Image"
+msgstr "تاجر صورة"
+
+#: inc/user-extra.php:190
+msgid "Dealer image(stores URL and path to image)"
+msgstr "تاجر صورة(مخازن URL مسار الصورة)"
+
+#: partials/user/private/dealer-settings.php:522
+msgid "Dealer Information"
+msgstr "تاجر المعلومات"
+
+#: partials/user/dealer-inventory.php:26
+msgid "Dealer Inventory"
+msgstr "تاجر المخزون"
+
+#: inc/user-extra.php:195
+msgid "Dealer Location"
+msgstr "تاجر الموقع"
+
+#: inc/user-extra.php:201
+msgid "Dealer location address"
+msgstr "تاجر عنوان الموقع"
+
+#: inc/user-extra.php:205
+msgid "Dealer location latitude"
+msgstr "تاجر موقع العرض"
+
+#: inc/user-extra.php:209
+msgid "Dealer location longitude"
+msgstr "تاجر الموقع الطول"
+
+#: inc/user-extra.php:167
+msgid "Dealer Logo"
+msgstr "تاجر شعار"
+
+#: inc/user-extra.php:176
+msgid "Dealer logo(stores URL and path to image)"
+msgstr "تاجر شعار(مخازن URL مسار الصورة)"
+
+#: partials/user/dealer-reviews.php:9
+msgid "Dealer Rating"
+msgstr "تاجر تصنيف"
+
+#: partials/user/dealer-public-profile.php:149
+msgid "Dealer Reviews"
+msgstr "تاجر استعراض"
+
+#: inc/user-extra.php:119
+msgid "Dealer Settings"
+msgstr "تاجر الإعدادات"
+
+#: partials/user/dealer-public-profile.php:143
+msgid "Dealer's Inventory"
+msgstr "تاجر المخزون"
+
+#: inc/user-filter.php:228
+msgid "Dealerships"
+msgstr "وكلاء"
+
+#: inc/user-filter.php:225
+msgid "Dealerships near"
+msgstr "وكلاء بالقرب"
+
+#: inc/setup.php:609
+msgid "Default sidebar for Single Boat Page (Boats layout)"
+msgstr "الشريط الجانبي الافتراضي واحد القارب صفحة (قوارب تخطيط)"
+
+#: inc/setup.php:596
+msgid "Default sidebar for Single Car Page (Listing layout)"
+msgstr "الشريط الجانبي الافتراضي واحد السيارة الصفحة (قائمة تخطيط)"
+
+#: ulisting/account/my-listing.php:146 woocommerce/cart/cart.php:32
+#: partials/listing-cars/listing-list-directory-edit-loop.php:246
+#: partials/user/private/user-inventory.php:4
+#: partials/user/private/user-inventory.php:8
+msgid "Delete"
+msgstr "حذف"
+
+#: partials/user/private/demo-alert.php:15
+msgid "Demo mode active"
+msgstr "طريقة العرض النشطة"
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr "الوصف"
+
+#: inc/value_my_car/admin-page.php:91
+msgid "Details"
+msgstr "التفاصيل"
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:200
+msgid "Disable"
+msgstr "تعطيل"
+
+#: partials/user/private/user-favourite.php:122
+#: partials/user/private/user-inventory.php:37
+msgid "Disabled"
+msgstr "تعطيل"
+
+#: partials/rental/common/order-info.php:224
+msgid "DISCOUNT"
+msgstr "خصم"
+
+#: inc/rental/DiscountByDays.php:164 inc/rental/DiscountByDays.php:200
+#: partials/rental/main-shop/promo-popup.php:110
+msgid "Discount"
+msgstr "خصم"
+
+#: inc/rental/PricePerHour.php:140
+msgid "Discount By Days"
+msgstr "الخصم قبل أيام"
+
+#: partials/rental/common/order-info.php:216
+msgid "Discount program"
+msgstr "برنامج الخصم"
+
+#: partials/rental/common/order-info.php:133
+#, php-format
+msgid ""
+"Discount: <span class=\"show-discount-popup\">%1$s Days and more %2$s "
+"sale</span>"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1324
+msgid "Discounts:"
+msgstr "الخصومات:"
+
+#: partials/user/private/demo-alert.php:23
+msgid "Dismiss"
+msgstr "رفض"
+
+#: woocommerce/myaccount/form-edit-account.php:47
+msgid "Display name"
+msgstr "اسم العرض"
+
+#: inc/user-filter.php:225 inc/user-filter.php:228
+msgid "Displaying"
+msgstr "عرض"
+
+#: inc/user-filter.php:205
+msgid "Displaying Dealerships near"
+msgstr "عرض وكلاء بالقرب"
+
+#: inc/user-filter.php:35
+msgid "Displaying Local Car Dealerships"
+msgstr "عرض وكلاء السيارات المحليين"
+
+#: partials/listing-cars/listing-list-directory-loop-animate.php:211
+#: listings/loop/default/list/options.php:71
+msgid "Distance"
+msgstr "المسافة"
+
+#: inc/stm-ajax.php:603
+msgid "Do not cheat"
+msgstr "لا تغش"
+
+#: inc/stm-ajax.php:545
+msgid "Do not cheat!"
+msgstr "لا تغش!"
+
+#: partials/user/private/user-inventory.php:106
+msgid "Do you want to delete Listing images permanently?"
+msgstr "هل تريد حذف قائمة الصور بشكل دائم ؟ "
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:162
+msgid "Don't sell online"
+msgstr "لا بيع على الانترنت"
+
+#: ulisting/custom/add_listing_step_nav.php:27
+msgid "Done"
+msgstr "به"
+
+#: partials/single-car/car-calculator.php:65
+#: partials/modals/car-calculator.php:87
+#: partials/single-car-boats/boats-calculator.php:53
+msgid "Down Payment"
+msgstr "دفعة أولى"
+
+#: partials/single-car/car-calculator.php:166
+#: partials/modals/car-calculator.php:186
+#: partials/single-car-boats/boats-calculator.php:150
+msgid "Down payment can not be more than vehicle price"
+msgstr "الدفعة الأولى لا يمكن أن يكون أكثر من سعر السيارة"
+
+#: partials/single-car/car-actions.php:79
+#: partials/listing-cars/listing-list-loop-actions.php:82
+#: partials/listing-cars/listing-directive-list-loop-actions.php:84
+#: partials/single-car-listing/car-gallery.php:68
+#: partials/single-car-boats/boats-actions.php:75
+#: partials/single-aircrafts/action-bar.php:93
+#: listings/loop/default/list/features.php:118
+msgid "Download brochure"
+msgstr "تحميل الكتيب"
+
+#: ulisting/account/my-listing.php:89
+msgid "Draft"
+msgstr "مشروع"
+
+#: inc/woocommerce_setups_rental.php:393
+msgid "Driver license"
+msgstr "رخصة القيادة"
+
+#: inc/woocommerce_setups_rental.php:548
+#: partials/rental/wizard-nav/nav-step-1.php:38
+msgid "Drop off"
+msgstr "النعاس"
+
+#: ulisting/pricing-plan/payment.php:49 ulisting/pricing-plan/list.php:28
+#: ulisting/pricing-plan/list.php:60
+msgid "Duration"
+msgstr "مدة"
+
+#: woocommerce/myaccount/my-address.php:126
+#: partials/listing-cars/listing-list-directory-edit-loop.php:186
+#: partials/listing-cars/listing-list-directory-edit-loop.php:242
+msgid "Edit"
+msgstr "تحرير"
+
+#: ulisting/account/dashboard.php:37
+msgid "Edit account"
+msgstr "تحرير الحساب"
+
+#: ulisting/add-listing/add-listing.php:31
+msgid "Edit Item"
+msgstr "تحرير عنصر ، "
+
+#: listings/add_car/check_user.php:87
+msgid "Edit Listing"
+msgstr "تحرير قائمة"
+
+#: ulisting/add-listing/edit.php:18
+msgid "Edit listing"
+msgstr "تحرير قائمة"
+
+#: inc/setup.php:5 inc/helpers.php:14
+msgid "ELECTRIC VEHICLE DEALERSHIP"
+msgstr "السيارة الكهربائية لبيع"
+
+#: inc/setup.php:107
+msgid "ELEMENTOR CAR DEALERSHIP ONE"
+msgstr "ELEMENTOR لبيع السيارات واحدة"
+
+#: inc/setup.php:137
+msgid "ELEMENTOR CAR DEALERSHIP ONE RTL"
+msgstr "ELEMENTOR لبيع السيارات واحدة RTL"
+
+#: inc/setup.php:119
+msgid "ELEMENTOR CAR DEALERSHIP TWO"
+msgstr "ELEMENTOR لبيع السيارات اثنين"
+
+#: inc/setup.php:125
+msgid "ELEMENTOR CLASSIFIED FOUR"
+msgstr "ELEMENTOR تصنيف أربعة"
+
+#: inc/setup.php:113
+msgid "ELEMENTOR CLASSIFIED ONE"
+msgstr "ELEMENTOR تصنيف واحد"
+
+#: inc/setup.php:131
+msgid "ELEMENTOR CLASSIFIED THREE"
+msgstr "ELEMENTOR تصنيف ثلاثة"
+
+#: woocommerce/myaccount/form-login.php:153
+msgid "EMAIL"
+msgstr "البريد الإلكتروني"
+
+#: woocommerce/single-product-reviews.php:83 ulisting/account/register.php:56
+#: ulisting/account/edit-profile.php:66 partials/modals/test-drive.php:32
+#: partials/modals/get-car-price.php:25 partials/modals/trade-offer.php:37
+#: partials/user/private/dealer-settings.php:508
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: listings/add_car/registration.php:46
+msgid "Email *"
+msgstr "البريد الإلكتروني *"
+
+#: partials/trade-in.php:460 partials/trade-in.php:991
+#: partials/trade-in.php:1496
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: woocommerce/myaccount/form-edit-account.php:55
+#: woocommerce/myaccount/form-login.php:162
+msgid "Email address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: inc/user-extra.php:20
+msgid "Email address is visible to anyone"
+msgstr "عنوان البريد الإلكتروني غير مرئية إلى أي شخص"
+
+#: inc/email_template_manager/email_template_manager.php:4
+#: inc/email_template_manager/main.php:16
+msgid "Email Template Manager"
+msgstr "قالب البريد الإلكتروني مدير"
+
+#: inc/user-extra.php:15
+msgid "Email visibility"
+msgstr "البريد الإلكتروني الرؤية"
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Email you used during checkout."
+msgstr "البريد الإلكتروني الذي استخدمته أثناء الخروج."
+
+#: partials/user/private/user-settings.php:111
+msgid "Email*"
+msgstr "البريد الإلكتروني*"
+
+#: woocommerce/order/order-details-customer.php:38
+#: woocommerce/checkout/thankyou.php:71
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: partials/compare.php:76 partials/compare.php:135 partials/compare.php:301
+#: partials/compare.php:387
+msgid "Empty"
+msgstr "فارغة"
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:193
+msgid "Enable"
+msgstr "تمكين"
+
+#: inc/rental/PriceForDatePeriod.php:447 inc/rental/PriceForDatePeriod.php:489
+msgid "End Date"
+msgstr "تاريخ النهاية"
+
+#: listings/add_car/step_1.php:104
+#, php-format
+msgid "Enter %s %s"
+msgstr "أدخل %s %s"
+
+#: woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr "أدخل كلمة المرور الجديدة أدناه."
+
+#: ulisting/account/edit-profile.php:107
+msgid "Enter address"
+msgstr "أدخل عنوان"
+
+#: partials/user/private/dealer-settings.php:531
+#: partials/user/private/become-dealer.php:264
+msgid "Enter Company Name"
+msgstr "أدخل اسم الشركة"
+
+#: ulisting/account/edit-profile.php:79
+msgid "Enter company name"
+msgstr "أدخل اسم الشركة"
+
+#: listings/add_car/step_1_additional_fields.php:17
+msgid "Enter date"
+msgstr "أدخل التاريخ"
+
+#: listings/add_car/registration.php:47
+#: partials/user/private/dealer-settings.php:509
+#: partials/user/private/user-settings.php:114
+msgid "Enter E-mail"
+msgstr "أدخل البريد الإلكتروني"
+
+#: ulisting/account/register.php:60 ulisting/account/edit-profile.php:70
+msgid "Enter email"
+msgstr "أدخل البريد الإلكتروني"
+
+#: ulisting/account/edit-profile.php:100
+msgid "Enter fax"
+msgstr "أدخل رقم الفاكس"
+
+#: partials/user/private/dealer-settings.php:485
+#: partials/user/private/user-settings.php:84
+msgid "Enter First Name"
+msgstr "أدخل الاسم الأول"
+
+#: listings/add_car/registration.php:28
+msgid "Enter First name"
+msgstr "أدخل الاسم الأول"
+
+#: ulisting/account/register.php:42 ulisting/account/edit-profile.php:48
+msgid "Enter first name"
+msgstr "أدخل الاسم الأول"
+
+#: partials/user/private/dealer-settings.php:491
+#: partials/user/private/user-settings.php:92
+msgid "Enter Last Name"
+msgstr "أدخل الاسم الأخير"
+
+#: listings/add_car/registration.php:32
+msgid "Enter Last name"
+msgstr "أدخل الاسم الأخير"
+
+#: ulisting/account/register.php:51 ulisting/account/edit-profile.php:59
+msgid "Enter last name"
+msgstr "أدخل الاسم الأخير"
+
+#: listings/add_car/step_1.php:176
+msgid "Enter Latitude"
+msgstr "أدخل العرض"
+
+#: ulisting/account/edit-profile.php:114
+msgid "Enter license"
+msgstr "أدخل الترخيص"
+
+#: partials/user/private/dealer-settings.php:539
+#: partials/user/private/become-dealer.php:272
+msgid "Enter License number"
+msgstr "أدخل رقم الرخصة"
+
+#: partials/user/private/dealer-settings.php:635
+#: partials/user/private/user-settings.php:189
+msgid "Enter Linkedin Public profile URL"
+msgstr "أدخل ينكدين الشخصي العام URL"
+
+#: listings/add_car/registration.php:54
+msgid "Enter Login"
+msgstr "أدخل تسجيل الدخول"
+
+#: ulisting/account/login.php:22 ulisting/account/register.php:33
+msgid "Enter login"
+msgstr "أدخل تسجيل الدخول"
+
+#: listings/add_car/check_user.php:52 partials/user/user-dropdown.php:51
+#: partials/user/private/mobile/user.php:8
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:53
+#: partials/header/header-classified-five/parts/account-dropdown.php:53
+msgid "Enter login or E-mail"
+msgstr "إدخال اسم المستخدم أو البريد الإلكتروني"
+
+#: listings/add_car/step_1.php:184
+msgid "Enter Longitude"
+msgstr "أدخل الطول"
+
+#: ulisting/account/edit-profile.php:86
+msgid "Enter mobile phone"
+msgstr "أدخل الهاتف المحمول"
+
+#: partials/user/private/password-recovery.php:36
+msgid "Enter new password"
+msgstr "أدخل كلمة المرور الجديدة"
+
+#: ulisting/account/edit-profile.php:93
+msgid "Enter office phone"
+msgstr "أدخل هاتف المكتب"
+
+#: listings/add_car/registration.php:60
+msgid "Enter Password"
+msgstr "أدخل كلمة المرور"
+
+#: ulisting/account/login.php:32 ulisting/account/register.php:75
+#: listings/add_car/check_user.php:58 partials/user/user-dropdown.php:56
+#: partials/user/private/mobile/user.php:13
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:58
+#: partials/header/header-classified-five/parts/account-dropdown.php:58
+msgid "Enter password"
+msgstr "أدخل كلمة المرور"
+
+#: ulisting/account/register.php:84
+msgid "Enter password repeat"
+msgstr "أدخل كلمة المرور تكرار"
+
+#: listings/add_car/registration.php:39
+#: partials/user/private/dealer-settings.php:499
+#: partials/user/private/user-settings.php:102
+msgid "Enter Phone"
+msgstr "أدخل الهاتف"
+
+#: inc/stm-ajax.php:904 inc/stm-ajax.php:911
+#, php-format
+msgid "Enter required %s field"
+msgstr "أدخل المطلوبة %s المجال"
+
+#: listings/add_car/step_5.php:10
+msgid "Enter Seller's notes"
+msgstr "أدخل البائع الملاحظات"
+
+#: ulisting/account/edit-profile.php:121
+msgid "Enter tax number"
+msgstr "أدخل الرقم الضريبي"
+
+#: listings/add_car/step_1_additional_fields.php:38
+msgid "Enter VIN"
+msgstr "أدخل فين"
+
+#: partials/user/private/dealer-settings.php:477
+msgid "Enter Website URL"
+msgstr "أدخل عنوان الموقع"
+
+#: partials/user/private/dealer-settings.php:654
+#: partials/user/private/user-settings.php:211
+msgid "Enter your Current Password to confirm changes"
+msgstr "أدخل كلمة المرور الحالية لتأكيد التغييرات"
+
+#: partials/user/private/dealer-settings.php:615
+#: partials/user/private/user-settings.php:165
+msgid "Enter your Facebook profile URL"
+msgstr "Enter your Facebook profile URL"
+
+#: partials/user/private/dealer-settings.php:550
+#: partials/user/private/become-dealer.php:284
+msgid "Enter Your location"
+msgstr "أدخل الموقع الخاص بك"
+
+#: partials/user/dealer-write-review.php:30
+msgid "Enter Your Review"
+msgstr "أدخل الاستعراض الخاص بك"
+
+#: partials/user/private/dealer-settings.php:564
+#: partials/user/private/become-dealer.php:298
+msgid "Enter Your sales hours"
+msgstr "أدخل مبيعات ساعات"
+
+#: partials/user/private/dealer-settings.php:624
+#: partials/user/private/user-settings.php:176
+msgid "Enter your Twitter URL"
+msgstr "أدخل عنوان URL الخاص بك التغريد"
+
+#: partials/user/private/dealer-settings.php:644
+#: partials/user/private/user-settings.php:200
+msgid "Enter Youtube channel URL"
+msgstr "تدخل قناة يوتيوب URL"
+
+#: listings/add_car/step_1.php:168
+msgid "Enter ZIP or Address"
+msgstr "إدخال الرمز البريدي أو عنوان"
+
+#: inc/setup.php:95 inc/helpers.php:31
+msgid "EQUIPMENT"
+msgstr "معدات"
+
+#: woocommerce/notices/error.php:29 inc/value_my_car/value_my_car.php:92
+msgid "Error"
+msgstr "خطأ"
+
+#: partials/user/private/dealer-settings.php:7
+msgid "Error, try again"
+msgstr "خطأ حاول مرة أخرى"
+
+#: woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "estimated for %s"
+msgstr "المقدرة %s"
+
+#: partials/rental/common/order-info.php:205
+#: partials/rental/common/order-info-empty.php:104
+msgid "Estimated total"
+msgstr "يقدر إجمالي"
+
+#: inc/woocommerce_setups_rental.php:602
+#: partials/rental/wizard-nav/nav-step-3.php:15
+#, php-format
+msgid "Estimated Total - %s"
+msgstr "يقدر المجموع - %s"
+
+#: partials/user/dealer-write-review.php:24
+msgid "Example: Great Service, clean facilities, etc"
+msgstr "على سبيل المثال: خدمة كبيرة, نظيفة ومرافق الخ"
+
+#: inc/scripts_styles.php:459
+msgctxt "Exo 2 font: on or off"
+msgid "on"
+msgstr "على"
+
+#: partials/user/private/user-plans.php:84
+msgid "Expire Through"
+msgstr "تنتهي خلال"
+
+#: ulisting/account/my-listing.php:182 ulisting/account/my-plans/list.php:35
+#: partials/user/private/user-plans.php:50
+msgid "Expired"
+msgstr "انتهت"
+
+#: partials/single-car/car-review_rating.php:59
+#: partials/listing-cars/listing-grid-loop-magazine.php:83
+msgid "Exterior"
+msgstr "الخارجي"
+
+#: partials/trade-in.php:31 partials/trade-in.php:304 partials/trade-in.php:597
+#: partials/trade-in.php:835 partials/trade-in.php:1148
+#: partials/trade-in.php:1367
+msgid "Exterior color"
+msgstr "اللون الخارجي"
+
+#: partials/trade-in.php:34 partials/trade-in.php:600
+#: partials/trade-in.php:1151
+msgid "Exterior condition"
+msgstr "الخارجي شرط"
+
+#: partials/trade-in.php:337 partials/trade-in.php:338
+#: partials/trade-in.php:366 partials/trade-in.php:367
+#: partials/trade-in.php:884 partials/trade-in.php:885
+#: partials/trade-in.php:913 partials/trade-in.php:914
+#: partials/trade-in.php:1400 partials/trade-in.php:1401
+#: partials/trade-in.php:1429 partials/trade-in.php:1430
+msgid "Extra clean"
+msgstr "نظيفة اضافية"
+
+#: inc/user-extra.php:67 partials/user/private/dealer-settings.php:613
+#: partials/user/private/user-settings.php:161
+msgid "Facebook"
+msgstr "Facebook"
+
+#: partials/user/user-dropdown.php:36
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:37
+#: partials/header/header-classified-five/parts/account-dropdown.php:37
+msgid "Favorites"
+msgstr "المفضلة"
+
+#: ulisting/account/edit-profile.php:96
+msgid "Fax"
+msgstr "الفاكس"
+
+#: inc/woocommerce_setups_rental.php:1026 ulisting/account/dashboard.php:58
+msgid "Fax:"
+msgstr "الفاكس:"
+
+#: ulisting/account/my-listing.php:128 ulisting/loop/thumbnail-box.php:88
+#: partials/listing-cars/listing-list-directory-edit-loop.php:219
+#: partials/single-aircrafts/action-bar.php:48
+msgid "Featured"
+msgstr "المميز"
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:219
+msgid "Featured (pending)"
+msgstr "ظهرت (انتظار)"
+
+#: listings/classified/filter/featured.php:36
+msgid "Featured Classified"
+msgstr "ظهرت المبوبة"
+
+#: ulisting/pricing-plan/payment.php:48
+#: partials/single-car-listing/car-main-four.php:32
+#: partials/single-car-listing/car-main.php:38
+msgid "Features"
+msgstr "الميزات"
+
+#: partials/trade-in.php:54 partials/trade-in.php:617
+#: partials/trade-in.php:1171
+msgid "field"
+msgstr "المجال"
+
+#: inc/helpers.php:860
+msgid "file size big"
+msgstr "حجم الملف كبير"
+
+#: inc/helpers.php:859
+msgid "file type noimg"
+msgstr "نوع الملف noimg"
+
+#: partials/single-car/car-calculator.php:36
+#: partials/modals/car-calculator.php:53
+#: partials/single-car-boats/boats-calculator.php:23
+msgid "Financing calculator"
+msgstr "حاسبة التمويل"
+
+#: partials/rental/common/order-info-empty.php:18
+msgid "Find a vehicle"
+msgstr "العثور على سيارة"
+
+#: woocommerce/myaccount/my-address.php:75 listings/add_car/registration.php:27
+msgid "First Name"
+msgstr "الاسم الأول"
+
+#: partials/trade-in.php:446 partials/trade-in.php:967
+#: partials/trade-in.php:1483 ulisting/account/register.php:38
+#: ulisting/account/edit-profile.php:44
+#: woocommerce/myaccount/form-edit-account.php:35
+#: partials/user/private/dealer-settings.php:484
+#: partials/user/private/user-settings.php:81
+msgid "First name"
+msgstr "الاسم الأول"
+
+#: inc/rental/PricePerHour.php:140
+msgid "Fixed Price By Quantity Days"
+msgstr "سعر ثابت حسب الكمية أيام"
+
+#: inc/woocommerce_setups_rental.php:1317
+msgid "Fixed price:"
+msgstr "سعر ثابت:"
+
+#: inc/setup.php:567
+msgid "Footer"
+msgstr "تذييل"
+
+#: inc/setup.php:569
+msgid "Footer Widgets Area"
+msgstr "الحاجيات تذييل المنطقة"
+
+#: partials/rental/common/order-info.php:176
+msgid "for"
+msgstr "بالنسبة"
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Found in your order confirmation email."
+msgstr "وجدت في تأكيد طلبك عبر البريد الإلكتروني."
+
+#: inc/MultiplePlan.php:72 ulisting/add-listing/form.php:102
+#: partials/user/private/dealer.php:112 partials/user/private/user.php:129
+#: partials/user/private/mobile/dealer-profile.php:76
+#: partials/user/private/mobile/user-profile.php:90
+msgid "Free"
+msgstr "مجانا"
+
+#: inc/stm_single_dealer.php:145
+msgid "From"
+msgstr "من"
+
+#: inc/woocommerce_setups_rental.php:1312
+msgid "From "
+msgstr "من "
+
+#: woocommerce/myaccount/dashboard.php:35
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: ulisting/account/my-listing.php:184
+msgid "Future"
+msgstr "المستقبل"
+
+#: partials/trade-in.php:24
+msgid "GDPR"
+msgstr "GDPR"
+
+#: partials/user/private/dealer.php:107 partials/user/private/user.php:124
+#: partials/user/private/mobile/dealer-profile.php:71
+#: partials/user/private/mobile/user-profile.php:85
+msgid "Get new plan"
+msgstr "الحصول على خطة جديدة ، "
+
+#: partials/user/private/user-plans.php:129
+msgid "Get Plan"
+msgstr "الحصول على خطة"
+
+#: woocommerce/myaccount/orders.php:123
+msgid "Go shop"
+msgstr "الذهاب للتسوق"
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Good"
+msgstr "جيد"
+
+#: partials/trade-in.php:1455
+msgid "Has boat been in accident"
+msgstr "وقد قارب في حادث"
+
+#: partials/trade-in.php:392 partials/trade-in.php:939
+msgid "Has vehicle been in accident"
+msgstr "قد السيارة في الحادث"
+
+#: woocommerce/myaccount/orders.php:58
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:31
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#: listings/add_car/step_1_additional_fields.php:58
+#: partials/single-car-listing/car-data.php:42
+#: partials/single-car-listing/car-data.php:52
+#: listings/loop/woo/listing_data.php:37 listings/loop/woo/listing_data.php:47
+msgid "History"
+msgstr "التاريخ"
+
+#: partials/single-car-motorcycle/car-links.php:65
+#: partials/listing-cars/motos/list-actions.php:53
+msgid "History report"
+msgstr "تاريخ التقرير"
+
+#: partials/service/header-service.php:29
+#: partials/service/header-service.php:34
+#: partials/header/header-coming-soon.php:6
+#: partials/header/header-coming-soon.php:15
+#: partials/header/header-aircrafts.php:38
+#: partials/header/header-aircrafts.php:44
+#: partials/header/header-motorcycle.php:60
+#: partials/header/header-motorcycle.php:65
+#: partials/header/header-motorcycle.php:98
+#: partials/header/header-motorcycle.php:106
+#: partials/header/header-boats-mobile.php:19
+#: partials/header/header-boats-mobile.php:24 partials/header/header-404.php:8
+#: partials/header/header-404.php:12 partials/header/header-listing.php:44
+#: partials/header/header-listing.php:49 partials/header/header-boats.php:35
+#: partials/header/header-boats.php:40
+#: partials/header/header-car_magazine.php:38
+#: partials/header/header-car_magazine.php:43
+#: partials/header/header-car_dealer_two.php:35
+#: partials/header/header-car_dealer_two.php:40
+#: partials/header/header-car_dealer.php:44
+#: partials/header/header-car_dealer.php:52
+#: partials/header/header-car_rental.php:38
+#: partials/header/header-car_rental.php:43
+#: partials/header/header-equipment.php:31
+#: partials/header/header-equipment.php:36
+#: partials/header/header-ev-dealer/header.php:73
+#: partials/header/header-ev-dealer/header.php:78
+#: partials/header/header-classified-five/header.php:47
+#: partials/header/header-classified-five/header.php:52
+msgid "Home"
+msgstr "المنزل"
+
+#: 404.php:8
+msgid "Home Page"
+msgstr "الصفحة الرئيسية"
+
+#. URI of the theme
+msgid "http://motors.stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: partials/trade-in.php:1147 partials/trade-in.php:1327
+msgid "Hull material"
+msgstr "مادة بدن"
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:46
+msgid "Hwy"
+msgstr "Hwy"
+
+#: partials/single-car/car-mpg.php:19
+#: partials/single-car-boats/boats-mpg.php:19
+msgid "hwy mpg"
+msgstr "hwy mpg"
+
+#: listings/add_car/registration.php:69
+msgid "I accept the terms of the"
+msgstr "أوافق على شروط"
+
+#: partials/user/dealer-write-review.php:35
+msgid "I am not a dealer, and I am not employed by a dealership."
+msgstr "أنا لست تاجر و أنا لست موظفا في الوكالة."
+
+#: partials/trade-in.php:357 partials/trade-in.php:358
+#: partials/trade-in.php:386 partials/trade-in.php:387
+#: partials/trade-in.php:404 partials/trade-in.php:405
+#: partials/trade-in.php:904 partials/trade-in.php:905
+#: partials/trade-in.php:933 partials/trade-in.php:934
+#: partials/trade-in.php:951 partials/trade-in.php:952
+#: partials/trade-in.php:1420 partials/trade-in.php:1421
+#: partials/trade-in.php:1449 partials/trade-in.php:1450
+#: partials/trade-in.php:1467 partials/trade-in.php:1468
+msgid "I don't know"
+msgstr "أنا لا أعرف"
+
+#: listings/add_car/registration.php:42
+#: partials/user/private/dealer-settings.php:502
+#: partials/user/private/user-settings.php:105
+msgid "I have a WhatsApp account with this number"
+msgstr "لدي حساب ال WhatsApp مع هذا العدد"
+
+#: inc/motors-gdpr.php:32
+msgid "ID"
+msgstr "معرف"
+
+#: listings/add_car/step_4.php:25 listings/add_car/step_4.php:80
+msgid ""
+"If you don't have the videos handy, don't worry. You can add or edit them "
+"after you complete your ad using the \"Manage Your Ad\" page."
+msgstr ""
+"إذا لم يكن لديك أشرطة الفيديو مفيد, لا تقلق. يمكنك إضافة أو تعديل عليها بعد "
+"إكمال إعلانك باستخدام \"إدارة الإعلانات\" صفحة."
+
+#: inc/value_my_car/admin-page.php:92
+msgid "Images"
+msgstr "الصور"
+
+#: inc/user-extra.php:131
+msgid ""
+"In case a user has entered incorrect details in Dealer submission, you can "
+"reject the request and add a notice."
+msgstr ""
+"في حال كان المستخدم قد دخلت في تفاصيل غير صحيحة في تاجر التقديم, يمكنك رفض "
+"طلب إضافة إشعار."
+
+#: inc/stm-ajax.php:33
+msgid "In compare list"
+msgstr "في قائمة المقارنة"
+
+#: partials/single-car/car-actions.php:59
+#: partials/listing-cars/listing-list-loop-actions.php:55
+#: partials/listing-cars/listing-directive-list-loop-actions.php:59
+#: partials/single-car-boats/boats-actions.php:48
+#: partials/single-aircrafts/action-bar.php:55
+#: listings/loop/default/list/features.php:84
+msgid "in compare list"
+msgstr "في قائمة المقارنة"
+
+#: partials/single-car/aircraft-price.php:5
+msgid "Incl Taxes &amp; Checkup"
+msgstr "بما في ذلك الضرائب و الفحص"
+
+#: woocommerce/notices/notice.php:31
+msgid "Informational"
+msgstr "إعلامية"
+
+#: listings/add_car/step_1_additional_fields.php:80
+msgid "Insert link"
+msgstr "إدراج رابط"
+
+#: inc/stm-ajax.php:716
+msgid "Instructions send on your email"
+msgstr "تعليمات ترسل على البريد الإلكتروني الخاص بك"
+
+#: partials/single-car/car-calculator.php:51
+#: partials/modals/car-calculator.php:70
+#: partials/single-car-boats/boats-calculator.php:38
+msgid "Interest rate"
+msgstr "الفائدة"
+
+#: partials/single-car/car-review_rating.php:50
+#: partials/listing-cars/listing-grid-loop-magazine.php:76
+msgid "Interior"
+msgstr "الداخلية"
+
+#: partials/trade-in.php:32 partials/trade-in.php:311 partials/trade-in.php:598
+#: partials/trade-in.php:847 partials/trade-in.php:1149
+#: partials/trade-in.php:1374
+msgid "Interior color"
+msgstr "اللون الداخلي"
+
+#: partials/trade-in.php:35 partials/trade-in.php:601
+#: partials/trade-in.php:1152
+msgid "Interior condition"
+msgstr "الداخلية حالة"
+
+#. Name of the template
+#: partials/magazine/content/top-interview.php:11
+msgid "Interview"
+msgstr "مقابلة"
+
+#: inc/perpay.php:36
+msgid "Invalid product."
+msgstr "منتج غير صالح."
+
+#: partials/title_box.php:68
+msgid "Inventory"
+msgstr "المخزون"
+
+#: partials/user/private/user-favourite.php:160
+msgid "Item has been removed"
+msgstr "البند تم إزالة"
+
+#: listings/boats/filter/sidebar.php:90
+msgid "Items"
+msgstr "البنود"
+
+#: partials/listing-layout-parts/items-per-page.php:48
+msgid "items per page"
+msgstr "العناصر في الصفحة"
+
+#: partials/user/private/user-settings.php:68
+msgid "JPEG or PNG minimal 160x160px"
+msgstr "JPEG أو PNG الحد الأدنى 160x160px"
+
+#: partials/user/private/dealer-settings.php:426
+#: partials/user/private/become-dealer.php:248
+msgid "JPEG or PNG minimal 236x60px"
+msgstr "JPEG أو PNG الحد الأدنى 236x60px"
+
+#: partials/user/private/dealer-settings.php:462
+msgid "JPEG or PNG minimal 500x282"
+msgstr "JPEG أو PNG الحد الأدنى 500x282"
+
+#: woocommerce/order/tracking.php:41 woocommerce/myaccount/view-order.php:43
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "انا jS \\o\\f f Y, h:ia"
+
+#: partials/top-bar.php:47 partials/top-bar.php:63 partials/top-bar.php:95
+#: partials/header/header-ev-dealer/header.php:93
+#: partials/header/header-ev-dealer/header.php:109
+#: partials/header/header-ev-dealer/header.php:137
+#: partials/header/header-ev-dealer/parts/lang-switcher.php:33
+#: partials/header/header-ev-dealer/parts/lang-switcher.php:49
+#: partials/header/header-ev-dealer/parts/lang-switcher.php:77
+#: partials/header/header-classified-five/parts/lang-switcher.php:33
+#: partials/header/header-classified-five/parts/lang-switcher.php:49
+#: partials/header/header-classified-five/parts/lang-switcher.php:77
+msgid "Language flag"
+msgstr "علم اللغة"
+
+#: partials/modals/statistics-modal.php:21
+msgid "Last 30 days"
+msgstr "آخر 30 يوما"
+
+#: woocommerce/myaccount/my-address.php:79 listings/add_car/registration.php:31
+msgid "Last Name"
+msgstr "الاسم الأخير"
+
+#: partials/trade-in.php:20 partials/trade-in.php:453 partials/trade-in.php:590
+#: partials/trade-in.php:979 partials/trade-in.php:1141
+#: partials/trade-in.php:1490 ulisting/account/register.php:47
+#: ulisting/account/edit-profile.php:55
+#: woocommerce/myaccount/form-edit-account.php:40
+#: partials/user/private/dealer-settings.php:490
+#: partials/user/private/user-settings.php:89
+msgid "Last name"
+msgstr "الاسم الأخير"
+
+#: partials/modals/statistics-modal.php:20
+msgid "Last week"
+msgstr "الأسبوع الماضي"
+
+#: listings/add_car/step_1.php:187
+msgid "Lat and Long Finder"
+msgstr "اللات و طويلة مكتشف"
+
+#: listings/add_car/step_1.php:173
+msgid "Latitude"
+msgstr "العرض"
+
+#: comments.php:49
+msgid "Leave a Reply"
+msgstr "ترك الرد"
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "ترك الرد إلى %s"
+
+#: partials/trade-in.php:1146 partials/trade-in.php:1321
+msgid "Length"
+msgstr "طول"
+
+#: listings/boats/filter/sidebar.php:48
+msgid "Less options"
+msgstr "خيارات أقل"
+
+#: inc/user-extra.php:157 ulisting/account/edit-profile.php:110
+msgid "License"
+msgstr "الترخيص"
+
+#: partials/user/private/dealer-settings.php:537
+#: partials/user/private/become-dealer.php:270
+msgid "License number"
+msgstr "رقم الترخيص"
+
+#: ulisting/account/dashboard.php:76
+msgid "License:"
+msgstr "الترخيص:"
+
+#: inc/user-extra.php:87 partials/user/private/dealer-settings.php:633
+#: partials/user/private/user-settings.php:185
+msgid "Linked In"
+msgstr "مرتبط في"
+
+#: inc/motors-gdpr.php:28
+msgid "Listing"
+msgstr "قائمة"
+
+#: inc/stm-ajax.php:1215
+msgid "Listing Added, uploading photos"
+msgstr "Added, تحميل صور"
+
+#: partials/car-filter-ev-loop.php:164
+msgid "Listing attribute"
+msgstr "قائمة سمة"
+
+#: partials/single-car-listing/car-main.php:23
+msgid "Listing Details"
+msgstr "تفاصيل القائمة"
+
+#: inc/setup.php:101
+msgid "LISTING FIVE"
+msgstr "قائمة الخمسة"
+
+#: listings/add_car/step_1.php:15
+msgid "Listing Item Details"
+msgstr "قائمة البند التفاصيل"
+
+#: listings/add_car/step_1.php:158
+msgid "Listing item Location"
+msgstr "عنصر القائمة الموقع"
+
+#: ulisting/add-listing/edit.php:35
+msgid "Listing not found"
+msgstr "القائمة لم يتم العثور على"
+
+#: partials/modals/statistics-modal.php:11
+msgid "Listing statistics for:"
+msgstr "قائمة إحصاءات:"
+
+#: listings/filter/sidebar.php:53 listings/classified/filter/sidebar.php:109
+#: listings/boats/filter/sidebar.php:59
+#: listings/modern_filter/filters/sold_filter.php:19
+#: listings/motorcycles/filter/sidebar.php:106
+msgid "Listing status"
+msgstr "حالة قائمة"
+
+#: listings/add_car/title.php:9
+msgid "Listing Title"
+msgstr "سرد العنوان"
+
+#: ulisting/custom/add_listing_step_nav.php:19
+msgid "Listing Type"
+msgstr "نوع القائمة"
+
+#: ulisting/account/saved-searches.php:21
+#: ulisting/saved-searches/saved-searches.php:19
+#: partials/user/dealer-inventory.php:53
+#: partials/user/user-public-profile.php:68
+#: partials/user/private/user-favourite.php:24
+#: partials/user/private/user-inventory.php:22
+msgid "Listing type"
+msgstr "نوع القائمة"
+
+#: inc/stm-ajax.php:1213
+msgid "Listing Updated, uploading photos"
+msgstr "قائمة محدثة, تحميل صور"
+
+#: partials/modals/statistics-modal.php:28
+#: partials/modals/statistics-modal.php:148
+msgid "Listing views"
+msgstr "قائمة وجهات النظر"
+
+#: inc/helpers.php:620 ulisting/pricing-plan/payment.php:47
+#: ulisting/pricing-plan/list.php:27 ulisting/pricing-plan/list.php:59
+#: listings/classified/filter/sidebar.php:47
+msgid "Listings"
+msgstr "القوائم"
+
+#: listings/filter/results.php:57
+msgid "Load More"
+msgstr "تحميل المزيد من"
+
+#: ulisting/account/edit-profile.php:179
+msgid "Load..."
+msgstr "تحميل..."
+
+#: ulisting/account/my-listing.php:154
+msgid "Loading"
+msgstr "تحميل"
+
+#: ulisting/account/my-listing.php:207
+msgid "Loading..."
+msgstr "تحميل..."
+
+#: listings/add_car/step_1.php:164 partials/user/dealer-public-profile.php:62
+#: partials/listing-layout-parts/boats-list-sort.php:24
+#: partials/single-car-boats/boats-data.php:55
+#: partials/user/private/dealer-settings.php:546
+#: partials/user/private/become-dealer.php:68
+#: partials/user/private/become-dealer.php:280
+#: listings/loop/classified/list/options.php:79
+#: listings/loop/boats/list/options.php:20
+msgid "Location"
+msgstr "الموقع"
+
+#: ulisting/account/account-panel.php:39
+msgid "Log In "
+msgstr "تسجيل الدخول "
+
+#: partials/top-bar-boats.php:68 partials/top-bar-boats.php:70
+#: partials/top-bar-boats.php:91 partials/top-bar-boats.php:93
+#: listings/add_car/registered.php:38 listings/add_car/user_info.php:42
+#: listings/add_car/user_info.php:74 partials/top-bar-parts/top-bar-auth.php:15
+#: partials/top-bar-parts/top-bar-auth.php:17
+#: partials/top-bar-parts/top-bar-auth.php:60
+#: partials/top-bar-parts/top-bar-auth.php:62
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:135
+msgid "LOGIN"
+msgstr "تسجيل الدخول"
+
+#: partials/top-bar-boats.php:77 partials/top-bar-boats.php:97
+#: ulisting/account/login.php:17 ulisting/account/login.php:49
+#: ulisting/account/register.php:29 ulisting/account/account.php:27
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:79
+#: woocommerce/myaccount/form-login.php:83
+#: woocommerce/myaccount/form-login.php:102 partials/user/user-dropdown.php:66
+#: partials/user/dealer-write-review.php:175
+#: partials/top-bar-parts/top-bar-auth.php:41
+#: partials/top-bar-parts/top-bar-auth.php:67
+#: partials/user/private/mobile/user.php:30
+#: partials/header/header-ev-dealer/parts/login-reg-links.php:11
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:70
+#: partials/header/header-classified-five/parts/login-reg-links.php:11
+#: partials/header/header-classified-five/parts/account-dropdown.php:70
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: listings/add_car/registration.php:53
+msgid "Login *"
+msgstr "تسجيل الدخول *"
+
+#: listings/add_car/registration.php:5
+msgid "Login Here"
+msgstr "الدخول من هنا"
+
+#: listings/add_car/check_user.php:50 partials/user/user-dropdown.php:50
+#: partials/user/private/mobile/user.php:7
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:52
+#: partials/header/header-classified-five/parts/account-dropdown.php:52
+msgid "Login or E-mail"
+msgstr "تسجيل الدخول أو البريد الإلكتروني"
+
+#: partials/service/header-service.php:30
+#: partials/header/header-coming-soon.php:7
+#: partials/header/header-aircrafts.php:39
+#: partials/header/header-motorcycle.php:61
+#: partials/header/header-motorcycle.php:107
+#: partials/header/header-boats-mobile.php:20 partials/header/header-404.php:9
+#: partials/header/header-listing.php:45 partials/header/header-boats.php:36
+#: partials/header/header-car_magazine.php:39
+#: partials/header/header-car_dealer_two.php:36
+#: partials/header/header-car_dealer.php:45
+#: partials/header/header-car_rental.php:39
+#: partials/header/header-equipment.php:32
+#: partials/header/header-ev-dealer/header.php:74
+#: partials/header/header-classified-five/header.php:48
+msgid "Logo"
+msgstr "شعار"
+
+#: partials/single-car/car-actions.php:134
+#: partials/listing-cars/listing-list-loop-actions.php:129
+#: partials/listing-cars/listing-directive-list-loop-actions.php:120
+#: partials/single-car-boats/boats-actions.php:113
+#: listings/loop/default/list/features.php:166
+msgid "Logo 1"
+msgstr "الشعار 1"
+
+#: partials/single-car/car-actions.php:155
+#: partials/listing-cars/listing-list-loop-actions.php:153
+#: partials/listing-cars/listing-directive-list-loop-actions.php:144
+#: partials/single-car-boats/boats-actions.php:126
+#: listings/loop/default/list/features.php:190
+msgid "Logo 2"
+msgstr "الشعار 2"
+
+#: partials/user/private/become-dealer.php:119
+msgid "Logo is required field"
+msgstr "الشعار هو حقل مطلوب"
+
+#: ulisting/account/account-panel.php:29 partials/user/user-dropdown.php:39
+#: partials/user/private/mobile/dealer-profile.php:127
+#: partials/user/private/mobile/user-profile.php:135
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:40
+#: partials/header/header-classified-five/parts/account-dropdown.php:40
+msgid "Logout"
+msgstr "خروج"
+
+#: listings/add_car/step_1.php:181
+msgid "Longitude"
+msgstr "الطول"
+
+#: woocommerce/myaccount/form-login.php:63
+#: woocommerce/myaccount/form-login.php:91
+#: woocommerce/myaccount/form-login.php:100
+msgid "Lost your password?"
+msgstr "فقدت كلمة المرور الخاصة بك ؟ "
+
+#: woocommerce/myaccount/form-lost-password.php:29
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"فقدت كلمة المرور الخاصة بك ؟ الرجاء إدخال اسم المستخدم الخاص بك أو عنوان "
+"البريد الإلكتروني. سوف تتلقى رابط لإنشاء كلمة مرور جديدة عبر البريد "
+"الإلكتروني."
+
+#: partials/trade-in.php:531 partials/trade-in.php:1079
+#: partials/trade-in.php:1566
+msgid "Mail successfully sent"
+msgstr "البريد إرسالها بنجاح"
+
+#: partials/user/private/dealer-settings.php:470
+#: partials/user/private/user-settings.php:75
+#: partials/user/private/become-dealer.php:255
+msgid "Main Information"
+msgstr "المعلومات الرئيسية"
+
+#: inc/setup.php:557
+msgid "Main sidebar that appears on the right or left."
+msgstr "الشريط الجانبي الرئيسي الذي يظهر على اليمين أو اليسار."
+
+#: partials/trade-in.php:17 partials/trade-in.php:208 partials/trade-in.php:587
+#: partials/trade-in.php:737 partials/trade-in.php:1138
+#: partials/trade-in.php:1295
+msgid "Make"
+msgstr "جعل"
+
+#: partials/service/header-service.php:44
+msgid "Make an Appointment"
+msgstr "موعد"
+
+#: partials/single-car/car-buttons.php:18
+msgid "Make an offer price"
+msgstr "تقديم عرض السعر"
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:213
+msgid "Make Featured"
+msgstr "جعل مميزة"
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:143
+msgid "Mark as sold"
+msgstr "مارك كما تباع"
+
+#: ulisting/listing-list/found_posts.php:3
+msgid "Matches"
+msgstr "مباريات"
+
+#: inc/helpers.php:861
+msgid "max imgs 3"
+msgstr "ماكس imgs 3"
+
+#: partials/single-car-listing/car-dealer.php:87
+#: partials/single-car-listing/car-dealer.php:154
+msgid "Message to dealer"
+msgstr "رسالة إلى تاجر"
+
+#: inc/user-extra.php:124
+msgid "Message to pending user"
+msgstr "رسالة إلى انتظار المستخدم"
+
+#: partials/trade-in.php:29 partials/trade-in.php:237 partials/trade-in.php:595
+#: partials/trade-in.php:773
+msgid "Mileage"
+msgstr "الأميال"
+
+#: ulisting/account/edit-profile.php:82
+msgid "Mobile Phone"
+msgstr "الهاتف المحمول"
+
+#: ulisting/account/dashboard.php:46
+msgid "Mobile:"
+msgstr "المحمول:"
+
+#: partials/trade-in.php:18 partials/trade-in.php:215 partials/trade-in.php:588
+#: partials/trade-in.php:749 partials/trade-in.php:1139
+#: partials/trade-in.php:1302
+msgid "Model"
+msgstr "نموذج"
+
+#: partials/single-car/car-calculator.php:58
+#: partials/modals/car-calculator.php:79
+#: partials/single-car-boats/boats-calculator.php:45
+msgid "month"
+msgstr "الشهر"
+
+#: partials/single-car/car-calculator.php:80
+#: partials/modals/car-calculator.php:105
+#: partials/single-car-boats/boats-calculator.php:71
+msgid "Monthly Payment"
+msgstr "الدفع الشهري"
+
+#: inc/scripts_styles.php:461
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "على"
+
+#: inc/stm-ajax.php:1639
+msgid "More Details"
+msgstr "المزيد من التفاصيل"
+
+#: partials/rental/product/option.php:46 partials/rental/main-shop/loop.php:108
+msgid "More information"
+msgstr "مزيد من المعلومات"
+
+#: listings/boats/filter/sidebar.php:46
+msgid "More options"
+msgstr "مزيد من الخيارات"
+
+#: inc/helpers.php:870
+msgid "more photo"
+msgstr "المزيد من الصور"
+
+#: inc/helpers.php:871
+msgid "more photos"
+msgstr "المزيد من الصور"
+
+#: inc/setup.php:47 inc/helpers.php:24
+msgid "MOTORCYCLES DEALERS"
+msgstr "الدراجات النارية تجار"
+
+#. Name of the theme
+msgid "Motors"
+msgstr "المحركات"
+
+#: inc/motors-gdpr.php:65 inc/motors-gdpr.php:115
+msgid "Motors Dealer Data"
+msgstr "المحركات تاجر البيانات"
+
+#: inc/scripts_styles.php:503
+#, php-format
+msgid ""
+"Motors theme Customize Settings were moved to <a href=\"%s\">Dashboard > "
+"Theme Options</a>."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "My Account"
+msgstr "حسابي"
+
+#: woocommerce/myaccount/my-address.php:36
+msgid "My Address"
+msgstr "عنواني"
+
+#: woocommerce/myaccount/my-address.php:30
+msgid "My Addresses"
+msgstr "بلدي عناوين"
+
+#: partials/user/private/user-favourite.php:13
+msgid "My Favorites"
+msgstr "المفضلة"
+
+#: partials/user/private/user-inventory.php:14
+msgid "My Inventory"
+msgstr "مخزوني"
+
+#: partials/user/user-dropdown.php:32
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:33
+#: partials/header/header-classified-five/parts/account-dropdown.php:33
+msgid "My items"
+msgstr "البنود بلدي"
+
+#: ulisting/add-listing/form.php:255
+msgid "My listing"
+msgstr "قائمة بلدي"
+
+#: ulisting/account/my-plans/detail.php:68 partials/user/private/main.php:25
+msgid "My Plans"
+msgstr "خططي"
+
+#: partials/user/user-dropdown.php:34
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:35
+#: partials/header/header-classified-five/parts/account-dropdown.php:35
+msgid "My plans"
+msgstr "خططي"
+
+#: partials/modals/subscription_ended.php:20
+msgid "My subscriptions"
+msgstr "اشتراكاتي"
+
+#: inc/stm_single_dealer.php:157 inc/stm-ajax.php:856
+#: woocommerce/order/order-details-customer.php:68
+#: woocommerce/order/order-details-customer.php:79
+#: partials/single-car-listing/car-data.php:33
+#: partials/single-car-listing/car-data.php:53
+#: partials/single-car-listing/car-data.php:72
+#: partials/single-car-listing/car-data.php:139
+#: listings/loop/woo/listing_data.php:28 listings/loop/woo/listing_data.php:48
+#: listings/loop/woo/listing_data.php:67 listings/loop/woo/listing_data.php:137
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product-reviews.php:79 partials/modals/test-drive.php:26
+#: partials/modals/get-car-price.php:19 partials/modals/trade-offer.php:31
+msgid "Name"
+msgstr "اسم"
+
+#: partials/user/private/dealer-settings.php:588
+#: partials/user/private/user-settings.php:135
+msgid "New Password"
+msgstr "كلمة المرور الجديدة"
+
+#: ulisting/account/edit-profile.php:164 ulisting/account/edit-profile.php:165
+#: woocommerce/myaccount/form-edit-account.php:78
+#: woocommerce/myaccount/form-reset-password.php:28
+#: partials/user/private/password-recovery.php:35
+msgid "New password"
+msgstr "كلمة المرور الجديدة"
+
+#: woocommerce/myaccount/form-edit-account.php:82
+msgid "New password (leave blank to leave unchanged)"
+msgstr "كلمة السر الجديدة (اتركه فارغا ترك دون تغيير)"
+
+#: partials/user/private/dealer-settings.php:289
+msgid "New password not saved, because of wrong confirmation."
+msgstr "كلمة المرور الجديدة لا حفظها ، لأن من الخطأ التأكيد."
+
+#: inc/email_template_manager/email_template_manager.php:19
+msgid "New Pay Per Listing"
+msgstr "الدفع الجديد في القائمة"
+
+#: inc/stm-ajax.php:115
+msgid "New request for test drive"
+msgstr "طلب جديد لاختبار القيادة"
+
+#: inc/email_template_manager/email_template_manager.php:24
+msgid "New user"
+msgstr "مستخدم جديد"
+
+#: comments.php:34
+msgid "Newer Comments"
+msgstr "أحدث التعليقات"
+
+#: partials/title_box.php:58
+msgid "News"
+msgstr "الأخبار"
+
+#: partials/magazine/content/previous_next_pagination.php:63
+msgid "NEXT"
+msgstr "القادم"
+
+#: inc/helpers.php:857 ulisting/listing-list/pagination.php:28
+#: woocommerce/myaccount/orders.php:114
+msgid "Next"
+msgstr "القادم"
+
+#: partials/trade-in.php:398 partials/trade-in.php:400
+#: partials/trade-in.php:945 partials/trade-in.php:947
+#: partials/trade-in.php:1461 partials/trade-in.php:1463
+#: partials/user/dealer-write-review.php:72 partials/user/dealer-reviews.php:60
+#: partials/user/dealer-single-review.php:113
+msgid "No"
+msgstr "لا"
+
+#. post type name
+#: listings/classified/filter/sidebar.php:60
+#, php-format
+msgid "No categories created for %s"
+msgstr "لا يوجد فئات %s"
+
+#: partials/user/private/dealer-settings.php:422
+#: partials/user/private/dealer-settings.php:458
+#: partials/user/private/dealer-settings.php:676
+#: partials/user/private/user-settings.php:64
+#: partials/user/private/user-settings.php:237
+#: partials/user/private/become-dealer.php:244
+#: partials/user/private/become-dealer.php:332
+msgid "No File Chosen"
+msgstr "لا الملف المختار"
+
+#: partials/user/dealer-inventory.php:104
+#: partials/user/user-public-profile.php:90
+msgid "No Inventory added yet."
+msgstr "أي جرد وأضاف حتى الآن."
+
+#: ulisting/account/my-listing.php:225
+msgid "No listings found"
+msgstr "لا قوائم وجدت"
+
+#: partials/user/private/main.php:104
+msgid "No listings yet"
+msgstr "لا قوائم حتى الآن"
+
+#: woocommerce/myaccount/orders.php:125
+msgid "No order has been made yet."
+msgstr "لا من أجل أحرز حتى الآن."
+
+#: ulisting/account/saved-searches.php:46 ulisting/wishlist/wishlist.php:64
+msgid "No result"
+msgstr "أي نتيجة"
+
+#: index.php:124
+msgid "No Results"
+msgstr "لا توجد نتائج"
+
+#: inc/helpers.php:863
+msgid "No results found"
+msgstr "لا توجد نتائج"
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:94
+msgid "No reviews for this Vehicle"
+msgstr "لا يوجد ملاحظات عن هذه السيارة"
+
+#: ulisting/builder/element/similar-listings.php:37
+msgid "No similar listings found"
+msgstr "لا قوائم مماثلة وجدت"
+
+#: partials/trade-in.php:112 partials/trade-in.php:665
+#: partials/trade-in.php:1218
+msgid "Nonce is expired"
+msgstr "حالية منتهية"
+
+#: partials/compare.php:238 partials/compare.php:242
+msgid "None"
+msgstr "لا شيء"
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Not that bad"
+msgstr "ليس بهذا السوء"
+
+#: woocommerce/order/order-details.php:96
+#: woocommerce/order/order-details-customer.php:31
+msgid "Note:"
+msgstr "ملاحظة:"
+
+#: partials/user/private/dealer-settings.php:571
+#: partials/user/private/become-dealer.php:305
+msgid "Notes"
+msgstr "ملاحظات"
+
+#: inc/woocommerce_setups.php:94
+msgid "Number of Images per slot"
+msgstr "عدد الصور في كل فتحة"
+
+#: inc/woocommerce_setups.php:90
+msgid "Number of Slots"
+msgstr "عدد فتحات"
+
+#: partials/modals/trade-offer.php:17
+msgid "Offer Price"
+msgstr "سعر العرض"
+
+#: ulisting/account/edit-profile.php:89
+msgid "Office phone"
+msgstr "هاتف المكتب"
+
+#: ulisting/account/dashboard.php:52
+msgid "Office:"
+msgstr "المكتب:"
+
+#: ulisting/account/edit-profile.php:156 ulisting/account/edit-profile.php:157
+msgid "Old password"
+msgstr "كلمة المرور القديمة"
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr "التعليقات القديمة"
+
+#: woocommerce/single-product-reviews.php:120
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "تسجيل فقط في العملاء الذين قاموا بشراء هذا المنتج قد ترك الاستعراض."
+
+#: inc/scripts_styles.php:463
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "على"
+
+#: woocommerce/myaccount/my-orders.php:29
+#: woocommerce/myaccount/my-orders.php:55
+msgid "Order"
+msgstr "النظام"
+
+#. 1: order number 2: order date 3: order status
+#: woocommerce/myaccount/view-order.php:29
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:30
+#: woocommerce/emails/email-order-details.php:32
+#, php-format
+msgid "Order #%s"
+msgstr "رقم الطلب %s"
+
+#: woocommerce/order/tracking.php:22
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "رقم الطلب %s والتي كانت مصنوعة %s لديه حالة \"%s\""
+
+#: woocommerce/order/order-again.php:31
+msgid "Order Again"
+msgstr "تأمر مرة أخرى"
+
+#: woocommerce/order/order-details.php:58
+msgid "Order Details"
+msgstr "تفاصيل النظام"
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Order ID"
+msgstr "معرف الطلب"
+
+#: woocommerce/myaccount/my-orders.php:70
+msgid "Order Number"
+msgstr "رقم الطلب"
+
+#: woocommerce/checkout/thankyou.php:60
+msgid "Order number:"
+msgstr "رقم الطلب:"
+
+#: woocommerce/order/tracking.php:35 woocommerce/myaccount/view-order.php:37
+msgid "Order updates"
+msgstr "من أجل التحديثات"
+
+#: partials/user/dealer-write-review.php:58 partials/user/dealer-reviews.php:41
+#: partials/user/dealer-single-review.php:81
+msgid "out of"
+msgstr "من"
+
+#: partials/user/dealer-write-review.php:46
+#: partials/user/dealer-single-review.php:12
+msgid "Overall Experience"
+msgstr "التجربة الكلية"
+
+#: partials/trade-in.php:33 partials/trade-in.php:318 partials/trade-in.php:599
+#: partials/trade-in.php:859 partials/trade-in.php:1150
+#: partials/trade-in.php:1381
+msgid "Owner"
+msgstr "مالك"
+
+#: page.php:95 partials/blog/content.php:22 partials/blog/content.php:113
+#: partials/magazine/main-interview.php:31 partials/magazine/main.php:39
+msgid "Page"
+msgstr "الصفحة"
+
+#: page.php:91 partials/blog/content.php:18 partials/blog/content.php:109
+#: partials/magazine/main-interview.php:27 partials/magazine/main.php:35
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: ulisting/account/saved-searches.php:22
+#: ulisting/saved-searches/saved-searches.php:20
+msgid "Params"
+msgstr "Params"
+
+#: woocommerce/myaccount/form-login.php:62
+#: woocommerce/myaccount/form-login.php:172
+msgid "PASSWORD"
+msgstr "كلمة المرور"
+
+#: ulisting/account/login.php:27 ulisting/account/register.php:71
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:175 listings/add_car/check_user.php:56
+#: partials/user/user-dropdown.php:55 partials/user/private/mobile/user.php:12
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:57
+#: partials/header/header-classified-five/parts/account-dropdown.php:57
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: listings/add_car/registration.php:57
+msgid "Password *"
+msgstr "كلمة المرور *"
+
+#: woocommerce/myaccount/form-edit-account.php:64
+msgid "Password change"
+msgstr "تغيير كلمة المرور"
+
+#: partials/user/private/password-recovery.php:22
+msgid "Password changed"
+msgstr "تم تغيير كلمة السر"
+
+#: partials/user/private/password-recovery.php:30
+msgid "Password Recovery"
+msgstr "استعادة كلمة السر"
+
+#: inc/email_template_manager/email_template_manager.php:21
+msgid "Password recovery"
+msgstr "استعادة كلمة السر"
+
+#: ulisting/account/register.php:80
+msgid "Password repeat"
+msgstr "تكرار كلمة المرور"
+
+#: woocommerce/myaccount/lost-password-confirmation.php:20
+msgid "Password reset email has been sent."
+msgstr "إعادة تعيين كلمة المرور البريد الإلكتروني تم إرسالها."
+
+#: partials/user/private/user-plans.php:93
+msgid "Pause"
+msgstr "وقفة"
+
+#: ulisting/pricing-plan/payment.php:134 woocommerce/myaccount/my-orders.php:91
+#: woocommerce/checkout/thankyou.php:38
+msgid "Pay"
+msgstr "الدفع"
+
+#: listings/add_car/check_user.php:98
+msgid "Pay for Listing"
+msgstr "دفع ثمن قائمة"
+
+#: listings/add_car/check_user.php:97
+msgid "Pay for this Listing"
+msgstr "دفع ثمن هذه القائمة"
+
+#: partials/rental/main-shop/price.php:163
+msgid "Pay now"
+msgstr "تدفع الآن"
+
+#: partials/user/private/main.php:59
+msgid "Pay Per Listings"
+msgstr "الدفع لكل القوائم"
+
+#: woocommerce/checkout/payment.php:28
+msgid "Payment"
+msgstr "الدفع"
+
+#: inc/woocommerce_setups_rental.php:1374
+msgid ""
+"Payment amount doesn`t depend on rental days. Only one time payment for this "
+"option."
+msgstr "دفع مبلغ لا تعتمد على تأجير أيام. فقط تدفع مرة واحدة عن هذا الخيار."
+
+#: inc/woocommerce_setups_rental.php:564
+#: partials/rental/wizard-nav/nav-step-3.php:33
+msgid "Payment information"
+msgstr "معلومات الدفع"
+
+#: ulisting/pricing-plan/payment.php:71 ulisting/pricing-plan/payment.php:100
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#: ulisting/account/payment-history.php:31
+msgid "Payment method"
+msgstr "طريقة الدفع"
+
+#: woocommerce/checkout/thankyou.php:84
+msgid "Payment method:"
+msgstr "طريقة الدفع:"
+
+#: inc/user-extra.php:232
+msgid "Payment status"
+msgstr "حالة الدفع"
+
+#: ulisting/account/my-plans/list.php:34
+msgid "Payment Type"
+msgstr "نوع الدفع"
+
+#: partials/single-car/car-actions.php:82
+#: partials/listing-cars/listing-list-loop-actions.php:85
+#: partials/listing-cars/listing-directive-list-loop-actions.php:87
+#: partials/single-car-boats/boats-actions.php:78
+#: partials/single-aircrafts/action-bar.php:96
+#: listings/loop/default/list/features.php:121
+msgid "PDF brochure"
+msgstr "كتيب PDF"
+
+#: ulisting/account/my-listing.php:86 inc/value_my_car/admin-page.php:61
+#: partials/listing-cars/listing-list-directory-edit-loop.php:239
+#: partials/user/private/user-inventory.php:36
+msgid "Pending"
+msgstr "في انتظار"
+
+#: inc/woocommerce_setups_rental.php:1332
+msgid "Per Hour:"
+msgstr "في الساعة:"
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Perfect"
+msgstr "مثالية"
+
+#: partials/single-car/car-review_rating.php:32
+#: partials/listing-cars/listing-grid-loop-magazine.php:62
+msgid "Performance"
+msgstr "الأداء"
+
+#: partials/single-car/car-calculator.php:58
+#: partials/modals/car-calculator.php:78
+#: partials/single-car-boats/boats-calculator.php:45
+msgid "Period"
+msgstr "الفترة"
+
+#: partials/user/listing-list-user-info.php:60
+msgid "Personal Seller"
+msgstr "شخصية البائع"
+
+#: inc/user-extra.php:26 partials/modals/test-drive.php:40
+#: partials/modals/get-car-price.php:33 partials/modals/trade-offer.php:45
+#: partials/user/private/dealer-settings.php:498
+#: partials/user/private/user-settings.php:99
+msgid "Phone"
+msgstr "الهاتف"
+
+#: partials/trade-in.php:468 partials/trade-in.php:1004
+#: partials/trade-in.php:1503 listings/add_car/registration.php:38
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+#: partials/modals/statistics-modal.php:32
+msgid "Phone number views"
+msgstr "رقم الهاتف وجهات النظر"
+
+#: partials/modals/statistics-modal.php:155
+msgid "Phone views"
+msgstr "الهاتف وجهات النظر"
+
+#: inc/woocommerce_setups_rental.php:1023
+msgid "Phone:"
+msgstr "الهاتف:"
+
+#: inc/woocommerce_setups_rental.php:544
+msgid "Pick Up"
+msgstr "التقاط"
+
+#: partials/rental/wizard-nav/nav-step-1.php:33
+msgid "Pick up"
+msgstr "التقاط"
+
+#: woocommerce/emails/email-order-details.php:57
+msgid "Pickup date"
+msgstr "تاريخ"
+
+#: woocommerce/emails/email-order-details.php:65
+msgid "Pickup location"
+msgstr "موقع بيك اب"
+
+#: ulisting/pricing-plan/payment.php:137
+msgid "Place Order"
+msgstr "وضع النظام"
+
+#: partials/car-filter-ev-loop.php:107 partials/car-filter-ev-loop.php:115
+#: partials/inventory-search-results-carousel-loop.php:105
+#: partials/inventory-search-results-carousel-loop.php:113
+#: partials/car-filter-loop.php:106 partials/car-filter-loop.php:115
+#: partials/single-car/car-gallery.php:37
+#: partials/listing-cars/listing-list-directory-edit-loop.php:273
+#: partials/single-car-listing/car-gallery.php:47
+#: partials/single-car-motorcycle/car-gallery.php:30
+#: partials/single-aircrafts/gallery.php:18
+#: partials/listing-cars/motos/grid.php:172
+#: partials/listing-cars/motos/list.php:176
+#: partials/listing-cars/motos/moto-single-grid.php:138
+#: listings/loop/classified/list/image-inventory-no-filter.php:188
+#: listings/loop/classified/list/image.php:184
+#: listings/loop/classified/grid/image.php:150
+#: listings/loop/boats/list/image.php:90
+#: listings/loop/default/list/image.php:76
+#: listings/loop/default/grid/image.php:132
+msgid "Placeholder"
+msgstr "نائبا"
+
+#: ulisting/add-listing/form.php:122 ulisting/account/my-plans/list.php:31
+msgid "Plan"
+msgstr "خطة"
+
+#: partials/modals/subscription_ended.php:12
+msgid "Plan days left:"
+msgstr "خطة الأيام المتبقية:"
+
+#: ulisting/add-listing/form.php:228
+msgid "Plan for Feature"
+msgstr "خطة ميزة"
+
+#: partials/single-aircrafts/header-search.php:27
+msgid "Planes"
+msgstr "الطائرات"
+
+#: partials/title_box.php:247
+msgid "Plans"
+msgstr "خطط"
+
+#: inc/stm-ajax.php:987
+msgid "Please add item price"
+msgstr "يرجى إضافة عنصر السعر"
+
+#: inc/stm-ajax.php:575
+msgid "Please add rating"
+msgstr "يرجى إضافة تصنيف"
+
+#: inc/stm-ajax.php:83
+msgid "Please enter correct email"
+msgstr "يرجى إدخال البريد الإلكتروني الصحيح"
+
+#: inc/stm-ajax.php:87
+msgid "Please enter correct phone number"
+msgstr "يرجى إدخال رقم الهاتف الصحيح"
+
+#: inc/value_my_car/value_my_car.php:45
+msgid "Please enter required fields"
+msgstr "الرجاء إدخال الحقول المطلوبة"
+
+#: partials/trade-in.php:54 partials/trade-in.php:617
+#: partials/trade-in.php:1171
+msgid "Please fill"
+msgstr "يرجى ملء"
+
+#: inc/stm-ajax.php:79 inc/stm-ajax.php:91 inc/stm-ajax.php:96
+#: inc/stm-ajax.php:157 inc/stm-ajax.php:226 inc/stm-ajax.php:343
+msgid "Please fill all fields"
+msgstr "يرجى ملء جميع الحقول"
+
+#: partials/single-car/car-calculator.php:160
+#: partials/modals/car-calculator.php:180
+#: partials/single-car-boats/boats-calculator.php:144
+msgid "Please fill Down Payment field"
+msgstr "يرجى ملء دفعة المجال"
+
+#: woocommerce/checkout/payment.php:42
+msgid "Please fill in your details above to see available payment methods."
+msgstr "يرجى ملء التفاصيل الخاصة بك أعلاه لمعرفة طرق الدفع المتاحة."
+
+#: partials/single-car/car-calculator.php:150
+#: partials/modals/car-calculator.php:170
+#: partials/single-car-boats/boats-calculator.php:134
+msgid "Please fill Interest Rate field"
+msgstr "يرجى ملء الفائدة المجال"
+
+#: partials/single-car/car-calculator.php:155
+#: partials/modals/car-calculator.php:175
+#: partials/single-car-boats/boats-calculator.php:139
+msgid "Please fill Period field"
+msgstr "يرجى ملء الفترة المجال"
+
+#: inc/stm-ajax.php:722
+msgid "Please fill required fields"
+msgstr "يرجى ملء الحقول المطلوبة"
+
+#: partials/single-car/car-calculator.php:145
+#: partials/modals/car-calculator.php:165
+#: partials/single-car-boats/boats-calculator.php:129
+msgid "Please fill Vehicle Price field"
+msgstr "يرجى ملء سعر السيارة المجال"
+
+#: partials/user/private/dealer-settings.php:138
+#: partials/user/private/dealer-settings.php:217
+#: partials/user/private/become-dealer.php:185
+msgid "Please load image with right extension (jpg, jpeg, png)"
+msgstr "يرجى تحميل صورة مع حق التمديد (jpg, jpeg, png)"
+
+#: inc/woocommerce_setups.php:376
+msgid "Please make featured this Listing manually"
+msgstr "يرجى التأكد ظهرت هذه القائمة يدويا"
+
+#: inc/stm-ajax.php:165 inc/stm-ajax.php:234 partials/trade-in.php:13
+#: partials/trade-in.php:583 partials/trade-in.php:1133
+msgid "Please prove you're not a robot"
+msgstr "يرجى إثبات أنك لست روبوت"
+
+#: inc/woocommerce_setups.php:372
+msgid "Please publish this Listing manually"
+msgstr "يرجى نشر هذه القائمة يدويا"
+
+#: inc/stm-ajax.php:1034
+msgid "Please select plan"
+msgstr "يرجى تحديد خطة"
+
+#: partials/rental/common/order-info-empty.php:8
+msgid "Please select your vehicle "
+msgstr "من فضلك اختر سيارتك "
+
+#: functions.php:78
+msgid ""
+"Please update the plugins right below as well! It is essential to update "
+"these plugins for the theme to work properly."
+msgstr ""
+"يرجى تحديث الإضافات حق أدناه كذلك! من الضروري تحديث هذه الإضافات للموضوع "
+"للعمل بشكل صحيح."
+
+#: inc/stm-ajax.php:559 inc/stm-ajax.php:563
+msgid "Please, check you are not a dealer."
+msgstr "الرجاء التحقق كنت غير تاجر."
+
+#: inc/stm-ajax.php:554
+msgid "Please, enter review text."
+msgstr "الرجاء ادخال مراجعة النص."
+
+#: inc/stm-ajax.php:540
+msgid "Please, enter review title."
+msgstr "من فضلك أدخل عنوان التعليق."
+
+#: hb_templates/elements/multi-currency/multi-currency.php:50
+msgid "Please, install WooCommerce & Multi Currency for WooCommerce"
+msgstr "يرجى تثبيت WooCommerce & متعدد العملات WooCommerce"
+
+#: inc/stm-ajax.php:872
+msgid "Please, log in"
+msgstr "يرجى تسجيل الدخول"
+
+#: inc/helpers.php:864 listings/add_car/step_7.php:42
+msgid "Please, log in to view your available plans"
+msgstr "يرجى تسجيل الدخول لعرض الخطط المتاحة"
+
+#: partials/user/dealer-inventory.php:42
+msgid "Popular items"
+msgstr "العناصر الشعبية"
+
+#: woocommerce/myaccount/my-address.php:99
+msgid "Postcode"
+msgstr "الرمز البريدي"
+
+#: partials/blog/content.php:80 partials/blog/content-list-loop.php:41
+msgid "Posted by:"
+msgstr "نشرت من قبل:"
+
+#: ulisting/listing-list/pagination.php:27
+msgid "Prev"
+msgstr "السابق"
+
+#: partials/magazine/content/previous_next_pagination.php:41
+msgid "PREVIOUS"
+msgstr "السابقة"
+
+#: inc/helpers.php:856 woocommerce/myaccount/orders.php:109
+msgid "Previous"
+msgstr "السابقة"
+
+#: partials/compare.php:191 woocommerce/emails/email-order-details.php:40
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:79
+#: inc/rental/PricePerHour.php:152 inc/rental/PriceForQuantityDays.php:310
+#: inc/rental/PriceForQuantityDays.php:355
+#: inc/rental/PriceForDatePeriod.php:457 inc/rental/PriceForDatePeriod.php:497
+#: listings/add_car/step_6.php:31 listings/add_car/step_6.php:59
+#: partials/listing-layout-parts/boats-list-sort.php:29
+msgid "Price"
+msgstr "السعر"
+
+#: inc/rental/PricePerHour.php:145
+msgid "Price For Date Period"
+msgstr "سعر الفترة التاريخ"
+
+#: inc/rental/PricePerHour.php:135
+msgid "Price Per Hour"
+msgstr "السعر لكل ساعة"
+
+#: inc/woocommerce_setups.php:98
+msgid "Price Plan User Role"
+msgstr "سعر الخطة دور المستخدم"
+
+#: ulisting/account/my-plans/list.php:47
+msgid "Pricing Plan not found "
+msgstr "خطة التسعير لم يتم العثور على "
+
+#: inc/woocommerce_setups.php:81
+msgid "Pricing Plan Options (Works only with \"Subscription\" Product)"
+msgstr "خطة تسعير الخيارات (يعمل فقط مع \"الاشتراك\" المنتج)"
+
+#: ulisting/pricing-plan/list.php:41
+msgid ""
+"Pricing plans are currently under development. Please contact the site "
+"administrator for details."
+msgstr ""
+"خطط التسعير هي حاليا قيد التطوير. يرجى الاتصال بالمسؤول عن الموقع لمزيد من "
+"التفاصيل."
+
+#: inc/setup.php:555
+msgid "Primary Sidebar"
+msgstr "الشريط الجانبي الأساسي"
+
+#: partials/rental/common/order-print.php:3
+msgid "Print"
+msgstr "طباعة"
+
+#: partials/single-car/car-actions.php:115
+#: partials/single-aircrafts/action-bar.php:40
+msgid "Print page"
+msgstr "طباعة الصفحة"
+
+#: listings/add_car/registered.php:26 listings/add_car/user_info.php:65
+#: partials/user/user-public-profile.php:35
+#: partials/single-car-listing/car-dealer.php:118
+#: partials/user/private/user.php:38
+#: partials/user/private/mobile/user-profile.php:22
+msgid "Private Seller"
+msgstr "خاصة البائع"
+
+#: woocommerce/order/order-details.php:41
+#: woocommerce/emails/email-order-details.php:38
+#: woocommerce/checkout/review-order.php:23 woocommerce/cart/cart.php:48
+msgid "Product"
+msgstr "المنتج"
+
+#: woocommerce/cart/cart.php:28
+msgid "Product Name"
+msgstr "اسم المنتج"
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "الكمية"
+
+#: partials/header/parts/mobile_menu_items.php:28
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: partials/user/private/dealer-settings.php:389
+#: partials/user/private/user-settings.php:22
+msgid "Profile Settings"
+msgstr "إعدادات الملف الشخصي"
+
+#: ulisting/account/my-listing.php:179
+msgid "Promotion ends:"
+msgstr "تعزيز ينتهي:"
+
+#: ulisting/account/my-listing.php:178
+msgid "Promotion over."
+msgstr "الترقية."
+
+#: ulisting/account/my-listing.php:180
+msgid "Promotion will start:"
+msgstr "تعزيز سيبدأ:"
+
+#: partials/trade-in.php:1351
+msgid "Provide a hosted video url of your boat"
+msgstr "توفر استضافت رابط الفيديو من القارب الخاص بك"
+
+#: partials/trade-in.php:288 partials/trade-in.php:814
+msgid "Provide a hosted video url of your car"
+msgstr "توفر استضافت الفيديو url سيارتك"
+
+#: inc/stm-ajax.php:1025 partials/trade-in.php:77
+#: inc/value_my_car/value_my_car.php:99
+#, php-format
+msgid ""
+"Providing consent to our <a href='%1$s'>%2$s</a> is necessary in order to "
+"use our services and products."
+msgstr ""
+
+#: ulisting/account/my-listing.php:82 ulisting/account/my-listing.php:141
+msgid "Publish"
+msgstr "نشر"
+
+#: partials/rental/main-shop/promo-popup.php:21
+#: partials/rental/common/order-info.php:34
+#: partials/rental/common/order-info.php:157
+#: partials/rental/common/order-info.php:223
+#: partials/rental/common/order-info-empty.php:53
+msgid "QTY"
+msgstr "الكمية"
+
+#: woocommerce/emails/email-order-details.php:39 woocommerce/cart/cart.php:30
+#: woocommerce/cart/cart.php:85 woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr "الكمية"
+
+#: partials/single-car-motorcycle/car-links.php:35
+#: partials/listing-cars/motos/list-actions.php:46
+msgid "Quote by Phone"
+msgstr "اقتباس طريق الهاتف"
+
+#: partials/rental/main-shop/promo-popup.php:22
+msgid "RATE"
+msgstr "معدل"
+
+#: partials/rental/common/order-info.php:30
+#: partials/rental/common/order-info.php:35
+#: partials/rental/common/order-info.php:158
+#: partials/rental/common/order-info-empty.php:26
+#: partials/rental/common/order-info-empty.php:54
+msgid "Rate"
+msgstr "معدل"
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Rate&hellip;"
+msgstr "معدل..."
+
+#: partials/user/dealer-reviews.php:24
+msgid "ratings"
+msgstr "التقييم"
+
+#: partials/user/private/dealer-settings.php:594
+#: partials/user/private/user-settings.php:142
+msgid "Re-enter New Password"
+msgstr "إعادة إدخال كلمة المرور الجديدة"
+
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "Re-enter new password"
+msgstr "إعادة إدخال كلمة المرور الجديدة"
+
+#: partials/user/dealer-inventory.php:43
+msgid "Recent items"
+msgstr "البنود الأخيرة"
+
+#: woocommerce/myaccount/my-orders.php:49
+msgid "Recent Orders"
+msgstr "أوامر الأخيرة"
+
+#: partials/user/dealer-reviews.php:49
+msgid "Recommend"
+msgstr "يوصي"
+
+#: partials/single-aircrafts/title.php:23
+msgid "Reg Number: "
+msgstr "ريج رقم: "
+
+#: ulisting/add-listing/form.php:61
+msgid "Region"
+msgstr "المنطقة"
+
+#: partials/top-bar-boats.php:100 ulisting/account/register.php:89
+#: woocommerce/myaccount/form-login.php:125
+#: woocommerce/myaccount/form-login.php:196
+#: woocommerce/myaccount/form-login.php:201
+#: partials/top-bar-parts/top-bar-auth.php:44
+#: partials/top-bar-parts/top-bar-auth.php:70
+#: partials/header/header-ev-dealer/parts/login-reg-links.php:12
+#: partials/header/header-classified-five/parts/login-reg-links.php:12
+msgid "Register"
+msgstr "تسجيل"
+
+#: listings/add_car/step_1_additional_fields.php:21
+#: partials/single-car-listing/car-data.php:23
+#: partials/single-car-listing/car-data.php:32
+#: listings/loop/woo/listing_data.php:18 listings/loop/woo/listing_data.php:27
+msgid "Registered"
+msgstr "مسجلة"
+
+#: ulisting/account/account.php:31
+msgid "Registration"
+msgstr "التسجيل"
+
+#: woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr "المنتجات ذات الصلة"
+
+#: ulisting/account/login.php:41 woocommerce/myaccount/form-login.php:86
+#: woocommerce/myaccount/form-login.php:98 listings/add_car/check_user.php:64
+#: partials/user/user-dropdown.php:62 partials/user/private/mobile/user.php:19
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:64
+#: partials/header/header-classified-five/parts/account-dropdown.php:64
+msgid "Remember me"
+msgstr "تذكر لي"
+
+#: inc/rental/PriceForQuantityDays.php:327
+#: inc/rental/PriceForQuantityDays.php:371 inc/rental/DiscountByDays.php:177
+#: inc/rental/DiscountByDays.php:212 inc/rental/PriceForDatePeriod.php:468
+#: inc/rental/PriceForDatePeriod.php:506 partials/rental/product/option.php:83
+msgid "Remove"
+msgstr "إزالة"
+
+#: inc/scripts_styles.php:313 partials/compare.php:124
+#: partials/listing-cars/motos/grid.php:50
+#: partials/listing-cars/motos/moto-single-grid.php:45
+#: listings/loop/default/list/compare.php:13
+#: listings/loop/default/grid/image.php:11
+msgid "Remove from compare"
+msgstr "إزالة من مقارنة"
+
+#: inc/scripts_styles.php:314
+msgid "Remove from favorites"
+msgstr "إزالة من المفضلة"
+
+#: ulisting/listing-compare/compare-page.php:37
+msgid "Remove From List"
+msgstr "إزالة من القائمة"
+
+#: inc/stm-ajax.php:34 partials/compare.php:88 partials/compare.php:183
+#: partials/single-car/car-actions.php:62
+#: partials/listing-cars/listing-list-loop-actions.php:58
+#: partials/listing-cars/listing-directive-list-loop-actions.php:62
+#: partials/single-car-boats/boats-actions.php:51
+#: partials/single-aircrafts/action-bar.php:58
+#: listings/loop/default/list/features.php:87
+msgid "Remove from list"
+msgstr "إزالة من القائمة"
+
+#: woocommerce/cart/cart.php:115
+msgid "Remove this item"
+msgstr "إزالة هذا البند"
+
+#: partials/modals/subscription_ended.php:17
+msgid "Renew"
+msgstr "تجديد"
+
+#: inc/setup.php:41 inc/helpers.php:23
+msgid "RENT A CAR SERVICE"
+msgstr "استئجار سيارة الخدمة"
+
+#: inc/setup.php:89 inc/helpers.php:30
+msgid "RENT A CAR TWO"
+msgstr "استئجار سيارة اثنين"
+
+#: partials/rental/main-shop/promo-popup.php:134
+#: partials/rental/common/order-info.php:143
+#: partials/rental/common/order-info-empty.php:78
+msgid "Rental Charges Rate"
+msgstr "رسوم الإيجار معدل"
+
+#: inc/value_my_car/admin-page.php:132
+msgid "Reply"
+msgstr "رد"
+
+#: inc/value_my_car/value_my_car.php:239
+msgid "Reply was sent"
+msgstr "الرد أرسل"
+
+#: partials/user/dealer-single-review.php:119
+msgid "Report"
+msgstr "تقرير"
+
+#: inc/email_template_manager/email_template_manager.php:20
+msgid "Report Review"
+msgstr "تقرير استعراض"
+
+#: inc/stm-ajax.php:769
+msgid "Reported"
+msgstr "ذكرت"
+
+#: partials/modals/test-drive.php:98 partials/modals/test-drive.php:100
+#: partials/modals/get-car-price.php:47 partials/modals/trade-offer.php:104
+#: partials/modals/trade-offer.php:106
+msgid "Request"
+msgstr "طلب"
+
+#: partials/single-car-motorcycle/car-links.php:19
+msgid "Request a quote"
+msgstr "طلب عرض أسعار"
+
+#: partials/modals/get-car-price.php:7
+msgid "Request car price"
+msgstr "طلب سعر السيارة"
+
+#: inc/email_template_manager/email_template_manager.php:14
+msgid "Request car price [car]"
+msgstr ""
+
+#. listing title
+#: partials/trade-in.php:43
+#, php-format
+msgid "Request for %s"
+msgstr "طلب %s"
+
+#: inc/email_template_manager/email_template_manager.php:22
+msgid "Request for becoming a dealer"
+msgstr "طلب أن تصبح تاجر"
+
+#: inc/email_template_manager/email_template_manager.php:13
+msgid "Request Test Drive [car]"
+msgstr ""
+
+#: partials/rental/wizard-nav/main.php:3
+msgid "Reservation"
+msgstr "الحجز"
+
+#: woocommerce/myaccount/orders.php:68
+msgid "Reservation Period"
+msgstr "فترة الحجز"
+
+#: partials/rental/wizard-nav/nav-step-3.php:25
+msgid "Reserve Your Vehicle"
+msgstr "حجز السيارة"
+
+#: inc/helpers.php:855 listings/classified/filter/sidebar.php:38
+#: listings/motorcycles/filter/sidebar.php:34
+msgid "Reset All"
+msgstr "إعادة تعيين جميع"
+
+#: ulisting/listing-list/filter.php:22 listings/filter/sidebar.php:94
+#: listings/classified/filter/sidebar.php:149
+#: listings/motorcycles/filter/sidebar.php:139
+msgid "Reset all"
+msgstr "إعادة تعيين جميع"
+
+#: woocommerce/myaccount/form-lost-password.php:42
+msgid "Reset password"
+msgstr "إعادة تعيين كلمة المرور"
+
+#: woocommerce/emails/email-order-details.php:73
+msgid "Return date"
+msgstr "تاريخ العودة"
+
+#: woocommerce/emails/email-order-details.php:81
+msgid "Return location"
+msgstr "عودة الموقع"
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Return to account"
+msgstr "عودة إلى الحساب"
+
+#: woocommerce/single-product-reviews.php:35 inc/stm_single_dealer.php:80
+#: partials/user/dealer-reviews.php:78
+#: partials/single-car-listing/car-dealer.php:46
+msgid "Reviews"
+msgstr "استعراض"
+
+#: ulisting/account/register.php:65
+msgid "Role"
+msgstr "دور"
+
+#: ulisting/account/my-listing.php:183
+msgid "Running"
+msgstr "تشغيل"
+
+#: listings/add_car/step_6.php:39
+msgid "Sale Price"
+msgstr "سعر البيع"
+
+#: woocommerce/content-product.php:67
+msgid "Sale Product"
+msgstr "بيع المنتج"
+
+#: inc/user-extra.php:214 partials/user/dealer-public-profile.php:88
+#: partials/user/private/dealer-settings.php:561
+#: partials/user/private/become-dealer.php:295
+msgid "Sales Hours"
+msgstr "مبيعات ساعات"
+
+#: partials/user/dealer-public-profile.php:72
+msgid "Sales Phone"
+msgstr "مبيعات الهاتف"
+
+#: ulisting/account/my-listing.php:209
+#: woocommerce/myaccount/form-reset-password.php:45
+#: woocommerce/myaccount/form-reset-password.php:45
+msgid "Save"
+msgstr "حفظ"
+
+#: partials/trade-in.php:325 partials/trade-in.php:410
+#: partials/trade-in.php:872 partials/trade-in.php:957
+#: partials/trade-in.php:1388 partials/trade-in.php:1473
+msgid "Save and continue"
+msgstr "حفظ ومتابعة"
+
+#: partials/trade-in.php:500 partials/trade-in.php:502
+#: partials/trade-in.php:1047 partials/trade-in.php:1049
+#: partials/trade-in.php:1534 partials/trade-in.php:1536
+msgid "Save and finish"
+msgstr "وحفظ النهاية"
+
+#: partials/user/private/dealer-settings.php:660
+#: partials/user/private/user-settings.php:218
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: woocommerce/myaccount/form-edit-account.php:97
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: ulisting/saved-searches/add-button.php:12
+msgid "Save Search"
+msgstr "حفظ البحث"
+
+#: ulisting/wishlist/main.php:10 ulisting/wishlist/main.php:25
+msgid "Saved Search"
+msgstr "البحث المحفوظة"
+
+#: partials/rental/main-shop/price.php:90
+#, php-format
+msgid "Saves you %s"
+msgstr "يوفر لك %s"
+
+#: partials/modals/test-drive.php:13
+msgid "Schedule a Test Drive"
+msgstr "جدول اختبار القيادة"
+
+#: partials/single-car/car-actions.php:49
+#: partials/listing-cars/listing-list-loop-actions.php:38
+#: partials/single-car-boats/boats-actions.php:31
+#: listings/loop/default/list/features.php:66
+msgid "Schedule Test Drive"
+msgstr "جدول اختبار القيادة"
+
+#: partials/single-car-motorcycle/car-links.php:27
+msgid "Schedule test drive"
+msgstr "جدول اختبار القيادة"
+
+#: partials/title_box.php:77 ulisting/filter/stm_search_form_category.php:182
+#: ulisting/filter/stm_search_form_type.php:158
+#: partials/modals/searchform.php:6 listings/classified/filter/sidebar.php:36
+#: listings/motorcycles/filter/sidebar.php:32
+msgid "Search"
+msgstr "البحث"
+
+#: listings/filter/types/location.php:36
+msgid "Search by location"
+msgstr "البحث عن طريق الموقع"
+
+#: partials/listing-layout-parts/footer-copyright-top.php:22
+msgid "Search Inventory"
+msgstr "البحث المخزون"
+
+#: listings/filter/sidebar.php:12 listings/classified/filter/sidebar.php:32
+msgid "Search Options"
+msgstr "خيارات البحث"
+
+#: ulisting/listing-list/filter.php:20
+msgid "Search options"
+msgstr "خيارات البحث"
+
+#: listings/filter/types/location.php:50
+msgid "Search radius"
+msgstr "دائرة نصف قطرها البحث"
+
+#: partials/single-car/search-results-carousel.php:42
+msgid "Search results"
+msgstr "نتائج البحث"
+
+#: inc/stm_single_dealer.php:134
+msgid "See map"
+msgstr "انظر الخريطة"
+
+#: partials/user/private/dealer-settings.php:171
+msgid ""
+"Seems like image too small, please load image with minimal dimensions 500x282"
+msgstr ""
+"يبدو مثل صورة صغيرة جدا ، يرجى تحميل الصورة مع الحد الأدنى من أبعاد 500x282"
+
+#: listings/add_car/step_1.php:54 listings/add_car/step_1.php:72
+#: listings/add_car/step_1.php:77 listings/add_car/step_1.php:139
+msgid "Select"
+msgstr "حدد"
+
+#: ulisting/account/my-listing.php:198 ulisting/add-listing/form.php:173
+msgid "select"
+msgstr "حدد"
+
+#: listings/add_car/step_1.php:113
+#, php-format
+msgid "Select %s"
+msgstr "اختر %s"
+
+#: listings/add_car/step_5.php:20
+msgid "Select all the phrases that apply to your vehicle."
+msgstr "حدد كل العبارات التي تنطبق على سيارتك."
+
+#: listings/add_car/step_7.php:20
+msgid "Select Plan"
+msgstr "حدد خطة"
+
+#: listings/filter/types/price.php:77
+msgid "Select Price"
+msgstr "حدد السعر"
+
+#: partials/modals/rental-notification-choose-another-class.php:14
+msgid "Select Vehicle"
+msgstr "حدد السيارة"
+
+#: partials/rental/wizard-nav/nav-step-2.php:34
+msgid "Select Vehicle/Add-ons"
+msgstr "حدد السيارة/Add-ons"
+
+#: partials/rental/main-shop/archive-content.php:4
+msgid "Select vehicle/add-ons"
+msgstr "حدد السيارة/add-ons"
+
+#: listings/add_car/step_2.php:3
+msgid "Select Your Car Features"
+msgstr "حدد ملامح السيارة"
+
+#: inc/email_template_manager/email_template_manager.php:17
+msgid "Sell a car"
+msgstr "بيع سيارة"
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:178
+msgid "Sell online"
+msgstr "بيع على الانترنت"
+
+#: partials/user/private/user.php:69
+#: partials/user/private/mobile/user-profile.php:114
+msgid "Seller Contact Phone"
+msgstr "البائع الاتصال الهاتف"
+
+#: partials/user/private/user.php:76
+#: partials/user/private/mobile/user-profile.php:122
+msgid "Seller Email"
+msgstr "البائع البريد الإلكتروني"
+
+#: partials/user/dealer-public-profile.php:97
+#: partials/user/user-public-profile.php:42
+msgid "Seller email"
+msgstr "البائع البريد الإلكتروني"
+
+#: ulisting/custom/widget/widget_dealer_info.php:62
+msgid "Seller Email:"
+msgstr "البائع البريد الإلكتروني:"
+
+#: partials/user/user-public-profile.php:60
+msgid "Seller Inventory"
+msgstr "البائع المخزون"
+
+#: partials/single-car-listing/car-main-four.php:45
+#: partials/single-car-listing/car-main.php:45
+msgid "Seller Note"
+msgstr "البائع ملاحظة"
+
+#: inc/user-extra.php:224
+msgid "Seller Notes"
+msgstr "ملاحظات البائع"
+
+#: partials/user/user-public-profile.php:51
+msgid "Seller phone"
+msgstr "البائع الهاتف"
+
+#: partials/user/dealer-public-profile.php:132
+msgid "Seller's Notes"
+msgstr "البائع الملاحظات"
+
+#: partials/single-aircrafts/title.php:19
+msgid "Serial Number: "
+msgstr "الرقم التسلسلي: "
+
+#. Name of the template
+msgid "Service Page Layout"
+msgstr "خدمة تخطيط الصفحة"
+
+#: inc/woocommerce_setups_rental.php:1307
+msgid "Sessions:"
+msgstr "الدورات:"
+
+#: ulisting/add-listing/form.php:252
+msgid "Set feature"
+msgstr "مجموعة ميزة"
+
+#: partials/user/private/password-recovery.php:37
+msgid "Set new password"
+msgstr "تعيين كلمة مرور جديدة"
+
+#: listings/add_car/step_6.php:13
+msgid "Set Your Asking Price"
+msgstr "تعيين السعر الخاص بك"
+
+#: partials/single-car/car-actions.php:96
+#: partials/single-car/car-actions.php:99 partials/blog/content.php:153
+#: partials/blog/content.php:156
+#: partials/listing-cars/listing-list-loop-actions.php:99
+#: partials/listing-cars/listing-list-loop-actions.php:101
+#: partials/listing-cars/listing-directive-list-loop-actions.php:98
+#: partials/magazine/main-interview.php:55
+#: partials/magazine/main-interview.php:58 partials/magazine/main.php:63
+#: partials/magazine/main.php:66
+#: partials/single-car-motorcycle/car-links.php:58
+#: partials/single-car-boats/boats-actions.php:91
+#: partials/single-car-boats/boats-actions.php:94
+#: partials/single-aircrafts/action-bar.php:73
+#: partials/single-aircrafts/action-bar.php:76
+#: listings/loop/default/list/features.php:138
+msgid "Share this"
+msgstr "حصة هذا"
+
+#: woocommerce/checkout/form-shipping.php:41
+msgid "Ship to a different address?"
+msgstr "السفينة إلى عنوان مختلف?"
+
+#: woocommerce/cart/cart-totals.php:57
+msgid "Shipping"
+msgstr "الشحن"
+
+#: woocommerce/order/order-details-customer.php:76
+#: woocommerce/myaccount/my-address.php:33
+msgid "Shipping address"
+msgstr "عنوان الشحن"
+
+#: inc/setup.php:580
+msgid "Shop"
+msgstr "متجر"
+
+#: partials/listing-layout-parts/items-per-page.php:18
+msgid "Show"
+msgstr "تظهر"
+
+#: listings/classified/filter/featured.php:38
+msgid "Show all"
+msgstr "عرض كل"
+
+#: listings/filter/sidebar.php:92 listings/classified/filter/sidebar.php:147
+#: listings/motorcycles/filter/sidebar.php:136
+msgid "Show cars"
+msgstr "إظهار السيارات"
+
+#: partials/user/private/dealer-settings.php:512
+#: partials/user/private/user-settings.php:118
+msgid "Show Email Address on my Profile"
+msgstr "عرض عنوان البريد الإلكتروني على ملفي الشخصي"
+
+#: partials/user/dealer-reviews.php:87 partials/user/dealer-inventory.php:81
+#: partials/user/dealer-inventory.php:97
+msgid "Show more"
+msgstr "عرض المزيد"
+
+#: listings/add_car/registered.php:34 listings/add_car/user_info.php:38
+#: listings/add_car/user_info.php:71 partials/user/private/dealer.php:125
+#: partials/user/private/user.php:143
+#: partials/user/private/mobile/dealer-profile.php:122
+#: partials/user/private/mobile/user-profile.php:130
+msgid "Show my Public Profile"
+msgstr "تظهر لي ملفه الشخصي"
+
+#: inc/stm_single_dealer.php:118 ulisting/custom/dealer_info.php:32
+#: partials/user/dealer-public-profile.php:79
+#: partials/user/listing-list-user-info.php:71
+#: partials/single-car-listing/car-dealer.php:64
+#: partials/single-car-listing/car-dealer.php:132
+msgid "Show number"
+msgstr "عرض عدد"
+
+#: partials/top-bar-boats.php:74 ulisting/account/account-panel.php:39
+#: listings/add_car/registration.php:3 partials/user/user-dropdown.php:68
+#: partials/user/private/mobile/user.php:32
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:72
+#: partials/header/header-classified-five/parts/account-dropdown.php:72
+msgid "Sign Up"
+msgstr "التوقيع"
+
+#: listings/add_car/registration.php:141 listings/add_car/registration.php:143
+msgid "Sign up now!"
+msgstr "اشترك الآن!"
+
+#: ulisting/builder/element/similar-listings.php:26
+msgid "Similar Listings"
+msgstr "قوائم مماثلة"
+
+#: woocommerce/checkout/payment.php:55
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1373
+msgid "Single pay for the option"
+msgstr "واحد دفع ثمن الخيار"
+
+#: inc/stm-ajax.php:845 partials/user/private/dealer-settings.php:372
+#: partials/user/private/become-dealer.php:80
+msgid "Site is on demo mode"
+msgstr "الموقع هو على طريقة العرض"
+
+#: inc/stm-ajax.php:527 inc/stm-ajax.php:720
+msgid "Site is on demo mode."
+msgstr "الموقع هو في طريقة العرض."
+
+#: partials/modals/limit_exceeded.php:3
+msgid "Slots available:"
+msgstr "فتحات المتاحة:"
+
+#: ulisting/account/edit-profile.php:127
+msgid "Social"
+msgstr "الاجتماعية"
+
+#: listings/filter/sidebar.php:59 partials/single-car/car-gallery.php:83
+#: partials/listing-cars/listing-directory-badges.php:29
+#: partials/listing-cars/listing-directory-badges.php:39
+#: partials/single-car-listing/car-price-title.php:30
+#: partials/single-car-listing/car-gallery.php:151
+#: partials/single-car-motorcycle/car-gallery.php:70
+#: partials/single-aircrafts/action-bar.php:115
+#: listings/classified/filter/sidebar.php:115
+#: listings/boats/filter/sidebar.php:65
+#: listings/modern_filter/filters/sold_filter.php:34
+#: listings/motorcycles/filter/sidebar.php:112
+#: partials/listing-cars/motos/grid.php:91
+#: listings/loop/default/list/badge.php:33
+msgid "Sold"
+msgstr "تباع"
+
+#: woocommerce/checkout/payment.php:44
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"للأسف يبدو أنه لا توجد طرق الدفع المتاحة في الدولة. يرجى الاتصال بنا إذا كنت "
+"تحتاج إلى المساعدة أو ترغب في إجراء ترتيبات بديلة."
+
+#: inc/perpay.php:180
+msgid "Sorry, item is out of stock and cannot be added to cart"
+msgstr "آسف البند هو من المخزون ولا يمكن إضافتها إلى عربة التسوق"
+
+#: listings/filter/results.php:62
+msgid "Sorry, no results"
+msgstr "آسف, لا يوجد نتائج"
+
+#: partials/user/dealer-inventory.php:39
+#: partials/user/private/user-inventory.php:33
+msgid "Sort by"
+msgstr "فرز حسب"
+
+#: ulisting/account/my-listing.php:74
+msgid "Sort by status"
+msgstr "فرز حسب الحالة"
+
+#: ulisting/listing-list/listing-order.php:24
+msgid "SORT BY:"
+msgstr "فرز حسب:"
+
+#: listings/filter/actions.php:11 listings/classified/filter/actions.php:30
+#: listings/boats/filter/actions.php:6
+#: listings/motorcycles/filter/actions.php:29
+msgid "Sort by:"
+msgstr "فرز حسب:"
+
+#: partials/single-car/car-gallery.php:23
+#: partials/listing-cars/listing-directory-badges.php:20
+#: partials/single-car-listing/car-gallery.php:22
+#: partials/single-car-motorcycle/car-gallery.php:17
+#: partials/single-aircrafts/action-bar.php:23
+#: partials/listing-cars/motos/grid.php:59
+#: listings/loop/default/list/badge.php:14
+msgid "Special"
+msgstr "خاصة"
+
+#: partials/user/private/user-plans.php:95
+msgid "Start"
+msgstr "تبدأ"
+
+#: inc/rental/PriceForDatePeriod.php:437 inc/rental/PriceForDatePeriod.php:481
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+#: partials/modals/searchform.php:10
+msgid "Start typing here..."
+msgstr "ابدأ الكتابة هنا..."
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:38
+msgid "Starting at"
+msgstr "ابتداء من الساعة"
+
+#: woocommerce/myaccount/my-address.php:95
+msgid "State"
+msgstr "الدولة"
+
+#: ulisting/account/payment-history.php:32
+#: woocommerce/myaccount/my-orders.php:31
+#: woocommerce/myaccount/my-orders.php:57
+#: woocommerce/myaccount/my-orders.php:78 ulisting/account/my-plans/list.php:32
+#: partials/user/private/user-plans.php:72
+msgid "Status"
+msgstr "حالة"
+
+#: ulisting/pricing-plan/payment.php:50 ulisting/pricing-plan/list.php:29
+#: ulisting/pricing-plan/list.php:61
+msgid "Status:"
+msgstr "حالة:"
+
+#: listings/add_car/step_4.php:5 listings/add_car/step_4.php:38
+#: listings/add_car/step_5.php:11 listings/add_car/step_7.php:14
+#: listings/add_car/step_6.php:14 listings/add_car/step_2.php:4
+#: listings/add_car/step_3.php:8 listings/add_car/step_1.php:16
+msgid "step"
+msgstr "الخطوة"
+
+#: partials/blog/grid-loop.php:33 partials/blog/content-grid-loop.php:61
+msgid "Sticky"
+msgstr "مثبت"
+
+#: partials/blog/grid-loop.php:26 partials/blog/content-list-loop.php:8
+#: partials/blog/content-grid-loop.php:48
+msgid "Sticky Post"
+msgstr "مثبت المشاركة"
+
+#: inc/setup.php:594
+msgid "STM Listing Car Sidebar"
+msgstr "STM القائمة سيارة الشريط الجانبي"
+
+#: inc/setup.php:607
+msgid "STM Single Boat Sidebar"
+msgstr "STM قارب واحد الشريط الجانبي"
+
+#: inc/user-extra.php:10
+msgid "STM User/Dealer additional fields"
+msgstr "STM المستخدم/تاجر حقول إضافية"
+
+#: inc/user-extra.php:62
+msgid "STM User/Dealer additional fields (socials)"
+msgstr "STM المستخدم/تاجر إضافية المجالات (الاجتماعية)"
+
+#: partials/single-car/car-actions.php:39
+#: partials/listing-cars/listing-list-loop-actions.php:29
+#: partials/listing-cars/listing-directive-list-loop-actions.php:35
+#: partials/single-car-boats/boats-actions.php:22
+#: listings/loop/default/list/features.php:52
+msgid "stock"
+msgstr "الأسهم"
+
+#: listings/loop/woo/listing_data.php:57 listings/loop/woo/listing_data.php:66
+msgid "Stock ID"
+msgstr "الأسهم ID"
+
+#: partials/single-car-listing/car-data.php:62
+#: partials/single-car-listing/car-data.php:71
+msgid "Stock id"
+msgstr "الأسهم id"
+
+#: partials/single-car-boats/boat-top.php:17
+#: partials/listing-cars/motos/list.php:336
+msgid "Stock#"
+msgstr ""
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Submit"
+msgstr "تقدم"
+
+#: partials/user/private/become-dealer.php:314
+msgid "Submit for review"
+msgstr "إرسال للمراجعة"
+
+#: listings/add_car/check_user.php:89
+msgid "Submit listing"
+msgstr "تقديم قائمة"
+
+#: partials/user/dealer-write-review.php:39
+#: partials/user/dealer-write-review.php:79
+msgid "Submit review"
+msgstr "تقديم استعراض"
+
+#: ulisting/pricing-plan/list.php:46
+msgid "Subscription"
+msgstr "الاشتراك"
+
+#: partials/user/private/main.php:54
+msgid "Subscription Listings"
+msgstr "الاشتراك في القوائم"
+
+#: partials/user/private/dealer.php:86 partials/user/private/dealer.php:100
+#: partials/user/private/user.php:103 partials/user/private/user.php:117
+#: partials/user/private/mobile/dealer-profile.php:43
+#: partials/user/private/mobile/user-profile.php:59
+msgid "Subscription renewal"
+msgstr "تجديد الاشتراك"
+
+#: partials/rental/main-shop/promo-popup.php:23
+msgid "SUBTOTAL"
+msgstr "المجموع الفرعي"
+
+#: woocommerce/checkout/review-order.php:52 woocommerce/cart/cart-totals.php:35
+#: partials/rental/common/order-info.php:36
+#: partials/rental/common/order-info.php:159
+#: partials/rental/common/order-info-empty.php:55
+msgid "Subtotal"
+msgstr "المجموع الفرعي"
+
+#: partials/rental/common/order-details.php:4
+msgid "Summary"
+msgstr "ملخص"
+
+#: partials/magazine/main-interview.php:42 partials/magazine/main.php:50
+msgid "Tags"
+msgstr "العلامات"
+
+#: partials/blog/content.php:140
+msgid "Tags:"
+msgstr "العلامات:"
+
+#: ulisting/account/edit-profile.php:117
+msgid "Tax number"
+msgstr "الرقم الضريبي"
+
+#: ulisting/account/dashboard.php:82
+msgid "Tax number:"
+msgstr "الرقم الضريبي:"
+
+#: partials/rental/common/tax.php:8
+msgid "Taxes & Fees"
+msgstr "الضرائب والرسوم"
+
+#: woocommerce/order/order-details-customer.php:45
+msgid "Telephone:"
+msgstr "الهاتف:"
+
+#: inc/stm-ajax.php:1664
+#: partials/listing-cars/listing-directive-list-loop-actions.php:44
+msgid "Test Drive"
+msgstr "اختبار محرك الأقراص"
+
+#: partials/listing-cars/motos/list-actions.php:22
+msgid "Test drive"
+msgstr "اختبار محرك الأقراص"
+
+#: woocommerce/checkout/thankyou.php:50 woocommerce/checkout/thankyou.php:121
+msgid "Thank you. Your order has been received."
+msgstr "شكرا لك. تم استلام طلبك."
+
+#: inc/value_my_car/value_my_car.php:89 inc/value_my_car/value_my_car.php:165
+msgid ""
+"Thanks for your request, we will contact you as soon as we review you car."
+msgstr "شكرا على طلبك ، سوف نتصل بك في أقرب وقت كما نستعرض لك سيارة."
+
+#: woocommerce/myaccount/my-address.php:50
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "العناوين التالية سيتم استخدامها على الصفحة الخروج بشكل افتراضي."
+
+#: 404.php:7
+msgid "The page you are looking for does not exist"
+msgstr "الصفحة التي تبحث عنها غير موجودة"
+
+#: partials/rental/main-shop/archive-content.php:38
+msgid "There are no cars in this office"
+msgstr "لا توجد سيارات في هذا المكتب"
+
+#: woocommerce/single-product-reviews.php:57
+msgid "There are no reviews yet."
+msgstr "لا توجد بعد استعراض."
+
+#: partials/modals/rental-notification-choose-another-class.php:8
+msgid ""
+"There is no selected car class in current office. Please choose another "
+"Class!"
+msgstr "لا يوجد اختيار فئة السيارات في المكتب الحالي. يرجى اختيار فئة أخرى!"
+
+#: partials/user/private/demo-alert.php:18
+msgid ""
+"This action cannot be performed while the website is on demo mode. For more "
+"details, please contact the website administrator."
+msgstr ""
+"هذا العمل لا يمكن أن يؤديها في حين أن الموقع هو في طريقة العرض. لمزيد من "
+"التفاصيل يرجى الاتصال بمسؤول الموقع."
+
+#: inc/stm-ajax.php:1450 inc/woocommerce_setups_rental.php:1247
+#: partials/rental/main-shop/loop.php:140
+msgid "This Class is already booked in: "
+msgstr "هذه الفئة هي بالفعل حجزت في: "
+
+#: inc/user-extra.php:120
+msgid ""
+"This settings will only be filled by dealers, and shown only on dealer page."
+msgstr "هذه الإعدادات فقط أن تملأ من قبل التجار ، يظهر فقط على تاجر الصفحة."
+
+#: woocommerce/myaccount/form-edit-account.php:50
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr "هذا كيف ستكون اسمك سوف يتم عرضها في قسم الحساب في الاستعراضات"
+
+#: inc/motors-gdpr.php:36 ulisting/add-listing/form.php:192
+#: listings/add_car/title.php:10 partials/user/dealer-write-review.php:22
+msgid "Title"
+msgstr "العنوان"
+
+#: listings/add_car/registered.php:39 listings/add_car/user_info.php:43
+#: listings/add_car/user_info.php:75
+msgid "to choose a different account"
+msgstr "اختيار حساب مختلف"
+
+#: partials/user/dealer-write-review.php:176
+msgid "to leave a review"
+msgstr "إلى ترك التعليق"
+
+#: woocommerce/order/form-tracking.php:34
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+"لتتبع طلبك يرجى إدخال رقم الطلب في المربع أدناه ثم اضغط على \"متابعة\" زر. "
+"هذا أعطيت لك على الإيصال الخاص بك في البريد الإلكتروني تأكيد يجب أن يكون حصل."
+
+#: inc/setup.php:548
+msgid "Top bar menu"
+msgstr "أعلى شريط القائمة"
+
+#: inc/setup.php:547
+msgid "Top primary menu"
+msgstr "أعلى القائمة الأولية"
+
+#: woocommerce/content-product.php:73
+msgid "Top Rated Product"
+msgstr "أعلى تصنيف المنتج"
+
+#: woocommerce/order/order-details.php:63
+#: woocommerce/myaccount/my-orders.php:32
+#: woocommerce/myaccount/my-orders.php:58
+#: woocommerce/myaccount/my-orders.php:81
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:99 woocommerce/cart/cart.php:31
+#: woocommerce/cart/cart.php:107 woocommerce/cart/cart-totals.php:94
+msgid "Total"
+msgstr "مجموع"
+
+#: partials/single-car/car-calculator.php:88
+#: partials/modals/car-calculator.php:113
+#: partials/single-car-boats/boats-calculator.php:77
+msgid "Total Amount to Pay"
+msgstr "إجمالي المبلغ لدفع"
+
+#: partials/rental/common/coupon.php:34
+msgid "Total discount"
+msgstr "مجموع الخصم"
+
+#: partials/single-car/car-calculator.php:84
+#: partials/modals/car-calculator.php:109
+#: partials/single-car-boats/boats-calculator.php:74
+msgid "Total Interest Payment"
+msgstr "إجمالي مدفوعات الفوائد"
+
+#: woocommerce/checkout/thankyou.php:77
+msgid "Total:"
+msgstr "المجموع:"
+
+#: woocommerce/order/form-tracking.php:49
+msgid "Track"
+msgstr "المسار"
+
+#: partials/single-car-motorcycle/car-links.php:43
+msgid "Trade In"
+msgstr "التجارة في"
+
+#: partials/modals/trade-in.php:8
+msgid "Trade in"
+msgstr "التجارة في"
+
+#: partials/single-car/car-buttons.php:11
+msgid "Trade in form"
+msgstr "التجارة في شكل"
+
+#: partials/modals/trade-offer.php:9
+msgid "Trade Offer"
+msgstr "التجارة نقدم"
+
+#: inc/email_template_manager/email_template_manager.php:15
+msgid "Trade offer [car]"
+msgstr ""
+
+#: partials/modals/trade-offer.php:51
+msgid "Trade price"
+msgstr "التجارة السعر"
+
+#: partials/listing-cars/motos/list-actions.php:38
+msgid "Trade value"
+msgstr "قيمة التجارة"
+
+#: ulisting/account/payment-history.php:33
+msgid "Transaction"
+msgstr "الصفقة"
+
+#: partials/trade-in.php:28 partials/trade-in.php:229
+msgid "Transmission"
+msgstr "نقل"
+
+#: ulisting/account/my-listing.php:45
+msgid "Transport Type"
+msgstr "نوع النقل"
+
+#: ulisting/account/my-listing.php:92 inc/value_my_car/admin-page.php:70
+#: inc/value_my_car/admin-page.php:137
+msgid "Trash"
+msgstr "القمامة"
+
+#: inc/user-extra.php:77 partials/user/private/dealer-settings.php:622
+#: partials/user/private/user-settings.php:172
+msgid "Twitter"
+msgstr "تويتر"
+
+#: ulisting/account/my-plans/list.php:33
+msgid "Type"
+msgstr "نوع"
+
+#: partials/single-aircrafts/title.php:13
+msgid "Type: "
+msgstr "نوع: "
+
+#: partials/user/private/user-favourite.php:130
+msgid "Under review"
+msgstr "في إطار استعراض"
+
+#: woocommerce/checkout/thankyou.php:34
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+"للأسف طلبك لا يمكن معالجتها كما البنكي/التاجر قد انخفضت المعاملات الخاصة بك. "
+"يرجى محاولة الشراء مرة أخرى."
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:139
+msgid "Unmark as sold"
+msgstr "قم بإلغاء تحديد كما تباع"
+
+#: ulisting/account/my-listing.php:135
+msgid "Unpublish"
+msgstr "إلغاء النشر"
+
+#: ulisting/account/edit-profile.php:146 ulisting/add-listing/edit.php:29
+msgid "Update"
+msgstr "التحديث"
+
+#: woocommerce/cart/cart.php:138
+msgid "Update Cart"
+msgstr "تحديث عربة"
+
+#: ulisting/account/edit-profile.php:180
+msgid "Update password"
+msgstr "تحديث كلمة المرور"
+
+#: woocommerce/checkout/payment.php:55
+msgid "Update totals"
+msgstr "تحديث المجاميع"
+
+#: ulisting/account/payment-history.php:36
+msgid "Updated"
+msgstr "تحديث"
+
+#: partials/modals/limit_exceeded.php:11
+msgid "Upgrade"
+msgstr "ترقية"
+
+#: partials/user/private/dealer.php:117 partials/user/private/user.php:134
+#: partials/user/private/mobile/dealer-profile.php:83
+#: partials/user/private/mobile/user-profile.php:96
+msgid "Upgrade plan"
+msgstr "خطة الترقية"
+
+#: partials/user/private/dealer-settings.php:455
+msgid "Upload Dealer Image"
+msgstr "تحميل صورة تاجر"
+
+#: partials/user/private/user-settings.php:61
+msgid "Upload new avatar"
+msgstr "تحميل الصورة الرمزية الجديدة"
+
+#: partials/user/private/dealer-settings.php:419
+msgid "Upload new logo"
+msgstr "تحميل الشعار الجديد"
+
+#: listings/add_car/step_3.php:7
+msgid "Upload photo"
+msgstr "تحميل الصور"
+
+#: partials/trade-in.php:1340
+msgid "Upload your boat Photos"
+msgstr "تحميل القارب الخاص بك الصور"
+
+#: partials/trade-in.php:277 partials/trade-in.php:803
+msgid "Upload your car Photos"
+msgstr "تحميل سيارة صور"
+
+#: partials/user/private/become-dealer.php:240
+msgid "Upload your company logo"
+msgstr "تحميل شعار الشركة الخاصة بك"
+
+#: inc/motors-gdpr.php:40
+msgid "URL"
+msgstr "URL"
+
+#: partials/user/private/user-plans.php:78
+msgid "Used slots"
+msgstr "تستخدم فتحات"
+
+#: inc/woocommerce_setups.php:101
+msgid "User"
+msgstr "المستخدم"
+
+#: inc/user-extra.php:48
+msgid "User Avatar"
+msgstr "المستخدم الرمزية"
+
+#: inc/user-extra.php:57
+msgid "User avatar(stores URL and path to image)"
+msgstr "المستخدم الرمزية(مخازن URL مسار الصورة)"
+
+#: partials/trade-in.php:19 partials/trade-in.php:589
+#: partials/trade-in.php:1140
+msgid "User details<br/>First name"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:27
+msgid "User Email Confirm"
+msgstr "المستخدم البريد الإلكتروني تأكيد"
+
+#: inc/user-extra.php:107
+msgid "User favorite car ids"
+msgstr "مستخدم السيارة المفضلة معرفات"
+
+#: inc/user-extra.php:42
+msgid "User has WhatApp account with this number"
+msgstr "المستخدم لديه WhatApp حساب مع هذا العدد"
+
+#: inc/stm-ajax.php:691
+msgid "User not found"
+msgstr "المستخدم غير موجود"
+
+#: inc/user-extra.php:32
+msgid "User phone"
+msgstr "الهاتف المستخدم"
+
+#: woocommerce/myaccount/form-login.php:144
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr "اسم المستخدم أو البريد الإلكتروني"
+
+#: woocommerce/myaccount/form-login.php:49
+msgid "Username or email address"
+msgstr "اسم المستخدم أو عنوان البريد الإلكتروني"
+
+#: inc/value_my_car/admin-page.php:39 inc/value_my_car/value_my_car.php:24
+msgid "Value My Car"
+msgstr "قيمة سيارتي"
+
+#: woocommerce/order/order-details.php:48
+msgid "Vehicle"
+msgstr "السيارة"
+
+#: partials/rental/product/content.php:7
+msgid "Vehicle Add-ons"
+msgstr "السيارة Add-ons"
+
+#: partials/trade-in.php:155 partials/trade-in.php:702
+msgid "Vehicle Condition"
+msgstr "حالة السيارة"
+
+#: listings/add_car/step_1_additional_fields.php:64
+msgid "Vehicle history"
+msgstr "تاريخ السيارة"
+
+#: listings/add_car/step_1_additional_fields.php:55
+msgid "Vehicle History Report"
+msgstr "تاريخ السيارة التقرير"
+
+#: partials/single-car/car-calculator.php:44
+#: partials/modals/car-calculator.php:60
+#: partials/single-car-boats/boats-calculator.php:30
+msgid "Vehicle price"
+msgstr "سعر السيارة"
+
+#: inc/woocommerce_setups_rental.php:552 partials/trade-in.php:594
+#: partials/trade-in.php:725
+msgid "Vehicle Type"
+msgstr "نوع السيارة"
+
+#: partials/listing-layout-parts/items-per-page.php:16
+msgid "Vehicles per page:"
+msgstr "المركبات في الصفحة:"
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Very poor"
+msgstr "ضعيف جدا"
+
+#: partials/single-car/car-gallery.php:50 partials/blog/grid-loop.php:21
+#: partials/blog/content-list-loop.php:22
+#: partials/blog/content-grid-loop.php:43
+#: partials/single-aircrafts/gallery.php:54
+#: partials/single-aircrafts/gallery.php:113
+#: listings/loop/default/list/video.php:5
+msgid "Video"
+msgstr "فيديو"
+
+#: listings/add_car/step_4.php:13 listings/add_car/step_4.php:47
+msgid "Video link"
+msgstr "رابط الفيديو"
+
+#: partials/single-car/car-gallery.php:106
+#: partials/single-car/car-gallery.php:136
+#: partials/single-car/car-gallery.php:162
+#: partials/single-car/car-gallery.php:189
+#: partials/single-car-boats/boats-video.php:20
+#: partials/single-car-boats/boats-video.php:33
+#: partials/single-car-boats/boats-video.php:51
+#: partials/single-car-boats/boats-video.php:64
+#: partials/single-aircrafts/gallery.php:47
+#: partials/single-aircrafts/gallery.php:106
+msgid "Video preview"
+msgstr "معاينة الفيديو"
+
+#: partials/trade-in.php:38 partials/trade-in.php:604
+#: partials/trade-in.php:1155
+msgid "Video url"
+msgstr "رابط الفيديو"
+
+#: ulisting/saved-searches/saved-searches.php:34
+#: woocommerce/myaccount/my-orders.php:104
+msgid "View"
+msgstr "عرض"
+
+#: listings/modern_filter/filters/images.php:82
+msgid "View all"
+msgstr "عرض جميع"
+
+#: partials/header/header-nav.php:40 partials/header/header-listing.php:97
+#: partials/header/header-car_magazine.php:120
+#: partials/header/parts/mobile_menu_items.php:56
+#: partials/header/parts/compare.php:9
+#: partials/header/header-ev-dealer/parts/compare.php:18
+#: partials/header/header-classified-five/parts/compare.php:18
+msgid "View compared items"
+msgstr "عرض مقارنة البنود"
+
+#: ulisting/loop/stm_quickview.php:57
+#: partials/listing-cars/motos/list-actions.php:15
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:291
+#: partials/listing-cars/listing-list-directory-loop-animate.php:300
+#: partials/listing-cars/listing-list-directory-loop.php:36
+#: partials/listing-cars/listing-list-loop-boats.php:91
+#: partials/listing-cars/motos/list.php:351
+msgid "View more"
+msgstr "عرض المزيد"
+
+#: partials/header/header-car_dealer.php:259
+msgid "View on map"
+msgstr "عرض على الخريطة"
+
+#: partials/user/dealer-public-profile.php:107
+msgid "View Website"
+msgstr "عرض الموقع"
+
+#: partials/trade-in.php:245 partials/trade-in.php:785
+#: listings/add_car/step_1_additional_fields.php:41
+#: partials/single-car/car-data.php:113
+msgid "VIN"
+msgstr "فين"
+
+#: partials/trade-in.php:30 partials/trade-in.php:596
+#: partials/single-car-motorcycle/car-data.php:101
+msgid "Vin"
+msgstr "فين"
+
+#: partials/single-car-listing/car-data.php:83
+#: partials/single-car-listing/car-data.php:93
+#: listings/loop/woo/listing_data.php:78 listings/loop/woo/listing_data.php:88
+msgid "VIN:"
+msgstr "VIN:"
+
+#: partials/header/header-nav.php:53 partials/header/parts/cart.php:18
+#: partials/header/parts/mobile_menu_items.php:37
+msgid "Watch shop items"
+msgstr "مشاهدة متجر البنود"
+
+#: inc/user-extra.php:147
+msgid "Website URL"
+msgstr "رابط الموقع"
+
+#: inc/email_template_manager/email_template_manager.php:23
+msgid "Welcome"
+msgstr "مرحبا بك"
+
+#: partials/trade-in.php:334 partials/trade-in.php:881
+#: partials/trade-in.php:1397
+msgid "What is the Exterior Condition?"
+msgstr "ما هو خارجي الشرط ؟ "
+
+#: partials/trade-in.php:363 partials/trade-in.php:910
+#: partials/trade-in.php:1426
+msgid "What is the Interior Condition?"
+msgstr "ما هو الداخل الشرط ؟ "
+
+#: inc/user-extra.php:37
+msgid "WhatsApp Account"
+msgstr "حساب ال WhatsApp"
+
+#: ulisting/wishlist/main.php:10 ulisting/wishlist/main.php:17
+#: partials/header/header-classified-five/header.php:109
+msgid "Wishlist"
+msgstr "مفضلة"
+
+#: inc/setup.php:582
+msgid "Woocommerce pages sidebar"
+msgstr "Woocommerce صفحة الشريط الجانبي"
+
+#: partials/user/dealer-single-review.php:108
+msgid "Would I recommend this Dealer:"
+msgstr "أنصح هذا تاجر:"
+
+#: partials/user/dealer-write-review.php:65
+msgid "Would you recommend this dealer?"
+msgstr "تنصحين هذا التاجر ؟ "
+
+#: partials/user/dealer-public-profile.php:155
+msgid "Write a review"
+msgstr "كتابة مراجعة"
+
+#: partials/trade-in.php:37 partials/trade-in.php:222 partials/trade-in.php:603
+#: partials/trade-in.php:761 partials/trade-in.php:1154
+#: partials/trade-in.php:1309
+msgid "Year"
+msgstr "العام"
+
+#: partials/trade-in.php:394 partials/trade-in.php:395
+#: partials/trade-in.php:941 partials/trade-in.php:942
+#: partials/trade-in.php:1457 partials/trade-in.php:1458
+#: partials/user/dealer-write-review.php:68 partials/user/dealer-reviews.php:53
+#: partials/user/dealer-single-review.php:110
+msgid "Yes"
+msgstr "نعم"
+
+#: inc/stm-ajax.php:588
+msgid "You are not logged in"
+msgstr "أنت لم تقم بتسجيل الدخول"
+
+#: ulisting/saved-searches/saved-searches.php:44
+msgid "You don't have a saved search yet!"
+msgstr "ليس عليك البحث المحفوظة حتى الآن!"
+
+#: ulisting/account/payment-history.php:73
+msgid "You don't have any invoices."
+msgstr "لم يكن لديك أي فواتير."
+
+#: inc/stm-ajax.php:53
+#, php-format
+msgid "You have already added %d cars"
+msgstr "كنت قد أضفت %d السيارات"
+
+#: partials/user/dealer-write-review.php:13
+msgid ""
+"You have already added review. If you leave another one review, previous "
+"will be deleted."
+msgstr ""
+"لديك بالفعل إضافة الاستعراض. إذا ترك واحدا آخر الاستعراض السابقة سيتم حذفها."
+
+#: ulisting/account/my-plans/list.php:88
+msgid "You have no plans yet."
+msgstr "لديك أي خطط حتى الآن."
+
+#: ulisting/listing-compare/compare-page.php:69
+msgid "You have not added cars to compare!"
+msgstr "يجب عدم إضافة السيارات مقارنة!"
+
+#: partials/user/private/user-favourite.php:169
+#: partials/user/private/user-favourite.php:176
+msgid "You have not added favorites yet"
+msgstr "يجب عدم إضافة المفضلة بعد"
+
+#: woocommerce/myaccount/my-address.php:107
+msgid "You have not set up this type of address yet."
+msgstr "لم يتم إعداد هذا النوع من عنوان حتى الآن."
+
+#: woocommerce/single-product-reviews.php:93
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "يجب أن تكون تسجيل الدخول إلى الخروج."
+
+#: partials/trade-in.php:163 partials/trade-in.php:710
+#: partials/trade-in.php:1280
+msgid "Your contact details"
+msgstr "تفاصيل الاتصال الخاصة بك"
+
+#: partials/trade-in.php:62 partials/trade-in.php:625
+#: partials/trade-in.php:1179
+msgid "Your E-mail address is invalid"
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+#: ulisting/pricing-plan/payment.php:68 ulisting/pricing-plan/payment.php:109
+msgid "Your Email"
+msgstr "البريد الإلكتروني الخاص بك"
+
+#: inc/woocommerce_setups_rental.php:560
+msgid "Your Information"
+msgstr "المعلومات الخاصة بك"
+
+#: partials/rental/wizard-nav/nav-step-3.php:29
+msgid "Your information"
+msgstr "المعلومات الخاصة بك"
+
+#: partials/rental/wizard-nav/nav-step-1.php:29
+msgid "Your Itinerary"
+msgstr "خط سير الرحلة الخاص بك"
+
+#: ulisting/pricing-plan/payment.php:64 ulisting/pricing-plan/payment.php:105
+msgid "Your Name"
+msgstr "اسمك"
+
+#: woocommerce/checkout/form-checkout.php:59
+#: woocommerce/checkout/form-checkout.php:79
+msgid "Your order"
+msgstr "طلبك"
+
+#: partials/trade-in.php:69 partials/trade-in.php:632
+#: partials/trade-in.php:1186
+msgid "Your Phone is invalid"
+msgstr "الهاتف الخاص بك هو غير صالح"
+
+#: ulisting/pricing-plan/payment.php:34
+msgid "Your plan"
+msgstr "الخطة الخاصة بك"
+
+#: partials/modals/subscription_ended.php:13
+msgid "Your plan period time is expired, please renew the subscription."
+msgstr "خطة زمنية غير منتهية الصلاحية, الرجاء تجديد الاشتراك."
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Your rating:"
+msgstr "تقييمك:"
+
+#: partials/modals/limit_exceeded.php:4
+msgid "Your reached the limit of ads. Please upgrade your plan."
+msgstr "الخاص بك التوصل إلى الحد من الإعلانات. يرجى ترقية الخطة الخاصة بك."
+
+#: inc/stm-ajax.php:123 inc/stm-ajax.php:207 inc/stm-ajax.php:314
+msgid "Your request was sent"
+msgstr "طلبك تم إرسالها"
+
+#: partials/user/dealer-write-review.php:28
+msgid "Your Review"
+msgstr "الاستعراض الخاص بك"
+
+#: woocommerce/single-product-reviews.php:110
+msgid "Your review"
+msgstr "الاستعراض الخاص بك"
+
+#: partials/user/private/become-dealer.php:12
+#: partials/user/private/become-dealer.php:18
+#: partials/user/private/become-dealer.php:45
+#: partials/user/private/become-dealer.php:113
+msgid "Your review is under submission"
+msgstr "الاستعراض الخاص بك هو تحت الطلب"
+
+#: partials/user/private/become-dealer.php:21
+msgid "Your review is under submission. Paypal status - Completed"
+msgstr "الاستعراض الخاص بك هو تحت الطلب. باي بال مركز الانتهاء"
+
+#: partials/user/private/become-dealer.php:23
+msgid "Your review is under submission. Paypal status - Pending"
+msgstr "الاستعراض الخاص بك هو تحت الطلب. باي بال حالة انتظار"
+
+#: partials/user/private/become-dealer.php:27
+msgid "Your review is under submission. Redirecting to Paypal"
+msgstr "الاستعراض الخاص بك هو تحت الطلب. إعادة توجيه إلى باي بال"
+
+#: partials/user/private/dealer-settings.php:605
+#: partials/user/private/user-settings.php:153
+msgid "Your Social Networks"
+msgstr "الشبكات الاجتماعية الخاصة بك"
+
+#: inc/user-extra.php:97 partials/user/private/dealer-settings.php:642
+#: partials/user/private/user-settings.php:196
+msgid "Youtube"
+msgstr "يوتيوب"
+
+#: partials/listing-cars/motos/list-actions.php:30
+msgid "Сalculate"
+msgstr "حساب"
+
+#: partials/single-car-motorcycle/car-links.php:51
+msgid "Сalculate Payment"
+msgstr "حساب الدفع"

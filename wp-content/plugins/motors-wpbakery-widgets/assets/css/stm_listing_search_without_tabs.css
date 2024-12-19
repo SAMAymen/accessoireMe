@@ -1,0 +1,296 @@
+.stm_dynamic_listing_filter_without_tabs {
+    margin: 0 -45px;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+
+.stm_dynamic_listing_filter_without_tabs:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    z-index: 1;
+}
+
+.stm_dynamic_listing_filter_without_tabs .stm_dynamic_listing_filter_nav {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.stm_dynamic_listing_filter_without_tabs .stm_dynamic_listing_filter_nav li {
+    float: left;
+    margin-bottom: 0;
+    background: #121e24;
+    border-right: 1px solid #121e24;
+}
+
+.stm_dynamic_listing_filter_without_tabs .stm_dynamic_listing_filter_nav li.active {
+    background-color: #121e24;
+    border-right-color: #121e24;
+}
+
+.stm_dynamic_listing_filter_without_tabs .stm_dynamic_listing_filter_nav li a {
+    position: relative;
+    display: block;
+    padding: 15px 43px 12px 35px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 15px;
+    text-decoration: none !important;
+    letter-spacing: -0.4px;
+    z-index: 2;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content {
+    padding: 30px 45px 10px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .stm_listing_search_title {
+    font-size: 24px;
+    line-height: 36px;
+    color: #ffffff;
+    margin-bottom: 30px;
+    letter-spacing: 0.6px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .stm_listing_search_title i {
+    vertical-align: middle;
+    margin-right: 7px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane {
+    position: relative;
+    z-index: 2;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap {
+    width: 26%;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap button[type=submit] {
+    margin-right: 6px;
+    font-size: 14px;
+    position: relative;
+    top: -1px;
+    float: right;
+    margin-left: 22px;
+    min-width: 160px;
+    padding: 17px 25px 15px 25px;
+    font-weight: 700;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap button[type=submit]:active {
+    top: -1px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap .reset-filter {
+    min-width: 66px !important;
+    margin-right: 0 !important;
+    padding: 16px 23px 13px !important;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap .reset-filter i.stm-icon-reset {
+    font-size: 20px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects {
+    display: block;
+    width: 74%;
+    overflow: hidden;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 0 -15px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects .row .col-md-3 {
+    display: block;
+    width: 33.3%;
+    padding: 0 15px;
+    margin-bottom: 30px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    font-size: 22px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .taxonomy_range_wrap {
+    min-height: 50px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .taxonomy_range_wrap .mts_semeht_taxonomy {
+    position: relative;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .taxonomy_range_wrap .mts_semeht_taxonomy label {
+    color: #ffffff;
+    line-height: 16px;
+    vertical-align: top;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .taxonomy_range_wrap .mts_semeht_taxonomy .stm-taxonomy-range-unit {
+    margin-top: 10px;
+    padding: 0 10px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .taxonomy_range_wrap .taxonomy-tooltip {
+    margin-top: 2px;
+}
+
+.stm_dynamic_listing_filter_without_tabs .tab-content .taxonomy_range_wrap .taxonomy-tooltip .tooltip-inner {
+    padding: 1px 3px 0;
+    background: #eceff3;
+    color: #222222;
+}
+
+@media (max-width: 420px) {
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects .row {
+        flex-direction: column !important;
+        flex-wrap: wrap;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects .row .col-md-3 {
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 1150px) {
+    .stm_dynamic_listing_filter_without_tabs {
+        margin: 0 15px;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap {
+        width: 30%;
+    }
+}
+
+@media (max-width: 1100px) {
+    .stm_dynamic_listing_filter_without_tabs {
+        margin: 0;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap {
+        width: 30%;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap .border-btn {
+        margin: 0 !important;
+        max-width: 140px;
+        min-width: inherit !important;
+        padding: 17px 15px 15px 15px !important;
+    }
+}
+
+@media (max-width: 860px) {
+    .stm_dynamic_listing_filter_without_tabs {
+        margin: 0;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form {
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects {
+        width: 100%;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap {
+        width: 100%;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap .border-btn {
+        margin: 0 !important;
+        max-width: 140px;
+        min-width: inherit !important;
+        padding: 17px 15px 15px 15px !important;
+    }
+}
+
+@media (max-width: 568px) {
+    .stm_dynamic_listing_filter_without_tabs {
+        margin: 0;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form {
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects {
+        width: 100%;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects .row .col-md-3 {
+        width: 50%;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap {
+        width: 100%;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap .border-btn {
+        margin: 0 !important;
+        max-width: 140px;
+        min-width: inherit !important;
+        padding: 17px 15px 15px 15px !important;
+    }
+}
+
+@media (max-width: 500px) {
+    .stm_dynamic_listing_filter_without_tabs .tab-content {
+        padding: 0;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .heading-title {
+        padding: 30px 15px;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form {
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects .row {
+        flex-direction: column !important;
+        flex-wrap: wrap;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .stm-filter-tab-selects .row .col-md-3 {
+        width: 100% !important;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap {
+        width: 100%;
+        padding: 0 15px;
+        flex-direction: row;
+    }
+
+    .stm_dynamic_listing_filter_without_tabs .tab-content .tab-pane form .btn-wrap .border-btn {
+        margin: 0 !important;
+    }
+}

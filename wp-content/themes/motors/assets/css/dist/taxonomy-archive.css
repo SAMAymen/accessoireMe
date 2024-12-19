@@ -1,0 +1,88 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+@media (min-width: 1025px) {
+    .stm-template-listing .filter-sidebar:before {
+        position: absolute;
+        content: "";
+        display: block;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 15;
+    }
+}
+
+.classic-filter-row i {
+    color: #fff;
+}
+
+.classic-filter-row .filter-sidebar {
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.18);
+    padding: 0 22px 30px;
+    position: relative;
+    background-size: cover;
+}
+
+.classic-filter-row .filter-sidebar .sidebar-entry-header {
+    padding: 28px 28px 28px 28px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+    min-height: 40px;
+    margin: 0 -22px;
+}
+
+.classic-filter-row.motors-elementor-widget .sidebar-entry-header {
+    background-color: #232628;
+}
+
+.classic-filter-row.motors-elementor-widget .sidebar-entry-header i {
+    font-size: 29px;
+    color: #ffffff;
+    margin-right: 21px;
+}
+
+.classic-filter-row.motors-elementor-widget .sidebar-entry-header .h4 {
+    color: #fff;
+}
+
+.stm-template-car_dealer_two_elementor .classic-filter-row .filter-sidebar {
+    padding: 0;
+    margin-bottom: 22px;
+    box-shadow: none;
+}
+
+.stm-template-car_dealer_two_elementor .classic-filter-row .sidebar-entry-header {
+    padding: 0;
+}
+
+.stm-template-car_dealer_two_elementor .classic-filter-row .sidebar-entry-header a {
+    display: none !important;
+}
+
+.stm-layout-header-ev_dealer .classic-filter-row .sidebar-entry-header, .stm-layout-header-car_dealer .classic-filter-row .sidebar-entry-header, .stm-template-listing_two .classic-filter-row .sidebar-entry-header, .stm-template-listing_three .classic-filter-row .sidebar-entry-header, .stm-template-aircrafts .classic-filter-row .sidebar-entry-header, .stm-template-listing_five .classic-filter-row .sidebar-entry-header {
+    padding: 26px 22px 21px 76px;
+}
+
+.stm-template-listing_four_elementor .classic-filter-row .sidebar-entry-header {
+    padding: 28px 28px 28px 28px;
+}
+
+.stm-layout-header-car_dealer_two .sidebar-entry-header a, .stm-template-motorcycle .sidebar-entry-header a {
+    display: none !important;
+}
+
+.stm-template-listing_one_elementor .stm-current-slider-labels {
+    color: #ffffff;
+}
+
+.stm-template-listing_one_elementor .filter-sidebar .sidebar-entry-header {
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "meta_id": "1",
+    "term_id": "58",
+    "meta_key": "stm_parent",
+    "meta_value": "honda"
+  },
+  {
+    "meta_id": "2",
+    "term_id": "60",
+    "meta_key": "stm_parent",
+    "meta_value": "nissan"
+  },
+  {
+    "meta_id": "3",
+    "term_id": "61",
+    "meta_key": "stm_parent",
+    "meta_value": "mercedes-benz"
+  },
+  {
+    "meta_id": "4",
+    "term_id": "63",
+    "meta_key": "stm_parent",
+    "meta_value": "toyota"
+  },
+  {
+    "meta_id": "5",
+    "term_id": "68",
+    "meta_key": "stm_parent",
+    "meta_value": "chevrolet"
+  },
+  {
+    "meta_id": "6",
+    "term_id": "70",
+    "meta_key": "stm_parent",
+    "meta_value": "mercedes-benz"
+  },
+  {
+    "meta_id": "7",
+    "term_id": "71",
+    "meta_key": "stm_parent",
+    "meta_value": "chevrolet"
+  },
+  {
+    "meta_id": "8",
+    "term_id": "72",
+    "meta_key": "stm_parent",
+    "meta_value": "toyota"
+  },
+  {
+    "meta_id": "9",
+    "term_id": "75",
+    "meta_key": "stm_parent",
+    "meta_value": "honda"
+  },
+  {
+    "meta_id": "10",
+    "term_id": "76",
+    "meta_key": "stm_parent",
+    "meta_value": "mercedes-benz"
+  },
+  {
+    "meta_id": "11",
+    "term_id": "77",
+    "meta_key": "stm_parent",
+    "meta_value": "mercedes-benz"
+  },
+  {
+    "meta_id": "12",
+    "term_id": "79",
+    "meta_key": "stm_parent",
+    "meta_value": "bentley"
+  },
+  {
+    "meta_id": "13",
+    "term_id": "81",
+    "meta_key": "stm_parent",
+    "meta_value": "chevrolet"
+  },
+  {
+    "meta_id": "14",
+    "term_id": "83",
+    "meta_key": "stm_parent",
+    "meta_value": "honda"
+  },
+  {
+    "meta_id": "15",
+    "term_id": "84",
+    "meta_key": "stm_parent",
+    "meta_value": "chevrolet"
+  },
+  {
+    "meta_id": "16",
+    "term_id": "85",
+    "meta_key": "stm_parent",
+    "meta_value": "mazda"
+  },
+  {
+    "meta_id": "17",
+    "term_id": "44",
+    "meta_key": "stm_parent",
+    "meta_value": "bmw"
+  },
+  {
+    "meta_id": "18",
+    "term_id": "46",
+    "meta_key": "stm_parent",
+    "meta_value": "nissan"
+  },
+  {
+    "meta_id": "19",
+    "term_id": "49",
+    "meta_key": "stm_parent",
+    "meta_value": "bmw"
+  },
+  {
+    "meta_id": "20",
+    "term_id": "54",
+    "meta_key": "stm_parent",
+    "meta_value": "bmw"
+  },
+  {
+    "meta_id": "21",
+    "term_id": "88",
+    "meta_key": "stm_parent",
+    "meta_value": "mercedes-benz"
+  },
+  {
+    "meta_id": "22",
+    "term_id": "89",
+    "meta_key": "stm_parent",
+    "meta_value": "hyundai"
+  },
+  {
+    "meta_id": "23",
+    "term_id": "92",
+    "meta_key": "stm_parent",
+    "meta_value": "ford"
+  },
+  {
+    "meta_id": "24",
+    "term_id": "93",
+    "meta_key": "stm_parent",
+    "meta_value": "tesla"
+  },
+  {
+    "meta_id": "25",
+    "term_id": "94",
+    "meta_key": "stm_parent",
+    "meta_value": "ford"
+  },
+  {
+    "meta_id": "26",
+    "term_id": "98",
+    "meta_key": "stm_parent",
+    "meta_value": "mercedes-benz"
+  },
+  {
+    "meta_id": "27",
+    "term_id": "100",
+    "meta_key": "stm_parent",
+    "meta_value": "hyundai"
+  },
+  {
+    "meta_id": "28",
+    "term_id": "106",
+    "meta_key": "stm_parent",
+    "meta_value": "acura"
+  },
+  {
+    "meta_id": "29",
+    "term_id": "112",
+    "meta_key": "stm_parent",
+    "meta_value": "chevrolet"
+  },
+  {
+    "meta_id": "30",
+    "term_id": "118",
+    "meta_key": "stm_parent",
+    "meta_value": "tesla"
+  },
+  {
+    "meta_id": "31",
+    "term_id": "119",
+    "meta_key": "stm_parent",
+    "meta_value": "bentley"
+  },
+  {
+    "meta_id": "32",
+    "term_id": "121",
+    "meta_key": "stm_parent",
+    "meta_value": "ford"
+  },
+  {
+    "meta_id": "33",
+    "term_id": "126",
+    "meta_key": "stm_parent",
+    "meta_value": "kia"
+  },
+  {
+    "meta_id": "34",
+    "term_id": "129",
+    "meta_key": "stm_parent",
+    "meta_value": "honda"
+  },
+  {
+    "meta_id": "35",
+    "term_id": "130",
+    "meta_key": "stm_parent",
+    "meta_value": "toyota"
+  },
+  {
+    "meta_id": "36",
+    "term_id": "131",
+    "meta_key": "stm_parent",
+    "meta_value": "acura"
+  },
+  {
+    "meta_id": "37",
+    "term_id": "133",
+    "meta_key": "stm_parent",
+    "meta_value": "kia"
+  },
+  {
+    "meta_id": "38",
+    "term_id": "135",
+    "meta_key": "stm_parent",
+    "meta_value": "mercedes-benz"
+  },
+  {
+    "meta_id": "39",
+    "term_id": "139",
+    "meta_key": "stm_parent",
+    "meta_value": "toyota"
+  },
+  {
+    "meta_id": "40",
+    "term_id": "142",
+    "meta_key": "stm_parent",
+    "meta_value": "kia"
+  },
+  {
+    "meta_id": "41",
+    "term_id": "143",
+    "meta_key": "stm_parent",
+    "meta_value": "kia"
+  },
+  {
+    "meta_id": "42",
+    "term_id": "144",
+    "meta_key": "stm_parent",
+    "meta_value": "chevrolet"
+  },
+  {
+    "meta_id": "43",
+    "term_id": "147",
+    "meta_key": "stm_parent",
+    "meta_value": "chevrolet"
+  },
+  {
+    "meta_id": "44",
+    "term_id": "148",
+    "meta_key": "stm_parent",
+    "meta_value": "chevrolet"
+  },
+  {
+    "meta_id": "45",
+    "term_id": "151",
+    "meta_key": "stm_parent",
+    "meta_value": "acura"
+  },
+  {
+    "meta_id": "46",
+    "term_id": "153",
+    "meta_key": "stm_parent",
+    "meta_value": "hyundai"
+  },
+  {
+    "meta_id": "47",
+    "term_id": "155",
+    "meta_key": "stm_parent",
+    "meta_value": "hyundai"
+  },
+  {
+    "meta_id": "48",
+    "term_id": "156",
+    "meta_key": "stm_parent",
+    "meta_value": "hyundai"
+  }
+]

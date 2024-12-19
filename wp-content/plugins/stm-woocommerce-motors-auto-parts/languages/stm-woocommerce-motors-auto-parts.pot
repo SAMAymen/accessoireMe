@@ -1,0 +1,446 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors - WooCommerce Auto Parts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-20 08:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7\n"
+"X-Domain: stm-woocommerce-motors-auto-parts"
+
+#: inc/woo-cat-advert-banner.php:24 inc/woo-cat-advert-banner.php:90
+msgid "Advertising Banner"
+msgstr ""
+
+#: inc/woo-cat-advert-banner.php:58 inc/woo-cat-advert-banner.php:135
+msgid "Advertising Banner Link"
+msgstr ""
+
+#: inc/visual_composer.php:24
+msgid "Ascending"
+msgstr ""
+
+#: inc/woo-attr-image.php:51 inc/woo-attr-image.php:110
+#: inc/woo-cat-advert-banner.php:115
+msgid "Attach"
+msgstr ""
+
+#: inc/woo-attr-image.php:30 inc/woo-attr-image.php:85
+msgid "Attribute Image"
+msgstr ""
+
+#: inc/visual_composer.php:11
+msgid "Author"
+msgstr ""
+
+#: woocommerce/templates/template_sidebar.php:25
+#: woocommerce/templates/template_1.php:26
+#: woocommerce/templates/template_1.php:26
+msgid "Best Seller Product"
+msgstr ""
+
+#: inc/visual_composer.php:31
+msgid "Best Selling Products"
+msgstr ""
+
+#: inc/demo/woo_attributes.php:62
+msgid "Block Color"
+msgstr ""
+
+#: inc/demo/woo_attributes.php:61
+msgid "Body"
+msgstr ""
+
+#: inc/visual_composer.php:148
+msgid "Box background color"
+msgstr ""
+
+#: inc/visual_composer.php:275
+msgid "Box title"
+msgstr ""
+
+#: inc/woo-attr-image.php:43 inc/woo-attr-image.php:100
+#: inc/woo-cat-advert-banner.php:37 inc/woo-cat-advert-banner.php:105
+msgid "Choose image"
+msgstr ""
+
+#: inc/visual_composer.php:356
+msgid "Columns"
+msgstr ""
+
+#: inc/visual_composer.php:15
+msgid "Comment count"
+msgstr ""
+
+#: inc/visual_composer.php:278 inc/visual_composer.php:289
+#: inc/visual_composer.php:299 inc/visual_composer.php:309
+#: inc/visual_composer.php:319 inc/visual_composer.php:329
+msgid "Content"
+msgstr ""
+
+#: inc/visual_composer.php:183
+msgid "Content color"
+msgstr ""
+
+#: inc/visual_composer.php:59 inc/visual_composer.php:83
+#: inc/visual_composer.php:125 inc/visual_composer.php:193
+#: inc/visual_composer.php:226 inc/visual_composer.php:337
+msgid "Css"
+msgstr ""
+
+#: inc/visual_composer.php:9
+msgid "Date"
+msgstr ""
+
+#: inc/visual_composer.php:262
+msgid "Date end"
+msgstr ""
+
+#: vc_templates/stm_wcmap_special_product.php:93
+msgid "days"
+msgstr ""
+
+#: inc/visual_composer.php:286
+msgid "Default Spacer height"
+msgstr ""
+
+#: inc/visual_composer.php:23
+msgid "Descending"
+msgstr ""
+
+#: inc/visual_composer.php:297
+msgid "Desctop (max 1300px) Spacer height"
+msgstr ""
+
+#: inc/visual_composer.php:61 inc/visual_composer.php:85
+#: inc/visual_composer.php:127 inc/visual_composer.php:195
+#: inc/visual_composer.php:228 inc/visual_composer.php:339
+msgid "Design options"
+msgstr ""
+
+#: inc/visual_composer.php:390
+#, php-format
+msgid ""
+"Designates the ascending or descending order. More at %s. Default by ASC"
+msgstr ""
+
+#: inc/visual_composer.php:29
+msgid "Featured Products"
+msgstr ""
+
+#: vc_templates/stm_wcmap_special_product.php:93
+msgid "hours"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: inc/visual_composer.php:10
+msgid "ID"
+msgstr ""
+
+#: inc/visual_composer.php:143 inc/visual_composer.php:211
+msgid "Image"
+msgstr ""
+
+#: inc/functions.php:304
+msgid "In stock"
+msgstr ""
+
+#: inc/visual_composer.php:18
+msgid "Include"
+msgstr ""
+
+#: parts/title-box.php:53
+msgid "Inventory"
+msgstr ""
+
+#: inc/visual_composer.php:53
+msgid "Main taxonomies to fill"
+msgstr ""
+
+#: inc/demo/woo_attributes.php:58
+msgid "Make"
+msgstr ""
+
+#: inc/visual_composer.php:16
+msgid "Menu order"
+msgstr ""
+
+#: inc/visual_composer.php:17
+msgid "Menu order & title"
+msgstr ""
+
+#: vc_templates/stm_wcmap_special_product.php:93
+msgid "minutes"
+msgstr ""
+
+#: inc/visual_composer.php:327
+msgid "Mobile Spacer height"
+msgstr ""
+
+#: inc/demo/woo_attributes.php:59
+msgid "Model"
+msgstr ""
+
+#: inc/visual_composer.php:13
+msgid "Modified"
+msgstr ""
+
+#. Name of the plugin
+msgid "Motors - WooCommerce Auto Parts"
+msgstr ""
+
+#: inc/demo/woo_attributes.php:63
+msgid "New Or Used"
+msgstr ""
+
+#: parts/title-box.php:43
+msgid "News"
+msgstr ""
+
+#: vc_templates/stm_wcmap_compare.php:56
+msgid "No products added in the compare table."
+msgstr ""
+
+#: inc/visual_composer.php:374
+msgid "Order by"
+msgstr ""
+
+#: inc/functions.php:304
+msgid "Out of stock"
+msgstr ""
+
+#: inc/class-wcmap-search-filter.php:207 inc/demo/woo_attributes.php:64
+msgid "Part Number"
+msgstr ""
+
+#: inc/visual_composer.php:178
+msgid "Price color"
+msgstr ""
+
+#: inc/visual_composer.php:168
+msgid "Price label"
+msgstr ""
+
+#: inc/visual_composer.php:173
+msgid "Price value"
+msgstr ""
+
+#: inc/visual_composer.php:394
+msgid "Products Type"
+msgstr ""
+
+#: inc/visual_composer.php:14
+msgid "Random"
+msgstr ""
+
+#: vc_templates/stm_wcmap_compare.php:70
+msgid "Remove"
+msgstr ""
+
+#: inc/woo-attr-image.php:101 inc/woo-cat-advert-banner.php:106
+msgid "Remove image"
+msgstr ""
+
+#: woocommerce/templates/template_sidebar.php:22
+#: woocommerce/templates/template_1.php:23
+#: woocommerce/templates/template_1.php:23
+msgid "Sale Product"
+msgstr ""
+
+#: inc/visual_composer.php:30
+msgid "Sale Products"
+msgstr ""
+
+#: inc/class-wcmap-search-filter.php:211 parts/title-box.php:59
+msgid "Search"
+msgstr ""
+
+#: vc_templates/stm_wcmap_special_product.php:93
+msgid "seconds"
+msgstr ""
+
+#: vc_templates/stm_wcmap_icon_filter.php:48
+msgid "See all Makes"
+msgstr ""
+
+#: inc/visual_composer.php:107
+msgid "Select Filter Type"
+msgstr ""
+
+#: inc/visual_composer.php:380
+#, php-format
+msgid "Select how to sort retrieved products. More at %s. Default by Title"
+msgstr ""
+
+#: inc/woo-attr-image.php:49 inc/woo-attr-image.php:108
+#: inc/woo-cat-advert-banner.php:113
+msgid "Select image"
+msgstr ""
+
+#: inc/class-wcmap-search-filter.php:181
+msgid "Select Make"
+msgstr ""
+
+#: inc/class-wcmap-search-filter.php:195 inc/class-wcmap-search-filter.php:229
+msgid "Select Model"
+msgstr ""
+
+#: inc/visual_composer.php:247
+msgid "Select product"
+msgstr ""
+
+#: inc/class-wcmap-search-filter.php:202 inc/class-wcmap-search-filter.php:231
+msgid "Select Year"
+msgstr ""
+
+#: parts/title-box.php:48
+msgid "Shop"
+msgstr ""
+
+#: inc/visual_composer.php:116
+msgid "Show count"
+msgstr ""
+
+#: inc/visual_composer.php:352
+msgid "Show multiple products by ID or SKU."
+msgstr ""
+
+#: inc/visual_composer.php:240
+msgid "Show special product by title"
+msgstr ""
+
+#: inc/setup.php:12
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: inc/visual_composer.php:384
+msgid "Sort order"
+msgstr ""
+
+#: inc/visual_composer.php:204
+msgid "STM AP Icon Box"
+msgstr ""
+
+#: inc/visual_composer.php:136
+msgid "STM AP Info Box"
+msgstr ""
+
+#: inc/visual_composer.php:43 inc/visual_composer.php:73
+#: inc/visual_composer.php:97 inc/visual_composer.php:139
+#: inc/visual_composer.php:207 inc/visual_composer.php:243
+#: inc/visual_composer.php:351 inc/visual_composer.php:412
+msgid "STM Auto Parts"
+msgstr ""
+
+#: inc/visual_composer.php:94
+msgid "STM Icon Filter"
+msgstr ""
+
+#: inc/visual_composer.php:70
+msgid "STM Parts Search"
+msgstr ""
+
+#: inc/visual_composer.php:239
+msgid "STM Special Product"
+msgstr ""
+
+#: inc/visual_composer.php:348
+msgid "STM WC Products"
+msgstr ""
+
+#: inc/visual_composer.php:40
+msgid "STM WooCommerce Category MegaMenu"
+msgstr ""
+
+#: inc/visual_composer.php:410
+msgid "STM YITH Compare"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: inc/visual_composer.php:307
+msgid "Tablet (landscape) Spacer height"
+msgstr ""
+
+#: inc/visual_composer.php:317
+msgid "Tablet Spacer height"
+msgstr ""
+
+#: inc/visual_composer.php:423
+msgid "Tabs Title"
+msgstr ""
+
+#: inc/visual_composer.php:188 inc/visual_composer.php:221
+msgid "Text"
+msgstr ""
+
+#: inc/visual_composer.php:269
+msgid "Time end"
+msgstr ""
+
+#: vc_templates/stm_wcmap_special_product.php:101
+msgid "Time is up, sorry!"
+msgstr ""
+
+#: inc/visual_composer.php:12 inc/visual_composer.php:48
+#: inc/visual_composer.php:78 inc/visual_composer.php:102
+#: inc/visual_composer.php:153 inc/visual_composer.php:216
+msgid "Title"
+msgstr ""
+
+#: inc/visual_composer.php:163
+msgid "Title color"
+msgstr ""
+
+#: inc/visual_composer.php:158
+msgid "Title Link"
+msgstr ""
+
+#: woocommerce/templates/template_sidebar.php:28
+#: woocommerce/templates/template_1.php:29
+#: woocommerce/templates/template_1.php:29
+msgid "Top Rated Product"
+msgstr ""
+
+#: inc/visual_composer.php:32
+msgid "Top Rated Products"
+msgstr ""
+
+#: inc/visual_composer.php:55
+msgid ""
+"Type slug of the category (don't delete anything from autocompleted "
+"suggestions)"
+msgstr ""
+
+#. Description of the plugin
+msgid "Woocommerce Motors Auto Parts Shop"
+msgstr ""
+
+#: inc/setup.php:14
+msgid "WoocommerceW single product sidebar"
+msgstr ""
+
+#: inc/demo/woo_attributes.php:60
+msgid "Year"
+msgstr ""
+
+#: inc/visual_composer.php:119
+msgid "Yes"
+msgstr ""

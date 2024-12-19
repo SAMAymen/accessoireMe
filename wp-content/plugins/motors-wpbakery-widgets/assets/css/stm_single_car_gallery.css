@@ -1,0 +1,13 @@
+.stm-big-car-gallery .stm-single-image a img {
+    height: 100vw;
+    max-height: 466px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+@media (max-width: 460px) {
+    .stm-big-car-gallery .stm-single-image a img {
+        max-height: 220px;
+    }
+}

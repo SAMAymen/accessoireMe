@@ -1,0 +1,176 @@
+[
+  {
+    "wp_inactive_widgets": [
+      "search-2",
+      "recent-posts-2",
+      "recent-comments-2"
+    ],
+    "default": [
+      "search-2",
+      "text-7",
+      "stm_similar_cars-2",
+      "tag_cloud-2",
+      "archives-3",
+      "recent-posts-4"
+    ],
+    "footer": [
+      "stm_text-2",
+      "text-6",
+      "stm-recent-posts-2",
+      "socials-2",
+      "mc4wp_form_widget-2",
+      "text-3",
+      "text-4",
+      "text-5"
+    ],
+    "stm_listing_car": [
+      "stm_dealer_car_info-2",
+      "car_location-2",
+      "contacts-2",
+      "stm_listing_car_form-2"
+    ],
+    "shop": [
+      "woocommerce_product_search-2"
+    ]
+  },
+  {
+    "search": {
+      "2": {
+        "title": "Search"
+      },
+      "_multiwidget": 1
+    },
+    "text": {
+      "7": {
+        "title": "Text widget",
+        "text": "<span class=\"stm-small-text\">Motors is ultimate Car Dealer, Automotive, Auto Dealer WordPress theme.<\/span>\r\nThis is the perfect theme for Car Dealer, Auto Dealer, Automotive WordPress website and any other <a href=\"#\">automotive dealership business<\/a>, who sell, buy or lease vehicles via website.",
+        "filter": false
+      },
+      "6": {
+        "title": "Photo Gallery",
+        "text": "[instagram feed=\"1404\"]",
+        "filter": true,
+        "visual": true
+      },
+      "3": {
+        "title": "Sales Hours",
+        "text": "<span class=\"date\">Monday - Friday:<\/span> 09:00AM - 09:00PM<br\/>\r\n<span class=\"date\">Saturday:<\/span> 09:00AM - 07:00PM<br\/>\r\n<span class=\"date\">Sunday:<\/span> Closed",
+        "filter": false
+      },
+      "4": {
+        "title": "Service Hours",
+        "text": "<span class=\"date\">Monday - Friday:<\/span> 09:00AM - 09:00PM<br\/>\r\n<span class=\"date\">Saturday:<\/span> 09:00AM - 07:00PM<br\/>\r\n<span class=\"date\">Sunday:<\/span> Closed",
+        "filter": false
+      },
+      "5": {
+        "title": "Parts Hours",
+        "text": "<span class=\"date\">Monday - Friday:<\/span> 09:00AM - 09:00PM<br\/>\r\n<span class=\"date\">Saturday:<\/span> 09:00AM - 07:00PM<br\/>\r\n<span class=\"date\">Sunday:<\/span> Closed",
+        "filter": false
+      },
+      "_multiwidget": 1
+    },
+    "stm_similar_cars": {
+      "2": {
+        "title": false
+      },
+      "_multiwidget": 1
+    },
+    "tag_cloud": {
+      "2": {
+        "title": "Tag Widget",
+        "taxonomy": "post_tag"
+      },
+      "_multiwidget": 1
+    },
+    "archives": {
+      "3": {
+        "title": "Archive",
+        "count": 0,
+        "dropdown": 1
+      },
+      "_multiwidget": 1
+    },
+    "recent-posts": {
+      "4": {
+        "title": "Recent",
+        "number": 5,
+        "show_date": false
+      },
+      "2": {
+        "title": "",
+        "number": 5
+      },
+      "_multiwidget": 1
+    },
+    "stm_text": {
+      "2": {
+        "title": "Motors Dealership",
+        "text": "As the leading dealer in Chicago, IL, we are confident that we will save you time and money. Motors is ultimate Car Dealer, Automotive, Auto Dealer WordPress theme.",
+        "filter": false
+      },
+      "_multiwidget": 1
+    },
+    "stm-recent-posts": {
+      "2": {
+        "title": "Latest Blog posts",
+        "number": 5,
+        "show_date": false,
+        "number_of_posts": "1"
+      },
+      "_multiwidget": 1
+    },
+    "socials": {
+      "2": {
+        "title": "Social Network",
+        "facebook": "#",
+        "twitter": "#",
+        "vk": "#",
+        "instagram": "#",
+        "behance": "#",
+        "dribbble": "#",
+        "flickr": "#",
+        "git": "#",
+        "linkedin": "",
+        "pinterest": "",
+        "yahoo": "",
+        "delicious": "",
+        "dropbox": "",
+        "reddit": "",
+        "soundcloud": "",
+        "google": "",
+        "google-plus": "",
+        "skype": "",
+        "youtube": "",
+        "youtube-play": "",
+        "tumblr": "",
+        "whatsapp": ""
+      },
+      "_multiwidget": 1
+    },
+    "mc4wp_form_widget": {
+      "2": {
+        "title": "Subscribe"
+      },
+      "_multiwidget": 1
+    },
+    "car_location": {
+      "2": {
+        "title": false
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_product_search": {
+      "2": {
+        "title": "Search"
+      },
+      "_multiwidget": 1
+    },
+    "recent-comments": {
+      "2": {
+        "title": "",
+        "number": 5
+      },
+      "_multiwidget": 1
+    }
+  }
+]

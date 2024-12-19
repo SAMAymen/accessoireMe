@@ -1,0 +1,32 @@
+.stm-cat-info-box {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    padding: 27px 20px 24px;
+    box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.1), inset 0px 3px 0px 0px rgba(76, 148, 250, 0.004);
+}
+
+.stm-cat-info-box i {
+    font-size: 60px;
+}
+
+.stm-cat-info-box .stm-cat-name {
+    font-weight: 700;
+    line-height: 22px;
+    font-size: 13px;
+    margin: 16px 0 0;
+}
+
+.stm-cat-info-box .stm-cat-val {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+@media (max-width: 767px) {
+    .stm-cat-info-box {
+        margin-bottom: 30px !important;
+    }
+}

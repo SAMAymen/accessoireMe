@@ -1,0 +1,95 @@
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #002e5b;
+    margin-bottom: 3px;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+@media (min-width: 992px) {
+    html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid {
+        overflow: auto;
+        height: 180px;
+    }
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a {
+    display: block;
+    width: 100%;
+    max-width: 105px;
+    height: 84px;
+    padding: 5px;
+    border: 1px solid #ffffff;
+    transition: all 0.2s ease-in-out;
+    background: transparent;
+    border-radius: 4px;
+    margin-bottom: 19px;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a:nth-last-child(1), html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a:nth-last-child(2), html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a:nth-last-child(3) {
+    margin-bottom: 0;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a:before {
+    display: none;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a:hover {
+    border-color: #d2d2d2;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a:hover .inner .name {
+    color: #1bc744;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a .inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a .inner .image {
+    display: block;
+    max-width: 67px;
+    min-height: 46px;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a .inner .image img {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm_mm_top_categories_wrap .stm_mm-cats-grid a .inner .name {
+    font-size: 13px;
+    font-weight: 400;
+    color: #777777;
+    transition: all 0.2s ease-in-out;
+    letter-spacing: 0;
+    text-transform: capitalize;
+    line-height: 20px;
+    text-align: center;
+}
+
+.stm-layout-header-equipment .stm_mm_top_categories_wrap h3 {
+    color: #ffffff;
+}
+
+.stm-layout-header-equipment .stm_mm_top_categories_wrap .stm_mm-cats-grid a {
+    border-color: transparent;
+}
+
+.stm-layout-header-equipment .stm_mm_top_categories_wrap .stm_mm-cats-grid a:hover {
+    border-color: inherit;
+}

@@ -1,0 +1,308 @@
+{
+  "bottom_bar_bg": "",
+  "bottom_bar_bottom": "0",
+  "bottom_bar_color": "",
+  "bottom_bar_link_color_hover": "#ffffff",
+  "bottom_bar_text_color": "#ffffff",
+  "bottom_bar_top": "0",
+  "header_builder": {
+    "bottom": {
+      "center": [
+        {
+          "$$hashKey": "object:576",
+          "data": {
+            "font": "hf",
+            "id": "52",
+            "style": "default"
+          },
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "stm_hb-menu",
+          "label": "Menu",
+          "order": {
+            "mobile": "3200",
+            "tablet": "3200"
+          },
+          "position": [
+            "bottom",
+            "center",
+            "0"
+          ],
+          "type": "menu"
+        }
+      ]
+    },
+    "center": {
+      "left": [
+        {
+          "$$hashKey": "object:589",
+          "data": {
+            "url": "\/",
+            "uselogo": "true",
+            "width": "165"
+          },
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "stm_hb-image",
+          "label": "Image",
+          "order": {
+            "mobile": "2100",
+            "tablet": "2100"
+          },
+          "position": [
+            "center",
+            "left",
+            "0"
+          ],
+          "type": "image"
+        }
+      ],
+      "right": [
+        {
+          "$$hashKey": "object:389",
+          "data": {
+            "description": "Request a call back",
+            "icon": "icon-ap-phone",
+            "line2AsLink": "false",
+            "subtitle": "1 (888) 637-7262",
+            "title": "Call us FREE"
+          },
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "icon-magnifier",
+          "label": "Icon Box 2",
+          "order": {
+            "mobile": "2300",
+            "tablet": "2300"
+          },
+          "position": [
+            "center",
+            "right",
+            "0"
+          ],
+          "settings_template": "hb_templates\/modals\/icon-box-2",
+          "type": "text",
+          "view_template": "icon-box-2"
+        },
+        {
+          "$$hashKey": "object:597",
+          "data": {
+            "description": "Monday - Saturday",
+            "icon": "icon-ap-time",
+            "subtitle": "8:00am - 8:00pm",
+            "title": "Open Hours"
+          },
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "icon-magnifier",
+          "label": "Icon Box 2",
+          "order": {
+            "mobile": "2310",
+            "tablet": "2310"
+          },
+          "position": [
+            "center",
+            "right",
+            "1"
+          ],
+          "settings_template": "hb_templates\/modals\/icon-box-2",
+          "type": "text",
+          "view_template": "icon-box-2"
+        },
+        {
+          "$$hashKey": "object:410",
+          "data": {
+            "icon": "icon-ap-cart",
+            "title": "Shipping Cart"
+          },
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "icon-cart",
+          "label": "Cart 2",
+          "order": {
+            "mobile": "2320",
+            "tablet": "2320"
+          },
+          "position": [
+            "center",
+            "right",
+            "2"
+          ],
+          "settings_template": "hb_templates\/modals\/cart-2",
+          "type": "text",
+          "view_template": "cart-2"
+        }
+      ]
+    },
+    "top": {
+      "left": [
+        {
+          "$$hashKey": "object:281",
+          "data": {
+            "link": "#",
+            "title": "Advice & How-tos"
+          },
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "icon-cart",
+          "label": "Text Link",
+          "order": {
+            "mobile": "1100",
+            "tablet": "1100"
+          },
+          "position": [
+            "top",
+            "left",
+            "0"
+          ],
+          "settings_template": "hb_templates\/modals\/text-link",
+          "type": "text",
+          "view_template": "text-link"
+        },
+        {
+          "$$hashKey": "object:242",
+          "data": {
+            "link": "\/wishlist",
+            "title": "Wishlist"
+          },
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "icon-cart",
+          "label": "Text Link",
+          "order": {
+            "mobile": "1110",
+            "tablet": "1110"
+          },
+          "position": [
+            "top",
+            "left",
+            "1"
+          ],
+          "settings_template": "hb_templates\/modals\/text-link",
+          "type": "text",
+          "view_template": "text-link"
+        },
+        {
+          "$$hashKey": "object:279",
+          "data": {
+            "link": "\/compare",
+            "title": "Compare List"
+          },
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "icon-cart",
+          "label": "Text Link",
+          "order": {
+            "mobile": "1120",
+            "tablet": "1120"
+          },
+          "position": [
+            "top",
+            "left",
+            "2"
+          ],
+          "settings_template": "hb_templates\/modals\/text-link",
+          "type": "text",
+          "view_template": "text-link"
+        }
+      ],
+      "right": [
+        {
+          "$$hashKey": "object:293",
+          "data": {
+            "title": "Currency"
+          },
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "icon-cart",
+          "label": "Multi Currency Select",
+          "order": {
+            "mobile": "1310",
+            "tablet": "1310"
+          },
+          "position": [
+            "top",
+            "right",
+            "0"
+          ],
+          "settings_template": "hb_templates\/modals\/multi-currency",
+          "type": "text",
+          "view_template": "multi-currency"
+        },
+        {
+          "$$hashKey": "object:421",
+          "disabled": {
+            "default": "",
+            "mobile": "",
+            "tablet": ""
+          },
+          "icon": "stm_hb-login",
+          "label": "Sign in",
+          "order": {
+            "mobile": "1300",
+            "tablet": "1300"
+          },
+          "position": [
+            "top",
+            "right",
+            "1"
+          ],
+          "type": "signin",
+          "woocommerce": "true"
+        }
+      ]
+    }
+  },
+  "header_bg": "",
+  "header_bottom": "24",
+  "header_color": "",
+  "header_text_color": "",
+  "header_text_color_hover": "",
+  "header_top": "17",
+  "all_bg": "",
+  "all_bg_color": "",
+  "divider_h_socials_0": "",
+  "divider_h_socials_1": "",
+  "header_container_width": "0",
+  "header_content_width": "0",
+  "header_sticky": "",
+  "logo": "43",
+  "main_color": "#297ee8",
+  "secondary_color": "#222222",
+  "third_color": "#297ee8",
+  "top_bar_bg": "",
+  "top_bar_bottom": "0",
+  "top_bar_color": "",
+  "top_bar_link_color_hover": "#808080",
+  "top_bar_text_color": "#808080",
+  "top_bar_top": "0",
+  "stm_hb_slug": "stm_hb_settings",
+  "stm_hb_name": "Default Header"
+}

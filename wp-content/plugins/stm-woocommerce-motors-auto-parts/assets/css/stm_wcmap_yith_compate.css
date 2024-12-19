@@ -1,0 +1,32 @@
+#yith-woocompare table tbody tr:nth-child(even) th, #yith-woocompare table tbody tr:nth-child(even) td {
+    background-color: #ffffff !important;
+}
+
+#yith-woocompare table tbody tr:nth-child(odd) th, #yith-woocompare table tbody tr:nth-child(odd) td {
+    background-color: #E5E5E5 !important;
+}
+
+#yith-woocompare table tbody tr th, #yith-woocompare table tbody tr td {
+    padding: 15px 30px;
+}
+
+#yith-woocompare table tbody tr th img, #yith-woocompare table tbody tr td img {
+    margin: 0;
+}
+
+#yith-woocompare table tbody tr th a.button, #yith-woocompare table tbody tr td a.button {
+    display: inline-block;
+    margin: 0;
+    padding: 10px 20px;
+    border: 3px;
+}
+
+#yith-woocompare table tbody tr th {
+    font-weight: 400;
+    font-size: 13px;
+}
+
+#yith-woocompare table tbody tr td {
+    font-size: 14px;
+    font-weight: 600;
+}

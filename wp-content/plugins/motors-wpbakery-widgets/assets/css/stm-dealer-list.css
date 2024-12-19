@@ -1,0 +1,214 @@
+#wrapper .stm_dynamic_listing_dealer_filter {
+    position: relative;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter:before {
+    position: absolute;
+    content: "";
+    display: block;
+    background: url("../images/listing-filter-overlay.png") 0 0 no-repeat;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    z-index: 1;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .stm_dynamic_listing_filter_nav {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .stm_dynamic_listing_filter_nav li {
+    float: left;
+    margin-bottom: 0;
+    background: #11323e;
+    border-right: 1px solid #133340;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .stm_dynamic_listing_filter_nav li a {
+    position: relative;
+    display: block;
+    padding: 15px 43px 12px 35px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+    text-decoration: none !important;
+    letter-spacing: -0.4px;
+    z-index: 2;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .stm_dynamic_listing_filter_nav li.active {
+    background-color: #153e4d;
+    border-right-color: #153e4d;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content {
+    padding: 42px 30px 20px;
+    background-color: #153e4d;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane {
+    position: relative;
+    z-index: 2;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane form {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+@media (min-width: 768px) {
+    #wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane form {
+        flex-direction: row;
+    }
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane form input[type=text],
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane form input[type=number],
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane form input[type=tel],
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane form input[type=email],
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane form input[type=search],
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane form input[type=password] {
+    height: 46px;
+    line-height: 46px;
+    font-size: 14px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .tab-pane form .stm-filter-tab-selects {
+    width: 100%;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .stm-filter-tab-selects .stm-select-col {
+    margin-bottom: 30px;
+    padding: 0 8px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .stm-filter-tab-selects > .row {
+    margin: 0 -8px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .stm-location-search-unit.loading {
+    position: relative;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .stm-location-search-unit .gm-err-autocomplete {
+    background-position-y: center;
+    background-position-x: 8px;
+    padding-left: 30px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content button[type=submit] {
+    min-width: 190px;
+    position: relative;
+    top: -1px;
+    float: right;
+    margin-left: 16px;
+    padding: 16px 25px 13px 25px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content button[type=submit] span {
+    margin-right: 4px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content button[type=submit] i {
+    display: inline-block;
+    margin-right: 6px;
+    font-size: 16px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content button[type=submit]:active {
+    top: -1px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .stm-slide-content {
+    display: none;
+    position: relative;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .taxonomy_range_wrap {
+    min-height: 50px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .taxonomy_range_wrap .mts_semeht_taxonomy {
+    position: relative;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .taxonomy_range_wrap .mts_semeht_taxonomy label {
+    color: #ffffff;
+    line-height: 16px;
+    vertical-align: top;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .taxonomy_range_wrap .mts_semeht_taxonomy .stm-taxonomy-range-unit {
+    margin-top: 10px;
+    padding: 0 10px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .taxonomy_range_wrap .taxonomy-tooltip {
+    margin-top: 2px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .taxonomy_range_wrap .taxonomy-tooltip .tooltip-inner {
+    padding: 1px 3px 0;
+    background: #eceff3;
+    color: #222222;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .stm-more-options-wrap {
+    display: block;
+    position: relative;
+    float: right;
+    clear: both;
+    cursor: pointer;
+    padding: 10px 0 10px 10px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .tab-content .stm-more-options-wrap span {
+    border-bottom: 1px dotted;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .select2-container--default .select2-selection--single {
+    height: 46px;
+    opacity: 1 !important;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 46px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 46px;
+}
+
+#wrapper .stm_dynamic_listing_dealer_filter .stm_listing_filter_text {
+    height: 46px;
+    line-height: 46px;
+}
+
+@media (max-width: 991px) {
+    .stm_dynamic_listing_dealer_filter:before {
+        background: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .stm_dynamic_listing_dealer_filter.stm_dynamic_listing_filter_nav li {
+        float: none;
+        width: 100%;
+    }
+
+    .stm_dynamic_listing_dealer_filter.tab-content button[type=submit] {
+        margin-left: 0;
+        margin-bottom: 35px;
+        float: none;
+    }
+}

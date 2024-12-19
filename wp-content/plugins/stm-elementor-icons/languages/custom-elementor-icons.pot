@@ -1,0 +1,149 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: STM Elementor Icons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-03 05:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: stm-elementor-icons"
+
+#: templates/icon-manager.php:118
+msgid ""
+"1. Custom Icons Set/Pack should be uploaded. Icon Fonts can be generated via"
+msgstr ""
+
+#: templates/icon-manager.php:121
+msgid "2. For using the custom icons, upload the pack of Icon Fonts."
+msgstr ""
+
+#: templates/icon-manager.php:122
+msgid "3. Add your Custom Fonts or generate Icon Fonts through"
+msgstr ""
+
+#. Name of the plugin
+msgid "STM Elementor Icons"
+msgstr ""
+
+#: includes/classes/LoadIcons.php:79 includes/classes/admin/AdminMenu.php:20
+#: includes/classes/admin/AdminMenu.php:21
+#: includes/classes/admin/AdminMenu.php:37
+msgid "Custom Icons"
+msgstr ""
+
+#: templates/icon-manager.php:59 templates/icon-manager.php:60
+msgid "Delete Icon Set"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:368
+msgid "Failed to add this font. Please try again!"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:115
+msgid "Failed to create temp folder"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:173
+msgid "Failed to create the necessary config files"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:61
+msgid "Failed to get Font name from downloaded folder"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:99
+msgid "Failed to remove the Font"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:156
+msgid "Failed to work with Zip Archive"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:243
+#: includes/classes/admin/CustomIcons.php:249
+msgid "Failed to write Config file."
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:266
+msgid "Failed to write CSS. Please upload icons downloaded only from Icomoon"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:197
+msgid ""
+"Font Icon is not from Icomoon. Please upload fonts created with the Icomoon."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/stm-elementor-icons/"
+msgstr ""
+
+#: includes/classes/LoadIcons.php:93
+msgid "Icon"
+msgstr ""
+
+#: templates/icon-manager.php:8
+msgid "Icon Fonts Manager"
+msgstr ""
+
+#: templates/icon-manager.php:12
+msgid "Insert Fonts Zip File"
+msgstr ""
+
+#: templates/icon-manager.php:117
+msgid "No font icons uploaded. Upload some font icons to display here:"
+msgstr ""
+
+#: templates/icon-manager.php:22
+msgid "Search"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:190
+msgid ""
+"Seems Font Icon with the same name is already exist! Please upload the Font "
+"Icon with different name."
+msgstr ""
+
+#: includes/classes/LoadIcons.php:104
+msgid "Select icon from library."
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:77
+msgid "stm_font_added:"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:96
+msgid "stm_font_removed"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:143
+msgid "Unable to extract the file."
+msgstr ""
+
+#: templates/icon-manager.php:15
+msgid "Upload New Icons"
+msgstr ""
+
+#: templates/icon-manager.php:10
+msgid "Upload/Select Fontello Font Zip"
+msgstr ""
+
+#: includes/classes/admin/CustomIcons.php:50
+#: includes/classes/admin/CustomIcons.php:87
+msgid "You unfortunately don't have the necessary permissions."
+msgstr ""

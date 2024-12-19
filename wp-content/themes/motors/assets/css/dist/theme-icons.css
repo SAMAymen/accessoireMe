@@ -1,0 +1,1271 @@
+@font-face {
+    font-family: "stm-aircrafts-icon";
+    src: url("../../fonts/aircrafts-icon-font/stm-aircrafts-icon.eot?l6elzm");
+    src: url("../../fonts/aircrafts-icon-font/stm-aircrafts-icon.eot?l6elzm#iefix") format("embedded-opentype"), url("../../fonts/aircrafts-icon-font/stm-aircrafts-icon.ttf?l6elzm") format("truetype"), url("../../fonts/aircrafts-icon-font/stm-aircrafts-icon.woff?l6elzm") format("woff"), url("../../fonts/aircrafts-icon-font/stm-aircrafts-icon.svg?l6elzm#stm-aircrafts-icon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "stm-ap-icon";
+  src: url("../../fonts/auto-parts-font/stm-ap-icon.eot?ns7xbk");
+  src: url("../../fonts/auto-parts-font/stm-ap-icon.eot?ns7xbk#iefix") format("embedded-opentype"), url("../../fonts/auto-parts-font/stm-ap-icon.ttf?ns7xbk") format("truetype"), url("../../fonts/auto-parts-font/stm-ap-icon.woff?ns7xbk") format("woff"), url("../../fonts/auto-parts-font/stm-ap-icon.svg?ns7xbk#stm-ap-icon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: "boaticons";
+  src: url("../../fonts/boat-icons/boaticons.eot?d0cx1x");
+  src: url("../../fonts/boat-icons/boaticons.eot?d0cx1x#iefix") format("embedded-opentype"), url("../../fonts/boat-icons/boaticons.ttf?d0cx1x") format("truetype"), url("../../fonts/boat-icons/boaticons.woff?d0cx1x") format("woff"), url("../../fonts/boat-icons/boaticons.svg?d0cx1x#boaticons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: "stm-icon";
+  src: url("../../fonts/default-icon-font/stm-icon.eot?2bstzn");
+  src: url("../../fonts/default-icon-font/stm-icon.eot?2bstzn#iefix") format("embedded-opentype"), url("../../fonts/default-icon-font/stm-icon.ttf?2bstzn") format("truetype"), url("../../fonts/default-icon-font/stm-icon.woff?2bstzn") format("woff"), url("../../fonts/default-icon-font/stm-icon.svg?2bstzn#stm-icon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+    font-family: "listing-two";
+  src: url("../../fonts/listing-two/listing_two_font.eot?1l3bp0");
+  src: url("../../fonts/listing-two/listing_two_font.eot?1l3bp0#iefix") format("embedded-opentype"), url("../../fonts/listing-two/listing_two_font.ttf?1l3bp0") format("truetype"), url("../../fonts/listing-two/listing_two_font.woff?1l3bp0") format("woff"), url("../../fonts/listing-two/listing_two_font.svg?1l3bp0#motorcycles") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: "magazine-icon";
+  src: url("../../fonts/magazine/magazine-icon.eot?tpln9j");
+  src: url("../../fonts/magazine/magazine-icon.eot?tpln9j#iefix") format("embedded-opentype"), url("../../fonts/magazine/magazine-icon.ttf?tpln9j") format("truetype"), url("../../fonts/magazine/magazine-icon.woff?tpln9j") format("woff"), url("../../fonts/magazine/magazine-icon.svg?tpln9j#stm-icon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: "motorcycles";
+  src: url("../../fonts/motorcycles/motorcycles.eot?jzx0gc");
+  src: url("../../fonts/motorcycles/motorcycles.eot?jzx0gc#iefix") format("embedded-opentype"), url("../../fonts/motorcycles/motorcycles.ttf?jzx0gc") format("truetype"), url("../../fonts/motorcycles/motorcycles.woff?jzx0gc") format("woff"), url("../../fonts/motorcycles/motorcycles.svg?jzx0gc#motorcycles") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: "stm-rental";
+  src: url("../../fonts/rental/stm-rental.eot?n3cuvzq");
+  src: url("../../fonts/rental/stm-rental.eot?n3cuvzq#iefix") format("embedded-opentype"), url("../../fonts/rental/stm-rental.ttf?n3cuvzq") format("truetype"), url("../../fonts/rental/stm-rental.woff?n3cuvzq") format("woff"), url("../../fonts/rental/stm-rental.svg?n3cuvzq#stm-rental") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: "stm-service-default";
+  src: url("../../fonts/service-fonts/stm-service-default.eot?ok2lqi");
+  src: url("../../fonts/service-fonts/stm-service-default.eot?ok2lqi#iefix") format("embedded-opentype"), url("../../fonts/service-fonts/stm-service-default.ttf?ok2lqi") format("truetype"), url("../../fonts/service-fonts/stm-service-default.woff?ok2lqi") format("woff"), url("../../fonts/service-fonts/stm-service-default.svg?ok2lqi#stm-service-default") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^=ac-icon-], [class*=" ac-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "stm-aircrafts-icon" !important;
+}
+
+[class^=icon-ap-], [class*=" icon-ap-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "stm-ap-icon" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^=stm-boats-icon-], [class*=" stm-boats-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "boaticons" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^=stm-icon-], [class*=" stm-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "stm-icon" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^=stm-lt-icon-], [class*=" stm-lt-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "listing-two" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^=mg-icon-], [class*=" mg-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "magazine-icon" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^=stm-moto-icon-], [class*=" stm-moto-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "motorcycles" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^=stm-rental-], [class*=" stm-rental-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "stm-rental" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^=stm-service-icon-], [class*=" stm-service-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "stm-service-default" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ac-icon-ac-paper-pen:before {
+    content: "\e904";
+}
+
+.ac-icon-arrow-left:before {
+    content: "\e902";
+}
+
+.ac-icon-arrow-right:before {
+    content: "\e903";
+}
+
+.ac-icon-ac-brochure:before {
+    content: "\e900";
+}
+
+.ac-icon-ac-compare:before {
+    content: "\e901";
+}
+
+.ac-icon-ac-message:before {
+    content: "\e905";
+}
+
+.ac-icon-ac-offer-price:before {
+    content: "\e906";
+}
+
+.ac-icon-ac-phone:before {
+    content: "\e907";
+}
+
+.ac-icon-ac-share:before {
+    content: "\e908";
+}
+
+.ac-icon-ac-trade-in:before {
+    content: "\e909";
+}
+
+/*ICONS AUTOPARTS*/
+.icon-ap-like-act:before {
+    content: "\e910";
+}
+
+.icon-ap-arrow-right:before {
+    content: "\e90f";
+}
+
+.icon-ap-star-empty:before {
+    content: "\e90e";
+}
+
+.icon-ap-car:before {
+    content: "\e90d";
+}
+
+.icon-ap-arrow:before {
+    content: "\e90c";
+}
+
+.icon-ap-note:before {
+    content: "\e90b";
+}
+
+.icon-ap-login:before {
+    content: "\e90a";
+}
+
+.icon-ap-add-to-cart:before {
+    content: "\e900";
+}
+
+.icon-ap-cart:before {
+    content: "\e901";
+}
+
+.icon-ap-compare:before {
+    content: "\e902";
+}
+
+.icon-ap-fire:before {
+    content: "\e903";
+}
+
+.icon-ap-latter:before {
+    content: "\e904";
+}
+
+.icon-ap-like:before {
+    content: "\e905";
+}
+
+.icon-ap-phone:before {
+    content: "\e906";
+}
+
+.icon-ap-quote:before {
+    content: "\e907";
+}
+
+.icon-ap-star:before {
+    content: "\e908";
+}
+
+.icon-ap-time:before {
+    content: "\e909";
+}
+
+/*BOATS*/
+.stm-boats-icon-depth-sounder-installation:before {
+    content: "\e933";
+}
+
+.stm-boats-icon-engine-repairs:before {
+    content: "\e934";
+}
+
+.stm-boats-icon-fuel-changes:before {
+    content: "\e935";
+}
+
+.stm-boats-icon-marine-engine-service:before {
+    content: "\e936";
+}
+
+.stm-boats-icon-narrow-boat-painting:before {
+    content: "\e937";
+}
+
+.stm-boats-icon-accident:before {
+    content: "\e930";
+}
+
+.stm-boats-icon-exterior:before {
+    content: "\e931";
+}
+
+.stm-boats-icon-interior:before {
+    content: "\e932";
+}
+
+.stm-boats-icon-calculator-boat:before {
+    content: "\e92f";
+}
+
+.stm-boats-icon-quote_2:before {
+    content: "\e92e";
+}
+
+.stm-boats-icon-check:before {
+    content: "\e92d";
+}
+
+.stm-boats-icon-calendar:before {
+    content: "\e925";
+}
+
+.stm-boats-icon-dimensions:before {
+    content: "\e926";
+}
+
+.stm-boats-icon-fan:before {
+    content: "\e927";
+}
+
+.stm-boats-icon-message:before {
+    content: "\e928";
+}
+
+.stm-boats-icon-performance:before {
+    content: "\e929";
+}
+
+.stm-boats-icon-phone:before {
+    content: "\e92a";
+}
+
+.stm-boats-icon-skype:before {
+    content: "\e92b";
+}
+
+.stm-boats-icon-tank:before {
+    content: "\e92c";
+}
+
+.stm-boats-icon-pin:before {
+    content: "\e924";
+}
+
+.stm-boats-icon-add-to-compare:before {
+    content: "\e920";
+}
+
+.stm-boats-icon-camera:before {
+    content: "\e921";
+}
+
+.stm-boats-icon-remove-from-compare:before {
+    content: "\e922";
+}
+
+.stm-boats-icon-movie:before {
+    content: "\e923";
+}
+
+.stm-boats-icon-arrow-left:before {
+    content: "\e91e";
+}
+
+.stm-boats-icon-arrow-right:before {
+    content: "\e91f";
+}
+
+.stm-boats-icon-cart:before {
+    content: "\e91d";
+}
+
+.stm-boats-icon-quote:before {
+    content: "\e91c";
+}
+
+.stm-boats-icon-wave:before {
+    content: "\e90f";
+}
+
+.stm-boats-icon-jet-sky .path1:before {
+    content: "\e910";
+    color: rgb(45, 163, 198);
+}
+
+.stm-boats-icon-jet-sky .path2:before {
+    content: "\e911";
+    margin-left: -3em;
+    color: rgb(34, 45, 100);
+}
+
+.stm-boats-icon-canoe .path1:before {
+    content: "\e912";
+    color: rgb(45, 163, 198);
+}
+
+.stm-boats-icon-canoe .path2:before {
+    content: "\e913";
+    margin-left: -2.7099609375em;
+    color: rgb(34, 45, 100);
+}
+
+.stm-boats-icon-dinghy .path1:before {
+    content: "\e914";
+    color: rgb(45, 163, 198);
+}
+
+.stm-boats-icon-dinghy .path2:before {
+    content: "\e915";
+    margin-left: -3.111328125em;
+    color: rgb(34, 45, 100);
+}
+
+.stm-boats-icon-yacht .path1:before {
+    content: "\e916";
+    color: rgb(45, 163, 198);
+}
+
+.stm-boats-icon-yacht .path2:before {
+    content: "\e917";
+    margin-left: -2.7099609375em;
+    color: rgb(34, 45, 100);
+}
+
+.stm-boats-icon-sailboat .path1:before {
+    content: "\e918";
+    color: rgb(45, 163, 198);
+}
+
+.stm-boats-icon-sailboat .path2:before {
+    content: "\e919";
+    margin-left: -1.3330078125em;
+    color: rgb(34, 45, 100);
+}
+
+.stm-boats-icon-boat .path1:before {
+    content: "\e91a";
+    color: rgb(34, 45, 100);
+}
+
+.stm-boats-icon-boat .path2:before {
+    content: "\e91b";
+    margin-left: -2.3330078125em;
+    color: rgb(45, 163, 198);
+}
+
+.stm-boats-icon-financing:before {
+    content: "\e900";
+}
+
+.stm-boats-icon-s_ship:before {
+    content: "\e901";
+}
+
+.stm-boats-icon-binoculars:before {
+    content: "\e902";
+}
+
+.stm-boats-icon-helm:before {
+    content: "\e903";
+}
+
+.stm-boats-icon-shellfish:before {
+    content: "\e904";
+}
+
+.stm-boats-icon-crew:before {
+    content: "\e905";
+}
+
+.stm-boats-icon-shackle:before {
+    content: "\e906";
+}
+
+.stm-boats-icon-compass:before {
+    content: "\e907";
+}
+
+.stm-boats-icon-anchor:before {
+    content: "\e908";
+}
+
+.stm-boats-icon-hat:before {
+    content: "\e909";
+}
+
+.stm-boats-icon-sail:before {
+    content: "\e90a";
+}
+
+.stm-boats-icon-fuel:before {
+    content: "\e90b";
+}
+
+.stm-boats-icon-size:before {
+    content: "\e90c";
+}
+
+.stm-boats-icon-compare-boats:before {
+    content: "\e90d";
+}
+
+.stm-boats-icon-cap-hat:before {
+    content: "\e90e";
+}
+
+/*ICONS DEFAULT*/
+.stm-icon-phone-o:before {
+    content: "\e954";
+}
+
+.stm-icon-whatsapp:before {
+    content: "\e953";
+    color: #45c655;
+}
+
+.stm-icon-album:before {
+    content: "\e952";
+}
+
+.stm-icon-steering-wheel-thin:before {
+    content: "\e950";
+}
+
+.stm-icon-pin-o:before {
+    content: "\e951";
+}
+
+.stm-icon-hexagon-fill:before {
+    content: "\e94f";
+}
+
+.stm-icon-battery:before {
+    content: "\e938";
+}
+
+.stm-icon-brochures:before {
+    content: "\e939";
+}
+
+.stm-icon-charge-bolt:before {
+    content: "\e93a";
+}
+
+.stm-icon-checked:before {
+    content: "\e93b";
+}
+
+.stm-icon-twisted-plug:before {
+    content: "\e93c";
+}
+
+.stm-icon-light-envelope:before {
+    content: "\e93d";
+}
+
+.stm-icon-location-flag:before {
+    content: "\e93e";
+}
+
+.stm-icon-speedometr-advance:before {
+    content: "\e93f";
+}
+
+.stm-icon-no-oil-sign:before {
+    content: "\e940";
+}
+
+.stm-icon-charging-cost:before {
+    content: "\e941";
+}
+
+.stm-icon-hexagon-right:before {
+    content: "\e942";
+}
+
+.stm-icon-hexagon-left:before {
+    content: "\e943";
+}
+
+.stm-icon-light-circle-check:before {
+    content: "\e944";
+}
+
+.stm-icon-light-zoom-in:before {
+    content: "\e945";
+}
+
+.stm-icon-close-times:before {
+    content: "\e946";
+}
+
+.stm-icon-leaf:before {
+    content: "\e947";
+}
+
+.stm-icon-percentage:before {
+    content: "\e948";
+}
+
+.stm-icon-share-social:before {
+    content: "\e949";
+}
+
+.stm-icon-shopping-cart-1:before {
+    content: "\e94a";
+}
+
+.stm-icon-speedometer-circular-tool:before {
+    content: "\e94b";
+}
+
+.stm-icon-telephone:before {
+    content: "\e94c";
+}
+
+.stm-icon-electric-engine:before {
+    content: "\e94d";
+}
+
+.stm-icon-car-spin:before {
+    content: "\e94e";
+}
+
+.stm-icon-speedometr2:before {
+    content: "\e800";
+}
+
+.stm-icon-shop_bag:before {
+    content: "\e801";
+}
+
+.stm-icon-chat2:before {
+    content: "\e802";
+}
+
+.stm-icon-car:before {
+    content: "\e803";
+}
+
+.stm-icon-car_search:before {
+    content: "\e804";
+}
+
+.stm-icon-label:before {
+    content: "\e805";
+}
+
+.stm-icon-speedometr:before {
+    content: "\e806";
+}
+
+.stm-icon-chat:before {
+    content: "\e807";
+}
+
+.stm-icon-application:before {
+    content: "\e808";
+}
+
+.stm-icon-message:before {
+    content: "\e809";
+}
+
+.stm-icon-car_sale:before {
+    content: "\e80a";
+}
+
+.stm-icon-phone:before {
+    content: "\e80b";
+}
+
+.stm-icon-label-reverse:before {
+    content: "\e80c";
+}
+
+.stm-icon-transmission:before {
+    content: "\e80d";
+}
+
+.stm-icon-fuel:before {
+    content: "\e80e";
+}
+
+.stm-icon-road:before {
+    content: "\e80f";
+}
+
+.stm-icon-search:before {
+    content: "\e810";
+}
+
+.stm-icon-search-items:before {
+    content: "\e955";
+}
+
+.stm-icon-location-pin:before {
+    content: "\e956";
+}
+
+.stm-icon-search-list:before {
+    content: "\e957";
+}
+
+.stm-icon-reset:before {
+    content: "\e811";
+}
+
+.stm-icon-phone2:before {
+    content: "\e812";
+}
+
+.stm-icon-question:before {
+    content: "\e813";
+}
+
+.stm-icon-steering_wheel:before {
+    content: "\e814";
+}
+
+.stm-icon-gear:before {
+    content: "\e901";
+}
+
+.stm-icon-key:before {
+    content: "\e908";
+}
+
+.stm-icon-calendar:before {
+    content: "\e90b";
+}
+
+.stm-icon-oil:before {
+    content: "\e90c";
+}
+
+.stm-icon-diagnostic:before {
+    content: "\e90d";
+}
+
+.stm-icon-Tire_Wheel_Service2:before {
+    content: "\e90e";
+}
+
+.stm-icon-Tire_Wheel_Service:before {
+    content: "\e90f";
+}
+
+.stm-icon-auto_loan:before {
+    content: "\e910";
+}
+
+.stm-icon-engine:before {
+    content: "\e911";
+}
+
+.stm-icon-speedometr3:before {
+    content: "\e912";
+}
+
+.stm-icon-transmission2:before {
+    content: "\e913";
+}
+
+.stm-icon-mail:before {
+    content: "\e914";
+}
+
+.stm-icon-pin:before {
+    content: "\e915";
+}
+
+.stm-icon-delete:before {
+    content: "\e916";
+}
+
+.stm-icon-share:before {
+    content: "\e917";
+}
+
+.stm-icon-calculator:before {
+    content: "\e918";
+}
+
+.stm-icon-added:before {
+    content: "\e919";
+}
+
+.stm-icon-brochure:before {
+    content: "\e91a";
+}
+
+.stm-icon-add:before {
+    content: "\e91b";
+}
+
+.stm-icon-remove:before {
+    content: "\e91c";
+}
+
+.stm-icon-add_car:before {
+    content: "\e91d";
+}
+
+.stm-icon-air_conditioning:before {
+    content: "\e91e";
+}
+
+.stm-icon-auto_electric:before {
+    content: "\e91f";
+}
+
+.stm-icon-brake:before {
+    content: "\e920";
+}
+
+.stm-icon-oil-add:before {
+    content: "\e921";
+}
+
+.stm-icon-Tire_Wheel:before {
+    content: "\e922";
+}
+
+.stm-icon-load2:before {
+    content: "\e923";
+}
+
+.stm-icon-load1:before {
+    content: "\e924";
+}
+
+.stm-icon-transmission_fill:before {
+    content: "\e925";
+}
+
+.stm-icon-drive_2:before {
+    content: "\e926";
+}
+
+.stm-icon-engine_fill:before {
+    content: "\e927";
+}
+
+.stm-icon-grid:before {
+    content: "\e928";
+}
+
+.stm-icon-list:before {
+    content: "\e929";
+}
+
+.stm-icon-author:before {
+    content: "\e92a";
+}
+
+.stm-icon-date:before {
+    content: "\e92b";
+}
+
+.stm-icon-quotes3:before {
+    content: "\e92c";
+}
+
+.stm-icon-time:before {
+    content: "\e92d";
+}
+
+.stm-icon-buoy-2:before {
+    content: "\e92e";
+}
+
+.stm-icon-buoy:before {
+    content: "\e92f";
+}
+
+.stm-icon-car-relic:before {
+    content: "\e930";
+}
+
+.stm-icon-star:before {
+    content: "\e931";
+}
+
+.stm-icon-barrette:before {
+    content: "\e932";
+}
+
+.stm-icon-ico_mag_reviews:before {
+    content: "\e933";
+}
+
+.stm-icon-ico_mag_calendar:before {
+    content: "\e934";
+}
+
+.stm-icon-ico_mag_clock:before {
+    content: "\e935";
+}
+
+.stm-icon-ico_mag_eye:before {
+    content: "\e936";
+}
+
+.stm-icon-ico_mag_map_pin:before {
+    content: "\e937";
+}
+
+.stm-icon-ac-brochure:before {
+    content: "\e900";
+}
+
+.stm-icon-ac-max-passenger:before {
+    content: "\e902";
+}
+
+.stm-icon-ac-max-range:before {
+    content: "\e903";
+}
+
+.stm-icon-ac-max-speed:before {
+    content: "\e904";
+}
+
+.stm-icon-ac-message:before {
+    content: "\e905";
+}
+
+.stm-icon-ac-offer-price:before {
+    content: "\e906";
+}
+
+.stm-icon-ac-phone:before {
+    content: "\e907";
+}
+
+.stm-icon-ac-trade-in:before {
+    content: "\e909";
+}
+
+.stm-icon-ac-useful-load:before {
+    content: "\e90a";
+}
+
+/*ICONS LISTINGS TWO*/
+.stm-lt-icon-add_car:before {
+    content: "\e900";
+}
+
+/*ICONS MAGAZINE*/
+.mg-icon-standart:before {
+    content: "\e900";
+}
+
+.mg-icon-video:before {
+    content: "\e901";
+}
+
+/*ICONS MOTORCYCLES*/
+.stm-moto-icon-motorcycle:before {
+    content: "\e909";
+}
+
+.stm-moto-icon-angle-round:before {
+    content: "\e907";
+}
+
+.stm-moto-icon-phone-round:before {
+    content: "\e908";
+}
+
+.stm-moto-icon-cash:before {
+    content: "\e900";
+}
+
+.stm-moto-icon-chat:before {
+    content: "\e901";
+}
+
+.stm-moto-icon-helm:before {
+    content: "\e902";
+}
+
+.stm-moto-icon-phone-chat:before {
+    content: "\e903";
+}
+
+.stm-moto-icon-report:before {
+    content: "\e904";
+}
+
+.stm-moto-icon-share:before {
+    content: "\e905";
+}
+
+.stm-moto-icon-trade:before {
+    content: "\e906";
+}
+
+/*ICONS RENTAL*/
+.stm-rental-ac:before {
+    content: "\e909";
+}
+
+.stm-rental-door:before {
+    content: "\e90a";
+}
+
+.stm-rental-baloon_tail:before {
+    content: "\e908";
+}
+
+.stm-rental-bag:before {
+    content: "\e900";
+}
+
+.stm-rental-chair_rent:before {
+    content: "\e901";
+}
+
+.stm-rental-gps_rent:before {
+    content: "\e902";
+}
+
+.stm-rental-medal_rent:before {
+    content: "\e903";
+}
+
+.stm-rental-phone_circle:before {
+    content: "\e904";
+}
+
+.stm-rental-seats:before {
+    content: "\e905";
+}
+
+.stm-rental-support_rent:before {
+    content: "\e906";
+}
+
+.stm-rental-thumbs_rent:before {
+    content: "\e907";
+}
+
+.stm-rental-redo:before {
+    content: "\e90b";
+}
+
+.stm-rental-ico-close:before {
+    content: "\e90c";
+}
+
+/*ICONS SERVICE*/
+/* unset color on admin color picker modal */
+.stm_theme_font .form-table .stm-listings-pick-icon i:before {
+    color: unset !important;
+}
+
+.stm-service-icon-payment_listing:before {
+    content: "\e91f";
+}
+
+.stm-service-icon-shield-o:before {
+    content: "\e923";
+}
+
+.stm-service-icon-reviews:before {
+    content: "\e924";
+}
+
+.stm-service-icon-two_users:before {
+    content: "\e925";
+}
+
+.stm-service-icon-car-listing:before {
+    content: "\e926";
+}
+
+.stm-service-icon-pin_big:before {
+    content: "\e922";
+}
+
+.stm-service-icon-write-review:before {
+    content: "\e91e";
+}
+
+.stm-service-icon-sales_phone:before {
+    content: "\e920";
+    color: inherit;
+}
+
+.stm-service-icon-sales_hours:before {
+    content: "\e921";
+    color: inherit;
+}
+
+.stm-service-icon-photos:before {
+    content: "\e91c";
+    color: rgba(0, 0, 0, 0.2);
+}
+
+.stm-service-icon-add_check:before {
+    content: "\e91d";
+}
+
+.stm-service-icon-star-o:before {
+    content: "\e91a";
+    color: #4e90cc;
+}
+
+.stm-service-icon-inventory:before {
+    content: "\e91b";
+    color: #4e90cc;
+}
+
+.stm-service-icon-write_message:before {
+    content: "\e919";
+    color: #aaa;
+}
+
+.stm-service-icon-hashtag:before {
+    content: "\e918";
+}
+
+.stm-service-icon-mail-o:before {
+    content: "\e916";
+    color: #aaa;
+}
+
+.stm-service-icon-user-2:before {
+    content: "\e917";
+    color: #aaa;
+}
+
+.stm-service-icon-pin_2:before {
+    content: "\e914";
+    color: inherit;
+}
+
+.stm-service-icon-phone_2:before {
+    content: "\e915";
+    color: inherit;
+}
+
+.stm-service-icon-vin_check:before {
+    content: "\e911";
+}
+
+.stm-service-icon-color_type:before {
+    content: "\e912";
+}
+
+.stm-service-icon-body_type:before {
+    content: "\e913";
+}
+
+.stm-service-icon-pin:before {
+    content: "\e910";
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.stm-service-icon-mail:before {
+    content: "\e90e";
+    color: #888;
+}
+
+.stm-service-icon-phone:before {
+    content: "\e90f";
+    color: inherit;
+}
+
+.stm-service-icon-compare-new:before {
+    content: "\e90b";
+}
+
+.stm-service-icon-staricon:before {
+    content: "\e90c";
+}
+
+.stm-service-icon-photo:before {
+    content: "\e90d";
+}
+
+.stm-service-icon-cog:before {
+    content: "\e90a";
+}
+
+.stm-service-icon-listing-compare:before {
+    content: "\e909";
+}
+
+.stm-service-icon-user:before {
+    content: "\e908";
+    color: #5b6771;
+}
+
+.stm-service-icon-listing_car_plus:before {
+    content: "\e907";
+    color: inherit;
+}
+
+.stm-service-icon-cash_dollar:before {
+    content: "\e900";
+    color: inherit;
+}
+
+.stm-service-icon-like_it:before {
+    content: "\e901";
+    color: #2e84cc;
+}
+
+.stm-service-icon-shield_check:before {
+    content: "\e902";
+    color: #cc6119;
+}
+
+.stm-service-icon-award_blank:before {
+    content: "\e903";
+    color: #12b1c4;
+}
+
+.stm-service-icon-diagnostic_monitor:before {
+    content: "\e904";
+    color: #dd276c;
+}
+
+.stm-service-icon-calendar_service:before {
+    content: "\e905";
+    color: #df8821;
+}
+
+.stm-service-icon-appointment_calendar:before {
+    content: "\e906";
+}

@@ -1,0 +1,24 @@
+.colored-separator {
+    vertical-align: top;
+    font-size: 0;
+    line-height: 1;
+}
+
+.colored-separator .first-long,
+.colored-separator .last-short {
+    display: inline-block;
+    vertical-align: top;
+    width: 33px;
+    height: 5px;
+    transform: skew(-40deg, 0deg);
+    border-radius: 2px;
+    background: var(--motors-base-color);
+}
+
+.colored-separator .first-long {
+    margin-right: 3px;
+}
+
+.colored-separator .last-short {
+    width: 16px;
+}

@@ -1,0 +1,587 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+.stm-sidebar-mode-vc .stm-listing-car-dealer-info,
+.stm-single-car-side .stm-listing-car-dealer-info,
+.stm-single-listing-car-sidebar .stm-listing-car-dealer-info {
+    padding: 0;
+    box-shadow: none;
+    border-top: none;
+    margin-bottom: 40px;
+}
+
+.stm-listing-car-dealer-info {
+    background-color: #ffffff;
+    padding: 30px 40px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24), inset 0 4px 0 #153e4d;
+    border-top: 1px solid #153e4d;
+}
+
+.stm-listing-car-dealer-info .stm-no-text-decoration:hover, .stm-listing-car-dealer-info .stm-no-text-decoration:active, .stm-listing-car-dealer-info .stm-no-text-decoration:focus {
+    text-decoration: none !important;
+}
+
+.stm-listing-car-dealer-info .title {
+    font-size: 20px;
+    margin-bottom: 15px;
+    letter-spacing: -0.4px;
+}
+
+.stm-listing-car-dealer-info .dealer-image {
+    float: left;
+    margin-right: 20px;
+}
+
+.stm-listing-car-dealer-info .dealer-rating {
+    padding-top: 6px;
+    overflow: hidden;
+}
+
+.stm-listing-car-dealer-info .dealer-rating .stm-rate-sum {
+    color: #888;
+    font-size: 13px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts {
+    margin: 29px 0 15px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit {
+    position: relative;
+    padding-left: 33px;
+    padding-top: 24px;
+    margin-top: 20px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit:first-child {
+    border-top: 1px solid #e5e8ec;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone {
+    padding-right: 50px;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone .phone {
+    color: #153e4d;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone a {
+    color: #153e4d;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone span {
+    font-size: 11px;
+    cursor: pointer;
+    -webkit-text-decoration: dotted;
+    text-decoration: dotted;
+    border-bottom: 1px dotted;
+    line-height: 20px;
+    position: relative;
+    min-width: 20px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone span.load_number {
+    color: transparent;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone span.load_number:before {
+    content: "\f1ce";
+    display: block;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    color: #333333;
+    font-size: 15px;
+    position: absolute;
+    left: 0;
+    animation: spin 2s linear infinite;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp {
+    padding-top: 7px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail {
+    margin-top: 10px;
+    padding-top: 0;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail {
+    padding-left: 0;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp a, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail a {
+    text-decoration: none;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp a:hover, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp a:active, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp a:focus, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail a:hover, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail a:active, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail a:focus {
+    text-decoration: none;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .whatsapp-btn,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .email-btn, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .whatsapp-btn,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .email-btn {
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 7px rgba(0, 0, 0, 0.09);
+    border: 1px solid #e0e3e7;
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: #153e4d;
+    font-size: 14px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    text-transform: uppercase;
+    padding: 13px 17px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .whatsapp-btn:hover,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .email-btn:hover, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .whatsapp-btn:hover,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .email-btn:hover {
+    background-color: #f8f8f8;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .whatsapp-btn > span,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .email-btn > span, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .whatsapp-btn > span,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .email-btn > span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .whatsapp-btn i,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .email-btn i, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .whatsapp-btn i,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .email-btn i {
+    position: initial;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .whatsapp-btn .stm-icon-whatsapp,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .email-btn .stm-icon-whatsapp, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .whatsapp-btn .stm-icon-whatsapp,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .email-btn .stm-icon-whatsapp {
+    margin-right: 15px;
+    font-size: 26px;
+    color: #45c655;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .whatsapp-btn .fa-envelope,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp .email-btn .fa-envelope, .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .whatsapp-btn .fa-envelope,
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .email-btn .fa-envelope {
+    margin-right: 15px;
+    font-size: 26px;
+    color: #5c97cd;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.address {
+    margin-top: 14px;
+    color: #11323e;
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .phone {
+    margin-bottom: -1px;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .phone-label {
+    font-size: 13px;
+    color: #888;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit i {
+    position: absolute;
+    top: 27px;
+    left: 0;
+    color: #1bc744;
+    font-size: 13px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit i.stm-service-icon-pin_2 {
+    font-size: 16px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .address {
+    color: #153e4d;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.stm-listing-car-dealer-info .stm-rate-unit {
+    height: 13px;
+    line-height: 13px;
+    overflow: hidden;
+}
+
+.stm-listing-car-dealer-info .stm-rate-unit .stm-rate-inner {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.stm-listing-car-dealer-info .stm-rate-unit .stm-rate-not-filled {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 13px;
+}
+
+.stm-listing-car-dealer-info .stm-rate-unit .stm-rate-not-filled:after {
+    color: #edab1f;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 400;
+    font-style: normal;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    content: "\f005\f005\f005\f005\f005";
+    letter-spacing: 1px;
+}
+
+.stm-listing-car-dealer-info .stm-rate-unit .stm-rate-filled {
+    font-size: 13px;
+    overflow: hidden;
+}
+
+.stm-listing-car-dealer-info .stm-rate-unit .stm-rate-filled:after {
+    color: #edab1f;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-style: normal;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    content: "\f005\f005\f005\f005\f005";
+    letter-spacing: 1px;
+}
+
+.stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c a .title {
+    margin: 1px 0 0;
+    font-size: 16px;
+}
+
+.stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c a .stm-label {
+    font-size: 13px;
+    color: #888;
+}
+
+.stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c .image {
+    float: left;
+    margin-right: 14px;
+    text-align: center;
+    line-height: 40px;
+    width: 40px;
+}
+
+.stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c .image img {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c .image .no-avatar {
+    width: 40px;
+    height: 40px;
+    background-color: #eeeeee;
+    color: #5b6771;
+    border-radius: 50%;
+    font-size: 16px;
+    text-indent: 2px;
+}
+
+.stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c .image a {
+    text-decoration: none !important;
+}
+
+.stm-template-listing_four .stm-listing-car-dealer-info, .stm-template-listing_four_elementor .stm-listing-car-dealer-info {
+    padding: 22px 23px 8px;
+    border: 3px solid #e4e6ea;
+}
+
+.stm-template-listing_four .stm-listing-car-dealer-info .stm-border-bottom-unit, .stm-template-listing_four_elementor .stm-listing-car-dealer-info .stm-border-bottom-unit {
+    padding-bottom: 19px;
+    margin-bottom: 0;
+    border: 0;
+}
+
+.stm-template-listing_four .stm-listing-car-dealer-info .dealer-contact-unit.phone, .stm-template-listing_four_elementor .stm-listing-car-dealer-info .dealer-contact-unit.phone {
+    padding-right: 0 !important;
+}
+
+.stm-template-listing_four .stm-listing-car-dealer-info .title, .stm-template-listing_four_elementor .stm-listing-car-dealer-info .title {
+    margin-top: 0;
+}
+
+.stm-template-listing_four .stm-listing-car-dealer-info .dealer-contacts, .stm-template-listing_four_elementor .stm-listing-car-dealer-info .dealer-contacts {
+    margin: 29px 0 18px;
+}
+
+@media (max-width: 991px) {
+    .stm-template-listing_four .stm-listing-car-dealer-info, .stm-template-listing_four_elementor .stm-listing-car-dealer-info {
+        margin-top: 25px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .stm-template-listing_four .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit, .stm-template-listing_four_elementor .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit {
+        padding-left: 19px;
+    }
+}
+
+@media (max-width: 991px) {
+    .stm-template-listing .stm-listing-car-dealer-info {
+        margin-top: 25px;
+    }
+}
+
+.stm-template-listing_five .stm-listing-car-dealer-info .dealer-contacts {
+    margin: 29px 0 28px;
+}
+
+.stm-template-listing_five .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit {
+    border-top: 1px solid #e5e8ec;
+}
+
+.stm-template-listing_five .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .whatsapp-btn,
+.stm-template-listing_five .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .email-btn {
+    color: #1a2c33 !important;
+}
+
+.stm-template-listing_five .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 5px;
+}
+
+.stm-template-listing_five .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone .phone {
+    color: #1a2c33;
+}
+
+.stm-template-listing_five .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone .phone a {
+    color: #1a2c33 !important;
+}
+
+.stm-template-listing_five .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit i {
+    top: 30px;
+    left: 10px;
+}
+
+.stm-template-listing_five .stm-user-public-profile .stm-user-sidebar .stm-listing-car-dealer-info {
+    display: none !important;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts {
+    margin: 29px 0 28px;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.address {
+    margin-top: 14px;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail i {
+    font-size: 15px;
+    color: #4e90cc;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .stm-label {
+    color: #888;
+    font-size: 13px;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail a {
+    font-size: 14px;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail a:hover {
+    color: #cc761a;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .phone {
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .phone-label {
+    font-size: 13px;
+    color: #888;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit i {
+    position: absolute;
+    top: 21px;
+    left: 0;
+    color: #ff9420;
+    font-size: 13px;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit i.stm-service-icon-pin_2 {
+    font-size: 16px;
+}
+
+.stm-template-aircrafts .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .address {
+    color: #cc761a;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.stm-template-equipment .stm-listing-car-dealer-info {
+    background-color: transparent;
+}
+
+.stm-template-equipment .stm-listing-car-dealer-info .dealer-contacts .stm-show-number {
+    color: #ffffff;
+}
+
+.stm-template-equipment .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone a,
+.stm-template-equipment .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone div.phone {
+    color: #ffffff;
+}
+
+.stm-template-motorcycle .stm-listing-car-dealer-info {
+    background-color: transparent;
+}
+
+.stm-template-motorcycle .stm-listing-car-dealer-info .dealer-contacts .stm-show-number {
+    color: #ffffff;
+}
+
+.stm-template-motorcycle .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone a,
+.stm-template-motorcycle .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone div.phone {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c a .title {
+    color: #232628;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c .stm-label {
+    color: #232628;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit {
+    padding-top: 17px;
+    border-top: 1px solid #e5e8ec;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone {
+    margin-bottom: 5px;
+    color: #232628;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone span {
+    color: #232628;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.address {
+    margin-top: 14px;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.whatsapp, .stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail {
+    border-top: none;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .phone {
+    color: #232628;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .phone-label {
+    color: #232628;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit i {
+    color: #ffb129;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .address {
+    color: #232628;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info {
+    background-color: transparent;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c a .title {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info.stm-common-user .stm-user-main-info-c .stm-label {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .title {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .stm-show-number {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone a,
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone div.phone {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone span {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone span.load_number {
+    color: transparent;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.phone span.load_number:before {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.address {
+    margin-top: 14px;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail i {
+    color: #4e90cc;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail .stm-label {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail a {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit.mail a:hover {
+    color: #3350b8;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .phone {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .phone-label {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark .stm-listing-car-dealer-info .dealer-contacts .dealer-contact-unit .address {
+    color: #ffffff;
+}

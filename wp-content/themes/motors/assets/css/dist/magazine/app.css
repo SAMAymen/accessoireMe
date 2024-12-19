@@ -1,0 +1,5938 @@
+@charset "UTF-8";
+/*Default*/
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .listing-list-loop .interactive-hoverable {
+    min-width: 257px;
+    min-height: 206.5px;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries.stm-template-car_magazine .listing-list-loop .interactive-hoverable {
+        min-height: 163px;
+    }
+}
+
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .listing-list-loop .interactive-hoverable .hoverable-wrap {
+    min-height: 201.5px;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries.stm-template-car_magazine .listing-list-loop .interactive-hoverable .hoverable-wrap {
+        min-height: unset;
+    }
+}
+
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .car-listing-modern-grid .interactive-hoverable {
+    min-height: 218px;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries.stm-template-car_magazine .car-listing-modern-grid .interactive-hoverable {
+        min-height: 143px;
+    }
+}
+
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .img:before {
+    display: none;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .img .fa-round {
+    display: none;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-car_magazine #modern-filter-listing .car-listing-row .image,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine #modern-filter-listing .listing-car-item-inner .image,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .archive-listing-page .car-listing-row .image,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .archive-listing-page .listing-car-item-inner .image {
+    min-height: 143px;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-car_magazine #modern-filter-listing .car-listing-row .image:before,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine #modern-filter-listing .listing-car-item-inner .image:before,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .archive-listing-page .car-listing-row .image:before,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .archive-listing-page .listing-car-item-inner .image:before {
+    background-color: transparent;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-car_magazine #modern-filter-listing .car-listing-row .image .stm-listing-compare,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine #modern-filter-listing .car-listing-row .image .stm-listing-favorite,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine #modern-filter-listing .listing-car-item-inner .image .stm-listing-compare,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine #modern-filter-listing .listing-car-item-inner .image .stm-listing-favorite,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .archive-listing-page .car-listing-row .image .stm-listing-compare,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .archive-listing-page .car-listing-row .image .stm-listing-favorite,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .archive-listing-page .listing-car-item-inner .image .stm-listing-compare,
+.stm-hoverable-interactive-galleries.stm-template-car_magazine .archive-listing-page .listing-car-item-inner .image .stm-listing-favorite {
+    bottom: 14px;
+}
+
+.stm-template-car_magazine {
+  /*vc toggle*/
+}
+
+.stm-template-car_magazine .single-add-to-compare.danger, .stm-template-car_magazine .single-add-to-compare.overadded {
+    background-color: #ff1b1b;
+}
+
+.stm-template-car_magazine .single-add-to-compare.danger .compare-fixed-link:hover, .stm-template-car_magazine .single-add-to-compare.overadded .compare-fixed-link:hover {
+    color: #ff1b1b !important;
+}
+
+.stm-template-car_magazine a.wp-block-latest-posts__post-title {
+    color: unset;
+}
+
+.stm-template-car_magazine .stm-contact-us-form-wrapper {
+    padding: 18px !important;
+}
+
+.stm-template-car_magazine.stm-layout-header-listing #header .header-listing.listing-nontransparent-header:after {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm_breadcrumbs_unit .container .navxtBreads {
+    padding: 23px 0 15px 0;
+    margin-bottom: 27px;
+}
+
+.stm-template-car_magazine .stm_breadcrumbs_unit .container .navxtBreads > span a {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-review-video #review-play-btn {
+    z-index: 15 !important;
+}
+
+.stm-template-car_magazine .btn-magazine-green {
+    display: block;
+    background-color: #18ca3e;
+    max-width: 42%;
+    font-size: 12px;
+    box-shadow: 0 2px 0 #169f36;
+    padding: 12px 12px 10px;
+    margin-top: 30px;
+}
+
+.stm-template-car_magazine .select2-container--open.stm-multi-currency {
+    z-index: 1065;
+}
+
+.stm-template-car_magazine #lmb-car-review {
+    max-width: 156px;
+    margin: 0 auto;
+}
+
+.stm-template-car_magazine h5, .stm-template-car_magazine .h5 {
+    margin-bottom: 24px;
+}
+
+.stm-template-car_magazine.no_margin #wrapper #main {
+    margin-top: 0 !important;
+}
+
+.stm-template-car_magazine .p-first-upper:first-child:first-letter {
+    color: #18ca3e;
+    float: left;
+    font-size: 100px;
+    font-weight: 500;
+    font-family: "Montserrat";
+    line-height: 84px;
+    padding-top: 2px;
+    padding-right: 4px;
+    margin-left: -12px;
+}
+
+.stm-template-car_magazine .p-first-upper p:first-child:first-letter {
+    color: #18ca3e;
+    float: left;
+    font-size: 100px;
+    font-weight: 500;
+    font-family: "Montserrat";
+    line-height: 84px;
+    padding-top: 2px;
+    padding-right: 19px;
+    margin-left: 0;
+}
+
+.stm-template-car_magazine.blog #wrapper #main {
+    margin-top: 0 !important;
+}
+
+.stm-template-car_magazine input[type=text],
+.stm-template-car_magazine input[type=number],
+.stm-template-car_magazine input[type=tel],
+.stm-template-car_magazine input[type=email],
+.stm-template-car_magazine input[type=password] {
+    border: 0;
+}
+
+.stm-template-car_magazine input[type=text]:hover, .stm-template-car_magazine input[type=text]:focus, .stm-template-car_magazine input[type=text]:active,
+.stm-template-car_magazine input[type=number]:hover,
+.stm-template-car_magazine input[type=number]:focus,
+.stm-template-car_magazine input[type=number]:active,
+.stm-template-car_magazine input[type=tel]:hover,
+.stm-template-car_magazine input[type=tel]:focus,
+.stm-template-car_magazine input[type=tel]:active,
+.stm-template-car_magazine input[type=email]:hover,
+.stm-template-car_magazine input[type=email]:focus,
+.stm-template-car_magazine input[type=email]:active,
+.stm-template-car_magazine input[type=password]:hover,
+.stm-template-car_magazine input[type=password]:focus,
+.stm-template-car_magazine input[type=password]:active {
+    border: 0;
+    box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.stm-template-car_magazine .stm_single_event__form input[type=text],
+.stm-template-car_magazine .stm_single_event__form input[type=number],
+.stm-template-car_magazine .stm_single_event__form input[type=tel],
+.stm-template-car_magazine .stm_single_event__form input[type=email],
+.stm-template-car_magazine .stm_single_event__form input[type=password] {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid #3c98ff;
+    font-size: 16px;
+    color: #293742;
+}
+
+.stm-template-car_magazine .stm_single_event__form input[type=text]::-moz-placeholder, .stm-template-car_magazine .stm_single_event__form input[type=number]::-moz-placeholder, .stm-template-car_magazine .stm_single_event__form input[type=tel]::-moz-placeholder, .stm-template-car_magazine .stm_single_event__form input[type=email]::-moz-placeholder, .stm-template-car_magazine .stm_single_event__form input[type=password]::-moz-placeholder {
+    color: #293742;
+}
+
+.stm-template-car_magazine .stm_single_event__form input[type=text]::placeholder,
+.stm-template-car_magazine .stm_single_event__form input[type=number]::placeholder,
+.stm-template-car_magazine .stm_single_event__form input[type=tel]::placeholder,
+.stm-template-car_magazine .stm_single_event__form input[type=email]::placeholder,
+.stm-template-car_magazine .stm_single_event__form input[type=password]::placeholder {
+    color: #293742;
+}
+
+.stm-template-car_magazine .stm_single_event__form input[type=text]:hover, .stm-template-car_magazine .stm_single_event__form input[type=text]:focus, .stm-template-car_magazine .stm_single_event__form input[type=text]:active,
+.stm-template-car_magazine .stm_single_event__form input[type=number]:hover,
+.stm-template-car_magazine .stm_single_event__form input[type=number]:focus,
+.stm-template-car_magazine .stm_single_event__form input[type=number]:active,
+.stm-template-car_magazine .stm_single_event__form input[type=tel]:hover,
+.stm-template-car_magazine .stm_single_event__form input[type=tel]:focus,
+.stm-template-car_magazine .stm_single_event__form input[type=tel]:active,
+.stm-template-car_magazine .stm_single_event__form input[type=email]:hover,
+.stm-template-car_magazine .stm_single_event__form input[type=email]:focus,
+.stm-template-car_magazine .stm_single_event__form input[type=email]:active,
+.stm-template-car_magazine .stm_single_event__form input[type=password]:hover,
+.stm-template-car_magazine .stm_single_event__form input[type=password]:focus,
+.stm-template-car_magazine .stm_single_event__form input[type=password]:active {
+    box-shadow: none;
+}
+
+.stm-template-car_magazine #listings-result .listing-list-loop .content .title a:hover {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine #listings-result .listing-list-loop .content .meta-top .price {
+    background-color: #3c98ff;
+}
+
+.stm-template-car_magazine #listings-result .listing-list-loop .content .meta-top .price .discounted-price {
+    padding: 1px 7px 2px 0 !important;
+    background-color: #3c98ff;
+    left: 0;
+}
+
+.stm-template-car_magazine #listings-result .listing-list-loop .content .meta-top .price .normal-price {
+    padding: 12px 8px 10px 4px !important;
+    background-color: #3c98ff;
+    left: 0;
+}
+
+.stm-template-car_magazine #listings-result .listing-list-loop .content .meta-top .price:before {
+    background-color: #3c98ff;
+}
+
+.stm-template-car_magazine .car-action-unit > i {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .car-action-unit:hover {
+    color: #3c98ff;
+    border-color: #3c98ff;
+}
+
+.stm-template-car_magazine .car-action-unit.stm-added:hover {
+    color: #fff;
+}
+
+.stm-template-car_magazine .car-action-unit.stm-added:hover i {
+    color: #fff;
+}
+
+.stm-template-car_magazine .stm-icon-grid:before, .stm-template-car_magazine .stm-icon-list:before {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .active .stm-icon-grid:before, .stm-template-car_magazine .active .stm-icon-list:before {
+    color: #888;
+}
+
+.stm-template-car_magazine .sidebar-entry-header span.h4 {
+    font-size: 20px !important;
+}
+
+.stm-template-car_magazine #wrapper .searchform-wrapper {
+    display: block;
+    overflow: hidden;
+    padding-top: 17px !important;
+}
+
+.stm-template-car_magazine #wrapper .searchform-wrapper .search-wrapper {
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.stm-template-car_magazine #wrapper .searchform-wrapper .search-wrapper input[type=text] {
+    width: 634px;
+    height: 55px;
+    padding: 0 20px 0 !important;
+    font-size: 15px !important;
+    border-radius: 10px;
+}
+
+.stm-template-car_magazine #wrapper .searchform-wrapper .search-wrapper button {
+    display: block;
+    min-width: 82px;
+    height: 55px;
+    position: relative;
+    border-radius: 10px;
+    margin-left: 13px !important;
+    text-align: center !important;
+}
+
+.stm-template-car_magazine #wrapper .searchform-wrapper .search-wrapper button i {
+    font-size: 20px !important;
+}
+
+.stm-template-car_magazine #wrapper .searchform-wrapper .checkbox-wrapper {
+    display: block;
+    overflow: hidden;
+    padding-top: 30px !important;
+}
+
+.stm-template-car_magazine #wrapper .searchform-wrapper .checkbox-wrapper label {
+    display: inline-block;
+    font-size: 15px !important;
+    font-family: "Montserrat";
+    text-transform: capitalize;
+    margin-right: 20px !important;
+}
+
+.stm-template-car_magazine #wrapper .searchform-wrapper .checkbox-wrapper label .checker {
+    margin-right: 0 !important;
+}
+
+.stm-template-car_magazine .vc_toggle {
+    border-bottom: 1px solid #ddd;
+    margin: 0 0 17px 110px !important;
+}
+
+.stm-template-car_magazine .vc_toggle h2, .stm-template-car_magazine .vc_toggle h3, .stm-template-car_magazine .vc_toggle h4, .stm-template-car_magazine .vc_toggle h5, .stm-template-car_magazine .vc_toggle p {
+    margin-left: 0 !important;
+}
+
+.stm-template-car_magazine .vc_toggle .vc_toggle_title {
+    position: relative;
+    min-height: 28px;
+    padding-bottom: 8px !important;
+    padding-left: 29px !important;
+}
+
+.stm-template-car_magazine .vc_toggle .vc_toggle_title > h4 {
+    display: inline-block;
+    font-weight: 500 !important;
+    font-size: 16px;
+    color: #232628;
+}
+
+.stm-template-car_magazine .vc_toggle .vc_toggle_title .vc_toggle_icon {
+    position: absolute;
+    left: 0;
+    top: -4px;
+    display: block;
+    width: 28px;
+    height: 28px;
+    border: 0 !important;
+}
+
+.stm-template-car_magazine .vc_toggle .vc_toggle_title .vc_toggle_icon:before {
+    position: absolute;
+    content: "";
+    display: block;
+    width: 13px;
+    height: 3px;
+    top: 12px;
+    left: 0px;
+    background-color: #3c98ff;
+}
+
+.stm-template-car_magazine .vc_toggle .vc_toggle_title .vc_toggle_icon:after {
+    position: absolute;
+    content: "";
+    display: block;
+    width: 3px;
+    height: 13px;
+    top: 7px;
+    left: 5px;
+    background-color: #3c98ff;
+    opacity: 1;
+}
+
+.stm-template-car_magazine .vc_toggle.vc_toggle_active .vc_toggle_title .vc_toggle_icon {
+    border-color: transparent;
+}
+
+.stm-template-car_magazine .vc_toggle.vc_toggle_active .vc_toggle_title .vc_toggle_icon:before {
+    background-color: #18ca3e;
+}
+
+.stm-template-car_magazine .vc_toggle.vc_toggle_active .vc_toggle_title .vc_toggle_icon:after {
+    opacity: 0;
+}
+
+.stm-template-car_magazine .vc_toggle .vc_toggle_content {
+    color: #888888;
+    margin-top: 0;
+    margin-bottom: 35px !important;
+}
+
+.stm-template-car_magazine .vc_toggle .vc_toggle_content p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.stm-template-car_magazine .widget_archive .select2-container--default .select2-selection--single .select2-selection__arrow:after {
+    background-color: #3c98ff;
+}
+
+.stm-template-car_magazine input[type=submit] {
+    background-color: #3c98ff;
+}
+
+.stm-template-car_magazine #main .widget_search form.wp-block-search,
+.stm-template-car_magazine #main .widget_search form.search-form:before {
+    background-color: #3c98ff;
+}
+
+.stm-template-car_magazine #main .widget_search form.wp-block-search:after,
+.stm-template-car_magazine #main .widget_search form.search-form:after {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine #main .widget_search form.wp-block-search:hover:after,
+.stm-template-car_magazine #main .widget_search form.search-form:hover:after {
+    color: #fff;
+}
+
+.stm-template-car_magazine #main .widget_search form.wp-block-search input[type=search]:focus,
+.stm-template-car_magazine #main .widget_search form.search-form input[type=search]:focus {
+    color: #000;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar, .stm-template-car_magazine #main .row .col-md-3 {
+    padding-top: 10px;
+    margin-left: -15px;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar.col-md-3, .stm-template-car_magazine #main .row .col-md-3.col-md-3 {
+    padding-top: 9px;
+    margin-left: 0;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside, .stm-template-car_magazine #main .row .col-md-3 aside {
+    margin-bottom: 22px;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside small, .stm-template-car_magazine #main .row .col-md-3 aside small {
+    color: #b6b6b7;
+    line-height: 10px;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside.widget_text a, .stm-template-car_magazine #main .row .col-md-3 aside.widget_text a {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside.widget_tag_cloud a, .stm-template-car_magazine #main .row .col-md-3 aside.widget_tag_cloud a {
+    box-shadow: none;
+    border: 1px solid #b6b6b7;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside.widget_tag_cloud a:hover, .stm-template-car_magazine #main .row .col-md-3 aside.widget_tag_cloud a:hover {
+    background-color: #3c98ff;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside:last-child, .stm-template-car_magazine #main .row .col-md-3 aside:last-child {
+    border-bottom: 0 !important;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside .widget-title h4, .stm-template-car_magazine #main .row .col-md-3 aside .widget-title h4 {
+    font-size: 15px;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside.widget_media_gallery .widget-title h4, .stm-template-car_magazine #main .row .col-md-3 aside.widget_media_gallery .widget-title h4 {
+    margin-bottom: 18px;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside.widget_media_gallery .gallery, .stm-template-car_magazine #main .row .col-md-3 aside.widget_media_gallery .gallery {
+    margin: 0 -6px 0 -8px;
+}
+
+.stm-template-car_magazine #main .row .motors-sidebar aside.widget_media_gallery .gallery figure, .stm-template-car_magazine #main .row .col-md-3 aside.widget_media_gallery .gallery figure {
+    padding: 7px;
+}
+
+.stm-template-car_magazine #main .stm-single-post .container > .vc_row > .wpb_column > .vc_column-inner > .wpb_wrapper > .wpb_text_column.wpb_content_element {
+    margin-left: 110px;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-control {
+    height: 40px;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-control.vc_left {
+    left: 3%;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-control.vc_left span {
+    width: 40px;
+    height: 50px;
+    top: 22%;
+    left: 0;
+    margin-left: 0;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-control.vc_left span:before {
+    content: "\f104";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-size: 64px;
+    color: #fff;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-control.vc_right {
+    right: 3%;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-control.vc_right span {
+    width: 40px;
+    height: 50px;
+    top: 22%;
+    right: 0;
+    margin-right: 0;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-control.vc_right span:before {
+    content: "\f105";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-size: 64px;
+    color: #fff;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-indicators {
+    bottom: 34px;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-indicators li {
+    width: 12px;
+    height: 12px;
+    border: 2px solid #b6b6b7;
+    background-color: transparent;
+    margin: 0 4px;
+}
+
+.stm-template-car_magazine #main .vc_slide.vc_images_carousel.vc_build .vc_carousel-indicators li.vc_active {
+    background-color: #18ca3e;
+    border: 0;
+}
+
+.stm-template-car_magazine .select2-container--default .select2-selection--single .select2-selection__rendered {
+    font-weight: 700;
+}
+
+.stm-template-car_magazine .comments-title {
+    font-size: 16px;
+}
+
+.stm-template-car_magazine .comment .comment-author .h5 {
+    font-size: 14px;
+}
+
+.stm-template-car_magazine .comment .comment-author .h5 a {
+    font-size: 14px;
+}
+
+.stm-template-car_magazine .stm-archives {
+    padding-top: 0;
+}
+
+.stm-template-car_magazine .stm-archives .sidebar-margin-top {
+    margin-top: 0;
+}
+
+.stm-template-car_magazine .stm-archives .sb-left .col-md-3 {
+    padding-top: 9px;
+    border-right: 1px solid #b6b6b7;
+}
+
+.stm-template-car_magazine .stm-archives .sb-right .col-md-3 {
+    padding-top: 9px;
+    border-left: 1px solid #b6b6b7;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 26px;
+    margin-top: 40px;
+    margin-bottom: 38px;
+    border-bottom: 1px solid #b6b6b7;
+    position: relative;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive:before {
+    content: "";
+    display: block;
+    background: #3c98ff;
+    width: 70px;
+    height: 3px;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    z-index: 1;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive h1 {
+    color: #293742;
+    font-size: 28px !important;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive .blog-category-filter ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive .blog-category-filter ul li {
+    padding: 0;
+    margin: 0;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive .blog-category-filter ul li:first-child a {
+    padding-left: 0;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive .blog-category-filter ul li:last-child a {
+    padding-right: 0;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive .blog-category-filter ul li a {
+    font-size: 14px;
+    font-weight: 600;
+    color: #293742;
+    padding: 0 18px;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive .blog-category-filter ul li.active a {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header .container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header .container h1 {
+    display: block;
+    color: #fff;
+    font-size: 40px !important;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+.stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header .container h5 {
+    display: block;
+    color: #fff;
+    font-size: 16px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid {
+    display: block;
+    position: relative;
+    margin-bottom: 30px;
+    overflow: hidden;
+    min-height: 206px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid:hover:before {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: -ms-linear-gradient(90deg, rgb(34, 44, 54) 0%, rgba(0, 0, 0, 0.2) 60%);
+    opacity: 0.8;
+    transition: all 0.3s ease;
+}
+
+@media (min-width: 768px) {
+    .stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .magazine-grid-img img {
+        max-height: 206px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: absolute;
+    bottom: 0;
+    padding: 0;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .magazine-category {
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 700;
+    background: #ff1b1b;
+    padding: 3px 10px 2px;
+    margin: 0 0 0 15px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .news-meta-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    background: rgba(42, 64, 69, 0.3);
+    padding: 15px;
+    transition: all 0.2s ease-in-out;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .news-meta-wrap:hover {
+    background: rgba(60, 152, 255, 0.7);
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .news-meta-wrap h3 {
+    display: block;
+    width: 100%;
+    clear: both;
+    font-size: 16px !important;
+    color: #fff;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .news-meta-wrap .left {
+    display: none;
+    width: 50%;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .news-meta-wrap .left .magazine-loop-Date {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    float: left;
+    margin-right: 35px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .news-meta-wrap .left .magazine-loop-Date i {
+    font-size: 21px;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .news-meta-wrap .left .magazine-loop-Address {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    float: left;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .news-meta-wrap .left .magazine-loop-Address i {
+    font-size: 21px;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-grid .stm_magazine_single_grid .stm-magazine-loop-data .news-meta-wrap .right {
+    display: none;
+    width: 50%;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm-magazine-blog-archive-header.magazine-archive {
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    padding: 38px 0 40px;
+    text-decoration: none;
+    border-bottom: 1px solid #b6b6b7;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list:hover .magazine-list-img:before {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list:hover .magazine-list-img .fa-round {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-date i,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-reviews i,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-views i {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-date div,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-reviews div,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-views div {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .magazine-list-img {
+    display: block;
+    width: 32%;
+    overflow: hidden;
+    position: relative;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .magazine-list-img:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    position: absolute;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .magazine-list-img img {
+    display: block;
+    width: 100%;
+    transform: translateZ(0);
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .magazine-list-img .fa-round {
+    display: flex;
+    overflow: hidden;
+    width: 57px;
+    height: 57px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #3c98ff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    opacity: 0;
+    transition: all 0.2s ease-in;
+    z-index: 2;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .magazine-list-img .fa-round .fa-share {
+    color: #fff;
+    font-size: 18px;
+    margin-top: 3px;
+    left: 4px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data {
+    width: 69%;
+    padding: 6px 0 0 27px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data h3 {
+    display: block;
+    width: 100%;
+    clear: both;
+    font-size: 22px !important;
+    color: #333333;
+    letter-spacing: -1.2px;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-category {
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 700;
+    background: #ff1b1b;
+    padding: 1px 7px;
+    margin-right: 24px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-date,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    float: left;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 16px;
+    margin-right: 20px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-date i,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews i,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views i {
+    display: block;
+    color: #888888;
+    font-size: 13px;
+    margin-right: 10px;
+    margin-top: -2px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-date div,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews div,
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    color: #888888;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews div {
+    margin-top: -3px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views {
+    margin-right: 0;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views i {
+    font-size: 10px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views div {
+    margin-top: -3px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .bottom-content {
+    padding-top: 3px;
+    font-size: 13px;
+    color: #888888;
+    line-height: 20px;
+}
+
+.stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .bottom-content p {
+    display: block;
+    font-size: 13px;
+    color: #888888;
+    line-height: 20px;
+    margin: 0;
+}
+
+.stm-template-car_magazine.single-post .stm_breadcrumbs_unit .container .navxtBreads {
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine.single-post #main {
+    margin-top: 0;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post {
+    padding-top: 30px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 {
+    width: 73.5%;
+    padding-right: 33px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .sidebar-margin-top {
+    margin-top: 0;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content {
+    display: flex;
+    flex-direction: row;
+    margin: 50px -15px 0;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content > div {
+    padding: 0 15px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left {
+    display: block;
+    width: 13.5%;
+    padding-top: 9px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-author {
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 15px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-author .author-ava-wrap {
+    display: block;
+    margin-bottom: 9px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-author .author-ava-wrap img {
+    display: block;
+    overflow: hidden;
+    width: 44%;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-date-num {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #dbdbdb;
+    padding: 15px 15px 10px;
+    margin-top: 21px;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 13px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-date-num i {
+    color: #3c98ff;
+    font-size: 15px;
+    margin-bottom: 9px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-comment-num {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #dbdbdb;
+    padding: 22px 20px 14px;
+    margin-top: 21px;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-comment-num i {
+    color: #3c98ff;
+    font-size: 17px;
+    margin-bottom: 2px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-review-num {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #dbdbdb;
+    padding: 22px 20px 14px;
+    margin-top: 21px;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-review-num i {
+    color: #3c98ff;
+    font-size: 17px;
+    margin-bottom: 2px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share {
+    margin-top: 22px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share .apsc-icons-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    overflow: hidden;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share .apsc-icons-wrapper div {
+    display: block;
+    width: 100%;
+    height: auto;
+    min-height: inherit;
+    position: relative;
+    margin: 0 0 10px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share .apsc-icons-wrapper div a {
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share .apsc-icons-wrapper div a .apsc-inner-block {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: none;
+    margin-bottom: 0;
+    padding: 5px 10px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share .apsc-icons-wrapper div a .apsc-inner-block .social-icon .fab {
+    font-size: 16px;
+    vertical-align: middle;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share .apsc-icons-wrapper div a .apsc-inner-block .apsc-count {
+    display: block;
+    color: #fff;
+    font-size: 14px;
+    padding: 4px 0 0;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share .apsc-icons-wrapper div a .apsc-inner-block .apsc-media-type {
+    display: none;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share .apsc-icons-wrapper div a:before, .stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left .r-t-c-share .apsc-icons-wrapper div a:after {
+    display: none !important;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-right {
+    display: block;
+    width: 86.5%;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-right h1 {
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: -1px;
+    margin-bottom: 24px;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-right p {
+    line-height: 26px;
+    padding-top: 0;
+    margin: 0 0 0;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-right .post-content {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border: 0;
+}
+
+.stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-3 {
+    width: 26.5%;
+    padding-top: 0;
+    padding-left: 30px;
+    border-left: 1px solid #b6b6b7;
+}
+
+.stm-template-car_magazine.single-post .stm_review_excerption, .stm-template-car_magazine.single-post blockquote {
+    display: block;
+    overflow: hidden;
+    padding: 24px 24px 24px 94px;
+    border-top: 2px solid #293742;
+    border-bottom: 2px solid #293742;
+    position: relative;
+    line-height: 25px;
+    font-weight: 700;
+}
+
+.stm-template-car_magazine.single-post .stm_review_excerption:after, .stm-template-car_magazine.single-post blockquote:after {
+    display: none;
+}
+
+.stm-template-car_magazine.single-post .stm_review_excerption:before, .stm-template-car_magazine.single-post blockquote:before {
+    content: "቗";
+    font-family: "stm-review-font";
+    font-size: 30px;
+    color: #18ca3e;
+    position: absolute;
+    top: 50%;
+    left: 3.4%;
+    transform: translateY(-50%);
+}
+
+.stm-template-car_magazine.single-post .stm_review_excerption p, .stm-template-car_magazine.single-post blockquote p {
+    font-size: 14px;
+    line-height: 25px !important;
+    margin: 0 !important;
+    padding: 0;
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel {
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel figure {
+    width: 100% !important;
+    max-width: 100%;
+    padding: 0;
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 10;
+    bottom: 0;
+    margin: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-nav .owl-prev {
+    position: relative;
+    color: transparent;
+    text-align: right;
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-nav .owl-prev:before {
+    content: "\f104";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-size: 60px;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-nav .owl-next {
+    position: relative;
+    color: transparent;
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-nav .owl-next:before {
+    content: "\f105";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-size: 60px;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-dots {
+    position: absolute;
+    top: inherit;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 30px;
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-dots .owl-dot {
+    width: 12px;
+    height: 12px;
+    border: 1px solid #b6b6b7;
+    border-radius: 50%;
+    margin: 0 5px;
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-dots .owl-dot span {
+    display: none;
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-dots .owl-dot.active {
+    border: 0;
+    background: #18ca3e;
+}
+
+.stm-template-car_magazine.single-post .gallery.owl-carousel .owl-controls .owl-dots button {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.stm-template-car_magazine .blog-meta-bottom {
+    border-top: 1px solid #b6b6b7;
+    margin-top: 53px;
+    margin-bottom: 5px;
+}
+
+.stm-template-car_magazine .blog-meta-bottom .clearfix .post-tags {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+    padding: 30px 0 25px;
+    margin-top: 0;
+}
+
+.stm-template-car_magazine .blog-meta-bottom .clearfix .post-tags .h6 {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin: 0 10px 0 0;
+}
+
+.stm-template-car_magazine .blog-meta-bottom .clearfix .post-tags .post-tag {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.stm-template-car_magazine .blog-meta-bottom .clearfix .post-tags .post-tag a {
+    display: block;
+    margin-right: 12px;
+    line-height: 20px;
+    font-size: 13px;
+    text-decoration: none;
+    color: #fff;
+    background: #18ca3e;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+
+.stm-template-car_magazine .blog-meta-bottom .clearfix .post-tags .post-tag a:hover {
+    background: #3c98ff;
+}
+
+.stm-template-car_magazine .blog-meta-bottom .clearfix .stm-shareble {
+    margin-top: 0;
+    padding: 30px 0 0;
+}
+
+.stm-template-car_magazine .blog-meta-bottom .clearfix .stm-shareble .stm-a2a-popup-active {
+    top: 100%;
+    padding-top: 4px;
+}
+
+.stm-template-car_magazine .author-info-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 29px 30px 29px;
+    background: #293742;
+    margin-bottom: 41px;
+}
+
+.stm-template-car_magazine .author-info-wrap .author-image {
+    display: block;
+    width: 86px;
+    height: 86px;
+    overflow: hidden;
+    border-radius: 43px;
+    position: relative;
+    flex-shrink: 0;
+    margin-top: 3px;
+    margin-right: 30px;
+}
+
+.stm-template-car_magazine .author-info-wrap .author-image img {
+    display: block;
+    width: 100%;
+    transform: translateZ(0);
+}
+
+.stm-template-car_magazine .author-info-wrap .author-content {
+    display: block;
+}
+
+.stm-template-car_magazine .author-info-wrap .author-content h6 {
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .author-info-wrap .author-content h4 {
+    font-weight: 600;
+    font-size: 16px;
+    color: #3c98ff;
+    margin-bottom: 12px;
+}
+
+.stm-template-car_magazine .author-info-wrap .author-content .author-description {
+    color: #fff;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 29px 0;
+    border-top: 2px solid #293742;
+    border-bottom: 2px solid #293742;
+    margin-bottom: 57px;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination .left, .stm-template-car_magazine .stm_prev_next_pagination .right {
+    display: block;
+    width: 43%;
+    overflow: hidden;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination .left a, .stm-template-car_magazine .stm_prev_next_pagination .right a {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-decoration: none;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination .left a:hover .post-data .bottom, .stm-template-car_magazine .stm_prev_next_pagination .right a:hover .post-data .bottom {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination .left a .img, .stm-template-car_magazine .stm_prev_next_pagination .right a .img {
+    display: block;
+    width: 65px;
+    min-width: 65px;
+    margin-right: 20px;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination .left a .img img, .stm-template-car_magazine .stm_prev_next_pagination .right a .img img {
+    display: block;
+    width: 100%;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination .left a .post-data .top, .stm-template-car_magazine .stm_prev_next_pagination .right a .post-data .top {
+    margin-bottom: 3px;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination .left a .post-data .top .pagi-label, .stm-template-car_magazine .stm_prev_next_pagination .right a .post-data .top .pagi-label {
+    font-size: 12px;
+    font-weight: 500;
+    color: #3c98ff;
+    line-height: 12px;
+    vertical-align: top;
+    margin-right: 7px;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination .left a .post-data .top .date, .stm-template-car_magazine .stm_prev_next_pagination .right a .post-data .top .date {
+    text-transform: uppercase;
+    line-height: 12px;
+    font-size: 12px;
+    color: #888888;
+    vertical-align: top;
+}
+
+.stm-template-car_magazine .stm_prev_next_pagination .left a .post-data .bottom, .stm-template-car_magazine .stm_prev_next_pagination .right a .post-data .bottom {
+    font-size: 14px;
+    color: #333333;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top {
+    display: block;
+    position: relative;
+}
+
+.stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container .top-label {
+    color: #3c98ff;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container h1 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 44px;
+}
+
+.stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container .excerpt {
+    display: block;
+    max-width: 400px;
+    position: relative;
+    font-size: 28px;
+    font-style: italic;
+    color: #fff;
+    padding-left: 70px;
+    line-height: 40px;
+}
+
+.stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container .excerpt .quote {
+    display: block;
+    position: absolute;
+    top: 16px;
+    left: 0;
+    color: #3c98ff;
+    font-size: 80px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.stm-template-car_magazine.post-template-single-interview #wrapper #main .stm-single-post {
+    padding-top: 35px;
+}
+
+.stm-template-car_magazine.post-template-single-interview #wrapper #main .stm-single-post .container .row .col-md-9 .post-top-content {
+    margin-top: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .widget-title h3 {
+    margin-bottom: 28px;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-decoration: none;
+    margin-bottom: 25px;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news:last-child {
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news:hover .stm-post-content .title {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news .image {
+    width: 65px;
+    min-width: 65px;
+    margin-right: 14px;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news .image img {
+    display: block;
+    width: 100%;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news .stm-post-content .title {
+    font-size: 12px;
+    font-weight: 500;
+    color: #293742;
+    line-height: 18px;
+    margin-bottom: 12px;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news .stm-post-content .recomended-data {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news .stm-post-content .recomended-data .comments-number {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    color: #888888;
+    margin-right: 22px;
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news .stm-post-content .recomended-data .comments-number i {
+    font-size: 14px;
+    color: #888888;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news .stm-post-content .recomended-data .magazine-loop-views {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news .stm-post-content .recomended-data .magazine-loop-views i {
+    font-size: 10px;
+    color: #888888;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm_widget_recomended_posts .stm-magazine-news .stm-post-content .recomended-data .magazine-loop-views div {
+    color: #888888;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 52px;
+    border-bottom: 1px solid #b6b6b7;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top:before {
+    content: "";
+    display: block;
+    background: #3c98ff;
+    width: 70px;
+    height: 3px;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    z-index: 1;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .left {
+    display: block;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .left h2 {
+    display: block;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 26px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .right {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .right .cat-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    list-style: none;
+    padding: 0;
+    margin: 0 15px 0 0;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .right .cat-list li {
+    padding: 0 20px;
+    margin: 0;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .right .cat-list li span {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .right .cat-list li.active span {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .right .features-show-all {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #b6b6b7;
+    border-radius: 10px;
+    position: relative;
+    cursor: pointer;
+    transition: all 0.3s ease-in;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .right .features-show-all .btn-show {
+    display: block;
+    width: 3px;
+    border-top: 4px solid #b6b6b7;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features-top .right .features-show-all.rotate_180 {
+    transform: rotate(180deg);
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap {
+    display: block;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    transition: all 0.2s ease-in;
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap.opacity_07 {
+    opacity: 0.7;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap, .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap, .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .adsense-200-200 {
+    display: block;
+    overflow: hidden;
+    position: relative;
+    float: left;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap:hover .stm-magazine-loop-data .news-meta-wrap, .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap:hover .stm-magazine-loop-data .news-meta-wrap, .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .adsense-200-200:hover .stm-magazine-loop-data .news-meta-wrap {
+    background: rgba(60, 152, 255, 0.7);
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: absolute;
+    bottom: 0;
+    padding: 0;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .magazine-category {
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 700;
+    background: #ff1b1b;
+    padding: 4px 10px 3px;
+    margin: 0 0 0 30px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: rgba(42, 64, 69, 0.3);
+    padding: 15px 30px 18px;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap h3 {
+    display: block;
+    width: 100%;
+    clear: both;
+    font-size: 24px !important;
+    color: #fff;
+    letter-spacing: -1px;
+    margin-bottom: 15px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .left {
+    display: block;
+    width: 50%;
+    padding-left: 2px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .left .magazine-loop-Date {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #fff;
+    float: left;
+    margin-right: 35px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .left .magazine-loop-Date i {
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .left .magazine-loop-Date div {
+    color: #fff;
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .right {
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+    text-align: right;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-reviews {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    margin-right: 35px;
+    align-items: center;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-reviews i {
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-reviews div {
+    color: #fff;
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-views {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    align-items: center;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-views i {
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-views div {
+    color: #fff;
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap {
+    max-width: 200px;
+    max-height: 200px;
+    margin: 0 0 10px 10px;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap .stm-magazine-loop-data {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: absolute;
+    bottom: 0;
+    padding: 0;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap .stm-magazine-loop-data .magazine-category {
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 700;
+    background: #ff1b1b;
+    padding: 4px 10px 3px;
+    margin: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap .stm-magazine-loop-data .news-meta-wrap {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: rgba(42, 64, 69, 0.3);
+    padding: 15px 13px 17px;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap .stm-magazine-loop-data .news-meta-wrap h3 {
+    display: block;
+    width: 100%;
+    clear: both;
+    font-size: 13px !important;
+    color: #fff;
+    letter-spacing: -1px;
+    line-height: 18px;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .adsense-200-200 {
+    display: block;
+    min-width: 200px;
+    margin: 0 0 10px 10px;
+    background: url("../../../images/tmp/sense.jpg") no-repeat;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features_hiden {
+    display: none;
+    width: 100%;
+    overflow: hidden;
+    margin: 0 0 0 -10px;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features_hiden.features_show {
+    display: flex;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features_hiden.features_show .features-small-wrap {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features_hiden .features-small-wrap {
+    opacity: 0;
+    transition: all 0.5s ease-in;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries {
+    position: relative;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries:before {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 92%;
+    background: #cccccc !important;
+    position: absolute;
+    top: 55px;
+    right: -16px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries h4 {
+    display: block;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding-bottom: 24px;
+    margin-bottom: 6px;
+    border-bottom: 1px solid #cccccc !important;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top:before {
+    content: "";
+    display: block;
+    background: #3c98ff;
+    width: 70px;
+    height: 3px;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    z-index: 1;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top .left {
+    display: block;
+    width: 50%;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top .right {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 50%;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top .right .cat-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    list-style: none;
+    padding: 0;
+    margin: 0 15px 0 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top .right .cat-list li {
+    padding: 0 20px;
+    margin: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top .right .cat-list li span {
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top .right .cat-list li span.active {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top .right .recent-show-all {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #b6b6b7;
+    border-radius: 10px;
+    position: relative;
+    cursor: pointer;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .recent-top .right .recent-show-all .btn-show {
+    display: block;
+    width: 3px;
+    border-top: 4px solid #b6b6b7;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    padding: 38px 0 40px;
+    text-decoration: none;
+    border-bottom: 1px solid #cccccc !important;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .magazine-list-img {
+    width: 35%;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .magazine-list-img img {
+    display: block;
+    width: 100%;
+    transform: translateZ(0);
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data {
+    width: 65%;
+    padding: 6px 0 0 27px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data h3 {
+    display: block;
+    width: 100%;
+    clear: both;
+    font-size: 22px !important;
+    color: #333333;
+    letter-spacing: -1.2px;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-category {
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 700;
+    background: #18ca3e;
+    padding: 1px 7px;
+    margin-right: 24px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-date,
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews,
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    float: left;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 16px;
+    margin-right: 20px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-date i,
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews i,
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views i {
+    display: block;
+    color: #888888;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-top: -2px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-date div,
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews div,
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    color: #888888;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews div {
+    margin-top: -3px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views {
+    margin-right: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views i {
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views div {
+    margin-top: -3px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .bottom-content {
+    padding-top: 3px;
+    font-size: 13px;
+    color: #888888;
+    line-height: 20px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_entries .stm_magazine_single_list .stm-magazine-loop-data .bottom-content p {
+    display: block;
+    font-size: 13px;
+    color: #888888;
+    line-height: 20px;
+    margin: 0;
+}
+
+.stm-template-car_magazine aside.stm_widget_recent_entries:before {
+    display: none;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news:before {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 92%;
+    background: #cccccc;
+    position: absolute;
+    top: 55px;
+    right: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news h4 {
+    display: block;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding-bottom: 24px;
+    margin-bottom: 6px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top:before {
+    content: "";
+    display: block;
+    background: #3c98ff;
+    width: 70px;
+    height: 3px;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    z-index: 1;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .left {
+    display: block;
+    width: 50%;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 50%;
+    justify-content: flex-end;
+    align-items: center;
+    position: relative;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .cat-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    list-style: none;
+    padding: 0;
+    margin: 0 15px 0 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .cat-list li {
+    padding: 0 20px;
+    margin: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .cat-list li span {
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .cat-list li.active span {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent-show-all {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #b6b6b7;
+    border-radius: 10px;
+    position: relative;
+    cursor: pointer;
+    transition: all 0.3s ease-in;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent-show-all .btn-show {
+    display: block;
+    width: 3px;
+    border-top: 4px solid #b6b6b7;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent-show-all.rotate_180 {
+    transform: rotate(180deg);
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent_hide_categories {
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: #fff;
+    border: 1px solid #cccccc;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent_hide_categories.active {
+    visibility: visible;
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent_hide_categories li {
+    display: block;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent_hide_categories li span {
+    display: block;
+    min-width: 160px;
+    padding: 10px 10px;
+    cursor: pointer;
+    transition: all 0.2s ease-in;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent_hide_categories li span:hover {
+    background: #3c98ff;
+    color: #fff;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent_hide_categories li.active span {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recent-top .right .recent_hide_categories li.active span:hover {
+    background: transparent;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recentNewsAnimate {
+    padding-right: 30px;
+    transition: all 0.2s ease-in;
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .recentNewsAnimate.opacity_07 {
+    opacity: 0.7;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    padding: 38px 0 40px;
+    text-decoration: none;
+    border-bottom: 1px solid #cccccc;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list:hover .magazine-list-img:before {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list:hover .magazine-list-img .fa-round {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-date i, .stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-date div {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-reviews i, .stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-reviews div {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-views i, .stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list:hover .stm-magazine-loop-data .middle-content .magazine-loop-views div {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .magazine-list-img {
+    display: block;
+    width: 39%;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .magazine-list-img:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    position: absolute;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .magazine-list-img img {
+    display: block;
+    width: 100%;
+    transform: translateZ(0);
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .magazine-list-img .fa-round {
+    display: flex;
+    overflow: hidden;
+    width: 57px;
+    height: 57px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #3c98ff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    opacity: 0;
+    transition: all 0.2s ease-in;
+    z-index: 2;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .magazine-list-img .fa-round .fa-share {
+    color: #fff;
+    font-size: 18px;
+    margin-top: 3px;
+    left: 4px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data {
+    width: 65%;
+    padding: 6px 0 0 27px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data h3 {
+    display: block;
+    width: 100%;
+    clear: both;
+    font-size: 22px !important;
+    color: #333333;
+    letter-spacing: -1.2px;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-category {
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 700;
+    background: #18ca3e;
+    padding: 1px 7px;
+    margin-right: 24px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-date,
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews,
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    float: left;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 16px;
+    margin-right: 20px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-date i,
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews i,
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views i {
+    display: block;
+    color: #888888;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-top: -2px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-date div,
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews div,
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views div {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    color: #888888;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-reviews div {
+    margin-top: -3px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views {
+    margin-right: 0;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views i {
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content .magazine-loop-views div {
+    margin-top: -3px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .bottom-content {
+    padding-top: 3px;
+    font-size: 13px;
+    color: #888888;
+    line-height: 20px;
+}
+
+.stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .bottom-content p {
+    display: block;
+    font-size: 13px;
+    color: #888888;
+    line-height: 20px;
+    margin: 0;
+}
+
+.stm-template-car_magazine .stm-social-follow-wrap {
+    display: block;
+    width: 100%;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #cccccc;
+    margin-bottom: 40px;
+}
+
+.stm-template-car_magazine .stm-social-follow-wrap h2 {
+    margin-top: 7px;
+    margin-bottom: 20px;
+    font-size: 15px !important;
+    text-transform: uppercase;
+}
+
+.stm-template-car_magazine .stm-social-follow-wrap .apsc-icons-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    margin: 0 -10px;
+}
+
+.stm-template-car_magazine .stm-social-follow-wrap .apsc-icons-wrapper div {
+    display: block;
+    width: 33.3%;
+    min-height: 95px;
+    position: relative;
+    margin: 0 0 10px;
+    padding: 10px;
+}
+
+.stm-template-car_magazine .stm-social-follow-wrap .apsc-icons-wrapper div a {
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.stm-template-car_magazine .stm-social-follow-wrap .apsc-icons-wrapper div a .apsc-inner-block {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    box-shadow: none;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm-social-follow-wrap .apsc-icons-wrapper div a .apsc-inner-block .social-icon .fab {
+    font-size: 22px;
+}
+
+.stm-template-car_magazine .stm-social-follow-wrap .apsc-icons-wrapper div a .apsc-inner-block .apsc-count {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.stm-template-car_magazine .stm-social-follow-wrap .apsc-icons-wrapper div a:before, .stm-template-car_magazine .stm-social-follow-wrap .apsc-icons-wrapper div a:after {
+    display: none !important;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts {
+    display: block;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #cccccc;
+    margin-bottom: 40px;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts h2 {
+    margin-top: 7px;
+    margin-bottom: 30px;
+    font-size: 15px !important;
+    text-transform: uppercase;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news:hover .stm-post-content .title {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news .image {
+    width: 92px;
+    min-width: 92px;
+    margin-right: 14px;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news .image img {
+    display: block;
+    width: 100%;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news .stm-post-content .title {
+    font-size: 12px;
+    font-weight: 500;
+    color: #293742;
+    line-height: 18px;
+    margin-bottom: 12px;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news .stm-post-content .recomended-data {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news .stm-post-content .recomended-data .comments-number {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    color: #888888;
+    margin-right: 22px;
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news .stm-post-content .recomended-data .comments-number i {
+    font-size: 14px;
+    color: #888888;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news .stm-post-content .recomended-data .magazine-loop-views {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news .stm-post-content .recomended-data .magazine-loop-views i {
+    font-size: 10px;
+    color: #888888;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm-most-popular-posts .stm-magazine-news .stm-post-content .recomended-data .magazine-loop-views div {
+    color: #888888;
+}
+
+.stm-template-car_magazine .apsc-theme-2 .apsc-each-profile a {
+    transform: none;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .apsc-theme-2 .apsc-each-profile a.opacity_07 {
+    opacity: 0.7;
+}
+
+.stm-template-car_magazine .apsc-theme-2 .apsc-each-profile a.opacity_1 {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .stm-mc-form-wrap {
+    display: block;
+    background: #eeeeee;
+    padding: 40px 35px;
+}
+
+.stm-template-car_magazine .stm-mc-form-wrap h2 {
+    font-size: 22px;
+    margin: 0 20px 30px;
+    text-align: center;
+    line-height: 26px;
+}
+
+.stm-template-car_magazine .stm-mc-form-wrap form .mc4wp-form-fields p input {
+    width: 100%;
+}
+
+.stm-template-car_magazine .stm-mc-form-wrap form .mc4wp-form-fields p input[type=email] {
+    background: #fff;
+    text-align: center;
+    height: 54px;
+    margin-bottom: 20px;
+}
+
+.stm-template-car_magazine .stm-mc-form-wrap form .mc4wp-form-fields p input[type=submit] {
+    border-radius: 0;
+}
+
+.stm-template-car_magazine .stm-mc-form-wrap form .mc4wp-form-fields p.none {
+    display: none;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main {
+    display: block;
+    width: 100%;
+    background: #131619;
+    padding: 62px 0 27px;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 27px;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .container h2 {
+    display: block;
+    width: 90%;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 28px !important;
+    color: #fff;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav {
+    display: flex;
+    width: 10%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-left: 20px;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .prev, .stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .next {
+    display: block;
+    padding: 11px 18px;
+    border: 1px solid #cccccc;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .prev:hover, .stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .next:hover {
+    cursor: pointer;
+    background: #3c98ff;
+    border: 1px solid #3c98ff;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .prev:hover i, .stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .next:hover i {
+    color: #fff;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .prev i, .stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .next i {
+    color: #cccccc;
+    font-size: 24px;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .prev.prev, .stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .next.prev {
+    border-radius: 4px 0 0 4px;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .prev.next, .stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav .next.next {
+    margin-left: -1px;
+    border-radius: 0 4px 4px 0;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap {
+    display: block;
+    width: 964px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap.owl-carousel .owl-stage-outer {
+    overflow: visible;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop {
+    display: block;
+    max-width: 472px;
+    overflow: hidden;
+    position: relative;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a {
+    display: block;
+    overflow: hidden;
+    text-decoration: none;
+    width: 100%;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a:hover .magazine-grid-img .hover-play-btn {
+    opacity: 1;
+    visibility: visible;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a:hover .stm-magazine-loop-data .news-meta-wrap {
+    background: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .magazine-grid-img {
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .magazine-grid-img img {
+    display: block;
+    width: 100%;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .magazine-grid-img .hover-play-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.3s ease-in;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .magazine-grid-img .hover-play-btn i {
+    display: block;
+    width: 72px;
+    height: 72px;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    position: relative;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .magazine-grid-img .hover-play-btn i:before {
+    content: "";
+    display: block;
+    border-left: 22px solid #fff;
+    border-top: 14px solid transparent;
+    border-bottom: 14px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 56%;
+    transform: translateX(-56%) translateY(-50%);
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .magazine-category {
+    display: block;
+    position: absolute;
+    top: -25px;
+    left: 17px;
+    background-color: #18ca3e;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 600;
+    padding: 2px 10px 1px;
+    margin: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    background: rgba(42, 64, 69, 0.3);
+    padding: 17px 17px;
+    transition: all 0.3s ease-in;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .left {
+    display: block;
+    width: 70%;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .left h3 {
+    display: block;
+    width: 100%;
+    clear: both;
+    font-size: 14px !important;
+    color: #fff;
+    margin-bottom: 0;
+    line-height: 19px;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right {
+    display: flex;
+    width: 30%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 15px;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-reviews, .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-views {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    float: left;
+    margin-right: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-reviews i, .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-views i {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-reviews div, .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-views div {
+    color: #fff;
+}
+
+.stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-reviews.magazine-loop-views i, .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right .magazine-loop-views.magazine-loop-views i {
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap {
+    opacity: 1;
+    transition: all 0.3s ease-in;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap.opacity {
+    opacity: 0.5;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap > div {
+    opacity: 1;
+    transition: all 0.3s ease-in;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-top .title a {
+    color: #333333;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-top .title a span {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .image a .image-inner .fa-round {
+    background: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .image .stm-listing-compare:hover {
+    background: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .image .stm-listing-compare.active {
+    opacity: 1;
+    background: #3c98ff;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-middle .middle_info .rating .rating-stars .rating-empty:before {
+    color: #18ca3e;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-middle .middle_info .rating .rating-stars .rating-color:before {
+    color: #18ca3e;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-middle .middle_info .rating .rating-text {
+    color: #333333;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-middle .middle_info .rating .rating-details-popup:before {
+    background: #fff;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-middle .middle_info .rating .rating-details-popup .rating-params li span {
+    color: #333333;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-middle .middle_info .rating .rating-details-popup .rating-params li .rating-stars .rating-empty:before {
+    color: #333333;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-middle .middle_info .rating .rating-details-popup .rating-params li .rating-stars .rating-color:before {
+    color: #333333;
+}
+
+.stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop .meta-bottom {
+    display: block;
+    color: #222222;
+    min-height: 71px;
+}
+
+.stm-template-car_magazine .listing-features .rating .rating-stars .rating-empty:before {
+    color: #18ca3e;
+}
+
+.stm-template-car_magazine .listing-features .rating .rating-stars .rating-color:before {
+    color: #18ca3e;
+}
+
+.stm-template-car_magazine .listing-features .rating .rating-text {
+    color: #333333;
+}
+
+.stm-template-car_magazine .listing-features .rating .rating-details-popup:before {
+    background: #fff;
+}
+
+.stm-template-car_magazine .listing-features .rating .rating-details-popup .rating-params li span {
+    color: #333333;
+}
+
+.stm-template-car_magazine .listing-features .rating .rating-details-popup .rating-params li .rating-stars .rating-empty:before {
+    color: #333333;
+    overflow: hidden;
+}
+
+.stm-template-car_magazine .listing-features .rating .rating-details-popup .rating-params li .rating-stars .rating-color:before {
+    color: #333333;
+    overflow: hidden;
+}
+
+.stm-template-car_magazine .stm-accordion-content .stm-accordion-content-wrapper {
+    padding: 5px 25px 20px;
+}
+
+.stm-template-car_magazine .stm-accordion-content .stm-accordion-content-wrapper.stm-accordion-content-padded .stm-accordion-inner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.stm-template-car_magazine .stm-accordion-content .stm-accordion-content-wrapper.stm-accordion-content-padded .stm-accordion-inner label {
+    display: block;
+    width: 45%;
+    text-align: left;
+}
+
+.stm-template-car_magazine .stm-accordion-content .stm-accordion-content-wrapper.stm-accordion-content-padded .stm-accordion-inner label .stm-option-image img {
+    margin-left: -5px;
+}
+
+.stm-template-car_magazine .stm-accordion-content .stm-accordion-content-wrapper.stm-accordion-content-padded .stm-accordion-inner label .checker {
+    margin-right: 5px !important;
+}
+
+.stm-template-car_magazine .gm-style .gm-style-mtc button {
+    color: #555555 !important;
+}
+
+.stm-template-car_magazine footer #footer-main {
+    padding-bottom: 14px;
+}
+
+.stm-template-car_magazine footer .widget_nav_menu .widget-wrapper div ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    list-style: none;
+}
+
+.stm-template-car_magazine footer .widget_nav_menu .widget-wrapper div ul li {
+    width: 50%;
+    padding-left: 15px;
+    position: relative;
+}
+
+.stm-template-car_magazine footer .widget_nav_menu .widget-wrapper div ul li:before {
+    content: "\f054";
+    font-family: "Font Awesome 6 Free";
+    position: absolute;
+    font-size: 7px;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: 600;
+}
+
+.stm-template-car_magazine footer .widget_nav_menu .widget-wrapper div ul li a {
+    color: #fff;
+    opacity: 0.5;
+    text-decoration: underline !important;
+    font-size: 13px;
+    transition: all 0.3s ease-out;
+}
+
+.stm-template-car_magazine footer .widget_nav_menu .widget-wrapper div ul li a:hover {
+    opacity: 1;
+}
+
+.stm-template-car_magazine footer .mc4wp-form-fields p {
+    margin-bottom: 6px;
+}
+
+.stm-template-car_magazine footer .mc4wp-form-fields p input[type=email] {
+    height: 39px;
+}
+
+.stm-template-car_magazine footer .mc4wp-form-fields p:nth-child(2) {
+    font-size: 12px;
+    margin-bottom: 14px;
+}
+
+.stm-template-car_magazine footer .mc4wp-form-fields input[type=submit] {
+    font-size: 12px;
+    padding: 12px 16px 10px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid {
+    margin-bottom: 35px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item {
+    display: block;
+    height: 100%;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 38px;
+    margin-top: 46px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop h5 {
+    min-height: 44px;
+    font-size: 16px;
+    margin-bottom: 19px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop h5 a {
+    color: #333333;
+    text-decoration: none;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop h5 a span {
+    color: #3c98ff;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a {
+    display: block;
+    position: relative;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a:hover .img:before {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a:hover .img .fa-round {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a .img {
+    display: block;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 25px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a .img:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    position: absolute;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a .img img {
+    display: block;
+    width: 100%;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a .img .fa-round {
+    display: flex;
+    overflow: hidden;
+    width: 57px;
+    height: 57px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #3c98ff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    opacity: 0;
+    transition: all 0.2s ease-in;
+    z-index: 2;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a .img .fa-round .fa-share {
+    color: #fff;
+    font-size: 18px;
+    margin-top: 3px;
+    left: 4px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a .stm-listing-compare {
+    position: absolute;
+    right: 7px;
+    bottom: 7px;
+    padding: 3px 5px;
+    background: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-size: 14px;
+    border-radius: 2px;
+    opacity: 0;
+    z-index: 20;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a .stm-listing-compare:hover {
+    cursor: pointer;
+    background: #3c98ff;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a .stm-listing-compare.active {
+    opacity: 1;
+    background: #3c98ff;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop a:hover .stm-listing-compare {
+    opacity: 1;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 22px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info.middle-rating {
+    margin-bottom: 13px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .car_info .starting-at {
+    line-height: 19px;
+    font-size: 12px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .car_info .price {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .car_info .mpg {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .no-review {
+    width: 100px;
+    font-style: italic;
+    font-size: 13px;
+    opacity: 0.5;
+    text-align: right;
+    line-height: 17px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 10px 10px 0 4px;
+    position: relative;
+    top: -9px;
+    right: -10px;
+    z-index: 1;
+    border-radius: 0;
+    cursor: pointer;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating:hover .rating-details-popup {
+    visibility: visible;
+    opacity: 1;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-stars {
+    display: block;
+    overflow: hidden;
+    width: 77px;
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-stars .rating-empty {
+    position: relative;
+    width: 100%;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-stars .rating-empty:before {
+    content: "\e900\e900\e900\e900\e900";
+    display: block;
+    width: 100%;
+    color: #18ca3e;
+    font-family: "stm-review-font";
+    font-size: 14px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 1px;
+    overflow: hidden;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-stars .rating-color {
+    display: block;
+    width: 0;
+    height: 30px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-stars .rating-color:before {
+    content: "ስስስስስ";
+    display: block;
+    width: 100%;
+    color: #18ca3e;
+    font-family: "stm-review-font";
+    font-size: 14px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 1px;
+    overflow: hidden;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-text {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    color: #333333;
+    letter-spacing: -0.2px;
+    position: relative;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-details-popup {
+    display: block;
+    background-color: rgb(255, 255, 255);
+    padding: 28px 19px 14px 23px;
+    position: absolute;
+    top: 40px;
+    right: 0;
+    z-index: -1;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.1s ease-in;
+ /* Safari */
+    filter: drop-shadow(0px 2px 5px rgba(0, 0, 0, 0.3));
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-details-popup:before {
+    display: block;
+    content: "";
+    width: 100px;
+    height: 40px;
+    background: #fff;
+    position: absolute;
+    top: -40px;
+    right: 0;
+    z-index: -2;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-details-popup .rating-params {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-details-popup .rating-params li {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    transition: all 0.2s ease-in;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-details-popup .rating-params li span {
+    display: block;
+    font-size: 12px;
+    line-height: 10px;
+    color: #3c98ff;
+    width: 60%;
+    font-weight: 500;
+    margin-right: 13px;
+    text-align: left;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-details-popup .rating-params li .rating-stars {
+    margin-bottom: 0;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-details-popup .rating-params li .rating-stars .rating-empty:before {
+    font-size: 10px;
+    color: #333333;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .middle_info .rating .rating-details-popup .rating-params li .rating-stars .rating-color:before {
+    font-size: 10px;
+    color: #333333;
+}
+
+.stm-template-car_magazine .car-listing-modern-grid .magazine-listing-item .magazine-loop .excerpt {
+    line-height: 20px;
+    font-size: 13px;
+    color: #222222;
+}
+
+.stm-template-car_magazine .stm_ajax_pagination.stm-blog-pagination {
+    margin-bottom: 30px;
+}
+
+.stm-template-car_magazine .stm_ajax_pagination.stm-blog-pagination ul.page-numbers li > a {
+    background-color: #3c98ff;
+}
+
+.stm-template-car_magazine .wpb_tour_tabs_wrapper.ui-tabs ul.wpb_tabs_nav > li {
+    color: #fff;
+}
+
+.stm-template-car_magazine .stm-badge-directory, .stm-template-car_magazine .stm-badge-directory.heading-font {
+    position: absolute;
+    right: -65px;
+    padding: 0 55px;
+    top: 20px;
+    width: 200px;
+    height: 33px;
+    line-height: 33px;
+    transform: rotate(45deg);
+    background-color: #18ca3e;
+    color: #fff !important;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.stm-template-car_magazine .small_title_box .container .entry-title h2, .stm-template-car_magazine .small_title_box .container .entry-title h1 {
+    font-size: 40px !important;
+    text-transform: uppercase;
+}
+
+.stm-template-car_magazine .stm-car-medias {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    z-index: 20;
+}
+
+.stm-template-car_magazine .stm-car-medias > div {
+    display: inline-block;
+    margin-right: 9px;
+    padding: 4px 15px 2px 10px;
+    border-radius: 2px;
+    background: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-size: 11px;
+    line-height: 22px;
+    font-weight: 600;
+}
+
+.stm-template-car_magazine div.checker span {
+    background-image: url("../../../images/checks-green.png");
+}
+
+.stm-template-car_magazine .footer_widgets_wrapper .widget_mc4wp_form_widget input[type=email] {
+    padding: 0 17px;
+}
+
+.post-type-archive-stm_review ul.page-numbers {
+    padding-bottom: 30px;
+}
+
+.single-car-review-rating {
+    padding: 12px 26px 13px 23px;
+    margin-bottom: 26px;
+    background-color: #f0f2f5;
+}
+
+.single-car-review-rating table {
+    margin-bottom: 0;
+    table-layout: fixed;
+}
+
+.single-car-review-rating table tbody tr td {
+    padding: 11px 0 6px;
+}
+
+.single-car-review-rating table tbody tr td:first-child {
+    width: 60%;
+}
+
+.single-car-review-rating table tbody tr td:last-child {
+    width: 40%;
+}
+
+.single-car-review-rating table tbody tr td .h6 {
+    font-size: 16px;
+}
+
+.single-car-review-rating table tbody tr td .h6.title_black {
+    color: #333333;
+}
+
+.single-car-review-rating table tbody tr td .h6.title_blue {
+    color: #3c98ff;
+}
+
+.single-car-review-rating table tbody tr td .rating-stars {
+    display: block;
+    overflow: hidden;
+    width: 77px;
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.single-car-review-rating table tbody tr td .rating-stars .rating-empty {
+    position: relative;
+    width: 100%;
+}
+
+.single-car-review-rating table tbody tr td .rating-stars .rating-empty:before {
+    content: "\e900\e900\e900\e900\e900";
+    display: block;
+    width: 100%;
+    font-family: "stm-review-font";
+    font-size: 14px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 1px;
+    color: #18ca3e;
+    overflow: hidden;
+}
+
+.single-car-review-rating table tbody tr td .rating-stars .rating-color {
+    display: block;
+    width: 0;
+    height: 30px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.single-car-review-rating table tbody tr td .rating-stars .rating-color:before {
+    content: "ስስስስስ";
+    display: block;
+    width: 100%;
+    font-family: "stm-review-font";
+    font-size: 14px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 1px;
+    overflow: hidden;
+    color: #18ca3e;
+}
+
+.single-car-review-rating table tbody tr td .rating-text {
+    color: #333333;
+}
+
+.single-car-review-rating table tbody tr td.t-label span {
+    color: #888;
+    font-size: 14px;
+}
+
+.single-car-review-rating table tbody tr td.t-value {
+    padding-left: 3px;
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.single-car-review-rating table tbody tr td.t-value .rating-stars .rating-empty:before {
+    color: #333333;
+}
+
+.single-car-review-rating table tbody tr td.t-value .rating-stars .rating-color:before {
+    color: #333333;
+}
+
+.single-car-review-rating table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap {
+    position: relative;
+    background: #e7e7e7;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap:before, .stm_dynamic_listing_filter_with_rating .top-filter-wrap:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: #e7e7e7;
+    position: absolute;
+    left: -100%;
+    top: 0;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap:after {
+    left: 100%;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container {
+    border-bottom: 1px solid #b6b6b7;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container:before {
+    background: #3c98ff;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container .sort_by li span:hover {
+    color: #3c98ff;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container .sort_by li span.high:before {
+    color: #18ca3e;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container .sort_by li span.low:before {
+    color: #ff1b1b;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .selected-filter {
+    display: inline-block;
+    color: #222222;
+    vertical-align: middle;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .c-r-remove-filter {
+    display: none;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-bottom: -2px;
+    cursor: pointer;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .c-r-remove-filter.active {
+    display: inline-block;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .c-r-remove-filter i {
+    font-size: 18px;
+    color: #aaaaaa;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #888888;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .select2-container--default .select2-selection--single .select2-selection__rendered:hover {
+    box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .select2-container--default .select2-selection--single .select2-selection__arrow b:before {
+    content: "\f0d7";
+    color: #3c98ff;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .select2-container--default .select2-selection--single .select2-selection__arrow b.stm-preloader:before {
+    font-family: "stm-icon" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 1px;
+    content: "\e924" !important;
+    animation: rotating 2s infinite linear;
+}
+
+.slider_post {
+    width: 100%;
+}
+
+.slider_post tbody tr td {
+    text-align: center !important;
+    border: none;
+}
+
+.slider_post tbody tr td i {
+    font-size: 60px !important;
+    color: #fff;
+}
+
+.slider_post tbody tr td .post_video {
+    display: block;
+    position: relative;
+    margin: 0 auto !important;
+    width: 72px !important;
+    height: 72px !important;
+}
+
+.slider_post tbody tr td .post_video:before {
+    content: "\e901";
+    display: block;
+    font-family: "magazine-icon";
+    font-size: 70px;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slider_post tbody tr td .post_standart {
+    display: block;
+    position: relative;
+    margin: 0 auto !important;
+    width: 60px !important;
+    height: 60px !important;
+}
+
+.slider_post tbody tr td .post_standart:before {
+    content: "\e900";
+    display: block;
+    font-family: "magazine-icon";
+    font-size: 58px;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slider_post tbody tr td a {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    text-decoration: none;
+    text-align: center;
+}
+
+.slider_post tbody tr td a h2 {
+    display: block;
+    overflow: hidden;
+    width: 70%;
+    font-size: 56px !important;
+    color: #fff;
+    text-align: center !important;
+    margin: 20px auto !important;
+    white-space: normal;
+    line-height: 60px !important;
+    letter-spacing: -2px;
+}
+
+.slider_post tbody tr td .post_date {
+    display: inline-block;
+    position: relative;
+    color: #fff;
+    font-size: 12px;
+    vertical-align: middle;
+    line-height: 20px !important;
+    margin-right: 20px !important;
+    padding-left: 26px !important;
+}
+
+.slider_post tbody tr td .post_date:before {
+    content: "\e92b";
+    font-family: "stm-icon" !important;
+    font-size: 15px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: absolute;
+    top: 3px;
+    left: 0;
+}
+
+.slider_post tbody tr td .num_comments {
+    display: inline-block;
+    position: relative;
+    color: #fff;
+    font-size: 12px;
+    vertical-align: middle;
+    padding-left: 26px !important;
+    line-height: 20px !important;
+}
+
+.slider_post tbody tr td .num_comments:before {
+    content: "\e92a";
+    font-family: "stm-icon" !important;
+    font-size: 16px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: absolute;
+    top: 3px;
+    left: 0;
+}
+
+@media (max-width: 550px) {
+    .stm-listing-directory-title {
+        display: none;
+    }
+}
+
+@media (max-width: 1134px) {
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap {
+        max-width: 62%;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap, .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .adsense-200-200 {
+        max-width: 18%;
+        min-width: 18%;
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 1100px) {
+    .stm-template-car_magazine .btn-magazine-green {
+        max-width: 44%;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap {
+        max-width: 62%;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap, .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .adsense-200-200 {
+        max-width: 17.9%;
+        min-width: 17.9%;
+        overflow: hidden;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .event-content .event-data .address {
+        max-width: 50%;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .event-content .event-data .date {
+        max-width: 20%;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .event-content .event-data .time {
+        max-width: 30%;
+    }
+
+    .stm-template-car_magazine .classic-filter-row .filter-sidebar {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .stm-template-car_magazine .classic-filter-row .sidebar-entry-header {
+        padding: 26px 10px 21px 48px;
+        margin: 0 -20px 25px;
+    }
+
+    .stm-template-car_magazine .classic-filter-row .sidebar-entry-header i {
+        top: 39px;
+        left: 9px;
+        font-size: 20px;
+    }
+
+    .stm-template-car_magazine .stm-accordion-content .stm-accordion-content-wrapper.stm-accordion-content-padded .stm-accordion-inner label {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data {
+        top: inherit;
+        transform: none;
+        bottom: 5%;
+    }
+
+    .stm-template-car_magazine .slider_post tbody tr td a h2 {
+        font-size: 46px !important;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .container h2 {
+        width: 80%;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav {
+        width: 20%;
+        justify-content: flex-end;
+    }
+}
+
+@media (max-width: 991px) {
+    .stm-template-car_magazine .slider_post tbody tr td .post_standart:before {
+        font-size: 38px;
+    }
+
+    .stm-template-car_magazine .slider_post tbody tr td a h2 {
+        font-size: 26px !important;
+        line-height: 36px !important;
+    }
+
+    .stm-template-car_magazine .slider_post tbody tr td span {
+        font-size: 12px !important;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap {
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap a .magazine-grid-img {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap a .magazine-grid-img img {
+        display: block;
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap > div:nth-child(2) {
+        margin-left: 0;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap, .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .adsense-200-200 {
+        width: 24%;
+        max-width: 24%;
+        margin-left: 9px;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news:before {
+        display: none;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .recentNewsAnimate {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine .vc_col-sm-12 .vc_column-inner .wpb_wrapper {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .stm-template-car_magazine .vc_col-sm-12 .vc_column-inner .wpb_wrapper .stm-social-follow-wrap {
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    .stm-template-car_magazine .vc_col-sm-12 .vc_column-inner .wpb_wrapper .stm-social-follow-wrap .apsc-icons-wrapper {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .stm-template-car_magazine .vc_col-sm-12 .vc_column-inner .wpb_wrapper .stm-most-popular-posts {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .vc_col-sm-12 .vc_column-inner .wpb_wrapper .stm-mc-form-wrap {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap {
+        width: 750px;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle {
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .events-list {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .events-list .event-loop .img {
+        width: 11%;
+        height: auto;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .event-content {
+        width: 100%;
+        justify-content: flex-start;
+        margin-top: 30px;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .event-content .event-data {
+        display: flex;
+        flex-direction: column;
+        margin: 20px 0;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .event-content .event-data > div {
+        width: 100%;
+        max-width: 100% !important;
+        margin: 0 0 10px;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .event-content .event-single-wrap {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .row .col-sm-6 {
+        width: 50%;
+    }
+
+    .stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop {
+        width: 50%;
+    }
+
+    .stm-template-car_magazine .stm-accordion-content .stm-accordion-content-wrapper.stm-accordion-content-padded .stm-accordion-inner {
+        justify-content: flex-start;
+    }
+
+    .stm-template-car_magazine .stm-accordion-content .stm-accordion-content-wrapper.stm-accordion-content-padded .stm-accordion-inner label {
+        width: 33.3%;
+    }
+
+    .stm-template-car_magazine .single-car-actions > ul li {
+        display: block;
+    }
+
+    .stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container h1 {
+        font-size: 25px;
+    }
+
+    .stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container .excerpt {
+        font-size: 18px;
+        line-height: 20px;
+        padding-left: 45px;
+    }
+
+    .stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container .excerpt .quote {
+        font-size: 60px;
+    }
+
+    .stm-template-car_magazine .review-load-more-btn-wrap .btn_loading:after, .stm-template-car_magazine .review-load-more-btn-wrap .btn_loading:before {
+        width: 30%;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container {
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right {
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        align-items: flex-end;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating {
+        max-width: 26%;
+        margin-bottom: 0;
+        margin-right: 20px;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params {
+        max-width: 70%;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params li {
+        width: 50%;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-left {
+        width: 15%;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right {
+        width: 85%;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right .stm-motors-review-header {
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right .stm-motors-review-header .left {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right .stm-motors-review-header .right {
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        align-items: flex-end;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right .stm-motors-review-header .right .rating {
+        max-width: 30%;
+        margin-bottom: 0;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right .stm-motors-review-header .right .rating-params {
+        max-width: 70%;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right .stm-motors-review-header .right .rating-params li {
+        width: 48%;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right .stm-motors-review-header .right .rating-params li .rating-pb-wrap {
+        margin: 0 9px;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right .stm-motors-review-header .right .rating-params li span:last-child {
+        width: 32%;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container {
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .left {
+        width: 100%;
+        padding: 0;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .right {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .right .actions-block .stm_single_event__actions {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+
+    .stm-template-car_magazine .car-listing-row.car-listing-modern-grid .col-md-4 {
+        clear: none !important;
+    }
+
+    .stm-template-car_magazine .car-listing-row.car-listing-modern-grid .col-md-4 .magazine-listing-item .magazine-loop .excerpt {
+        min-height: 40px;
+    }
+}
+
+@media (max-width: 767px) {
+    .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap {
+        width: 700px;
+    }
+}
+
+@media (max-width: 736px) {
+    .stm-template-car_magazine .slider_post tbody tr td .post_date, .stm-template-car_magazine .slider_post tbody tr td .num_comments {
+        font-size: 12px !important;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap {
+        width: 472px;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features-top {
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features-top .left {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features-top .right {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features-top .right ul li:first-child {
+        padding-left: 0;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap,
+  .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .adsense-200-200 {
+        margin: 0;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .recent-top {
+        flex-direction: column;
+        padding-bottom: 10px;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .recent-top .left {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .recent-top .right {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .recent-top .right ul li:nth-child(1) {
+        padding-left: 0;
+    }
+}
+
+@media (max-width: 667px) {
+    .stm-template-car_magazine .stm_dynamic_listing_filter_with_rating .top-filter-wrap .container h3 {
+        font-size: 24px !important;
+    }
+
+    .stm-template-car_magazine.blog .row-2 .col-xs-12 {
+        width: 50%;
+    }
+
+    .stm-template-car_magazine #main .row .motors-sidebar.col-md-3, .stm-template-car_magazine #main .row .col-md-3.col-md-3 {
+        width: 50%;
+    }
+}
+
+@media (width: 568px) {
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left {
+        padding-right: 0;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left .car-info-wrap {
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left .car-info-wrap .car-info {
+        margin-bottom: 10px;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left .car-info-wrap .car-info:nth-child(4n+1) {
+        padding-left: 0;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right {
+        width: 100%;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params {
+        flex-direction: column;
+        width: 70%;
+        justify-content: flex-start;
+        align-items: flex-start;
+        overflow: hidden;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params li {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params li span:first-child {
+        min-width: 44%;
+        max-width: 50%;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params li .rating-pb-wrap {
+        min-width: 30%;
+        width: auto;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params li span:last-child {
+        min-width: 30%;
+        width: auto;
+    }
+
+    .stm-template-car_magazine .other-review-block .other-review-list {
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine .other-review-block .other-review-list .other-review-item {
+        width: 50%;
+        max-width: 50%;
+        flex: none;
+        margin-bottom: 20px;
+    }
+
+    .stm-template-car_magazine .stm_pros_cons_wrapp.cons {
+        padding: 44px 30px 25px 110px;
+    }
+
+    .stm-template-car_magazine .stm_review_excerption {
+        padding: 24px 20px 22px 64px;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding-bottom: 15px;
+        margin: 0;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive h1 {
+        margin-bottom: 20px;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive .events-category-filter ul {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive .events-category-filter ul li {
+        padding: 0;
+        margin-right: 15px;
+        margin-bottom: 5px;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive .events-category-filter ul li a {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list {
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .events-list-img, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .events-list-img, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .events-list-img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data {
+        width: 100%;
+        padding: 0;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data h3, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data h3, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data h3 {
+        margin-bottom: 0;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content {
+        width: 100%;
+        max-width: 100%;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content > div, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content > div, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content > div {
+        margin-bottom: 10px;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content .event-loop-Address div, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content .event-loop-Address div, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content .event-loop-Address div {
+        width: 100%;
+    }
+}
+
+@media (max-width: 430px) {
+    .stm-template-car_magazine #main {
+        margin-top: 0 !important;
+    }
+
+    .stm-template-car_magazine.blog .row-2 .col-xs-12 {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine #main .row .motors-sidebar.col-md-3, .stm-template-car_magazine #main .row .col-md-3.col-md-3 {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .slider_post tbody tr td .post_standart, .stm-template-car_magazine .slider_post tbody tr td .post_video {
+        height: 50px !important;
+    }
+
+    .stm-template-car_magazine .slider_post tbody tr td .post_standart:before {
+        font-size: 28px;
+    }
+
+    .stm-template-car_magazine .slider_post tbody tr td a h2 {
+        width: 95%;
+        font-size: 26px !important;
+        line-height: 36px !important;
+        margin: 0 auto !important;
+    }
+
+    .stm-template-car_magazine .slider_post tbody tr td span {
+        font-size: 12px;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap {
+        width: 340px;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features-top .right .cat-list {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features-top .right .cat-list li {
+        padding: 0;
+        margin-right: 10px;
+        margin-bottom: 5px;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features-top .right .features-show-all {
+        flex-shrink: 0;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap, .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .adsense-200-200 {
+        width: 49%;
+        max-width: 49%;
+        margin-bottom: 8px;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features_hiden {
+        margin: 0;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list {
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .magazine-list-img {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data {
+        width: 100%;
+        padding-left: 0;
+        margin-top: 10px;
+    }
+
+    .stm-template-car_magazine .stm_dynamic_listing_filter_with_rating .top-filter-wrap .container h3 {
+        width: 100%;
+        font-size: 20px !important;
+    }
+
+    .stm-template-car_magazine .stm-listing-with-rating-wrap .listing-list-with-rating-loop {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop {
+        max-width: 340px;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .left {
+        width: 60%;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop a .stm-magazine-loop-data .news-meta-wrap .right {
+        width: 40%;
+    }
+
+    .stm-template-car_magazine .stm-motors-review-archive-header.review-list-archive {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin-bottom: 0;
+        padding-bottom: 10px;
+    }
+
+    .stm-template-car_magazine .stm-motors-review-archive-header.review-list-archive h1 {
+        margin-bottom: 10px;
+    }
+
+    .stm-template-car_magazine .stm-motors-review-archive-header.review-list-archive .review-category-filter ul {
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .event-content .event-single-wrap .timer {
+        padding: 20px 0 10px;
+    }
+
+    .stm-template-car_magazine .stm-events-wrap .events-middle .event-content .event-single-wrap .timer span {
+        font-size: 30px !important;
+        line-height: 20px;
+    }
+
+    .stm-template-car_magazine .stm-accordion-content .stm-accordion-content-wrapper.stm-accordion-content-padded .stm-accordion-inner label {
+        width: 50%;
+    }
+
+    .stm-template-car_magazine .single-car-actions li {
+        margin: 10px auto;
+    }
+
+    .stm-template-car_magazine .single-car-actions li .rating {
+        align-items: center;
+    }
+
+    .stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding-bottom: 15px;
+    }
+
+    .stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive h1 {
+        margin-bottom: 20px;
+    }
+
+    .stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive .blog-category-filter ul {
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive .blog-category-filter ul li {
+        padding: 0;
+        margin-right: 30px;
+        margin-top: 10px;
+    }
+
+    .stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive .blog-category-filter ul li a {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .magazine-list-img {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data {
+        width: 100%;
+        padding-left: 0;
+        margin-top: 10px;
+    }
+
+    .stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-left {
+        display: none;
+    }
+
+    .stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-right {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top {
+        display: block;
+        position: relative;
+        overflow: visible;
+    }
+
+    .stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container .top-label {
+        display: none;
+    }
+
+    .stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container h1 {
+        margin-bottom: 0;
+    }
+
+    .stm-template-car_magazine.post-template-single-interview #wrapper #main .interview-top .top-data .container .excerpt {
+        display: none;
+    }
+
+    .stm-template-car_magazine .stm_prev_next_pagination {
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine .stm_prev_next_pagination .left, .stm-template-car_magazine .stm_prev_next_pagination .right {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm_prev_next_pagination .right {
+        margin-top: 20px;
+    }
+
+    .stm-template-car_magazine .blog-meta-bottom .clearfix .post-tags {
+        align-items: flex-start;
+        padding-bottom: 0;
+    }
+
+    .stm-template-car_magazine .blog-meta-bottom .clearfix .post-tags .h6 {
+        margin-top: 9px;
+    }
+
+    .stm-template-car_magazine .blog-meta-bottom .clearfix .post-tags .post-tag {
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine .blog-meta-bottom .clearfix .post-tags .post-tag a {
+        margin-bottom: 5px;
+    }
+
+    .stm-template-car_magazine .blog-meta-bottom .clearfix .right {
+        margin-top: 0;
+    }
+
+    .stm-template-car_magazine .blog-meta-bottom .clearfix .right .stm-shareble {
+        padding: 20px 0 25px;
+    }
+
+    .stm-template-car_magazine.single-post #main .post.type-post .stm-single-post .container .row .col-md-9 .post-top-content .r-t-c-right h1 {
+        font-size: 22px;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header {
+        min-height: 600px;
+        max-height: 630px;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container {
+        height: 600px;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left .review-title h2 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left .car-info-wrap {
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left .car-info-wrap .car-info {
+        width: 50%;
+        margin-bottom: 5px;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left .car-info-wrap .car-info:nth-child(2n+1) {
+        padding-left: 0;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .left .car-info-wrap .car-info:last-child {
+        border-right: 1px solid #ffffff;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right {
+        margin-top: 20px;
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating {
+        width: 100%;
+        max-width: 100%;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin: 0;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params {
+        flex-direction: column;
+        width: 100%;
+        max-width: 100%;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params li {
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    .stm-template-car_magazine.single-format-standard .stm-motors-review-header .container .right .rating-params li span:first-child {
+        width: auto;
+        max-width: 46%;
+        min-width: 23%;
+    }
+
+    .stm-template-car_magazine.single-format-video .stm-motors-review-header .left {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine.single-format-video .stm-motors-review-header .left .review-title h2 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .stm-template-car_magazine.single-format-video .stm-motors-review-header .left .car-info-wrap {
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine.single-format-video .stm-motors-review-header .left .car-info-wrap .car-info {
+        width: 50%;
+        margin-bottom: 5px;
+    }
+
+    .stm-template-car_magazine.single-format-video .stm-motors-review-header .left .car-info-wrap .car-info:nth-child(2n+1) {
+        padding-left: 0;
+    }
+
+    .stm-template-car_magazine.single-format-video .stm-motors-review-header .left .car-info-wrap .car-info:last-child {
+        border-right: 1px solid #ffffff;
+    }
+
+    .stm-template-car_magazine.single-format-video .review-top-content .r-t-c-right .stm-motors-review-header .right {
+        margin-top: 20px;
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine.single-format-video .review-top-content .r-t-c-right .stm-motors-review-header .right .rating {
+        width: 100%;
+        max-width: 100%;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin: 0;
+    }
+
+    .stm-template-car_magazine.single-format-video .review-top-content .r-t-c-right .stm-motors-review-header .right .rating-params {
+        flex-direction: column;
+        width: 100%;
+        max-width: 100%;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine.single-format-video .review-top-content .r-t-c-right .stm-motors-review-header .right .rating-params li {
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    .stm-template-car_magazine.single-format-video .review-top-content .r-t-c-right .stm-motors-review-header .right .rating-params li span:first-child {
+        width: auto;
+        max-width: 46%;
+        min-width: 23%;
+    }
+
+    .stm-template-car_magazine.single-format-video .review-top-content .r-t-c-right .stm-review-video .play-btn i {
+        font-size: 70px;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-left {
+        display: none;
+    }
+
+    .stm-template-car_magazine .review-top-content .r-t-c-right {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine #main .stm-single-post .container > .vc_row > .wpb_column > .vc_column-inner > .wpb_wrapper > .wpb_text_column.wpb_content_element {
+        margin: 0;
+    }
+
+    .stm-template-car_magazine .stm_review_excerption {
+        padding: 24px 14px 21px 54px;
+    }
+
+    .stm-template-car_magazine .stm_pros_cons_wrapp.cons {
+        padding: 44px 30px 25px 110px;
+    }
+
+    .stm-template-car_magazine .other-review-block .other-review-list {
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine .other-review-block .other-review-list .other-review-item {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .stm-template-car_magazine .row.stm-row-comments {
+        margin-bottom: 0 !important;
+    }
+
+    .stm-template-car_magazine .row.stm-row-comments .col-xs-12 {
+        margin-bottom: 10px;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_grid_style_1 .stm_event_single_grid .stm-event-loop-data {
+        padding: 0 20px 0 20px;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_grid_style_1 .stm_event_single_grid .stm-event-loop-data .left {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_grid_style_1 .stm_event_single_grid .stm-event-loop-data .left .event-category, .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_grid_style_1 .stm_event_single_grid .stm-event-loop-data .left .event-loop-Date, .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_grid_style_1 .stm_event_single_grid .stm-event-loop-data .left .event-loop-Address {
+        display: none;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_grid_style_1 .stm_event_single_grid .stm-event-loop-data .left .ttc {
+        font-size: 20px !important;
+        width: 100%;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_grid_style_1 .stm_event_single_grid .stm-event-loop-data .right {
+        display: none;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding-bottom: 15px;
+        margin: 0;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive h1 {
+        margin-bottom: 20px;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive .events-category-filter ul {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive .events-category-filter ul li {
+        padding: 0;
+        margin-right: 15px;
+        margin-bottom: 5px;
+    }
+
+    .stm-template-car_magazine #main .container .col-md-9 .stm-motors-event-archive-header.event-list-archive .events-category-filter ul li a {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list {
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .events-list-img, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .events-list-img, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .events-list-img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data {
+        width: 100%;
+        padding: 0;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data h3, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data h3, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data h3 {
+        margin-bottom: 0;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content {
+        width: 100%;
+        max-width: 100%;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content > div, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content > div, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content > div {
+        margin-bottom: 10px;
+    }
+
+    .stm-template-car_magazine.post-type-archive-stm_events .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content .event-loop-Address div, .stm-template-car_magazine .tax-event_tag .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content .event-loop-Address div, .stm-template-car_magazine .tax-event_category .container .stm_events_list_style_1 .stm_event_single_list .stm-event-loop-data .middle-content .event-loop-Address div {
+        width: 100%;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header {
+        min-height: 600px;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container {
+        height: 600px;
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .left {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .left .event-title h2 {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .left .event-data-header {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding-bottom: 20px;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .left .event-data-header > div {
+        width: 100%;
+        padding: 0;
+        margin: 0 0 10px;
+        border: 0;
+        justify-content: flex-start;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .right {
+        width: 100%;
+        max-width: 100%;
+        padding-bottom: 10px;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .right .actions-block .stm_single_event__actions {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine .stm-motors-event-header .container .right .actions-block .stm_single_event__actions a {
+        margin: 0 !important;
+    }
+
+    .stm-template-car_magazine .stm_events.type-stm_events .event-top-content {
+        padding-left: 0;
+    }
+
+    .stm-template-car_magazine .stm_events.type-stm_events .event-top-content .img {
+        margin: 0 0 20px;
+    }
+
+    .stm-template-car_magazine .stm_events.type-stm_events .map-title {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine .stm_events.type-stm_events h2, .stm-template-car_magazine .stm_events.type-stm_events h3, .stm-template-car_magazine .stm_events.type-stm_events h4, .stm-template-car_magazine .stm_events.type-stm_events h5, .stm-template-car_magazine .stm_events.type-stm_events p {
+        margin: 0;
+    }
+
+    .stm-template-car_magazine .vc_toggle {
+        margin: 0 0 17px 0 !important;
+    }
+
+    .stm-template-car_magazine .stm_single_event__form {
+        margin-left: 0;
+    }
+
+    .stm-template-car_magazine .stm_single_event__form .form_actions {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 340px) {
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .magazine-category {
+        display: none;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .left, .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-big-wrap .stm-magazine-loop-data .news-meta-wrap .right {
+        display: none;
+    }
+
+    .stm-template-car_magazine .stm-features-posts-main .features_posts_wrap .features-small-wrap .stm-magazine-loop-data .magazine-category {
+        display: none;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .recent-top .right .cat-list {
+        flex-direction: column;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .recent-top .right .cat-list li {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .recent-top .right .cat-list li a {
+        padding: 0;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine .stm_widget_recent_news .stm_magazine_single_list .stm-magazine-loop-data .middle-content > div {
+        margin-bottom: 10px;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .container {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .container .recent-owl-nav {
+        width: 100%;
+        justify-content: flex-start;
+        padding: 0;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap {
+        width: 300px;
+    }
+
+    .stm-template-car_magazine .stm-recent_videos-posts-main .recent_videos_posts_wrap .recent-videos-wrap-loop {
+        width: 300px;
+    }
+
+    .stm-template-car_magazine .stm-archives .stm-magazine-blog-archive-header.magazine-archive {
+        margin-top: 0;
+    }
+
+    .stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content {
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding-bottom: 0;
+    }
+
+    .stm-template-car_magazine .stm-archives.stm-view-type-list .stm_magazine_single_list .stm-magazine-loop-data .middle-content > div {
+        margin-bottom: 10px;
+    }
+}
+
+.stm-orange {
+    color: #ffb129;
+}
+
+.mobile-search-filter-opened .select2-dropdown {
+    z-index: 200000;
+}
+
+html.mobile-overflow-hidden {
+    overflow: hidden;
+    height: 100vh;
+}
+
+.mobile-overlay {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: 1000;
+    display: none;
+}
+
+.mobile-overlay.active {
+    display: block;
+}
+
+.mobile-filter .mobile-search-btn {
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 22px;
+    margin: 0;
+    background-color: #6c98e1;
+    box-shadow: none;
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 3px;
+    outline: none;
+    transition: opacity 0.2s ease-in !important;
+    transform: translateZ(0);
+    opacity: 1;
+    cursor: pointer;
+}
+
+.mobile-filter .mobile-search-btn .h4 {
+    margin: 0;
+    color: #ffffff;
+}
+
+.mobile-filter .mobile-search-btn i {
+    font-size: 18px;
+}
+
+.mobile-filter .mobile-search-btn:hover {
+    opacity: 0.8;
+}
+
+@media (max-width: 1024px) {
+    .mobile-filter .mobile-search-btn {
+        display: flex;
+    }
+}
+
+form.mobile-search-filter {
+    display: flex;
+    flex-direction: column;
+    visibility: hidden;
+    position: fixed;
+    width: 100%;
+    left: -1000px;
+    top: 0;
+    box-shadow: none;
+    min-height: 100%;
+    height: 100vh;
+    height: 100svh;
+    overflow-y: auto;
+    transition: all 0.5s;
+    background-color: #ffffff;
+    z-index: 100000;
+}
+
+@media (min-width: 550px) {
+    form.mobile-search-filter {
+        width: 50%;
+    }
+}
+
+form.mobile-search-filter .grow-wrapper {
+    flex-grow: 1;
+    background-color: transparent;
+}
+
+form.mobile-search-filter .filter {
+    margin: 0 22px 20px 45px;
+}
+
+form.mobile-search-filter .stm-listing-directory-checkboxes.stm-two_cols .stm-accordion-content-wrapper .stm-option-label {
+    width: 50%;
+}
+
+form.mobile-search-filter input[type=text],
+form.mobile-search-filter input[type=number],
+form.mobile-search-filter input[type=tel],
+form.mobile-search-filter input[type=email],
+form.mobile-search-filter input[type=search],
+form.mobile-search-filter input[type=password] {
+    height: 40px;
+    line-height: 40px;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-results__option {
+    padding-right: 20px;
+    vertical-align: middle;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-results__option.select2-results__message:before {
+    display: none;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-results__option:before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    height: 20px;
+    width: 20px;
+    border: 2px solid #e9e9e9;
+    border-radius: 4px;
+    background-color: #fff;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-results__option[aria-selected=true]:before {
+    font-family: "Font Awesome 6 Free";
+    content: "\f00c";
+    color: #fff;
+    background-color: #1bc744;
+    border: 0;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-container--default .select2-results__option[aria-selected=true] {
+    background-color: #fff;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #eaeaeb;
+    color: #272727;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-container--default .select2-search--inline .select2-search__field {
+    line-height: inherit;
+    height: inherit;
+}
+
+form.mobile-search-filter .stm-multiple-select .select-icon .select2-search--dropdown {
+    display: none;
+}
+
+form.mobile-search-filter .select2-selection--multiple.filter-select {
+    display: flex;
+    border-color: #eceff3;
+}
+
+form.mobile-search-filter .sticky-filter-actions {
+    position: sticky;
+    bottom: 0;
+    height: 73px;
+    background-color: #fff;
+    z-index: 100000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 22px 15px 45px;
+    margin: 0;
+}
+
+form.mobile-search-filter .sticky-filter-actions .filter-show-cars {
+    flex-grow: 1;
+}
+
+form.mobile-search-filter .sticky-filter-actions .filter-show-cars .show-car-btn {
+    border-radius: 0;
+    font-family: Montserrat;
+    width: 100%;
+    text-align: center;
+    padding: 13px 28px 13px;
+}
+
+form.mobile-search-filter .sticky-filter-actions .mobile-reset-btn {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    color: #888888;
+    background-color: #fff;
+    border: 1px solid #DBDBDB;
+    justify-content: center;
+    box-shadow: none;
+    border-radius: 0;
+    padding: 13px;
+}
+
+form.mobile-search-filter .sticky-filter-actions .mobile-reset-btn span {
+    display: none;
+}
+
+form.mobile-search-filter .sticky-filter-actions .mobile-reset-btn i {
+    margin: 0;
+}
+
+form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit {
+    width: 95px;
+}
+
+form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit a {
+    padding: 11px 0 10px 0;
+    border-radius: 0;
+}
+
+form.mobile-search-filter .row-pad-top-24 {
+    display: flex;
+    flex-direction: column;
+}
+
+form.mobile-search-filter .col-md-12 {
+    width: 100%;
+}
+
+form.mobile-search-filter.active {
+    visibility: visible;
+    left: -25px;
+    transition: all 0.5s;
+}
+
+form.mobile-search-filter .filter {
+    padding: 0;
+    box-shadow: none;
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn {
+    position: relative;
+    width: 11px;
+    height: 11px;
+    cursor: pointer;
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn span.close-btn-item {
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    background-color: var(--motors-base-color);
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn span:first-child {
+    transform: rotate(45deg);
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn span:last-child {
+    transform: rotate(-45deg);
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .h4 {
+    margin-bottom: 0;
+}
+
+form.mobile-search-filter .stm-accordion-single-unit {
+    margin: 0 22px 0 45px;
+    box-shadow: none;
+}
+
+.stm-template-car_dealer_two.inventory-light #wrapper #main .stm-search_keywords input[type=text]#stm_keywords {
+    color: #232628 !important;
+}
+
+.stm-template-car_dealer_two.inventory-light #wrapper #main .stm-search_keywords input[type=text]#stm_keywords::-moz-placeholder {
+    color: #232628 !important;
+}
+
+.stm-template-car_dealer_two.inventory-light #wrapper #main .stm-search_keywords input[type=text]#stm_keywords::placeholder {
+    color: #232628 !important;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .pull-left {
+    color: #000;
+}
+
+.stm-template-car_dealer_two .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+    box-shadow: none;
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .stm-accordion-single-unit.stm-two_cols .stm-accordion-content .content .stm-accordion-content-wrapper .stm-option-label {
+    width: 47%;
+    margin-bottom: 20px;
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .pull-left {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .mobile-reset-btn {
+    background-color: rgba(255, 255, 255, 0);
+    border-color: var(--motors-base-color);
+    color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .filter-show-cars .show-car-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .button {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-light:not(.home) #wrapper #main .mobile-search-btn span.h4 {
+    color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter {
+    background-color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .sidebar-entry-header-mobile .h4 {
+    color: #000;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .select2-container--default .select2-selection--single {
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid #4971ff;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #000;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .select2-container--default .select2-selection--single b {
+    color: #000;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-accordion-single-unit > a.title .minus {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-accordion-single-unit > a.title .minus:after {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter {
+    background-color: #000000;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .sidebar-entry-header-mobile .h4 {
+    color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .select2-container--default .select2-selection--single {
+    background-color: #000000;
+    border: 1px solid #4971ff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .select2-container--default .select2-selection--single b {
+    color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title {
+    background-color: var(--motors-base-color);
+    border-top-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title.collapsed {
+    border-top-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title .minus {
+    background-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title .minus:after {
+    background-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-content .stm-single-filter-link a {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .sticky-filter-actions {
+    background-color: #000000;
+}
+
+.stm-accordion-content {
+    margin-bottom: 20px;
+}
+
+.stm-accordion-content .content {
+    padding: 15px 15px 15px;
+}
+
+.stm-accordion-content .content .stm-option-label {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.stm-template-motorcycle .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter {
+    background-color: #2f3c40;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit {
+    margin-bottom: 20px;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit .clearfix {
+    margin-bottom: 10px;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit .row {
+    display: flex;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit .row .col-md-wider-left input {
+    margin-top: 0;
+}
+
+@media (max-width: 1024px) {
+    .stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit .stm-current-slider-labels {
+        float: left;
+        margin: 0 0 0 5px;
+    }
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .sidebar-entry-header-mobile .h4 {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn span.close-btn-item {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .sticky-filter-actions {
+    background-color: #2f3c40;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--single {
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--single b {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple {
+    background-color: #000;
+    border: 1px solid var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered {
+    color: #fff;
+    padding: 0;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-selection__choice {
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-search--inline {
+    margin-bottom: 0;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-search--inline input.select2-search__field {
+    color: #fff;
+    padding-left: 0;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-search--inline input.select2-search__field::-moz-placeholder {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-search--inline input.select2-search__field::placeholder {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple b {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title {
+    background-color: var(--motors-base-color);
+    border-top-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title.collapsed {
+    border-top-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title .minus {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title .minus:after {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-content {
+    background: rgba(39, 46, 54, 0.8);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-content .stm-single-filter-link a {
+    color: #ffffff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit .stm-accordion-content ul {
+    background: none;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .mobile-reset-btn {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: var(--motors-base-color);
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter-price .clearfix .stm-current-slider-labels {
+    margin-bottom: 20px;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter-price .clearfix .pull-left {
+    margin-right: 10px;
+}
+
+.stm-template-equipment .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-equipment form.mobile-search-filter {
+    background-color: #000000;
+}
+
+.stm-template-equipment form.mobile-search-filter .sticky-filter-actions {
+    background-color: #000000;
+}
+
+.stm-template-equipment form.mobile-search-filter .sticky-filter-actions .filter-show-cars .show-car-btn {
+    background-color: var(--motors-base-color);
+    box-shadow: none;
+}
+
+.stm-template-equipment form.mobile-search-filter .sidebar-entry-header-mobile .h4 {
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .select2-container--default .select2-selection--single {
+    background-color: #000000;
+    border: 1px solid var(--motors-base-color);
+}
+
+.stm-template-equipment form.mobile-search-filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .select2-container--default .select2-selection--single b {
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title {
+    background-color: var(--motors-base-color);
+    border-top-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title.collapsed {
+    border-top-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title .minus {
+    background-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title .minus:after {
+    background-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-content .stm-single-filter-link a {
+    color: #ffffff;
+}
+
+.stm-template-equipment form.mobile-search-filter .mobile-reset-btn {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: var(--motors-base-color);
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-option-label {
+    margin-bottom: 10px;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-option-label span {
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit .button {
+    margin-top: 10px;
+    background-color: var(--motors-base-color);
+    box-shadow: none;
+}
+
+.stm-template-listing_four .mobile-filter .mobile-search-btn {
+    background-color: #6c98e1;
+    color: #ffffff;
+    box-shadow: none;
+}
+
+.stm-template-listing .filter-sidebar:after {
+    display: none;
+}
+
+.stm-template-listing .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+    box-shadow: none;
+}
+
+.stm-template-listing form.mobile-search-filter {
+    background-color: #153e4d;
+}
+
+.stm-template-listing form.mobile-search-filter .sidebar-entry-header-mobile .h4 {
+    color: #fff;
+}
+
+.stm-template-listing form.mobile-search-filter .sidebar-entry-header-mobile .close-btn span.close-btn-item {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-listing form.mobile-search-filter .sticky-filter-actions {
+    background-color: #153e4d;
+}
+
+.stm-template-listing form.mobile-search-filter .stm-accordion-content {
+    background-color: #ffffff;
+}
+
+.stm-template-listing form.mobile-search-filter .stm-accordion-single-unit > a.title {
+    border-top-color: var(--motors-base-color);
+}
+
+.stm-template-listing form.mobile-search-filter .stm-listing-directory-checkboxes.stm-two_cols .stm-accordion-content-wrapper .stm-option-label {
+    padding: 0;
+}
+
+.stm-template-listing form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit {
+    width: 95px;
+    margin: 0;
+    padding: 0;
+}
+
+.stm-template-listing form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit a {
+    padding: 11px 0 10px 0;
+    border-radius: 0;
+}
+
+.stm-template-boats .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-listing_five .mobile-filter .mobile-search-btn {
+    background-color: #ff2325;
+}
+
+.stm-template-listing_five .mobile-search-filter .stm-checkbox-submit a.button {
+    box-shadow: none;
+}
+
+.stm-template-ev_dealer .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-listing_two .mobile-filter .mobile-search-btn, .stm-template-listing_two_elementor .mobile-filter .mobile-search-btn {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .filter-show-cars .show-car-btn, .stm-template-listing_two_elementor .mobile-search-filter .filter-show-cars .show-car-btn {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit, .stm-template-listing_two_elementor .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit {
+    margin: 0;
+    padding: 0;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit .button, .stm-template-listing_two_elementor .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit .button {
+    background-color: #269aff;
+    box-shadow: none;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-option-label, .stm-template-listing_two_elementor .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-option-label {
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title.collapsed, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title.collapsed {
+    border-top-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title .minus, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title .minus {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title .minus:after, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title .minus:after {
+    background-color: #269aff;
+}
+
+.stm-template-listing_three .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit {
+    margin: 0;
+    padding: 0;
+}
+
+.stm-template-listing_three .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit .button {
+    box-shadow: none;
+}
+
+.stm-template-listing_three .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-option-label {
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.stm-template-car_magazine form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper {
+    padding: 0;
+}
+
+.stm-template-car_magazine form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-option-label {
+    margin-bottom: 20px;
+}
+
+.stm-template-car_magazine form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit {
+    width: 100%;
+}
+
+.stm-template-car_magazine form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit .button {
+    width: 95px;
+    box-shadow: none;
+}

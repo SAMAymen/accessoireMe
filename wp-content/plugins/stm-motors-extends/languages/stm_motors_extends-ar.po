@@ -1,0 +1,2298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors Extends\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-24 11:44+0000\n"
+"PO-Revision-Date: 2023-01-24 11:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.0.3"
+
+#: stm-post-type/rewrite.php:60
+#, php-format
+msgid "\"%s\" plural title"
+msgstr "\"%s\" الجمع العنوان"
+
+#: stm-post-type/rewrite.php:68
+#, php-format
+msgid "\"%s\" rewrite (URL text)"
+msgstr "\"%s\" إعادة كتابة (عنوان النص)"
+
+#: stm-post-type/rewrite.php:52
+#, php-format
+msgid "\"%s\" title (admin panel tab name)"
+msgstr "\"%s\" لقب (لوحة الادارة اسم علامة التبويب)"
+
+#. option name
+#: inc/wpcfto_conf.php:657
+#, php-format
+msgid "%s: highest first"
+msgstr "%s: أعلى الأول"
+
+#. option name
+#: inc/wpcfto_conf.php:659
+#, php-format
+msgid "%s: lowest first"
+msgstr "%s: أدنى الأول"
+
+#: inc/wpcfto_conf.php:490
+msgid "--- Default ---"
+msgstr "--- Default ---"
+
+#: inc/widgets/recomended_for_you.php:43 inc/widgets/latest-posts.php:42
+msgid "1"
+msgstr "1"
+
+#: stm-post-type/post_type.class.php:439
+msgid "Add"
+msgstr "إضافة"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:40
+msgid "Add a Car Page"
+msgstr "إضافة صفحة السيارات"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:267
+msgid "Add Currency"
+msgstr "إضافة العملة"
+
+#: stm-post-type/post_type.class.php:28
+msgid "Add New"
+msgstr "إضافة جديدة"
+
+#: inc/stm-swiper-slider.php:153
+msgid "Add Slide"
+msgstr "إضافة الشريحة"
+
+#: inc/widgets/text-widget.php:107
+msgid "Add Socials Widget"
+msgstr "إضافة الاجتماعية القطعة"
+
+#: stm-post-type/stm-post-type.php:159
+msgid "Additional Title Box opt (Motorcycle layout)"
+msgstr "لقب إضافي مربع اختيار (دراجة نارية تخطيط)"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:147
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:151
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:154
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:160
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:167
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:430
+msgid "Address"
+msgstr "عنوان"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:145
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:419
+msgid "Address Icon"
+msgstr "العنوان الرمز"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:408
+msgid "Address Settings"
+msgstr "عنوان الإعدادات"
+
+#: inc/widgets/contacts.php:91
+msgid "Address:"
+msgstr "العنوان:"
+
+#: inc/wpcfto_conf.php:561
+msgid "Aircrafts"
+msgstr "الطائرات"
+
+#: stm-post-type/stm-post-type.php:71
+msgid "Alignment"
+msgstr "المحاذاة"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:248
+msgid "Allow Dealer Add New Category"
+msgstr "تسمح تاجر إضافة فئة جديدة"
+
+#: inc/stm-swiper-slider.php:132
+msgid "Animation type"
+msgstr "نوع الرسوم المتحركة"
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:21
+msgid "Archive Page Sidebar"
+msgstr "أرشيف صفحة الشريط الجانبي"
+
+#: stm-post-type/post_type.class.php:207 stm-post-type/post_type.class.php:375
+#: stm-post-type/post_type.class.php:653
+msgid "Attach"
+msgstr "نعلق"
+
+#: inc/widgets/address.php:88 inc/widgets/text-widget.php:99
+#: inc/widgets/car_trade_offer_btns.php:40 inc/widgets/dealer_info.php:82
+msgid "Automatically add paragraphs"
+msgstr "تلقائيا إضافة الفقرات"
+
+#: inc/stm-swiper-slider.php:106
+msgid "Autoplay"
+msgstr "التشغيل التلقائي"
+
+#: inc/stm-swiper-slider.php:158
+msgid "Background"
+msgstr "الخلفية"
+
+#: stm-post-type/stm-post-type.php:100
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:19
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:11
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:214
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:246
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:159
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:122
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: inc/wpcfto_conf.php:513
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:40
+msgid "Best Rated Minimum Average"
+msgstr "أفضل تصنيف متوسط الحد الأدنى"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:30
+msgid "Best Seller Product Minimum Amount"
+msgstr "أفضل بائع المنتج الحد الأدنى"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:156
+msgid "Bind WP Search form with Inventory"
+msgstr "ربط WP نموذج البحث مع المخزون"
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:10
+msgid "Blog Archive Page Layout"
+msgstr "أرشيف المدونة تخطيط الصفحة"
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:28
+msgid "Blog Post Sidebar"
+msgstr "بلوق وظيفة الشريط الجانبي"
+
+#: inc/wpcfto_conf.php:557
+msgid "Boats"
+msgstr "القوارب"
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:21
+msgid "Body Font Family"
+msgstr "الجسم عائلة الخط"
+
+#: stm-post-type/stm-post-type.php:120 stm-post-type/stm-post-type.php:124
+msgid "Breadcrumbs"
+msgstr "فتات الخبز"
+
+#: stm-post-type/stm-post-type.php:132
+msgid "Breadcrumbs Color"
+msgstr "فتات الخبز اللون"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:16
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:28
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:39
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:52
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:63
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:76
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:112
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:124
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:134
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:160
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:187
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:200
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:223
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:242
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:274
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:306
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:339
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:381
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:404
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:415
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:432
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:454
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:479
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:491
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:503
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:514
+msgid "Buttons/Actions"
+msgstr "أزرار/الإجراءات"
+
+#: inc/widgets/classified-four-price-view.php:150
+msgid "BUY CAR ONLINE"
+msgstr "شراء السيارات عبر الإنترنت"
+
+#: inc/widgets/classified-four-price-view.php:86
+msgid "BUY CAR ONLINE:"
+msgstr "شراء السيارات على الانترنت:"
+
+#: inc/helpers.php:45
+msgid "BUY NOW"
+msgstr "شراء الآن"
+
+#: inc/wpcfto_conf.php:105 inc/stm-swiper-slider.php:82
+msgid "by StylemixThemes"
+msgstr "قبل StylemixThemes"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:305
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:316
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:333
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:344
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:356
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:367
+msgid "Calculator"
+msgstr "آلة حاسبة"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:365
+msgid "Calculator is not available for current layout"
+msgstr "آلة حاسبة لا يتوفر التخطيط الحالي"
+
+#. Base ID.
+#: inc/widgets/car_location.php:11
+msgid "Car Location"
+msgstr "السيارات الموقع"
+
+#: inc/helpers.php:364
+msgid "Car Rent Price Info"
+msgstr "سيارة سعر الإيجار معلومات"
+
+#: inc/helpers.php:367
+msgid "Car Rent Price Info (This fields are not editable.)"
+msgstr "سيارة سعر الإيجار معلومات (هذه الحقول غير قابلة للتعديل.)"
+
+#: inc/stm-swiper-slider.php:67
+msgid "Cards"
+msgstr "بطاقات"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:456
+msgid "CarGuru Enter Height (in pixels)"
+msgstr "CarGuru أدخل الارتفاع (بكسل)"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:438
+msgid "CarGuru Minimum Rating to display"
+msgstr "CarGuru تقدير الحد الأدنى لعرض"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:416
+msgid "CarGuru Style"
+msgstr "CarGuru نمط"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:56
+msgid "Cart Icon"
+msgstr "عربة رمز"
+
+#: stm-post-type/stm-post-type.php:75
+msgid "Center"
+msgstr "مركز"
+
+#: inc/widgets/car-contact-form.php:89
+msgid "CF7 shortcode:"
+msgstr "CF7 رمز قصير:"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:31
+msgid "Choose Events Page View"
+msgstr "اختيار الأحداث عرض الصفحة"
+
+#: stm-post-type/post_type.class.php:643
+msgid "Choose Image"
+msgstr "اختيار صورة"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:132
+msgid "Choose landing page for compare"
+msgstr "اختيار الصفحة المقصودة مقارنة"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:75
+msgid "Choose listing archive page"
+msgstr "اختيار قائمة صفحة الأرشيف"
+
+#: stm-post-type/post_type.class.php:195
+msgid "Choose PDF"
+msgstr "اختيار PDF"
+
+#: inc/wpcfto_conf/layout_conf/shop_conf.php:11
+msgid "Choose Shop Sidebar"
+msgstr "اختيار متجر الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:60
+msgid "Choose Single Product Sidebar"
+msgstr "اختيار منتج واحد الشريط الجانبي"
+
+#: inc/wpcfto_conf.php:555
+msgid "Classified"
+msgstr "تصنيف"
+
+#: inc/wpcfto_conf.php:556
+msgid "Classified Five"
+msgstr "تصنيف خمس"
+
+#: inc/widgets/latest-posts.php:107
+msgid "Comment"
+msgstr "التعليق"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:67
+msgid "Compare & Cart Buttons Hover Background Color"
+msgstr "قارن & السلة أزرار التحويم لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:81
+msgid "Compare & Cart Buttons Hover Text Color"
+msgstr "قارن & السلة أزرار التحويم لون النص"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:32
+msgid "Compare Icon"
+msgstr "قارن رمز"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:130
+msgid "Compare Page"
+msgstr "قارن الصفحة"
+
+#: inc/widgets/contacts.php:66 inc/widgets/schedule_showing.php:78
+msgid "Contact"
+msgstr "الاتصال"
+
+#: inc/wpcfto_conf/layout_conf/sell_a_car.php:13
+msgid "Contact Us Page"
+msgstr "صفحة اتصل بنا"
+
+#. Base ID.
+#: inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr "الاتصالات"
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr "جهات الاتصال القطعة"
+
+#: inc/widgets/address.php:78 inc/widgets/text-widget.php:87
+msgid "Content:"
+msgstr "المحتوى:"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:264
+msgid "Conversion Rate should be delimited by dot (example: 1.2)"
+msgstr ""
+"معدل التحويل يجب أن تكون محددة من قبل وزارة النقل (على سبيل المثال: 1.2)"
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:49
+msgid "Copyright"
+msgstr "حقوق الطبع والنشر"
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:34
+msgid "Copyright Area Background Color"
+msgstr "حقوق الطبع والنشر المنطقة لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:43
+msgid "Copyright Enable"
+msgstr "حقوق الطبع والنشر تمكين"
+
+#: inc/stm-swiper-slider.php:65
+msgid "Coverflow"
+msgstr "Coverflow"
+
+#: stm-post-type/stm-post-type.php:205
+msgid "Credentials"
+msgstr "وثائق التفويض"
+
+#: inc/stm-swiper-slider.php:64
+msgid "Cube"
+msgstr "مكعب"
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:8
+msgid "Currency"
+msgstr "العملة"
+
+#: stm-post-type/stm-post-type.php:116
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:156
+msgid "Custom Background Image"
+msgstr "صورة خلفية مخصصة"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:52
+msgid "Custom Base Car Dealer Color"
+msgstr "العرف قاعدة سيارة تاجر اللون"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:72
+msgid "Custom Base Listing Color"
+msgstr "العرف قاعدة إدراج اللون"
+
+#: stm-post-type/rewrite.php:44
+msgid "Custom Post Type Renaming Settings"
+msgstr "نوع آخر مخصص إعادة تسمية الإعدادات"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:62
+msgid "Custom Secondary Car Dealer Color"
+msgstr "مخصص الثانوية تاجر سيارات اللون"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:89
+msgid "Custom Secondary Listing Color"
+msgstr "مخصص الثانوية إدراج اللون"
+
+#: inc/wpcfto_conf.php:649
+msgid "Date: newest first"
+msgstr "التاريخ: الأحدث أولاً"
+
+#: inc/wpcfto_conf.php:650
+msgid "Date: oldest first"
+msgstr "التاريخ: الأقدم أولاً"
+
+#: stm-post-type/stm-post-type.php:225
+msgid "Day"
+msgstr "اليوم"
+
+#: inc/wpcfto_conf.php:552
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:495
+msgid "Dealer"
+msgstr "تاجر"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:27
+msgid "Dealer List Page"
+msgstr "تاجر قائمة الصفحة"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:95
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:112
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:125
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:137
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:150
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:186
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:198
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:244
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:266
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:434
+msgid "Dealer Options"
+msgstr "تاجر خيارات"
+
+#: stm-post-type/stm-post-type.php:290
+msgid "Dealer Review"
+msgstr "تاجر استعراض"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:99
+msgid "Dealer Sidebar Position"
+msgstr "تاجر موقف الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:190
+msgid "Dealer Slot Images Upload Limit:"
+msgstr "تاجر فتحة صور تحميل حد:"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:178
+msgid "Dealer Slots Limit:"
+msgstr "تاجر فتحات الحد:"
+
+#: inc/wpcfto_conf.php:553
+msgid "Dealer Two"
+msgstr "تاجر اثنين"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:85
+msgid "Default Dealer Sidebar"
+msgstr "الافتراضي تاجر الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:325
+msgid "Default Down Payment Type"
+msgstr "الافتراضي أسفل نوع الدفع"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:303
+msgid "Default Interest Rate"
+msgstr "الافتراضي الفائدة"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:314
+msgid "Default Month Period"
+msgstr "الافتراضي شهرا"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:200
+msgid "Default option must be selected above"
+msgstr "الخيار الافتراضي يجب أن يكون المحدد أعلاه"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:196
+msgid "Default Sort Option"
+msgstr "الفرز الافتراضي الخيار"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:44
+msgid "Default Title"
+msgstr "العنوان الافتراضي"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:54
+msgid "Default User Sidebar"
+msgstr "الافتراضي المستخدم في الشريط الجانبي"
+
+#: inc/wpcfto_conf.php:520
+msgid "Delicious"
+msgstr "لذيذ"
+
+#: stm-post-type/stm-post-type.php:167
+msgid "Disable Title Box Color Overlay"
+msgstr "تعطيل مربع العنوان تراكب اللون"
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:25
+msgid "Disable Widget Area"
+msgstr "تعطيل منطقة القطعة"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:162
+msgid "Display Additional Features on Inventory Filter"
+msgstr "عرض ميزات إضافية على مخزون مرشح"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:354
+msgid "Display Generated Car Title as:"
+msgstr "عرض ولدت السيارات العنوان:"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:160
+msgid ""
+"Does not work when the Transparent Header option for the page is enabled"
+msgstr "لا يعمل عند رأس شفاف خيار تمكين صفحة"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:23
+msgid ""
+"Does not work when the Transparent Header option for the page is enabled."
+msgstr "لا يعمل عند رأس شفاف خيار تمكين صفحة."
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:342
+msgid "Down Payment Amount"
+msgstr "دفعة المبلغ"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:353
+msgid "Down Payment Percent (%)"
+msgstr "دفعة النسبة المئوية (%)"
+
+#: inc/wpcfto_conf.php:514
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/wpcfto_conf.php:521
+msgid "Dropbox"
+msgstr "دروببوإكس"
+
+#: inc/stm-swiper-slider.php:112
+msgid "Duration"
+msgstr "مدة"
+
+#: stm-post-type/stm-post-type.php:217
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+#: inc/stm-swiper-slider.php:113
+msgid "Each slide visible (milliseconds)"
+msgstr "كل شريحة مرئية (مللي ثانية)"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:12
+msgid "Enable"
+msgstr "تمكين"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:115
+msgid "Enable Boxed Layout"
+msgstr "تمكين تخطيط محاصر"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:237
+msgid "Enable Dealer Ads Moderation"
+msgstr "تمكن تاجر الإعلانات الاعتدال"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:392
+msgid "Enable Dealer Info on Listing"
+msgstr "تمكن تاجر معلومات على الإدراج"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:16
+msgid "Enable Email Confirmation"
+msgstr "تمكين البريد الإلكتروني تأكيد"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:173
+msgid "Enable Favorite Button"
+msgstr "تمكين زر المفضلة"
+
+#: inc/wpcfto_conf/layout_conf/rental_layout_conf.php:26
+msgid "Enable Fixed Price for Quantity Days"
+msgstr "تمكن سعر ثابت لكمية أيام"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:117
+msgid "Enable Login/Register"
+msgstr "تمكين تسجيل الدخول/تسجيل"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:259
+msgid "Enable Moderation For Dealer Review"
+msgstr "تمكين الاعتدال تاجر استعراض"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:319
+msgid "Enable Paid Featured Listing"
+msgstr "تمكين دفع ظهرت قائمة"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:270
+msgid "Enable Pay Per Listing"
+msgstr "تمكين دفع في القائمة"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:166
+msgid "Enable Preloader"
+msgstr "تمكين Preloader"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:387
+msgid "Enable Pricing Plans (Woocommerce)"
+msgstr "تمكين خطط التسعير (Woocommerce)"
+
+#: inc/wpcfto_conf/layout_conf/sell_a_car.php:8
+msgid "Enable Sell a Car Online (Woocommerce)"
+msgstr "تمكين بيع سيارة على الانترنت (Woocommerce)"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:226
+msgid "Enable User Ads Moderation"
+msgstr "تمكن المستخدم من الإعلانات الاعتدال"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:411
+msgid ""
+"Enter slug of listing category, separated by comma, without spaces. Ex: make,"
+"condition"
+msgstr "أدخل سبيكة من قائمة الفئة, مفصولة بفواصل, بدون مسافات. مثال: جعل شرط"
+
+#: inc/wpcfto_conf.php:562
+msgid "Equipment"
+msgstr "معدات"
+
+#: inc/wpcfto_conf.php:554
+msgid "EV Dealer"
+msgstr "EV تاجر"
+
+#: stm-post-type/rewrite.php:27 stm-post-type/rewrite.php:28
+msgid "Events"
+msgstr "الأحداث"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:27
+msgid "Events archive"
+msgstr "أرشيف الأحداث"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:34
+msgid "Events page sidebar position"
+msgstr "صفحة الأحداث موقف الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:49
+msgid "Events pagination type"
+msgstr "أحداث نوع ترقيم الصفحات"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:55
+msgid "Events per page"
+msgstr "الأحداث في الصفحة"
+
+#: inc/wpcfto_conf.php:509
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/stm-swiper-slider.php:63
+msgid "Fade"
+msgstr "تتلاشى"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:330
+msgid "Featured Listing Label"
+msgstr "ظهرت تسمية القائمة"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:368
+msgid "Featured Listing Period (days)"
+msgstr "ظهرت قائمة الفترة (أيام)"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:349
+msgid "Featured Listing Price"
+msgstr "ظهرت قائمة الأسعار"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:293
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:321
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:339
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:350
+msgid "Filter by location"
+msgstr "تصفية حسب الموقع"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:210
+msgid "Filter Position"
+msgstr "تصفية الموقف"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:46
+msgid "Find interesting trade shows & conferences to attend"
+msgstr "تجد مثيرة للاهتمام المعارض التجارية والمؤتمرات لحضور"
+
+#: inc/wpcfto_conf.php:515
+msgid "Flickr"
+msgstr "فليكر"
+
+#: inc/stm-swiper-slider.php:66
+msgid "Flip"
+msgstr "الوجه"
+
+#: stm-post-type/stm-post-type.php:104
+msgid "Font Color"
+msgstr "لون الخط"
+
+#: inc/helpers.php:40
+msgid "From: "
+msgstr "من: "
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:168
+msgid "Full Width Search Results"
+msgstr "عرض كامل نتائج البحث"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:9
+msgid "Gallery Interaction on Hover"
+msgstr "معرض التفاعل على التحويم"
+
+#: inc/stm-swiper-slider.php:95
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: inc/wpcfto_conf.php:516
+msgid "Git"
+msgstr "بوابة"
+
+#: inc/wpcfto_conf.php:524
+msgid "Google"
+msgstr "جوجل"
+
+#: inc/wpcfto_conf.php:525
+msgid "Google +"
+msgstr "جوجل +"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:158
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:441
+msgid "Google Map Address URL"
+msgstr "خريطة جوجل عنوان URL"
+
+#: inc/widgets/address.php:71
+msgid "Google map link:"
+msgstr "خريطة جوجل الرابط:"
+
+#: inc/wpcfto_conf/layout_conf/general_conf.php:11
+msgid "Google Maps API Key"
+msgstr "خرائط جوجل API الرئيسية"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:14
+msgid "Grid"
+msgstr "الشبكة"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:362
+msgid "Grid Item Title Max Length"
+msgstr "شبكة البند العنوان ماكس طول"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:125
+msgid "Grid version. Ex: 9,12,18,27"
+msgstr "الشبكة الإصدار. مثلا: 9,12,18,27"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:358
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:369
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:388
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:406
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:424
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:442
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:453
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:471
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:489
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:507
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:518
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:536
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:554
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:572
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:590
+msgid "Grid/List Card"
+msgstr "شبكة/قائمة بطاقة"
+
+#: stm-post-type/stm-post-type.php:92
+msgid "H1"
+msgstr "H1"
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:70
+msgid "H1 Font"
+msgstr "H1 الخط"
+
+#: stm-post-type/stm-post-type.php:91
+msgid "H2"
+msgstr "H2"
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:77
+msgid "H2 Font"
+msgstr "H2 الخط"
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:84
+msgid "H3 Font"
+msgstr "H3 الخط"
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:91
+msgid "H4 Font"
+msgstr "H4 الخط"
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:98
+msgid "H5 Font"
+msgstr "H5 الخط"
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:108
+msgid "H6 Font"
+msgstr "H6 الخط"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:21
+msgid "Header Background Color"
+msgstr "رأس لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/service_layout_conf.php:11
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:483
+msgid "Header Button label"
+msgstr "رأس تسمية الزر"
+
+#: inc/wpcfto_conf/layout_conf/service_layout_conf.php:17
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:495
+msgid "Header Button Link"
+msgstr "رأس زر الرابط"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:9
+msgid "Header Layout"
+msgstr "تخطيط رأس"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_socials.php:8
+msgid "Header Socials"
+msgstr "رأس سيالز"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:134
+msgid "Header Socials Icon Color"
+msgstr "رأس سيالز رمز اللون"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:93
+msgid "Header Text Color"
+msgstr "رأس لون النص"
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:36
+msgid "Headings Font Settings"
+msgstr "عناوين إعدادات الخط"
+
+#: inc/stm-swiper-slider.php:101
+msgid "Height of the slider in pixels"
+msgstr "ارتفاع المنزلق في بكسل"
+
+#: stm-post-type/stm-post-type.php:84 stm-post-type/stm-post-type.php:128
+msgid "Hide"
+msgstr "إخفاء"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:33
+msgid "Hide Price Labels on Listing Archive"
+msgstr "سعر اخفاء التسميات على قائمة الأرشيف"
+
+#: inc/stm-swiper-slider.php:159
+msgid "High resolution photo (1920x967px recommended)"
+msgstr "صور عالية الدقة (1920x967px مستحسن)"
+
+#: stm-post-type/stm-post-type.php:147
+msgid "Home 1"
+msgstr "المنزل 1"
+
+#: stm-post-type/stm-post-type.php:148
+msgid "Home 2"
+msgstr "المنزل 2"
+
+#: stm-post-type/stm-post-type.php:139
+msgid "Home Page"
+msgstr "الصفحة الرئيسية"
+
+#: stm-post-type/stm-post-type.php:152
+msgid "Home Page Logo"
+msgstr "الصفحة الرئيسية الشعار"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:278
+msgid "Hover Background Color"
+msgstr "تحوم لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:344
+msgid "Hover Text Color"
+msgstr "تحوم لون النص"
+
+#: inc/stm-swiper-slider.php:170
+msgid "HTML escaped, only allows <br> tag"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: inc/helpers.php:84
+msgid "I agree with storaging of my data by this website."
+msgstr "أنا أتفق مع وstoraging من البيانات عن طريق هذا الموقع."
+
+#: stm-post-type/stm-post-type.php:257
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:385
+msgid "Icon"
+msgstr "رمز"
+
+#: stm-post-type/stm-post-type.php:261
+msgid "Icon Background Color"
+msgstr "رمز لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:77
+msgid "Icon Color"
+msgstr "رمز اللون"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:25
+msgid "Icon For Best Selling Products"
+msgstr "رمز أفضل المنتجات مبيعا"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:46
+msgid "Icon For Sale Product"
+msgstr "رمز المنتج للبيع"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:36
+msgid "Icon For Top Rated Products"
+msgstr "رمز أعلى تصنيف المنتجات"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:202
+msgid "Image Size Limit (Kb)"
+msgstr "حجم الصورة الحد (Kb)"
+
+#: inc/wpcfto_conf.php:512
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:73
+msgid "Inventory Archive Page"
+msgstr "المخزون صفحة الأرشيف"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:56
+msgid "Inventory Layout Mode"
+msgstr "وضع تخطيط المخزون"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:637
+msgid "Inventory settings"
+msgstr "المخزون الإعدادات"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:81
+msgid "Inventory Sidebar"
+msgstr "المخزون الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:178
+msgid "Item Background Color"
+msgstr "البند لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:195
+msgid "Item Hover Background Color"
+msgstr "البند تحوم لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:220
+msgid "Item Hover Text Color"
+msgstr "البند تحوم لون النص"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:277
+msgid "Item Hover Text Decoration Underline Color"
+msgstr "البند تحوم النص الديكور لون التسطير"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:293
+msgid "Item Hover Text Decoration Underline Color 2"
+msgstr "البند تحوم النص الديكور لون التسطير 2"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:143
+msgid "Item Padding"
+msgstr "البند الحشو"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:246
+msgid "Item Text Decoration Underline Color"
+msgstr "نص البند الديكور لون التسطير"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:261
+msgid "Item Text Decoration Underline Color 2"
+msgstr "نص البند الديكور لون التسطير 2"
+
+#: inc/stm-swiper-slider.php:164
+msgid "Item to show on slide"
+msgstr "البند أن تظهر على الشريحة"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:117
+msgid "Items Per Page Choices."
+msgstr "العناصر في الصفحة الخيارات."
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:204
+msgid "Label"
+msgstr "التسمية"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:125
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:8
+msgid "Language Switcher"
+msgstr "لغة الجلاد"
+
+#: inc/wpcfto_conf.php:612 stm-post-type/stm-post-type.php:74
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:8
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:71
+msgid "Left"
+msgstr "اليسار"
+
+#: stm-post-type/stm-post-type.php:108
+msgid "Line Color"
+msgstr "لون الخط"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:227
+msgid "Link"
+msgstr "الرابط"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:90
+msgid "Link Color"
+msgstr "لون الرابط"
+
+#: inc/wpcfto_conf.php:517
+msgid "Linkedin"
+msgstr "ينكدين"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:13
+msgid "List"
+msgstr "قائمة"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:105
+msgid "List Version Sort Parameter (Type Slug)"
+msgstr "قائمة الإصدار نوع المعلمة (نوع سبيكة)"
+
+#: inc/stm-swiper-slider.php:163
+msgid "Listing"
+msgstr "قائمة"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:21
+msgid "Listing Archive \"Title Box\" Title"
+msgstr "قائمة أرشيف \"عنوان مربع\" العنوان"
+
+#: inc/stm-swiper-slider.php:139
+msgid "Listing attributes"
+msgstr "قائمة السمات"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:452
+msgid "Listing Layout Header Image for Non-transparent Option"
+msgstr "قائمة تخطيط رأس الصورة غير شفافة الخيار"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:594
+msgid "Listing Sidebar Filter Background"
+msgstr "قائمة الشريط الجانبي تصفية الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:139
+msgid "Listing View Type"
+msgstr "قائمة عرض نوع"
+
+#: stm-post-type/rewrite.php:22 stm-post-type/rewrite.php:23
+#: stm-post-type/stm-post-type.php:13 stm-post-type/stm-post-type.php:14
+msgid "Listings"
+msgstr "القوائم"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_review.php:8
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:19
+msgid "Load More Button"
+msgstr "تحميل المزيد من زر"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:9
+msgid "Login/Registration Page"
+msgstr "تسجيل الدخول/تسجيل الصفحة"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:8
+msgid "Logo"
+msgstr "شعار"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:15
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:22
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:41
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:49
+msgid "Logo & Title"
+msgstr "شعار و عنوان"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:26
+msgid "Logo Margin"
+msgstr "شعار الهامش"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:19
+msgid "Logo Width (px)"
+msgstr "شعار العرض (بكسل)"
+
+#: inc/stm-swiper-slider.php:122
+msgid "Loop slider"
+msgstr "حلقة التمرير"
+
+#: inc/wpcfto_conf.php:560
+msgid "Magazine"
+msgstr "مجلة"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:15
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:35
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:73
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:86
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:113
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:121
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:134
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:141
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:12
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:26
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:52
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:85
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:96
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:119
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:137
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:153
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:245
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:255
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:266
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:279
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:290
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:309
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:329
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:342
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:353
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:364
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:377
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:388
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:400
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:411
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:422
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:433
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:444
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:454
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:13
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:23
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:36
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:50
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:210
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:222
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:255
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:394
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:406
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:412
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:10
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:21
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:32
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:43
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:54
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:70
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:81
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:87
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:98
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:109
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:120
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:131
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:137
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:153
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:164
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:183
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:213
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:244
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:255
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:266
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:277
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:288
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:299
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:378
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:389
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:400
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:412
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:434
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:452
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:464
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:12
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:29
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:40
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:52
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:69
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:77
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:90
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:101
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:113
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:126
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:135
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:152
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:158
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:169
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:180
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:185
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:206
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:226
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:608
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:617
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:626
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:121
+msgid "Main"
+msgstr "الرئيسية"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:79
+msgid "Main Menu Font Settings"
+msgstr "القائمة الرئيسية إعدادات الخط"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:305
+msgid "Main Phone"
+msgstr "الهاتف الرئيسية"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:324
+msgid "Main Phone Color"
+msgstr "الهاتف الرئيسية اللون"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:263
+msgid "Main Phone Icon"
+msgstr "الرئيسية رمز الهاتف"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:287
+msgid "Main Phone Label"
+msgstr "الهاتف الرئيسية التسمية"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:274
+msgid "Main Phone Label Color"
+msgstr "الهاتف الرئيسية تسمية اللون"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:253
+msgid "Main Phone Show on Mobile"
+msgstr "الهاتف الرئيسية تظهر على الهاتف المحمول"
+
+#: inc/widgets/classified-four-car-data.php:37
+msgid "Make an offer price"
+msgstr "تقديم عرض السعر"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:125
+msgid "Margin"
+msgstr "الهامش"
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:34
+msgid "Membership Price"
+msgstr "سعر العضوية"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:214
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:224
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:237
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:250
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:82
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:90
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:139
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:155
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:174
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:191
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:216
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:241
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:257
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:273
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:289
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:305
+msgid "Menu"
+msgstr "القائمة"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:211
+msgid "Menu Enabled"
+msgstr "القائمة تمكين"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:218
+msgid "Menu Font Size"
+msgstr "القائمة حجم الخط"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:241
+msgid "Menu Hover Text Color"
+msgstr "القائمة تحوم لون النص"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:228
+msgid "Menu Text Color"
+msgstr "القائمة لون النص"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:107
+msgid "Menu&amp;Icons Area Margin"
+msgstr "القائمة والرموز منطقة الهامش"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:189
+msgid "Minimum width: 1025px."
+msgstr "الحد الأدنى العرض: 1025px."
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:219
+msgid "Minimum width: 768px."
+msgstr "الحد الأدنى العرض: 768px."
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:48
+msgid "Mobile Header Background Color"
+msgstr "المحمول رأس لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:79
+msgid "Mobile Header Info Background Color"
+msgstr "رأس المحمول معلومات لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:149
+msgid "Mobile Header Socials Icon Color"
+msgstr "رأس المحمول سيالز رمز اللون"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:115
+msgid "Mobile Header Text Color"
+msgstr "رأس المحمول لون النص"
+
+#: inc/wpcfto_conf.php:558
+msgid "Motorcycle"
+msgstr "دراجة نارية"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:263
+msgid "Multiple Currencies"
+msgstr "بعملات متعددة"
+
+#: stm-post-type/stm-post-type.php:213
+msgid "Name"
+msgstr "اسم"
+
+#: inc/helpers.php:444
+msgid "New Payment received"
+msgstr "الدفع الجديدة الواردة"
+
+#: inc/widgets/latest-posts.php:111
+msgid "No comments"
+msgstr "لا توجد تعليقات"
+
+#: stm-post-type/post_type.class.php:187 stm-post-type/post_type.class.php:219
+msgid "No file chosen"
+msgstr "لا الملف المختار"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:7
+msgid "None"
+msgstr "لا شيء"
+
+#: stm-post-type/post_type.class.php:775 stm-post-type/post_type.class.php:804
+msgid "Not assigned"
+msgstr "لم يتم تعيين"
+
+#: stm-post-type/rewrite.php:78
+msgid ""
+"NOTE: After you change the rewrite field values, you'll need to refresh "
+"permalinks under Settings -> Permalinks"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:187
+msgid "Number of Items on Desktop"
+msgstr "عدد من العناصر على سطح المكتب"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:217
+msgid "Number of Items on Tablet"
+msgstr "عدد من البنود المدرجة على قرص"
+
+#: inc/widgets/recomended_for_you.php:143 inc/widgets/latest-posts.php:147
+msgid "Number of posts:"
+msgstr "عدد المشاركات:"
+
+#: stm-post-type/stm-post-type.php:24
+msgid "Office"
+msgstr "مكتب"
+
+#: stm-post-type/post_type.class.php:126 stm-post-type/stm-post-type.php:249
+msgid "Options"
+msgstr "خيارات"
+
+#: inc/wpcfto_conf/layout_conf/rental_layout_conf.php:19
+msgid "Order Received Endpoint Page"
+msgstr "من أجل تلقى نقطة النهاية الصفحة"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:178
+msgid "Padding"
+msgstr "الحشو"
+
+#: stm-post-type/stm-post-type.php:59
+msgid "Page Background Color"
+msgstr "لون خلفية الصفحة"
+
+#: stm-post-type/stm-post-type.php:193
+msgid "Page Options"
+msgstr "خيارات الصفحة"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_review.php:7
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:18
+msgid "Pagination"
+msgstr "ترقيم الصفحات"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:326
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:345
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:364
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:383
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:456
+msgid "Paid Featured Listing"
+msgstr "دفعت ظهرت قائمة"
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:12
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:18
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:30
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:37
+msgid "Pay Pal Settings"
+msgstr "الدفع بال الإعدادات"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:277
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:296
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:315
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:445
+msgid "Pay Per Listing"
+msgstr "الدفع لكل قائمة"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:300
+msgid "Pay Per Listing Period (days)"
+msgstr "الدفع في القائمة الفترة (أيام)"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:281
+msgid "Pay Per Listing Price"
+msgstr "الدفع لكل قائمة الأسعار"
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:16
+msgid "Paypal Email"
+msgstr "البريد الإلكتروني باي بال"
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:22
+msgid "Paypal Mode"
+msgstr "باي بال واسطة"
+
+#: stm-post-type/stm-post-type.php:221
+msgid "Phone"
+msgstr "الهاتف"
+
+#: inc/widgets/schedule_showing.php:107
+msgid "Phone Label:"
+msgstr "الهاتف التسمية:"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:193
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:197
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:200
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:207
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:191
+msgid "Phone Number Icon"
+msgstr "رقم الهاتف رمز"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:242
+msgid "Phone Settings"
+msgstr "إعدادات الهاتف"
+
+#: inc/widgets/contacts.php:95 inc/widgets/schedule_showing.php:103
+msgid "Phone:"
+msgstr "الهاتف:"
+
+#: inc/wpcfto_conf.php:518
+msgid "Pinterest"
+msgstr "بينتيريست"
+
+#: inc/wpcfto_conf/layout_conf/rental_layout_conf.php:31
+msgid "Popup Discount Program Description"
+msgstr "المنبثقة خصم وصف البرنامج"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:233
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:240
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:252
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:259
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:287
+msgid "Price"
+msgstr "السعر"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:237
+msgid "Price Currency"
+msgstr "سعر العملات"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:230
+msgid "Price Currency Name"
+msgstr "سعر العملة اسم"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:244
+msgid "Price Currency Position"
+msgstr "سعر العملة الموقف"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:256
+msgid "Price Delimeter"
+msgstr "سعر Delimeter"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:398
+msgid "Pricing Link"
+msgstr "التسعير الرابط"
+
+#: inc/wpcfto_conf.php:468
+msgid "Primary sidebar"
+msgstr "الشريط الجانبي الأساسي"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:138
+msgid "Profile Button Hover Background Color"
+msgstr "تعريف زر تحوم لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:164
+msgid "Profile Button Hover Text Color"
+msgstr "تعريف زر تحوم لون النص"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:128
+msgid "Profile Icon"
+msgstr "الرمز الشخصي"
+
+#: inc/wpcfto_conf/layout_conf/general_conf.php:24
+msgid "Public key"
+msgstr "المفتاح العام"
+
+#: stm-post-type/stm-post-type.php:330
+msgid "Rate 1"
+msgstr "معدل 1"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:116
+msgid "Rate 1 Label:"
+msgstr "معدل 1 التسمية:"
+
+#: stm-post-type/stm-post-type.php:335
+msgid "Rate 2"
+msgstr "معدل 2"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:129
+msgid "Rate 2 Label:"
+msgstr "معدل 2 التسمية:"
+
+#: stm-post-type/stm-post-type.php:340
+msgid "Rate 3"
+msgstr "معدل 3"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:141
+msgid "Rate 3 Label:"
+msgstr "معدل 3 التسمية:"
+
+#: inc/wpcfto_conf/layout_conf/general_conf.php:17
+msgid "reCaptcha (v3)"
+msgstr "اختبار reCaptcha (v3)"
+
+#: stm-post-type/stm-post-type.php:345
+msgid "Recommended"
+msgstr "أوصت"
+
+#: inc/wpcfto_conf.php:522
+msgid "Reddit"
+msgstr "رديت"
+
+#: stm-post-type/post_type.class.php:644
+msgid "Remove Image"
+msgstr "إزالة صورة"
+
+#: stm-post-type/post_type.class.php:196
+msgid "Remove PDF"
+msgstr "إزالة PDF"
+
+#: inc/wpcfto_conf.php:559
+msgid "Rental"
+msgstr "تأجير"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:398
+msgid "Request a Quote Link"
+msgstr "طلب اقتباس الرابط"
+
+#: inc/wpcfto_conf/layout_conf/rental_layout_conf.php:12
+msgid "Reservation Date Page"
+msgstr "تاريخ الحجز الصفحة"
+
+#: stm-post-type/rewrite.php:32 stm-post-type/rewrite.php:33
+msgid "Review"
+msgstr "استعراض"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_review.php:16
+msgid "Review pagination type"
+msgstr "استعراض نوع ترقيم الصفحات"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_review.php:22
+msgid "Review per page"
+msgstr "استعراض لكل صفحة"
+
+#: stm-post-type/stm-post-type.php:312
+msgid "Reviews"
+msgstr "استعراض"
+
+#: inc/wpcfto_conf.php:613 stm-post-type/stm-post-type.php:76
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:9
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:72
+msgid "Right"
+msgstr "صحيح"
+
+#: inc/widgets/contacts.php:99
+msgid "Sales Hours:"
+msgstr "مبيعات ساعات:"
+
+#: stm-post-type/rewrite.php:81
+msgid "Save settings"
+msgstr "حفظ الإعدادات"
+
+#: inc/widgets/schedule_showing.php:54
+msgid "Schedule a Showing"
+msgstr "جدولة عرض"
+
+#. Base ID.
+#: inc/widgets/schedule_showing.php:11
+msgid "Schedule Showing"
+msgstr "جدول عرض"
+
+#: inc/widgets/schedule_showing.php:12
+msgid "Schedule showing"
+msgstr "جدول عرض"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:436
+msgid "Search Button Hover Background Color"
+msgstr "زر البحث تحوم لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:458
+msgid "Search Button Hover Icon Color"
+msgstr "زر البحث تحوم رمز اللون"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:419
+msgid "Search Button Icon"
+msgstr "البحث زر رمز"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:361
+msgid "Secondary Phone 1"
+msgstr "الهاتف الثانوية 1"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:350
+msgid "Secondary Phone 1 Label"
+msgstr "الثانوية الهاتف 1 التسمية"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:337
+msgid "Secondary Phone 1 Label Color"
+msgstr "الثانوية الهاتف 1 التسمية اللون"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:396
+msgid "Secondary Phone 2"
+msgstr "الهاتف الثانوية 2"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:385
+msgid "Secondary Phone 2 Label"
+msgstr "الثانوية الهاتف 2 التسمية"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:372
+msgid "Secondary Phone 2 Label Color"
+msgstr "الثانوية الهاتف 2 لون التسمية"
+
+#: inc/wpcfto_conf/layout_conf/general_conf.php:33
+msgid "Secret key"
+msgstr "المفتاح السري"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:10
+msgid "See all the images in the gallery simply by hovering on the photo"
+msgstr "رؤية جميع الصور في معرض الصور ببساطة عن طريق تحوم على الصورة"
+
+#: stm-post-type/post_type.class.php:204 stm-post-type/post_type.class.php:373
+msgid "Select file"
+msgstr "حدد ملف"
+
+#: stm-post-type/stm-post-type.php:144
+msgid "Select Home Page"
+msgstr "حدد الصفحة الرئيسية"
+
+#: stm-post-type/post_type.class.php:651
+msgid "Select image"
+msgstr "حدد الصورة"
+
+#: inc/stm-swiper-slider.php:140
+msgid "Select listing categories to show on slides"
+msgstr "حدد قائمة الفئات تظهر على الشرائح"
+
+#: stm-post-type/stm-post-type.php:88
+msgid "Select Title Tag"
+msgstr "حدد علامة العنوان"
+
+#: stm-post-type/stm-post-type.php:272
+msgid "Seller`s note"
+msgstr "البائع ملاحظة"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:214
+msgid "Send Email to Dealer/Private Seller"
+msgstr "إرسال بريد إلكتروني إلى تاجر/بائع خاص"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:325
+msgid "Set Max Search Radius"
+msgstr "مجموعة ماكس دائرة نصف قطرها البحث"
+
+#: stm-post-type/stm-post-type.php:175
+msgid "Set Youtube Url"
+msgstr "تعيين Url يوتيوب"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:416
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:427
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:438
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:449
+msgid "Settings Available on Classified 1,2,3,4 Layouts"
+msgstr "الإعدادات المتاحة على تصنيف 1,2,3,4 تخطيطات"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_socials.php:19
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:507
+msgid "Settings Not Available For This Header Type"
+msgstr "إعدادات غير متوفرة هذا نوع رأس"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:343
+msgid "Settings Not Available For This Layout"
+msgstr "إعدادات غير متوفر على هذا التصميم"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:462
+msgid "Settings Not Available on This Layout"
+msgstr "إعدادات غير متوفرة على هذا التصميم"
+
+#: inc/wpcfto_conf/layout_conf/shop_conf.php:18
+msgid "Shop Sidebar Position"
+msgstr "متجر موقف الشريط الجانبي"
+
+#: stm-post-type/stm-post-type.php:83 stm-post-type/stm-post-type.php:127
+msgid "Show"
+msgstr "تظهر"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:522
+msgid "Show \"Calculate Payment\" Popup"
+msgstr "تظهر \"حساب الدفع\" المنبثقة"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:493
+msgid "Show \"Quote by Phone\""
+msgstr "عرض \"اقتباس عن طريق الهاتف\""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:511
+msgid "Show \"Trade Value\" Popup"
+msgstr "عرض \"قيمة التجارة\" المنبثقة"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:540
+msgid "Show \"VIN\" Link"
+msgstr "عرض \"فين\" الرابط"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:192
+msgid "Show Add a Car Button"
+msgstr "المعرض إضافة سيارة زر"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:164
+msgid "Show Address on Mobile"
+msgstr "عرض العنوان على الهاتف المحمول"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:30
+msgid "Show Calculator"
+msgstr "تظهر آلة حاسبة"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:43
+msgid "Show Cart"
+msgstr "تظهر عربة"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:113
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:558
+msgid "Show Certified Logo 1"
+msgstr "عرض شعار مصدقة 1"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:124
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:576
+msgid "Show Certified Logo 2"
+msgstr "عرض شعار مصدقة 2"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:20
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:85
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:446
+msgid "Show Compare"
+msgstr "تظهر مقارنة"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:138
+msgid "Show Currency Switcher"
+msgstr "عرض العملة الجلاد"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:292
+msgid "Show Email Button"
+msgstr "إظهار زر البريد الإلكتروني"
+
+#: inc/widgets/dealer_info.php:106
+msgid "Show Email button"
+msgstr "إظهار زر البريد الإلكتروني"
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:46
+msgid "Show Excerpt (for Grid View)"
+msgstr "عرض مقتطفات (على عرض الشبكة)"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:135
+msgid "Show Featured Button"
+msgstr "عرض مميز زر"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:259
+msgid "Show History"
+msgstr "عرض التاريخ"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:291
+msgid "Show Location/Include Location in Filter"
+msgstr "عرض الموقع/تشمل الموقع في تصفية"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:270
+msgid "Show Number"
+msgstr "عرض عدد"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:19
+msgid "Show Offer Price Button"
+msgstr "عرض سعر العرض زر"
+
+#: inc/widgets/address.php:30
+msgid "Show on map"
+msgstr "اعرض الخريطة"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:102
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:475
+msgid "Show PDF brochure"
+msgstr "عرض كتيب PDF"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:204
+msgid "Show Phone on Mobile"
+msgstr "تظهر على الهاتف المحمول"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:52
+msgid "Show Print Button"
+msgstr "إظهار زر الطباعة"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:116
+msgid "Show Profile"
+msgstr "عرض الملف الشخصي"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:41
+msgid "Show Published Date"
+msgstr "عرض تاريخ النشر"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:376
+msgid "Show Quote By Phone"
+msgstr "عرض المشاركة عن طريق الهاتف"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:248
+msgid "Show Registered Date"
+msgstr "تظهر المسجلة تاريخ"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:408
+msgid "Show Search Button"
+msgstr "إظهار زر البحث"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:157
+msgid "Show Search Results"
+msgstr "عرض نتائج البحث"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:91
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:457
+msgid "Show Share Block"
+msgstr "تظهر حصة كتلة"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:409
+msgid "Show Similar Cars by Parameter"
+msgstr "تظهر سيارات مماثلة من قبل المعلمة"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:74
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:410
+msgid "Show Stock"
+msgstr "تظهر الأسهم"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:63
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:428
+msgid "Show Test Drive Schedule"
+msgstr "عرض اختبار القيادة الجدول"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:8
+msgid "Show Trade In Button"
+msgstr "عرض التجارة في زر"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:373
+msgid "Show Two First Parameters as a Badge"
+msgstr "تظهر اثنين الأول المعلمات كشارة"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:146
+msgid "Show VIN"
+msgstr "تظهر فين"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:281
+msgid "Show WhatsApp Button"
+msgstr "إظهار زر WhatsApp"
+
+#: inc/widgets/dealer_info.php:94
+msgid "Show WhatsApp button"
+msgstr "إظهار زر WhatsApp"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:184
+msgid "Show Working Hours on Mobile"
+msgstr "عرض ساعات العمل على المحمول"
+
+#: stm-post-type/stm-post-type.php:35
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:35
+msgid "Sidebar Position"
+msgstr "موقف الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:387
+msgid "Single Car Page Background"
+msgstr "سيارة واحدة خلفية الصفحة"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:67
+msgid "Single Product Sidebar Position"
+msgstr "منتج واحد موقف الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:50
+msgid "Single Product Template"
+msgstr "منتج واحد قالب"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:107
+msgid "Site Background Color"
+msgstr "موقع لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:410
+msgid "Site Demo Mode"
+msgstr "الموقع طريقة العرض"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:172
+msgid "Site smooth scroll"
+msgstr "موقع التمرير السلس"
+
+#: inc/wpcfto_conf.php:526
+msgid "Skype"
+msgstr "سكايب"
+
+#: inc/stm-swiper-slider.php:62
+msgid "Slide"
+msgstr "الشريحة"
+
+#: inc/stm-swiper-slider.php:133
+msgid "Slide transition animation"
+msgstr "انتقال الشريحة المتحركة"
+
+#: inc/stm-swiper-slider.php:100
+msgid "Slider height"
+msgstr "ارتفاع المنزلق"
+
+#: inc/widgets/socials.php:70
+msgid "Social Network"
+msgstr "الشبكة الاجتماعية"
+
+#. Base ID.
+#: inc/widgets/socials.php:11 inc/wpcfto_conf/layout_conf/top_bar_conf.php:254
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:257
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:59
+#: inc/wpcfto_conf/layout_conf/header_sm_socials.php:15
+#: inc/wpcfto_conf/layout_conf/header_sm_socials.php:25
+msgid "Socials"
+msgstr "سيالز"
+
+#: inc/wpcfto_conf/layout_conf/socials_conf.php:11
+msgid "Socials Links"
+msgstr "سيالز الروابط"
+
+#: inc/widgets/socials.php:12
+msgid ""
+"Socials widget(customize order from theme options -> Social Media section -> "
+"Social Widget subsection )"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:622
+msgid "Sold Badge Background Color"
+msgstr "بيع شارة لون الخلفية"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:613
+msgid "Sold Listings"
+msgstr "تباع القوائم"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:184
+msgid "Sort Options"
+msgstr "خيارات الفرز"
+
+#: inc/wpcfto_conf.php:523
+msgid "Soundcloud"
+msgstr "ساوند كلاود"
+
+#: inc/stm-swiper-slider.php:123
+msgid "Start over when slides end"
+msgstr "البدء من جديد عند نهاية الشرائح"
+
+#: inc/stm-swiper-slider.php:107
+msgid "Start slider on page load"
+msgstr "بداية المنزلق على صفحة التحميل"
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:167
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:169
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:193
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:218
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:464
+msgid "Sticky"
+msgstr "مثبت"
+
+#: inc/widgets/address.php:13
+msgid "STM Address"
+msgstr "STM عنوان"
+
+#: inc/widgets/address.php:7
+msgid "STM Address widget"
+msgstr "STM عنوان القطعة"
+
+#: inc/widgets/text-widget.php:8
+msgid "STM Arbitrary text or HTML."
+msgstr "STM التعسفي نص أو HTML."
+
+#: inc/widgets/car_calculator.php:7 inc/widgets/car_calculator.php:13
+msgid "STM Auto loan Calculator"
+msgstr "STM السيارات القرض حاسبة"
+
+#: inc/widgets/car_trade_offer_btns.php:7
+#: inc/widgets/car_trade_offer_btns.php:13
+msgid "STM Car Trade and Offer Buttons"
+msgstr "STM تجارة السيارات و نقدم أزرار"
+
+#: inc/widgets/classified-four-car-data.php:15
+msgid "STM Classified Four Car Data"
+msgstr "STM تصنيف أربعة بيانات السيارة"
+
+#: inc/widgets/classified-four-car-data.php:9
+msgid "STM Classified Four Car Data widget"
+msgstr "STM تصنيف أربع سيارات بيانات القطعة"
+
+#: inc/widgets/classified-four-price-view.php:13
+msgid "STM Classified Four Price View"
+msgstr "STM تصنيف أربعة سعر عرض"
+
+#: inc/widgets/classified-four-price-view.php:7
+msgid "STM Classified Four Price widget"
+msgstr "STM تصنيف أربعة سعر القطعة"
+
+#: inc/widgets/dealer_info.php:7 inc/widgets/dealer_info.php:13
+msgid "STM Dealer Info"
+msgstr "STM تاجر معلومات"
+
+#: inc/widgets/latest-posts.php:9
+msgid "STM Last Post"
+msgstr "STM آخر مشاركة"
+
+#: inc/widgets/car-contact-form.php:7 inc/widgets/car-contact-form.php:13
+msgid "STM Listing Car Form"
+msgstr "STM القائمة سيارة شكل"
+
+#. Name of the plugin
+msgid "STM Motors Extends"
+msgstr "STM موتورز يمتد"
+
+#. Description of the plugin
+msgid "STM Motors Extends WordPress Plugin"
+msgstr "STM موتورز يمتد وورد البرنامج المساعد"
+
+#: stm-post-type/rewrite.php:7
+msgid "STM Post Types"
+msgstr "STM أنواع آخر"
+
+#: inc/widgets/latest-posts.php:40
+msgid "STM Recent Posts"
+msgstr "STM المشاركات الأخيرة"
+
+#: inc/widgets/recomended_for_you.php:10
+msgid "STM Recomended For You"
+msgstr "STM أوصت لك"
+
+#: inc/widgets/recomended_for_you.php:41
+msgid "STM Recomended Posts"
+msgstr "STM أوصت المشاركات"
+
+#: inc/widgets/similar_cars.php:7 inc/widgets/similar_cars.php:13
+msgid "STM Similar Cars"
+msgstr "STM سيارات مماثلة"
+
+#: inc/stm-swiper-slider.php:81 inc/stm-swiper-slider.php:86
+msgid "STM Swiper Slider"
+msgstr "STM Swiper المنزلق"
+
+#: inc/widgets/text-widget.php:14
+msgid "STM Text"
+msgstr "STM النص"
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#: stm-post-type/stm-post-type.php:96
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+#: stm-post-type/stm-post-type.php:112
+msgid "Sub Title Font Color"
+msgstr "العنوان الفرعي لون الخط"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:87
+msgid "SubMenu Font Family"
+msgstr "القائمة الفرعية عائلة الخط"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:44
+msgid "Subtitle"
+msgstr "الترجمة"
+
+#: inc/stm-swiper-slider.php:87
+msgid "Swiper Slider"
+msgstr "Swiper المنزلق"
+
+#: inc/stm-swiper-slider.php:146 inc/stm-swiper-slider.php:151
+msgid "Swiper Slides"
+msgstr "Swiper الشرائح"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:53
+msgid "Template With Sidebar"
+msgstr "قالب مع الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:54
+msgid "Template Without Sidebar"
+msgstr "قالب من دون الشريط الجانبي"
+
+#: stm-post-type/stm-post-type.php:47
+msgid "Test Drive Requests"
+msgstr "اختبار محرك الأقراص الطلبات"
+
+#: stm-post-type/stm-post-type.php:49
+msgid "Test drives"
+msgstr "اختبار محركات الأقراص"
+
+#: inc/stm-swiper-slider.php:169
+msgid "Text"
+msgstr "النص"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:39
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:310
+msgid "Text Color"
+msgstr "لون النص"
+
+#: stm-post-type/stm-post-type.php:163
+msgid "Text instead Title"
+msgstr "النص بدلا من ذلك العنوان"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:45
+msgid "Text Logo Font Family"
+msgstr "النص شعار عائلة الخط"
+
+#: inc/widgets/schedule_showing.php:99
+msgid "Text:"
+msgstr "النص:"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:20
+msgid "The height of the image will increase proportionately"
+msgstr "ارتفاع الصورة سوف تزيد بشكل متناسب"
+
+#: inc/wpcfto_conf.php:45 inc/wpcfto_conf.php:49
+msgid "Theme Options"
+msgstr "خيارات الموضوع"
+
+#: inc/wpcfto_conf.php:104
+msgid "Theme options"
+msgstr "خيارات الموضوع"
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:44
+msgid "Theme Skin"
+msgstr "موضوع الجلد"
+
+#: stm-post-type/stm-post-type.php:80
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:40
+msgid "Title background"
+msgstr "العنوان الخلفية"
+
+#: stm-post-type/stm-post-type.php:67
+msgid "Title Box"
+msgstr "العنوان صندوق"
+
+#: inc/widgets/address.php:65 inc/widgets/text-widget.php:78
+#: inc/widgets/contacts.php:87 inc/widgets/car_location.php:64
+#: inc/widgets/car_trade_offer_btns.php:37
+#: inc/widgets/recomended_for_you.php:135 inc/widgets/similar_cars.php:39
+#: inc/widgets/dealer_info.php:70 inc/widgets/latest-posts.php:139
+#: inc/widgets/socials.php:75 inc/widgets/schedule_showing.php:95
+#: inc/widgets/car-contact-form.php:86 inc/widgets/car_calculator.php:49
+msgid "Title:"
+msgstr "العنوان:"
+
+#: inc/widgets/classified-four-car-data.php:30
+msgid "Trade in form"
+msgstr "التجارة في شكل"
+
+#: stm-post-type/stm-post-type.php:63
+msgid "Transparent Header"
+msgstr "رأس شفاف"
+
+#: inc/wpcfto_conf.php:529
+msgid "Tumblr"
+msgstr "نعرفكم"
+
+#: inc/wpcfto_conf.php:510
+msgid "Twitter"
+msgstr "تويتر"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:302
+msgid "Unit Measurement"
+msgstr "وحدة القياس"
+
+#: stm-post-type/stm-post-type.php:183
+msgid "Url"
+msgstr "Url"
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:94
+msgid "Use Boats Filter Style"
+msgstr "استخدام القوارب تصفية نمط"
+
+#: inc/widgets/car_location.php:12
+msgid ""
+"Use this widget on single listing page to display Google Map with car "
+"location."
+msgstr "استخدم هذه القطعة في صفحة قائمة واحدة لعرض خريطة جوجل مع موقع السيارة."
+
+#: stm-post-type/stm-post-type.php:320
+msgid "User added by"
+msgstr "إضافة المستخدم من قبل"
+
+#: stm-post-type/stm-post-type.php:325
+msgid "User added on"
+msgstr "وأضاف المستخدم على"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:64
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:81
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:162
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:174
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:233
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:423
+msgid "User Options"
+msgstr "خيارات المستخدم"
+
+#: inc/helpers.php:445
+msgid "User paid for submission. User ID:"
+msgstr "المستخدم دفع لتقديمها. معرف المستخدم:"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:68
+msgid "User Sidebar Position"
+msgstr "المستخدم موقف الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:166
+msgid "User Slot Images Upload Limit:"
+msgstr "المستخدم فتحة صور تحميل حد:"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:154
+msgid "User Slots Limit:"
+msgstr "المستخدم فتحات الحد:"
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:461
+msgid "User/Dealer"
+msgstr "المستخدم/تاجر"
+
+#: stm-post-type/stm-post-type.php:357
+msgid "Value My Car"
+msgstr "قيمة سيارتي"
+
+#: inc/widgets/classified-four-car-data.php:160
+msgid "Vin"
+msgstr "فين"
+
+#: inc/wpcfto_conf.php:511
+msgid "VK"
+msgstr "VK"
+
+#: inc/wpcfto_conf.php:530
+msgid "Whatsapp"
+msgstr "ال Whatsapp"
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:20
+msgid "Widget Areas"
+msgstr "المناطق القطعة"
+
+#: inc/wpcfto_conf.php:467
+msgid "Without sidebar"
+msgstr "من دون الشريط الجانبي"
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:45
+msgid "Woocommerce needed"
+msgstr "Woocommerce حاجة"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:173
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:177
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:180
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:187
+msgid "Working Hours"
+msgstr "ساعات العمل"
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:171
+msgid "Working Hours Icon"
+msgstr "ساعات العمل أيقونة"
+
+#: inc/wpcfto_conf.php:519
+msgid "Yahoo"
+msgstr "ياهو"
+
+#. settings page URL
+#: inc/helpers.php:166
+#, php-format
+msgid "You can add slides and configure settings <a href=\"%s\">here</a>."
+msgstr ""
+
+#: inc/widgets/latest-posts.php:7
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: inc/widgets/recomended_for_you.php:8
+msgid "Your site&#8217;s most recomended Posts."
+msgstr ""
+
+#: inc/wpcfto_conf.php:527
+msgid "Youtube"
+msgstr "يوتيوب"
+
+#: inc/wpcfto_conf.php:528
+msgid "Youtube Play"
+msgstr "يوتيوب اللعب"

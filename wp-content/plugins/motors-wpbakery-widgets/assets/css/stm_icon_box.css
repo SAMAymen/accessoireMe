@@ -1,0 +1,145 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+.icon-box-link {
+    text-decoration: none !important;
+}
+
+.icon-box {
+    position: relative;
+    padding: 46px 50px 48px 34px;
+    color: #232628;
+    z-index: 10;
+    display: flex;
+}
+
+@media (max-width: 991px) {
+    .icon-box {
+        padding-right: 25px;
+    }
+}
+
+.icon-box:after {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.9;
+    z-index: -2;
+}
+
+.icon-box:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    opacity: 0;
+}
+
+.icon-box .icon {
+    float: left;
+    margin-top: 11px;
+    margin-right: 27px;
+    color: #cc6119;
+    align-self: flex-start;
+}
+
+@media (max-width: 1025px) {
+    .icon-box .icon {
+        display: inline-block;
+        float: none;
+        margin: 10px 20px 10px 15px;
+        min-height: 54px;
+    }
+}
+
+@media (max-width: 991px) {
+    .icon-box .icon {
+        display: inline-block;
+        float: none;
+        margin-top: 0 !important;
+        margin-bottom: 15px !important;
+        min-height: 54px;
+    }
+}
+
+.icon-box .icon-text {
+    overflow: hidden;
+}
+
+.icon-box .icon-text h2 {
+    line-height: 34px;
+}
+
+.icon-box .icon-text h3.title {
+    margin-bottom: 12px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 28px;
+}
+
+.icon-box .icon-text h4.title {
+    font-weight: 700;
+}
+
+.icon-box .icon-text h5 {
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.icon-box .icon-text h6.title {
+    margin-bottom: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.icon-box .icon-text .content {
+    font-size: 13px;
+}
+
+@media (max-width: 991px) {
+    .icon-box .icon-text .content {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 767px) {
+    .icon-box .icon-text .content {
+        font-size: 14px;
+    }
+}
+
+.icon-box .icon-text .content p, .icon-box .icon-text .content span {
+    line-height: 18px;
+}
+
+.icon-box .icon-text a {
+    display: inline-block;
+}
+
+.icon-box .icon-box-bottom-triangle {
+    margin-top: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-right: 55px solid #fab637;
+    transform: skew(0deg, 23deg);
+}
+
+.icon-box:hover:before {
+    opacity: 1;
+}

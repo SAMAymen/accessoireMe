@@ -1,0 +1,75 @@
+.stm-wcmap-info-box {
+    max-width: 100%;
+    width: auto;
+}
+
+.stm-wcmap-info-box .inner {
+    background-size: cover;
+    background-position: 100% 0%;
+    padding: 48px 35px 29px 38px;
+    box-shadow: inset 0 0 92px rgba(0, 0, 0, 0.1);
+}
+
+.stm-wcmap-info-box .inner .title {
+    padding-right: 45px;
+    font-size: 30px;
+    line-height: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.stm-wcmap-info-box .inner .stm-ap-price {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    min-width: 108px;
+    margin-bottom: 6px;
+    padding: 12px 5px 11px 2px;
+    font-weight: 900;
+}
+
+.stm-wcmap-info-box .inner .stm-ap-price .price-label {
+    margin-bottom: 1px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+.stm-wcmap-info-box .inner .stm-ap-price .price-value {
+    font-size: 48px;
+}
+
+.stm-wcmap-info-box .inner .content {
+    color: #555555;
+}
+
+.stm-wcmap-info-box .inner .content ul {
+    list-style: none;
+    padding: 0;
+}
+
+.stm-wcmap-info-box .inner .content ul li {
+    position: relative;
+    padding-left: 11px;
+    margin-bottom: 0;
+    font-size: 13px;
+    line-height: 25px;
+}
+
+.stm-wcmap-info-box .inner .content ul li a {
+    color: #555555;
+}
+
+.stm-wcmap-info-box .inner .content ul li:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 10px;
+    left: 0;
+    width: 3px;
+    height: 3px;
+    background-color: #555;
+    border-radius: 50%;
+}

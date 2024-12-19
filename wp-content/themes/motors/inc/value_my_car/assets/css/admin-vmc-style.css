@@ -1,0 +1,251 @@
+.vmc-main-wrap .vmc-top-bar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 200px;
+}
+.vmc-main-wrap .vmc-top-bar .vmc-action-wrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
+.vmc-main-wrap .vmc-top-bar .vmc-action-wrap form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.vmc-main-wrap .vmc-top-bar .vmc-action-wrap form:last-child {
+  margin-left: 15px;
+}
+.vmc-main-wrap .vmc-top-bar .vmc-action-wrap form select {
+  min-width: 100px;
+}
+.vmc-main-wrap .vmc-top-bar .vmc-action-wrap form input[type=submit] {
+  margin-left: 5px;
+}
+.vmc-main-wrap table {
+  text-align: left;
+  border-spacing: 0;
+  min-width: 88%;
+}
+.vmc-main-wrap table tr.vmc-accepted {
+  background: #5c9ccc;
+}
+.vmc-main-wrap table tr.vmc-declined {
+  opacity: 0.5;
+}
+.vmc-main-wrap table tr th {
+  font-size: 16px;
+  padding: 10px;
+  border-bottom: solid 1px #cccccc;
+}
+.vmc-main-wrap table tr > td {
+  border-bottom: solid 1px #cccccc;
+}
+.vmc-main-wrap table tr td {
+  padding: 10px;
+}
+.vmc-main-wrap table tr td.hide-btn button {
+  visibility: hidden;
+}
+.vmc-main-wrap table tr td ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.vmc-main-wrap table tr td ul li {
+  padding: 0;
+  margin: 0 5px;
+}
+.vmc-main-wrap table tr td ul li img {
+  max-width: 100px;
+  height: auto;
+}
+.vmc-main-wrap table tr td table {
+  min-width: inherit;
+}
+.vmc-main-wrap table tr td table tr td {
+  padding: 0;
+  border-bottom: 0;
+}
+.vmc-main-wrap table tr td button {
+  margin: 0 5px !important;
+}
+.vmc-main-wrap .vmc-modal-wrap {
+  display: none;
+}
+.vmc-main-wrap .vmc-modal-wrap .vmc-modal-overlay {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 10;
+}
+.vmc-main-wrap .vmc-modal-wrap .vmc-modal {
+  display: block;
+  width: 300px;
+  overflow: hidden;
+  padding: 40px;
+  background: #ffffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  z-index: 20;
+}
+.vmc-main-wrap .vmc-modal-wrap .vmc-modal form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+.vmc-main-wrap .vmc-modal-wrap .vmc-modal form label {
+  margin-top: 10px;
+}
+.vmc-main-wrap .vmc-modal-wrap .vmc-modal form label:first-child {
+  margin-top: 0;
+}
+.vmc-main-wrap .vmc-modal-wrap .vmc-modal form input[type=submit] {
+  margin-top: 10px;
+}
+
+.row > .column {
+  padding: 0 8px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Create four equal columns that floats next to eachother */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 50px;
+  left: 50%;
+  top: 50%;
+  width: 70%;
+  height: 80%;
+  overflow: auto;
+  background-color: black;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  margin: auto;
+  padding: 0;
+  width: 90%;
+  max-width: 1200px;
+  max-height: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Hide the slides by default */
+.mySlides {
+  display: none;
+}
+.mySlides img {
+  /*min-height: 500px;*/
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Caption text */
+.caption-container {
+  text-align: center;
+  background-color: black;
+  padding: 2px 16px;
+  color: white;
+}
+
+img.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+img.hover-shadow {
+  transition: 0.3s;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*# sourceMappingURL=admin-vmc-style.css.map */

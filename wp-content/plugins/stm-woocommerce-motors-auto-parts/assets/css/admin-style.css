@@ -1,0 +1,23 @@
+.stm-choose-wcmap-image {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.stm-choose-wcmap-image img {
+    display: block;
+    max-width: 60px;
+    margin-right: 10px;
+}
+
+.wpb_stm_apt_ta_tabs > .vc_controls {
+    opacity: 1 !important;
+    visibility: visible;
+    position: relative;
+    height: 23px;
+    margin: 18px 0 2px 0;
+    border: 1px dotted #e6e6e6;
+    border-bottom-width: 0;
+}

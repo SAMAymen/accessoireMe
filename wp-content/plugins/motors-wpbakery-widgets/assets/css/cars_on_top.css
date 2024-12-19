@@ -1,0 +1,408 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+.stm_cars_on_top h2 {
+    margin-bottom: 34px;
+}
+
+.stm_cars_on_top .row.car-listing-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop {
+    margin-bottom: 14px;
+    margin-top: 13px;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop:nth-child(1) {
+    margin-top: 0;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop:nth-child(2) {
+    margin-top: 0;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop:nth-child(3) {
+    margin-top: 0;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop:nth-child(4) {
+    margin-top: 0;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .listing-car-item-meta {
+    padding-top: 15px;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .listing-car-item-meta .car-meta-top {
+    padding-bottom: 3px;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .listing-car-item-meta .car-meta-bottom {
+    padding-bottom: 22px;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image {
+    position: relative;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .special-label,
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-badge-directory,
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-badge-directory.heading-font {
+    position: absolute;
+    right: -65px;
+    left: unset;
+    padding: 0 55px;
+    top: 20px;
+    width: 200px;
+    height: 33px;
+    line-height: 33px;
+    transform: rotate(45deg);
+    background-color: #6c98e1;
+    color: #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    z-index: 20;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-listing-compare,
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-listing-favorite {
+    position: absolute;
+    right: 7px;
+    bottom: 7px;
+    padding: 3px 5px;
+    background: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-size: 14px;
+    border-radius: 2px;
+    opacity: 0;
+    z-index: 20;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-listing-compare:hover,
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-listing-favorite:hover {
+    cursor: pointer;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-listing-compare.active,
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-listing-favorite.active {
+    background: #6c98e1;
+    opacity: 1;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-listing-favorite {
+    left: 7px;
+    right: unset;
+    padding: 3px 5px 3px 6px;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-car-medias {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    z-index: 20;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-car-medias > div {
+    display: inline-block;
+    margin-right: 9px;
+    padding: 2px 5px 0 6px;
+    border-radius: 2px;
+    background: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-size: 11px;
+    line-height: 22px;
+    font-weight: 600;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-car-medias > div i {
+    font-size: 12px;
+    margin-right: 2px;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-car-medias > div span {
+    position: relative;
+    top: -1px;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-car-medias > div:hover {
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image .stm-car-medias > div.stm-listing-videos-unit i {
+    position: relative;
+    top: -1px;
+    left: 1px;
+    margin-right: 3px;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .image:hover .stm-listing-compare, .stm_cars_on_top .row .stm-directory-grid-loop .image:hover .stm-listing-favorite, .stm_cars_on_top .row .stm-directory-grid-loop .image:hover .stm-car-medias {
+    opacity: 1;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .listing-car-item-meta .car-meta-top .sell-online-wrap .normal-price {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .listing-car-item-meta .car-meta-top .sell-online-wrap .normal-price .normal_font {
+    font-size: 10px;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 12px;
+    margin: 0;
+    padding: 0;
+    opacity: 0.7;
+}
+
+.stm_cars_on_top .row .stm-directory-grid-loop .listing-car-item-meta .car-meta-top .sell-online-wrap .normal-price .heading-font {
+    line-height: 16px;
+    margin: 5px 0 0;
+    color: #ffffff;
+}
+
+.stm_cars_on_top .btn-wrap {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.stm_cars_on_top .btn-wrap a.button {
+    display: inline-block;
+}
+
+@media (max-width: 991px) {
+    .stm_cars_on_top .car-listing-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 768px) {
+    .stm_cars_on_top .car-listing-row {
+        display: block;
+    }
+
+    .stm_cars_on_top .car-listing-row .stm-directory-grid-loop:nth-child(4) {
+        margin-top: 13px !important;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 736px) {
+    .stm_cars_on_top .car-listing-row .col-md-4 {
+        width: 50%;
+    }
+
+    .stm_cars_on_top .car-listing-row .col-md-4 a .image img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .stm_cars_on_top .car-listing-row a .image img {
+        width: 100%;
+    }
+}
+
+.stm_cars_on_top.stm-reduced-cars .car-listing-row .car-meta-bottom ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.stm-template-ev_dealer .stm_cars_on_top .image img {
+    -o-object-fit: cover;
+    object-fit: cover;
+    min-width: 100%;
+}
+
+.stm-template-ev_dealer .stm_cars_on_top .stm-directory-grid-loop .image .special-label,
+.stm-template-ev_dealer .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory,
+.stm-template-ev_dealer .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory.heading-font {
+    background-color: #0d46ff !important;
+}
+
+.stm-template-ev_dealer .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-compare.active,
+.stm-template-ev_dealer .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-favorite.active {
+    background: #0d46ff !important;
+}
+
+.stm-template-motorcycle .stm_cars_on_top .image {
+    overflow: hidden;
+}
+
+.stm-template-motorcycle .stm_cars_on_top .image .special-label {
+    top: 25px !important;
+    right: -85px !important;
+}
+
+.stm-template-motorcycle .stm_cars_on_top .image img {
+    -o-object-fit: cover;
+    object-fit: cover;
+    min-width: 100%;
+}
+
+.stm-template-motorcycle .stm_cars_on_top .stm-directory-grid-loop .image .special-label,
+.stm-template-motorcycle .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory,
+.stm-template-motorcycle .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory.heading-font {
+    background-color: #df1d1d !important;
+}
+
+.stm-template-motorcycle .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-compare.active,
+.stm-template-motorcycle .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-favorite.active {
+    background: #df1d1d !important;
+}
+
+.stm-template-boats .stm_cars_on_top .stm-directory-grid-loop .image .special-label,
+.stm-template-boats .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory,
+.stm-template-boats .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory.heading-font {
+    background-color: #ceac61 !important;
+}
+
+.stm-template-boats .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-compare.active,
+.stm-template-boats .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-favorite.active {
+    background: #ceac61 !important;
+}
+
+.stm-template-listing .stm_cars_on_top .stm-directory-grid-loop .image .special-label,
+.stm-template-listing .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory,
+.stm-template-listing .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory.heading-font {
+    background-color: #1bc744 !important;
+}
+
+.stm-template-listing .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-compare.active,
+.stm-template-listing .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-favorite.active {
+    background: #1bc744 !important;
+}
+
+.stm-template-listing_three .stm_cars_on_top .stm-directory-grid-loop .image .special-label,
+.stm-template-listing_three .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory,
+.stm-template-listing_three .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory.heading-font {
+    background-color: #1bc744 !important;
+}
+
+.stm-template-listing_three .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-compare.active,
+.stm-template-listing_three .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-favorite.active {
+    background: #1bc744 !important;
+}
+
+.stm-template-listing_five .stm_cars_on_top .stm-directory-grid-loop .image .special-label,
+.stm-template-listing_five .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory,
+.stm-template-listing_five .stm_cars_on_top .stm-directory-grid-loop .image .stm-badge-directory.heading-font {
+    background-color: #ff2325 !important;
+}
+
+.stm-template-listing_five .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-compare.active,
+.stm-template-listing_five .stm_cars_on_top .stm-directory-grid-loop .image .stm-listing-favorite.active {
+    background: #ff2325 !important;
+}
+
+.stm-template-equipment .stm_cars_on_top .special-label {
+    top: 25px !important;
+    right: -82px !important;
+}
+
+.stm-hoverable-interactive-galleries .stm_cars_on_top .image:before, .stm-hoverable-interactive-galleries .stm_cars_on_top .image:after {
+    display: none;
+}
+
+.stm-hoverable-interactive-galleries .stm_cars_on_top .image .interactive-hoverable {
+    min-width: 255px;
+    min-height: 186px;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries .stm_cars_on_top .image .interactive-hoverable {
+        min-height: 160px;
+    }
+}
+
+.stm-hoverable-interactive-galleries .stm_cars_on_top .image .interactive-hoverable .hoverable-wrap {
+    z-index: 1;
+    overflow: hidden;
+}
+
+.stm-hoverable-interactive-galleries .stm_cars_on_top .image .stm-listing-compare,
+.stm-hoverable-interactive-galleries .stm_cars_on_top .image .stm-listing-favorite {
+    bottom: 14px !important;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-ev_dealer .stm_cars_on_top .image .interactive-hoverable {
+    min-height: 185px;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries.stm-template-ev_dealer .stm_cars_on_top .image .interactive-hoverable {
+        min-height: 170px;
+    }
+}
+
+.stm-hoverable-interactive-galleries.stm-template-car_dealer_two .stm_cars_on_top .image .interactive-hoverable {
+    min-height: 185px;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries.stm-template-car_dealer_two .stm_cars_on_top .image .interactive-hoverable {
+        min-height: 142px;
+    }
+}
+
+.stm-hoverable-interactive-galleries.stm-template-boats .stm_cars_on_top .image .stm-listing-compare,
+.stm-hoverable-interactive-galleries.stm-template-boats .stm_cars_on_top .image .stm-compare-directory-new {
+    top: 7px !important;
+    width: 26px;
+    line-height: 17px;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-listing_two .stm_cars_on_top .image .interactive-hoverable {
+    min-height: 185px !important;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries.stm-template-listing_two .stm_cars_on_top .image .interactive-hoverable {
+        min-height: 136px !important;
+    }
+}
+
+.stm-hoverable-interactive-galleries.stm-template-listing_three .stm_cars_on_top .image .interactive-hoverable {
+    min-height: 186px;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries.stm-template-listing_three .stm_cars_on_top .image .interactive-hoverable {
+        min-height: 149px;
+    }
+}
+
+.stm-hoverable-interactive-galleries.stm-template-listing_three .stm_cars_on_top .rmv_txt_drctn img {
+    width: 100%;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-listing_three .stm_cars_on_top .row-3 .image .interactive-hoverable {
+    min-height: 205px;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-listing_five .stm_cars_on_top .image .interactive-hoverable {
+    min-height: 185px;
+}
+
+@media (min-width: 768px) {
+    .stm-hoverable-interactive-galleries.stm-template-listing_five .stm_cars_on_top .image .interactive-hoverable {
+        min-height: 160px;
+    }
+}
+
+.stm-hoverable-interactive-galleries.stm-template-listing_five .stm_cars_on_top .rmv_txt_drctn img {
+    width: 100%;
+}

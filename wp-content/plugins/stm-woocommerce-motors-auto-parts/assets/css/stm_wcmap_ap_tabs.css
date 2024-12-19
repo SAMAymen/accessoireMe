@@ -1,0 +1,80 @@
+.stm_wcmap_ap_tabs_wrap {
+    padding: 0 15px !important;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2px;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap h2.heading-title {
+    padding: 0;
+    margin: 0;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap .vc_tta-tabs-container {
+    overflow: visible !important;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap .vc_tta-tabs-container .vc_tta-tabs-list {
+    overflow: visible !important;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab {
+    margin-left: 30px;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab:first-child {
+    margin-left: 0;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active a {
+    display: block;
+    background: #8f9fad;
+    overflow: visible;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active a:after {
+    content: "";
+    display: block !important;
+    width: 10px;
+    height: 10px;
+    border-top: 6px solid #8f9fad;
+    border-left: 7px solid transparent !important;
+    border-right: 7px solid transparent !important;
+    position: absolute;
+    bottom: 0;
+    left: 50% !important;
+    transform: translateX(-50%);
+    z-index: 10;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active a .vc_tta-title-text {
+    color: #ffffff;
+    border-bottom-color: transparent;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab a {
+    display: block;
+    padding: 10px 30px;
+    margin: 0;
+    border: 0;
+    position: relative;
+}
+
+.stm_wcmap_ap_tabs_wrap .stm_nav_title_wrap .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab a .vc_tta-title-text {
+    font-size: 14px;
+    display: block;
+    font-weight: 300;
+}
+
+.stm_wcmap_ap_tabs_wrap .vc_tta-panel-body {
+    padding: 0 !important;
+    margin-top: 15px;
+    border: 0 !important;
+    overflow: visible !important;
+}

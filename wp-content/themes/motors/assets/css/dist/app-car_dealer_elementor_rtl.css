@@ -1,0 +1,7 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+.rmv_txt_drctn:hover .image:before {
+    opacity: 0;
+}

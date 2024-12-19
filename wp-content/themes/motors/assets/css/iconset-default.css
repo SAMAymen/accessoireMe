@@ -1,0 +1,356 @@
+@font-face {
+	font-family: 'stm-icon';
+	src:	url('../fonts/default-icon-font/stm-icon.eot?3bstzn');
+	src:	url('../fonts/default-icon-font/stm-icon.eot?3bstzn#iefix') format('embedded-opentype'),
+			url('../fonts/default-icon-font/stm-icon.ttf?3bstzn') format('truetype'),
+			url('../fonts/default-icon-font/stm-icon.woff?3bstzn') format('woff'),
+			url('../fonts/default-icon-font/stm-icon.svg?3bstzn#stm-icon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^="stm-icon-"], [class*=" stm-icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'stm-icon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: 400;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.stm-icon-phone-o:before {
+	content: "\e954";
+}
+.stm-icon-whatsapp:before {
+	content: "\e953";
+	color: #45c655;
+}
+.stm-icon-album:before {
+	content: "\e952";
+}
+.stm-icon-steering-wheel-thin:before {
+	content: "\e950";
+}
+.stm-icon-pin-o:before {
+	content: "\e951";
+}
+.stm-icon-hexagon-fill:before {
+	content: "\e94f";
+}
+.stm-icon-battery:before {
+	content: "\e938";
+}
+.stm-icon-brochures:before {
+	content: "\e939";
+}
+.stm-icon-charge-bolt:before {
+	content: "\e93a";
+}
+.stm-icon-checked:before {
+	content: "\e93b";
+}
+.stm-icon-twisted-plug:before {
+	content: "\e93c";
+}
+.stm-icon-light-envelope:before {
+	content: "\e93d";
+}
+.stm-icon-location-flag:before {
+	content: "\e93e";
+}
+.stm-icon-speedometr-advance:before {
+	content: "\e93f";
+}
+.stm-icon-no-oil-sign:before {
+	content: "\e940";
+}
+.stm-icon-charging-cost:before {
+	content: "\e941";
+}
+.stm-icon-hexagon-right:before {
+	content: "\e942";
+}
+.stm-icon-hexagon-left:before {
+	content: "\e943";
+}
+.stm-icon-light-circle-check:before {
+	content: "\e944";
+}
+.stm-icon-light-zoom-in:before {
+	content: "\e945";
+}
+.stm-icon-close-times:before {
+	content: "\e946";
+}
+.stm-icon-leaf:before {
+	content: "\e947";
+}
+.stm-icon-percentage:before {
+	content: "\e948";
+}
+.stm-icon-share-social:before {
+	content: "\e949";
+}
+.stm-icon-shopping-cart-1:before {
+	content: "\e94a";
+}
+.stm-icon-speedometer-circular-tool:before {
+	content: "\e94b";
+}
+.stm-icon-telephone:before {
+	content: "\e94c";
+}
+.stm-icon-electric-engine:before {
+	content: "\e94d";
+}
+.stm-icon-car-spin:before {
+	content: "\e94e";
+}
+.stm-icon-speedometr2:before {
+	content: "\e800";
+}
+.stm-icon-shop_bag:before {
+	content: "\e801";
+}
+.stm-icon-chat2:before {
+	content: "\e802";
+}
+.stm-icon-car:before {
+	content: "\e803";
+}
+.stm-icon-car_search:before {
+	content: "\e804";
+}
+.stm-icon-label:before {
+	content: "\e805";
+}
+.stm-icon-speedometr:before {
+	content: "\e806";
+}
+.stm-icon-chat:before {
+	content: "\e807";
+}
+.stm-icon-application:before {
+	content: "\e808";
+}
+.stm-icon-message:before {
+	content: "\e809";
+}
+.stm-icon-car_sale:before {
+	content: "\e80a";
+}
+.stm-icon-phone:before {
+	content: "\e80b";
+}
+.stm-icon-label-reverse:before {
+	content: "\e80c";
+}
+.stm-icon-transmission:before {
+	content: "\e80d";
+}
+.stm-icon-fuel:before {
+	content: "\e80e";
+}
+.stm-icon-road:before {
+	content: "\e80f";
+}
+.stm-icon-search:before {
+	content: "\e810";
+}
+.stm-icon-reset:before {
+	content: "\e811";
+}
+.stm-icon-phone2:before {
+	content: "\e812";
+}
+.stm-icon-question:before {
+	content: "\e813";
+}
+.stm-icon-steering_wheel:before {
+	content: "\e814";
+}
+.stm-icon-gear:before {
+	content: "\e901";
+}
+.stm-icon-key:before {
+	content: "\e908";
+}
+.stm-icon-calendar:before {
+	content: "\e90b";
+}
+.stm-icon-oil:before {
+	content: "\e90c";
+}
+.stm-icon-diagnostic:before {
+	content: "\e90d";
+}
+.stm-icon-Tire_Wheel_Service2:before {
+	content: "\e90e";
+}
+.stm-icon-Tire_Wheel_Service:before {
+	content: "\e90f";
+}
+.stm-icon-auto_loan:before {
+	content: "\e910";
+}
+.stm-icon-engine:before {
+	content: "\e911";
+}
+.stm-icon-speedometr3:before {
+	content: "\e912";
+}
+.stm-icon-transmission2:before {
+	content: "\e913";
+}
+.stm-icon-mail:before {
+	content: "\e914";
+}
+.stm-icon-pin:before {
+	content: "\e915";
+}
+.stm-icon-delete:before {
+	content: "\e916";
+}
+.stm-icon-share:before {
+	content: "\e917";
+}
+.stm-icon-calculator:before {
+	content: "\e918";
+}
+.stm-icon-added:before {
+	content: "\e919";
+}
+.stm-icon-brochure:before {
+	content: "\e91a";
+}
+.stm-icon-add:before {
+	content: "\e91b";
+}
+.stm-icon-remove:before {
+	content: "\e91c";
+}
+.stm-icon-add_car:before {
+	content: "\e91d";
+}
+.stm-icon-air_conditioning:before {
+	content: "\e91e";
+}
+.stm-icon-auto_electric:before {
+	content: "\e91f";
+}
+.stm-icon-brake:before {
+	content: "\e920";
+}
+.stm-icon-oil-add:before {
+	content: "\e921";
+}
+.stm-icon-Tire_Wheel:before {
+	content: "\e922";
+}
+.stm-icon-load2:before {
+	content: "\e923";
+}
+.stm-icon-load1:before {
+	content: "\e924";
+}
+.stm-icon-transmission_fill:before {
+	content: "\e925";
+}
+.stm-icon-drive_2:before {
+	content: "\e926";
+}
+.stm-icon-engine_fill:before {
+	content: "\e927";
+}
+.stm-icon-grid:before {
+	content: "\e928";
+}
+.stm-icon-list:before {
+	content: "\e929";
+}
+.stm-icon-author:before {
+	content: "\e92a";
+}
+.stm-icon-date:before {
+	content: "\e92b";
+}
+.stm-icon-quotes3:before {
+	content: "\e92c";
+}
+.stm-icon-time:before {
+	content: "\e92d";
+}
+.stm-icon-buoy-2:before {
+	content: "\e92e";
+}
+.stm-icon-buoy:before {
+	content: "\e92f";
+}
+.stm-icon-car-relic:before {
+	content: "\e930";
+}
+.stm-icon-star:before {
+	content: "\e931";
+}
+.stm-icon-barrette:before {
+	content: "\e932";
+}
+.stm-icon-ico_mag_reviews:before {
+	content: "\e933";
+}
+.stm-icon-ico_mag_calendar:before {
+	content: "\e934";
+}
+.stm-icon-ico_mag_clock:before {
+	content: "\e935";
+}
+.stm-icon-ico_mag_eye:before {
+	content: "\e936";
+}
+.stm-icon-ico_mag_map_pin:before {
+	content: "\e937";
+}
+.stm-icon-ac-brochure:before {
+	content: "\e900";
+}
+.stm-icon-ac-max-passenger:before {
+	content: "\e902";
+}
+.stm-icon-ac-max-range:before {
+	content: "\e903";
+}
+.stm-icon-ac-max-speed:before {
+	content: "\e904";
+}
+.stm-icon-ac-message:before {
+	content: "\e905";
+}
+.stm-icon-ac-offer-price:before {
+	content: "\e906";
+}
+.stm-icon-ac-phone:before {
+	content: "\e907";
+}
+.stm-icon-ac-trade-in:before {
+	content: "\e909";
+}
+.stm-icon-ac-useful-load:before {
+	content: "\e90a";
+}
+
+.stm-icon-search-items:before {
+	content: "\e955";
+}
+.stm-icon-location-pin:before {
+	content: "\e956";
+}
+.stm-icon-search-list:before {
+	content: "\e957";
+}

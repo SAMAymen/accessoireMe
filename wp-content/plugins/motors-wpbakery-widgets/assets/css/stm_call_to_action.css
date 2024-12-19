@@ -1,0 +1,131 @@
+.stm-call-to-action-1 {
+    position: relative;
+    border: 1px solid #ddd;
+    overflow: hidden;
+}
+
+.stm-call-to-action-1:after {
+    display: table;
+    content: "";
+    clear: both;
+}
+
+.stm-call-to-action-1 .stm-call-action-left {
+    position: relative;
+    padding: 30px 10px 22px 27px;
+    float: left;
+    width: 43%;
+    background-color: #fff;
+    z-index: 16;
+}
+
+.stm-call-to-action-1 .stm-call-action-left:after {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    right: -48px;
+    height: 100%;
+    width: 200px;
+    transform: skew(-45deg, 0deg);
+    background-color: #fff;
+    z-index: 16;
+}
+
+@media (max-width: 991px) {
+    .stm-call-to-action-1 .stm-call-action-left {
+        width: 70%;
+    }
+}
+
+@media (max-width: 767px) {
+    .stm-call-to-action-1 .stm-call-action-left {
+        background-color: transparent !important;
+    }
+
+    .stm-call-to-action-1 .stm-call-action-left:after {
+        display: none;
+        background-color: transparent !important;
+    }
+}
+
+@media (max-width: 610px) {
+    .stm-call-to-action-1 .stm-call-action-left {
+        width: 100%;
+        padding: 10px 15px;
+    }
+
+    .stm-call-to-action-1 .stm-call-action-left .stm-call-action-image {
+        display: none;
+    }
+}
+
+.stm-call-to-action-1 .stm-call-action-left .stm-call-action-image {
+    float: left;
+    margin-top: -5px;
+    margin-right: 28px;
+}
+
+.stm-call-to-action-1 .stm-call-action-left .stm-call-action-image img {
+    max-height: 50px;
+}
+
+.stm-call-to-action-1 .stm-call-action-left .stm-call-action-icon {
+    position: relative;
+    left: 6px;
+    min-width: 51px;
+    float: left;
+    margin-top: -4px;
+    margin-right: 28px;
+    font-size: 49px;
+}
+
+.stm-call-to-action-1 .stm-call-action-left .stm-call-action-content {
+    position: relative;
+    z-index: 20;
+}
+
+.stm-call-to-action-1 .stm-call-action-left .stm-call-action-content .content {
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 700;
+    overflow: hidden;
+}
+
+.stm-call-to-action-1 .stm-call-action-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 65.947%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 15;
+}
+
+@media (max-width: 767px) {
+    .stm-call-to-action-1 .stm-call-action-right {
+        width: 100%;
+        z-index: -1;
+    }
+
+    .stm-call-to-action-1 .stm-call-action-right:after {
+        position: absolute;
+        content: "";
+        display: block;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(255, 255, 255, 0.5);
+    }
+}
+
+.stm-call-to-action-1 .stm-call-action-right .stm-call-action-right-banner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    border-radius: 1px;
+    background-size: cover;
+}

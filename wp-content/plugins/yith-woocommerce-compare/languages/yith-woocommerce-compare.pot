@@ -1,0 +1,419 @@
+# Copyright (C) 2024 YITH
+# This file is distributed under the same license as the YITH WooCommerce Compare package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Compare 2.45.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/yith_woocommerce_compare\n"
+"POT-Creation-Date: 2024-12-12 15:55:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class.yith-woocompare-admin.php:112
+#: includes/class.yith-woocompare-admin.php:135
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-woocompare-admin.php:114
+msgid "License"
+msgstr ""
+
+#: includes/class.yith-woocompare-admin.php:139
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-woocompare-admin.php:348
+msgid "Do you want to hard crop the image?"
+msgstr ""
+
+#: includes/class.yith-woocompare-frontend.php:218
+msgid "Added"
+msgstr ""
+
+#: includes/class.yith-woocompare-frontend.php:219 templates/compare.php:57
+msgid "Product Comparison"
+msgstr ""
+
+#: includes/class.yith-woocompare-frontend.php:222
+#: includes/class.yith-woocompare-frontend.php:509
+#: plugin-options/general-options.php:38
+#: widgets/class.yith-woocompare-widget.php:55
+msgid "Compare"
+msgstr ""
+
+#: includes/class.yith-woocompare-frontend.php:379
+msgid "In stock"
+msgstr ""
+
+#: includes/class.yith-woocompare-frontend.php:736
+msgid "No products to compare"
+msgstr ""
+
+#: includes/class.yith-woocompare-frontend.php:748 templates/compare.php:139
+msgid "Remove"
+msgstr ""
+
+#: includes/class.yith-woocompare-helper.php:45
+msgid "Image"
+msgstr ""
+
+#: includes/class.yith-woocompare-helper.php:46
+#: widgets/class.yith-woocompare-widget.php:72
+msgid "Title"
+msgstr ""
+
+#: includes/class.yith-woocompare-helper.php:47
+msgid "Price"
+msgstr ""
+
+#: includes/class.yith-woocompare-helper.php:48
+msgid "Add to cart"
+msgstr ""
+
+#: includes/class.yith-woocompare-helper.php:49
+msgid "Description"
+msgstr ""
+
+#: includes/class.yith-woocompare-helper.php:50
+msgid "Sku"
+msgstr ""
+
+#: includes/class.yith-woocompare-helper.php:51
+msgid "Availability"
+msgstr ""
+
+#: includes/class.yith-woocompare-helper.php:52
+msgid "Weight"
+msgstr ""
+
+#: includes/class.yith-woocompare-helper.php:53
+msgid "Dimensions"
+msgstr ""
+
+#: init.php:52
+msgid ""
+"YITH WooCommerce Compare is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:66
+msgid ""
+"You can't activate the free version of YITH WooCommerce Compare while you "
+"are using the premium one."
+msgstr ""
+
+#: plugin-options/general-options.php:15
+msgid "General Settings"
+msgstr ""
+
+#: plugin-options/general-options.php:22
+msgid "Link or Button"
+msgstr ""
+
+#: plugin-options/general-options.php:23
+msgid "Choose if you want to use a link or a button for the comepare actions."
+msgstr ""
+
+#: plugin-options/general-options.php:29
+msgid "Link"
+msgstr ""
+
+#: plugin-options/general-options.php:30
+msgid "Button"
+msgstr ""
+
+#: plugin-options/general-options.php:35
+msgid "Link/Button text"
+msgstr ""
+
+#: plugin-options/general-options.php:36
+msgid "Type the text to use for the button or the link of the compare."
+msgstr ""
+
+#: plugin-options/general-options.php:43
+msgid "Show button in single product page"
+msgstr ""
+
+#: plugin-options/general-options.php:44
+msgid "Say if you want to show the button in the single product page."
+msgstr ""
+
+#: plugin-options/general-options.php:51
+msgid "Show button in products list"
+msgstr ""
+
+#: plugin-options/general-options.php:52
+msgid "Say if you want to show the button in the products list."
+msgstr ""
+
+#: plugin-options/general-options.php:59
+msgid "Open automatically lightbox"
+msgstr ""
+
+#: plugin-options/general-options.php:60
+msgid "Open link after click into \"Compare\" button\"."
+msgstr ""
+
+#: plugin-options/general-options.php:72
+msgid "Table Settings"
+msgstr ""
+
+#: plugin-options/general-options.php:79
+msgid "Table title"
+msgstr ""
+
+#: plugin-options/general-options.php:80
+msgid "Type the text to use for the table title."
+msgstr ""
+
+#: plugin-options/general-options.php:82 templates/compare.php:29
+msgid "Compare products"
+msgstr ""
+
+#: plugin-options/general-options.php:87
+msgid "Fields to show"
+msgstr ""
+
+#: plugin-options/general-options.php:88
+msgid ""
+"Select the fields to show in the comparison table and order them by "
+"drag&drop (are included also the woocommerce attributes)"
+msgstr ""
+
+#: plugin-options/general-options.php:95
+msgid "Repeat \"Price\" field"
+msgstr ""
+
+#: plugin-options/general-options.php:96
+msgid "Repeat the \"Price\" field at the end of the table"
+msgstr ""
+
+#: plugin-options/general-options.php:103
+msgid "Repeat \"Add to cart\" field"
+msgstr ""
+
+#: plugin-options/general-options.php:104
+msgid "Repeat the \"Add to cart\" field at the end of the table"
+msgstr ""
+
+#: plugin-options/general-options.php:111
+msgid "Image size"
+msgstr ""
+
+#: plugin-options/general-options.php:112
+msgid "Set the size for the images"
+msgstr ""
+
+#: templates/admin/premium.php:255 templates/admin/premium.php:500
+#. translators: placeholders are used for add html tag.
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Compare%2$s to "
+"benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:259 templates/admin/premium.php:504
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:260 templates/admin/premium.php:505
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:266
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:274
+msgid "A DEDICATED PAGE"
+msgstr ""
+
+#: templates/admin/premium.php:279
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"Don't you want to compare your products in a modal window anymore?%3$sWith "
+"the premium version of %1$sYITH WooCommerce Compare%2$s, a new page will be "
+"created automatically in your site and, adding it among the menu entries, "
+"you will be able to give to your users the chance to access it easily "
+"whenever they want."
+msgstr ""
+
+#: templates/admin/premium.php:290
+msgid "CATEGORY COMPARATION"
+msgstr ""
+
+#: templates/admin/premium.php:295
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"People are often confused by finding products of different categories in "
+"the comparison table, creating difficulties in comparing the products they "
+"are interested into.The %1$s\"Compare by category\"%2$s option exists for "
+"this need: you will be able to separate the products in the table by "
+"category affinity."
+msgstr ""
+
+#: templates/admin/premium.php:312
+msgid "CATEGORY EXCLUSION "
+msgstr ""
+
+#: templates/admin/premium.php:317
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"In your shop there may be product categories you don't want to be affected "
+"by the plugin features, deleting the comparison button for them. The "
+"premium version of the plugin offers this too.%3$sAnd there's more! "
+"Activating the %1$s\"Reverse exclusion list\"%2$s option, you can also "
+"invert the behavior of the feature, allowing the comparison only to those "
+"products of the selected categories."
+msgstr ""
+
+#: templates/admin/premium.php:328
+msgid "TABLE IMAGE"
+msgstr ""
+
+#: templates/admin/premium.php:333
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"Give a personal touch to the %1$scomparison table%2$s your users will see. "
+"Select an image, upload it from the option panel and show it ahead of the "
+"table to your users. "
+msgstr ""
+
+#: templates/admin/premium.php:350
+msgid "DYNAMIC FIELDS"
+msgstr ""
+
+#: templates/admin/premium.php:355
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"With this precious feature, you will be able to show in the table only the "
+"fields that have information in at least one of the selected "
+"products.%3$sActivate the %1$s\"Dynamic Attribute fields\"%2$s option and "
+"there will be no more empty lines in your comparison table."
+msgstr ""
+
+#: templates/admin/premium.php:366
+msgid "SOCIAL NETWORK SHARING"
+msgstr ""
+
+#: templates/admin/premium.php:371
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"One of the most appealing features of the premium version of the "
+"plugin.Four social network sites for your users (Facebook, Twitter, Google "
+"+ and Pinterest) and the email system %1$sto share%2$s the comparison table "
+"of the products they have selected."
+msgstr ""
+
+#: templates/admin/premium.php:388
+msgid "RELATED PRODUCTS"
+msgstr ""
+
+#: templates/admin/premium.php:393
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"All the products that have common categories and/or tags with those in the "
+"comparison table will be showed in a slider, right under the comparison "
+"table.%3$sA completely %1$s\"touch friendly\"%2$s slider to encourage your "
+"users to discover the shop products of the shop related to those they are "
+"interested into."
+msgstr ""
+
+#: templates/admin/premium.php:404
+msgid "CUSTOMIZABLE STYLE"
+msgstr ""
+
+#: templates/admin/premium.php:409
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"An advanced option panel that let you change all the colors of the plugin, "
+"so that you can adapt stylistically all its elements %1$sto the layout%2$s "
+"of your shop.We know it, looks also count... and we give you the right "
+"tools to get to the best result."
+msgstr ""
+
+#: templates/admin/premium.php:426
+msgid "CUSTOMIZED ATTRIBUTES"
+msgstr ""
+
+#: templates/admin/premium.php:431
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"Let you users compare products following every feature, and considering "
+"also all those %1$sattributes%2$s that can be manually created in within "
+"the product detail page. Every single detail will be included."
+msgstr ""
+
+#: templates/admin/premium.php:442
+msgid "A TAILORED TABLE"
+msgstr ""
+
+#: templates/admin/premium.php:447
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"Select the products you want to compare and the system will offer you the "
+"%1$sshortcode%2$s to generate a comparing table. Simple, rapid and useful."
+msgstr ""
+
+#: templates/admin/premium.php:464
+msgid "Compare list - widget"
+msgstr ""
+
+#: templates/admin/premium.php:469
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"Thanks to YITH WooCommerce Comapre Widget users could verify at any time "
+"the complete list of products added to the compare tab and avoid to open "
+"the popup to check its existence. "
+msgstr ""
+
+#: templates/admin/premium.php:480
+msgid "Compare counter - widget and shortcode"
+msgstr ""
+
+#: templates/admin/premium.php:485
+#. translators: placeholders are used for add <b> html tag.
+msgid ""
+"Moreover, if you want to give your users the chance to see in a glance how "
+"many products they have added to the Compare list, feel free to use the "
+"widget or the shortcode included. And their Compare list is always no more "
+"than one click away."
+msgstr ""
+
+#: templates/compare.php:87
+msgid "Close window [X]"
+msgstr ""
+
+#: templates/compare.php:122
+msgid "No products added in the compare table."
+msgstr ""
+
+#: widgets/class.yith-woocompare-widget.php:23
+msgid "The widget shows the list of products added in the comparison table."
+msgstr ""
+
+#: widgets/class.yith-woocompare-widget.php:27
+msgid "YITH WooCommerce Compare Widget"
+msgstr ""
+
+#: widgets/class.yith-woocompare-widget.php:54
+msgid "Clear all"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The <code><strong>YITH WooCommerce Compare</strong></code> plugin allow you "
+"to compare in a simple and efficient way products on sale in your shop and "
+"analyze their main features in a single table. <a "
+"href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your "
+"e-commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+
+#: includes/class.yith-woocompare-frontend.php:224
+msgctxt "Label for popup close icon"
+msgid "Close"
+msgstr ""

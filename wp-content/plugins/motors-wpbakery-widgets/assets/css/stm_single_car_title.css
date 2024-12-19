@@ -1,0 +1,16 @@
+.stm-single-car-page .stm_listing_title {
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: -0.4px;
+    line-height: 45px;
+    text-align: left;
+}
+
+@media (max-width: 1024px) {
+    .stm-single-car-page .stm_listing_title {
+        font-size: 24px;
+        margin-bottom: 0;
+        line-height: 29px;
+    }
+}

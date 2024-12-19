@@ -1,0 +1,383 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+@keyframes preloader {
+    0% {
+        height: 5px;
+        transform: translateY(0px);
+        background: #6c98e1;
+    }
+
+    25% {
+        height: 30px;
+        transform: translateY(15px);
+        background: #6c98e1;
+    }
+
+    50% {
+        height: 5px;
+        transform: translateY(0px);
+        background: #6c98e1;
+    }
+
+    100% {
+        height: 5px;
+        transform: translateY(0px);
+        background: #6c98e1;
+    }
+}
+
+.car-listing-tabs-unit .car-listing-top-part {
+    position: relative;
+    padding-top: 33px;
+}
+
+@media (max-width: 820px) {
+    .car-listing-tabs-unit .car-listing-top-part .title h1, .car-listing-tabs-unit .car-listing-top-part .title h2, .car-listing-tabs-unit .car-listing-top-part .title h3, .car-listing-tabs-unit .car-listing-top-part .title h4, .car-listing-tabs-unit .car-listing-top-part .title h5 {
+        font-size: 16px;
+    }
+}
+
+.car-listing-tabs-unit .car-listing-top-part:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: -2000px;
+    right: -2000px;
+    z-index: -1;
+}
+
+.car-listing-tabs-unit .car-listing-top-part .stm-listing-tabs {
+    margin-top: 20px;
+}
+
+.car-listing-tabs-unit .car-listing-top-part .stm-listing-tabs ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0;
+    display: flex;
+}
+
+@media (max-width: 820px) {
+    .car-listing-tabs-unit .car-listing-top-part .stm-listing-tabs ul {
+        overflow-y: scroll;
+        margin-right: -15px;
+    }
+}
+
+.car-listing-tabs-unit .car-listing-top-part .stm-listing-tabs ul li {
+    display: inline-block;
+    margin-right: 2px;
+    margin-bottom: 0;
+}
+
+@media (max-width: 820px) {
+    .car-listing-tabs-unit .car-listing-top-part .stm-listing-tabs ul li {
+        white-space: nowrap;
+        margin-right: 4px;
+    }
+}
+
+@media (min-width: 820px) {
+    .car-listing-tabs-unit .car-listing-top-part .stm-listing-tabs ul li:last-child {
+        margin-right: 0;
+    }
+}
+
+.car-listing-tabs-unit .car-listing-top-part .stm-listing-tabs ul li.active a {
+    color: #cc6119;
+    background-color: #fff;
+}
+
+.car-listing-tabs-unit .car-listing-top-part .stm-listing-tabs ul li a {
+    display: block;
+    padding: 0 25px;
+    background: rgba(255, 255, 255, 0.1);
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none !important;
+    font-weight: 700;
+    color: #aaa;
+    line-height: 44px;
+}
+
+.car-listing-tabs-unit .car-listing-main-part {
+    padding-top: 59px;
+}
+
+.car-listing-tabs-unit .car-listing-main-part .preloader {
+    display: none;
+    position: absolute;
+    left: 50%;
+    margin-left: -27px;
+    top: 0;
+    height: 46px;
+    width: 54px;
+}
+
+.car-listing-tabs-unit .car-listing-main-part .preloader span {
+    display: block;
+    bottom: 20px;
+    width: 9px;
+    height: 5px;
+    background: #6c98e1;
+    position: absolute;
+    animation: preloader 1.5s infinite ease-in-out;
+}
+
+.car-listing-tabs-unit .car-listing-main-part .preloader span:nth-child(2) {
+    left: 11px;
+    animation-delay: 0.2s;
+}
+
+.car-listing-tabs-unit .car-listing-main-part .preloader span:nth-child(3) {
+    left: 22px;
+    animation-delay: 0.4s;
+}
+
+.car-listing-tabs-unit .car-listing-main-part .preloader span:nth-child(4) {
+    left: 33px;
+    animation-delay: 0.6s;
+}
+
+.car-listing-tabs-unit .car-listing-main-part .preloader span:nth-child(5) {
+    left: 44px;
+    animation-delay: 0.8s;
+}
+
+.car-listing-actions {
+    position: relative;
+    height: 46px;
+}
+
+.car-listing-actions.all-done {
+    height: 0;
+    padding: 0;
+}
+
+.car-listing-row .col-md-3 {
+    margin-bottom: 40px;
+}
+
+.car-listing-row .listing-car-item-meta {
+    padding-top: 17px;
+}
+
+.car-listing-row .listing-car-item-meta .car-title {
+    color: #232628;
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 700;
+}
+
+.car-listing-row .listing-car-item-meta .car-title .colored {
+    color: #cc6119;
+}
+
+.car-listing-row .listing-car-item-meta .price {
+    position: relative;
+    float: right;
+    padding: 6px 10px 4px 4px;
+    margin-left: 18px;
+    background-color: #6c98e1;
+    text-align: right;
+}
+
+.car-listing-row .listing-car-item-meta .price:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: -12px;
+    height: 100%;
+    width: 32px;
+    background-color: #6c98e1;
+    transform: skew(-14deg, 0deg);
+    z-index: 5;
+}
+
+.car-listing-row .listing-car-item-meta .price.discounted-price {
+    padding: 1px 10px 2px 4px;
+}
+
+.car-listing-row .listing-car-item-meta .price.discounted-price .sale-price {
+    line-height: 16px;
+}
+
+.car-listing-row .listing-car-item-meta .price .regular-price,
+.car-listing-row .listing-car-item-meta .price .sale-price,
+.car-listing-row .listing-car-item-meta .price .normal-price {
+    position: relative;
+    z-index: 6;
+}
+
+.car-listing-row .listing-car-item-meta .price .regular-price {
+    font-size: 13px;
+    line-height: normal;
+    text-decoration: line-through;
+}
+
+.car-listing-row .listing-car-item-meta .price .normal-price,
+.car-listing-row .listing-car-item-meta .price .sale-price {
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.car-listing-row .listing-car-item-meta .price .normal-price {
+    line-height: 25px;
+}
+
+.car-listing-row .car-meta-top {
+    padding-bottom: 17px;
+    border-bottom: 1px solid #ccc;
+}
+
+.car-listing-row .car-meta-bottom ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.car-listing-row .car-meta-bottom ul li {
+    display: inline-block;
+    margin-top: 4px;
+    margin-bottom: 0;
+    margin-right: 14px;
+    color: #888;
+    vertical-align: middle;
+}
+
+.car-listing-row .car-meta-bottom ul li i {
+    margin-right: -1px;
+    font-size: 13px;
+    color: #aaaaaa;
+    vertical-align: middle;
+}
+
+.car-listing-row .car-meta-bottom ul li i.stm-icon-road {
+    position: relative;
+    top: 1px;
+}
+
+.car-listing-row .car-meta-bottom ul li i.stm-icon-transmission {
+    position: relative;
+    top: 1px;
+}
+
+.car-listing-row .car-meta-bottom ul li span {
+    position: relative;
+    top: 1px;
+    vertical-align: top;
+    margin-left: 2px;
+    font-size: 13px;
+}
+
+.car-listing-row .car-meta-bottom ul li .special-text {
+    margin-bottom: 2px;
+    text-transform: uppercase;
+}
+
+.car-listing-row .car-meta-bottom ul li:last-child {
+    margin-right: 0;
+}
+
+.found-cars-cloned {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    margin-top: -13px;
+}
+
+.found-cars, .found-cars.heading-font {
+    display: inline-block;
+    position: relative;
+    padding-left: 30px;
+    font-size: 13px;
+    line-height: 26px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #aaaaaa !important;
+}
+
+.found-cars i {
+    position: absolute;
+    content: "";
+    display: block;
+    font-size: 23px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.found-cars .blue-lt {
+    color: #6c98e1;
+    font-weight: 700;
+}
+
+.found-cars-clone {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.tab-search-title {
+    position: relative;
+    padding-left: 71px;
+    margin-bottom: 36px;
+    min-height: 35px;
+    font-size: 30px;
+    color: #232628;
+    font-weight: 700;
+}
+
+.tab-search-title i {
+    position: absolute;
+    left: 0;
+    top: -7px;
+    font-size: 34px;
+}
+
+#car-listing-tab-search {
+    padding-top: 20px;
+}
+
+.reset-all:hover {
+    cursor: pointer;
+}
+
+.reset-all.reset-styled {
+    display: block;
+    border: 2px solid #ddd;
+    border-radius: 3px;
+    color: #ddd;
+    text-align: center;
+    line-height: 44px;
+    font-size: 22px;
+    text-decoration: none !important;
+}
+
+.reset-all.reset-styled:hover {
+    color: #6c98e1;
+    border-color: #6c98e1;
+}
+
+.reset-all.reset-styled:focus {
+    color: #6c98e1;
+    border-color: #6c98e1;
+}
+
+.reset-all.reset-styled:active {
+    color: #6c98e1;
+    border-color: #6c98e1;
+}
+
+.search-call-to-action {
+    margin-top: 36px;
+}

@@ -1,0 +1,806 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+.mobile-search-filter-opened .select2-dropdown {
+    z-index: 200000;
+}
+
+html.mobile-overflow-hidden {
+    overflow: hidden;
+    height: 100vh;
+}
+
+.mobile-overlay {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: 1000;
+    display: none;
+}
+
+.mobile-overlay.active {
+    display: block;
+}
+
+.mobile-filter .mobile-search-btn {
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 22px;
+    margin: 0;
+    background-color: #6c98e1;
+    box-shadow: none;
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 3px;
+    outline: none;
+    transition: opacity 0.2s ease-in !important;
+    transform: translateZ(0);
+    opacity: 1;
+    cursor: pointer;
+}
+
+.mobile-filter .mobile-search-btn .h4 {
+    margin: 0;
+    color: #ffffff;
+}
+
+.mobile-filter .mobile-search-btn i {
+    font-size: 18px;
+}
+
+.mobile-filter .mobile-search-btn:hover {
+    opacity: 0.8;
+}
+
+@media (max-width: 1024px) {
+    .mobile-filter .mobile-search-btn {
+        display: flex;
+    }
+}
+
+form.mobile-search-filter {
+    display: flex;
+    flex-direction: column;
+    visibility: hidden;
+    position: fixed;
+    width: 100%;
+    left: -1000px;
+    top: 0;
+    box-shadow: none;
+    min-height: 100%;
+    height: 100vh;
+    height: 100svh;
+    overflow-y: auto;
+    transition: all 0.5s;
+    background-color: #ffffff;
+    z-index: 100000;
+}
+
+@media (min-width: 550px) {
+    form.mobile-search-filter {
+        width: 50%;
+    }
+}
+
+form.mobile-search-filter .grow-wrapper {
+    flex-grow: 1;
+    background-color: transparent;
+}
+
+form.mobile-search-filter .filter {
+    margin: 0 22px 20px 45px;
+}
+
+form.mobile-search-filter .stm-listing-directory-checkboxes.stm-two_cols .stm-accordion-content-wrapper .stm-option-label {
+    width: 50%;
+}
+
+form.mobile-search-filter input[type=text],
+form.mobile-search-filter input[type=number],
+form.mobile-search-filter input[type=tel],
+form.mobile-search-filter input[type=email],
+form.mobile-search-filter input[type=search],
+form.mobile-search-filter input[type=password] {
+    height: 40px;
+    line-height: 40px;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-results__option {
+    padding-right: 20px;
+    vertical-align: middle;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-results__option.select2-results__message:before {
+    display: none;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-results__option:before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    height: 20px;
+    width: 20px;
+    border: 2px solid #e9e9e9;
+    border-radius: 4px;
+    background-color: #fff;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-results__option[aria-selected=true]:before {
+    font-family: "Font Awesome 6 Free";
+    content: "\f00c";
+    color: #fff;
+    background-color: #1bc744;
+    border: 0;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-container--default .select2-results__option[aria-selected=true] {
+    background-color: #fff;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #eaeaeb;
+    color: #272727;
+}
+
+form.mobile-search-filter .stm-multiple-select .select2-container--default .select2-search--inline .select2-search__field {
+    line-height: inherit;
+    height: inherit;
+}
+
+form.mobile-search-filter .stm-multiple-select .select-icon .select2-search--dropdown {
+    display: none;
+}
+
+form.mobile-search-filter .select2-selection--multiple.filter-select {
+    display: flex;
+    border-color: #eceff3;
+}
+
+form.mobile-search-filter .sticky-filter-actions {
+    position: sticky;
+    bottom: 0;
+    height: 73px;
+    background-color: #fff;
+    z-index: 100000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 22px 15px 45px;
+    margin: 0;
+}
+
+form.mobile-search-filter .sticky-filter-actions .filter-show-cars {
+    flex-grow: 1;
+}
+
+form.mobile-search-filter .sticky-filter-actions .filter-show-cars .show-car-btn {
+    border-radius: 0;
+    font-family: Montserrat;
+    width: 100%;
+    text-align: center;
+    padding: 13px 28px 13px;
+}
+
+form.mobile-search-filter .sticky-filter-actions .mobile-reset-btn {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    color: #888888;
+    background-color: #fff;
+    border: 1px solid #DBDBDB;
+    justify-content: center;
+    box-shadow: none;
+    border-radius: 0;
+    padding: 13px;
+}
+
+form.mobile-search-filter .sticky-filter-actions .mobile-reset-btn span {
+    display: none;
+}
+
+form.mobile-search-filter .sticky-filter-actions .mobile-reset-btn i {
+    margin: 0;
+}
+
+form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit {
+    width: 95px;
+}
+
+form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit a {
+    padding: 11px 0 10px 0;
+    border-radius: 0;
+}
+
+form.mobile-search-filter .row-pad-top-24 {
+    display: flex;
+    flex-direction: column;
+}
+
+form.mobile-search-filter .col-md-12 {
+    width: 100%;
+}
+
+form.mobile-search-filter.active {
+    visibility: visible;
+    left: -25px;
+    transition: all 0.5s;
+}
+
+form.mobile-search-filter .filter {
+    padding: 0;
+    box-shadow: none;
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn {
+    position: relative;
+    width: 11px;
+    height: 11px;
+    cursor: pointer;
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn span.close-btn-item {
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    background-color: var(--motors-base-color);
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn span:first-child {
+    transform: rotate(45deg);
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn span:last-child {
+    transform: rotate(-45deg);
+}
+
+form.mobile-search-filter .filter .sidebar-entry-header-mobile .h4 {
+    margin-bottom: 0;
+}
+
+form.mobile-search-filter .stm-accordion-single-unit {
+    margin: 0 22px 0 45px;
+    box-shadow: none;
+}
+
+.stm-template-car_dealer_two.inventory-light #wrapper #main .stm-search_keywords input[type=text]#stm_keywords {
+    color: #232628 !important;
+}
+
+.stm-template-car_dealer_two.inventory-light #wrapper #main .stm-search_keywords input[type=text]#stm_keywords::-moz-placeholder {
+    color: #232628 !important;
+}
+
+.stm-template-car_dealer_two.inventory-light #wrapper #main .stm-search_keywords input[type=text]#stm_keywords::placeholder {
+    color: #232628 !important;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .pull-left {
+    color: #000;
+}
+
+.stm-template-car_dealer_two .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+    box-shadow: none;
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .stm-accordion-single-unit.stm-two_cols .stm-accordion-content .content .stm-accordion-content-wrapper .stm-option-label {
+    width: 47%;
+    margin-bottom: 20px;
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .pull-left {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .mobile-reset-btn {
+    background-color: rgba(255, 255, 255, 0);
+    border-color: var(--motors-base-color);
+    color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .filter-show-cars .show-car-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two form.mobile-search-filter .button {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-light:not(.home) #wrapper #main .mobile-search-btn span.h4 {
+    color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter {
+    background-color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .sidebar-entry-header-mobile .h4 {
+    color: #000;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .select2-container--default .select2-selection--single {
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid #4971ff;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #000;
+}
+
+.stm-template-car_dealer_two.inventory-light form.mobile-search-filter .select2-container--default .select2-selection--single b {
+    color: #000;
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-accordion-single-unit > a.title .minus {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-light .stm-accordion-single-unit > a.title .minus:after {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter {
+    background-color: #000000;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .sidebar-entry-header-mobile .h4 {
+    color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .select2-container--default .select2-selection--single {
+    background-color: #000000;
+    border: 1px solid #4971ff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .select2-container--default .select2-selection--single b {
+    color: #fff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title {
+    background-color: var(--motors-base-color);
+    border-top-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title.collapsed {
+    border-top-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title .minus {
+    background-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-single-unit > a.title .minus:after {
+    background-color: var(--motors-secondary-color);
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .stm-accordion-content .stm-single-filter-link a {
+    color: #ffffff;
+}
+
+.stm-template-car_dealer_two.inventory-dark form.mobile-search-filter .sticky-filter-actions {
+    background-color: #000000;
+}
+
+.stm-accordion-content {
+    margin-bottom: 20px;
+}
+
+.stm-accordion-content .content {
+    padding: 15px 15px 15px;
+}
+
+.stm-accordion-content .content .stm-option-label {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.stm-template-motorcycle .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter {
+    background-color: #2f3c40;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit {
+    margin-bottom: 20px;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit .clearfix {
+    margin-bottom: 10px;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit .row {
+    display: flex;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit .row .col-md-wider-left input {
+    margin-top: 0;
+}
+
+@media (max-width: 1024px) {
+    .stm-template-motorcycle form.mobile-search-filter .filter .stm-slider-filter-type-unit .stm-current-slider-labels {
+        float: left;
+        margin: 0 0 0 5px;
+    }
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .sidebar-entry-header-mobile .h4 {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter .sidebar-entry-header-mobile .close-btn span.close-btn-item {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .sticky-filter-actions {
+    background-color: #2f3c40;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--single {
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--single b {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple {
+    background-color: #000;
+    border: 1px solid var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered {
+    color: #fff;
+    padding: 0;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-selection__choice {
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-search--inline {
+    margin-bottom: 0;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-search--inline input.select2-search__field {
+    color: #fff;
+    padding-left: 0;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-search--inline input.select2-search__field::-moz-placeholder {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered li.select2-search--inline input.select2-search__field::placeholder {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .select2-container--default .select2-selection--multiple b {
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title {
+    background-color: var(--motors-base-color);
+    border-top-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title.collapsed {
+    border-top-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title .minus {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit > a.title .minus:after {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-content {
+    background: rgba(39, 46, 54, 0.8);
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-content .stm-single-filter-link a {
+    color: #ffffff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .stm-accordion-single-unit .stm-accordion-content ul {
+    background: none;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .mobile-reset-btn {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: var(--motors-base-color);
+    color: #fff;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter-price .clearfix .stm-current-slider-labels {
+    margin-bottom: 20px;
+}
+
+.stm-template-motorcycle form.mobile-search-filter .filter-price .clearfix .pull-left {
+    margin-right: 10px;
+}
+
+.stm-template-equipment .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-equipment form.mobile-search-filter {
+    background-color: #000000;
+}
+
+.stm-template-equipment form.mobile-search-filter .sticky-filter-actions {
+    background-color: #000000;
+}
+
+.stm-template-equipment form.mobile-search-filter .sticky-filter-actions .filter-show-cars .show-car-btn {
+    background-color: var(--motors-base-color);
+    box-shadow: none;
+}
+
+.stm-template-equipment form.mobile-search-filter .sidebar-entry-header-mobile .h4 {
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .select2-container--default .select2-selection--single {
+    background-color: #000000;
+    border: 1px solid var(--motors-base-color);
+}
+
+.stm-template-equipment form.mobile-search-filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .select2-container--default .select2-selection--single b {
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title {
+    background-color: var(--motors-base-color);
+    border-top-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title.collapsed {
+    border-top-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title .minus {
+    background-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit > a.title .minus:after {
+    background-color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-content .stm-single-filter-link a {
+    color: #ffffff;
+}
+
+.stm-template-equipment form.mobile-search-filter .mobile-reset-btn {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: var(--motors-base-color);
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-option-label {
+    margin-bottom: 10px;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-option-label span {
+    color: #fff;
+}
+
+.stm-template-equipment form.mobile-search-filter .stm-accordion-single-unit .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit .button {
+    margin-top: 10px;
+    background-color: var(--motors-base-color);
+    box-shadow: none;
+}
+
+.stm-template-listing_four .mobile-filter .mobile-search-btn {
+    background-color: #6c98e1;
+    color: #ffffff;
+    box-shadow: none;
+}
+
+.stm-template-listing .filter-sidebar:after {
+    display: none;
+}
+
+.stm-template-listing .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+    box-shadow: none;
+}
+
+.stm-template-listing form.mobile-search-filter {
+    background-color: #153e4d;
+}
+
+.stm-template-listing form.mobile-search-filter .sidebar-entry-header-mobile .h4 {
+    color: #fff;
+}
+
+.stm-template-listing form.mobile-search-filter .sidebar-entry-header-mobile .close-btn span.close-btn-item {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-listing form.mobile-search-filter .sticky-filter-actions {
+    background-color: #153e4d;
+}
+
+.stm-template-listing form.mobile-search-filter .stm-accordion-content {
+    background-color: #ffffff;
+}
+
+.stm-template-listing form.mobile-search-filter .stm-accordion-single-unit > a.title {
+    border-top-color: var(--motors-base-color);
+}
+
+.stm-template-listing form.mobile-search-filter .stm-listing-directory-checkboxes.stm-two_cols .stm-accordion-content-wrapper .stm-option-label {
+    padding: 0;
+}
+
+.stm-template-listing form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit {
+    width: 95px;
+    margin: 0;
+    padding: 0;
+}
+
+.stm-template-listing form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit a {
+    padding: 11px 0 10px 0;
+    border-radius: 0;
+}
+
+.stm-template-boats .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-listing_five .mobile-filter .mobile-search-btn {
+    background-color: #ff2325;
+}
+
+.stm-template-listing_five .mobile-search-filter .stm-checkbox-submit a.button {
+    box-shadow: none;
+}
+
+.stm-template-ev_dealer .mobile-filter .mobile-search-btn {
+    background-color: var(--motors-base-color);
+}
+
+.stm-template-listing_two .mobile-filter .mobile-search-btn, .stm-template-listing_two_elementor .mobile-filter .mobile-search-btn {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .filter-show-cars .show-car-btn, .stm-template-listing_two_elementor .mobile-search-filter .filter-show-cars .show-car-btn {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit, .stm-template-listing_two_elementor .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit {
+    margin: 0;
+    padding: 0;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit .button, .stm-template-listing_two_elementor .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit .button {
+    background-color: #269aff;
+    box-shadow: none;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-option-label, .stm-template-listing_two_elementor .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-option-label {
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title.collapsed, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title.collapsed {
+    border-top-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title .minus, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title .minus {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title:hover .minus:after {
+    background-color: #269aff;
+}
+
+.stm-template-listing_two .mobile-search-filter .stm-accordion-single-unit > a.title .minus:after, .stm-template-listing_two_elementor .mobile-search-filter .stm-accordion-single-unit > a.title .minus:after {
+    background-color: #269aff;
+}
+
+.stm-template-listing_three .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit {
+    margin: 0;
+    padding: 0;
+}
+
+.stm-template-listing_three .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-checkbox-submit .button {
+    box-shadow: none;
+}
+
+.stm-template-listing_three .mobile-search-filter .stm-listing-directory-checkboxes .stm-accordion-content-wrapper .stm-option-label {
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.stm-template-car_magazine form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper {
+    padding: 0;
+}
+
+.stm-template-car_magazine form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-option-label {
+    margin-bottom: 20px;
+}
+
+.stm-template-car_magazine form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit {
+    width: 100%;
+}
+
+.stm-template-car_magazine form.mobile-search-filter .stm-accordion-single-unit.stm-listing-directory-checkboxes .stm-accordion-content .stm-accordion-content-wrapper .stm-accordion-inner .stm-checkbox-submit .button {
+    width: 95px;
+    box-shadow: none;
+}

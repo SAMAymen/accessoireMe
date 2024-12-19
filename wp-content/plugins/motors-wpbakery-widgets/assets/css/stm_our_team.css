@@ -1,0 +1,176 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+.stm-our-team {
+    margin-bottom: 30px !important;
+    max-width: 255px;
+    width: auto;
+    margin: 0 auto;
+}
+
+.stm-our-team .image {
+    margin-bottom: 13px;
+    position: relative;
+}
+
+.stm-our-team .image:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.2);
+    opacity: 0;
+}
+
+.stm-our-team .image .team-info {
+    position: absolute;
+    padding: 0 15px;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.stm-our-team .image .team-info .phone {
+    position: relative;
+    min-width: 160px;
+    max-width: 100%;
+    margin-top: 8px;
+    display: inline-block;
+    padding-left: 36px;
+    padding-right: 10px;
+    font-size: 14px;
+    line-height: 32px;
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.stm-our-team .image .team-info .phone i {
+    position: absolute;
+    left: 8px;
+    top: 50%;
+    margin-top: -10px;
+    font-size: 20px;
+    color: #6c98e1;
+}
+
+.stm-our-team .image .team-info .email {
+    display: inline-block;
+    min-width: 160px;
+    max-width: 100%;
+    padding: 0 12px;
+    background-color: #6c98e1;
+    border-radius: 20px;
+    color: #fff !important;
+    font-size: 13px;
+    line-height: 33px;
+    text-align: center;
+    text-decoration: none !important;
+}
+
+.stm-our-team .meta {
+    background-color: #fff;
+    padding: 21px 10px 23px 10px;
+    text-align: center;
+}
+
+.stm-our-team .meta .name, .stm-our-team .meta .name.h5 {
+    margin-bottom: -2px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.stm-our-team .meta .position {
+    color: #888;
+    font-size: 13px;
+}
+
+.stm-our-team:hover .image:before {
+    opacity: 1;
+}
+
+.stm-our-team:hover .meta {
+    background-color: #232628;
+}
+
+.stm-our-team:hover .meta .name, .stm-our-team:hover .meta .position {
+    color: #fff;
+}
+
+.stm-our-team:hover .team-info {
+    bottom: 18px;
+    visibility: visible;
+    opacity: 1;
+}
+
+@media (max-width: 1025px) {
+    .stm-our-team {
+        max-width: inherit !important;
+    }
+}
+
+.stm-template-motorcycle .stm-our-team:hover .meta {
+    background-color: #0e1315;
+}
+
+.stm-template-motorcycle .stm-our-team:hover .meta .name {
+    color: #fff;
+}
+
+.stm-template-motorcycle .stm-our-team .image .team-info .phone {
+    background-color: #fff;
+    color: #0e1315;
+}
+
+.stm-template-motorcycle .stm-our-team .image .team-info .phone i {
+    color: #df1d1d;
+}
+
+.stm-template-motorcycle .stm-our-team .image .team-info .email {
+    background-color: #df1d1d;
+}
+
+.stm-template-motorcycle .stm-our-team .meta .name {
+    color: #0e1315;
+}
+
+@media (max-width: 1025px) {
+    .stm-template-motorcycle .stm-our-team {
+        max-width: inherit !important;
+    }
+}
+
+.stm-template-auto_parts .stm-our-team:hover .meta {
+    background-color: #191919;
+}
+
+.stm-template-ev_dealer .stm-our-team:hover .meta {
+    background-color: #102127;
+}
+
+.stm-template-ev_dealer .stm-our-team .image .team-info .phone i {
+    color: #0d46ff;
+}
+
+.stm-template-ev_dealer .stm-our-team .image .team-info .email {
+    background-color: #0d46ff;
+}
+
+.stm-template-equipment .stm-our-team a, .stm-template-equipment .stm-our-team .heading-font {
+    color: #1d1f1f;
+}
+
+.stm-template-listing_five .stm-our-team .image .team-info .phone i {
+    color: #1a2c33;
+}
+
+.stm-template-listing_five .stm-our-team .image .team-info .email {
+    background-color: #1a2c33;
+}

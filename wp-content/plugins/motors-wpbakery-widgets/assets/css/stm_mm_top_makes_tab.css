@@ -1,0 +1,153 @@
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap {
+    display: block;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav.nav-tabs {
+    border-bottom: 1px solid #dedede;
+    margin: 0 0 23px;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav.nav-tabs .nav-item {
+    border: unset;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav.nav-tabs .nav-item:last-child a {
+    margin-right: 0;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav.nav-tabs .nav-item .nav-link {
+    background: transparent;
+    border: unset;
+    font-size: 14px;
+    font-weight: 400;
+    color: #153e4d;
+    text-align: left;
+    padding: 10px 20px 13px 0;
+    margin-right: 20px;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav.nav-tabs .nav-item .nav-link:before {
+    content: "";
+    display: block;
+    width: 45px;
+    height: 2px;
+    background: transparent;
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav.nav-tabs .nav-item.active .nav-link, html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav.nav-tabs .nav-item:hover .nav-link {
+    color: #153e4d;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav.nav-tabs .nav-item.active .nav-link:before, html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav.nav-tabs .nav-item:hover .nav-link:before {
+    background: #1bc744;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle {
+    display: block;
+    width: 23%;
+    margin-right: 20px;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle:last-child {
+    margin-right: 0;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle .vehicle-img {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle .vehicle-img img {
+    display: block;
+    width: 100%;
+    position: relative;
+    transform: translateZ(0);
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle .vehicle-img .price {
+    display: block;
+    position: absolute;
+    font-size: 12px;
+    font-weight: 700;
+    color: #ffffff;
+    padding: 2px 5px;
+    background: #6d99e2;
+    bottom: 0;
+    right: 0;
+    left: initial;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle .title a {
+    color: #153e4d;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 16px;
+    margin-bottom: 10px;
+    background: transparent;
+    letter-spacing: 0;
+    padding: 0;
+}
+
+html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle .title a:hover {
+    color: #1bc744;
+}
+
+@media (max-width: 780px) {
+    html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav .nav-item {
+        margin-right: 0;
+    }
+
+    html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .nav .nav-item .nav-link {
+        padding: 15px 20px 10px 0;
+    }
+}
+
+@media (max-width: 550px) {
+    html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle {
+        width: 48%;
+        margin: 0 0 20px !important;
+    }
+}
+
+.stm-layout-header-equipment #wrapper #header ul li.stm_megamenu__boxed.stm_menu_child_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav .nav-item > a,
+.stm-layout-header-car_rental #wrapper #header ul li.stm_megamenu__boxed.stm_menu_child_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav .nav-item > a {
+    padding: 12px 25px 12px 0;
+}
+
+.stm-layout-header-equipment #wrapper #header ul li.stm_megamenu__boxed.stm_menu_child_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav .nav-item > a:active, .stm-layout-header-equipment #wrapper #header ul li.stm_megamenu__boxed.stm_menu_child_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav .nav-item > a:hover,
+.stm-layout-header-car_rental #wrapper #header ul li.stm_megamenu__boxed.stm_menu_child_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav .nav-item > a:active,
+.stm-layout-header-car_rental #wrapper #header ul li.stm_megamenu__boxed.stm_menu_child_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav .nav-item > a:hover {
+    color: #153e4d;
+}
+
+@media (min-width: 992px) and (max-width: 1169px) {
+    html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle .vehicle-img .price {
+        font-size: 0.75em;
+        padding: 0 4px;
+        line-height: 1.6;
+    }
+
+    html body #wrapper #header ul li.stm_megamenu .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle .title a {
+        font-size: 11px;
+    }
+}

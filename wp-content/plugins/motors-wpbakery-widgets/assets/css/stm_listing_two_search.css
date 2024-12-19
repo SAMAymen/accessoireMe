@@ -1,0 +1,533 @@
+.stm_dynamic_listing_two_filter {
+    position: relative;
+}
+
+.stm_dynamic_listing_two_filter:before {
+    position: absolute;
+    content: "";
+    display: block;
+    background: url("../images/listing-filter-overlay.png") 0 0 no-repeat;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    z-index: 1;
+}
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+@media (max-width: 767px) {
+    .stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav {
+        display: flex;
+        overflow-y: scroll;
+    }
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li {
+    float: left;
+    margin-bottom: 0;
+    position: relative;
+}
+
+@media (max-width: 767px) {
+    .stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li {
+        width: 100%;
+        white-space: nowrap;
+        border-right: 1px solid rgba(255, 255, 255, 0.1);
+    }
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li:before {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 15px;
+    background: #ffffff;
+    opacity: 0.75;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+}
+
+@media (max-width: 767px) {
+    .stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li:before {
+        display: none;
+    }
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li:first-child:before {
+    display: none;
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li.active:first-child + li:before {
+    display: none;
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li.active:last-child:before {
+    display: none;
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li.active + li:before, .stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li.active:not(:first-child):not(:last-child):before {
+    display: none;
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li.active {
+    z-index: 100;
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li a {
+    position: relative;
+    display: block;
+    padding: 16px 43px 13px 35px;
+    font-weight: 700;
+    font-size: 15px;
+    text-decoration: none !important;
+    letter-spacing: -0.4px;
+    z-index: 2;
+}
+
+.stm_dynamic_listing_two_filter .tab-content {
+    padding: 38px 30px 38px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .tab-pane {
+    position: relative;
+    z-index: 2;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_second_tab form .btn-wrap .stm-select-col {
+    padding: 0;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .tab-pane.active.expanded {
+    flex-direction: column;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .tab-pane.active.expanded .stm-filter-tab-selects {
+    padding-right: 0;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .tab-pane .motors-gdpr {
+    display: block;
+    float: left;
+    width: 64%;
+    margin: 0 !important;
+    line-height: 22px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .vmc-file-wrap {
+    display: block;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .vmc-file-wrap .file-wrap {
+    float: left;
+    width: 100%;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .vmc-file-wrap .file-wrap .input-file-holder {
+    display: block;
+    width: 100%;
+    font-weight: 400;
+    color: #888888;
+    font-size: 14px;
+    outline: none !important;
+    background-color: #eceff3;
+    position: relative;
+    overflow: hidden;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .vmc-file-wrap .file-wrap .input-file-holder span {
+    position: absolute;
+    top: 50%;
+    left: 25px;
+    transform: translateY(-50%);
+}
+
+.stm_dynamic_listing_two_filter .tab-content .vmc-file-wrap .file-wrap .input-file-holder i {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+}
+
+.stm_dynamic_listing_two_filter .tab-content .vmc-file-wrap .file-wrap .input-file-holder input[type=file] {
+    width: 100%;
+    opacity: 0;
+    height: 47px;
+    line-height: 47px;
+    padding: 0;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .file-name-wrap {
+    display: block;
+    width: 100%;
+    height: 47px;
+    line-height: 44px;
+    padding: 0 21px;
+    font-weight: 400;
+    color: #888888;
+    border: 2px solid #eceff3;
+    font-size: 14px;
+    outline: none !important;
+    background-color: #eceff3;
+    position: relative;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .file-name-wrap i {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.stm_dynamic_listing_two_filter .tab-content form {
+    width: 100%;
+    padding-bottom: 40px;
+    transition: all 0.2s ease-in;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-filter-tab-selects {
+    width: 100%;
+    overflow: hidden;
+    transition: all 0.3s ease-in;
+    padding-right: 0;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-filter-tab-selects .stm-select-col {
+    margin-bottom: 30px;
+    padding: 0 8px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-filter-tab-selects .col-md-12 {
+    padding: 0 15px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-filter-tab-selects > .row {
+    margin: 0 -8px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-filter-tab-selects.stm-filter-tab-selects-third {
+    padding-right: 0;
+}
+
+.stm_dynamic_listing_two_filter .tab-content #stm_third_tab .btn-wrap {
+    position: static;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .btn-wrap {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 10;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .btn-wrap button {
+    float: right;
+    position: relative;
+    text-transform: none;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .btn-wrap button i.fa-spinner {
+    display: none;
+    position: absolute;
+    top: 36%;
+    left: 46%;
+    animation: spin 2s linear infinite;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .btn-wrap button.loading {
+    color: transparent !important;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .btn-wrap button.loading i.fa-spinner {
+    display: block;
+    color: #ffffff !important;
+}
+
+.stm_dynamic_listing_two_filter .tab-content button[type=submit] {
+    margin-left: 10px;
+    min-width: 170px;
+    padding: 16px 25px 13px 25px;
+    font-weight: 700;
+}
+
+.stm_dynamic_listing_two_filter .tab-content button[type=submit] i {
+    display: inline-block;
+    margin-right: 6px;
+    font-size: 16px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content button[type=submit]:active {
+    top: -1px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-slide-content {
+    transition: all 0.2s ease-in;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-slide-content .stm-select-col {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    .stm_dynamic_listing_two_filter .tab-content #stm_third_tab .stm-more-options-wrap {
+        padding: 10px 0 35px 0;
+    }
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-more-options-wrap {
+    display: block;
+    cursor: pointer;
+    padding: 10px 0 10px 0;
+    text-align: left;
+}
+
+@media (max-width: 767px) {
+    .stm_dynamic_listing_two_filter .tab-content .stm-more-options-wrap {
+        text-align: right;
+        padding: 10px 0 20px 0;
+    }
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-more-options-wrap span {
+    border-bottom: 1px dotted;
+    transition: all 0.2s ease-in-out;
+    color: #888888;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .stm-more-options-wrap span:hover {
+    color: #ffffff;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .taxonomy_range_wrap {
+    min-height: 50px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .taxonomy_range_wrap .mts_semeht_taxonomy {
+    position: relative;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .taxonomy_range_wrap .mts_semeht_taxonomy label {
+    color: #ffffff;
+    line-height: 16px;
+    vertical-align: top;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .taxonomy_range_wrap .mts_semeht_taxonomy .stm-taxonomy-range-unit {
+    margin-top: 10px;
+    padding: 0 10px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .taxonomy_range_wrap .taxonomy-tooltip {
+    margin-top: 2px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .taxonomy_range_wrap .taxonomy-tooltip .tooltip-inner {
+    padding: 1px 3px 0;
+    background: #eceff3;
+    color: #222222;
+}
+
+.stm_dynamic_listing_two_filter .select2-container--default .select2-selection--single {
+    height: 46px;
+    opacity: 1 !important;
+}
+
+.stm_dynamic_listing_two_filter .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 46px;
+}
+
+.stm_dynamic_listing_two_filter .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 46px;
+}
+
+.stm_dynamic_listing_two_filter .stm_listing_filter_text {
+    height: 46px;
+    line-height: 46px;
+}
+
+.stm_dynamic_listing_two_filter .tab-content button[type=submit]:active {
+    box-shadow: none !important;
+}
+
+.stm_dynamic_listing_two_filter.stm_dynamic_listing_dealer_filter {
+    margin-bottom: 70px !important;
+}
+
+.stm_dynamic_listing_two_filter.stm_dynamic_listing_dealer_filter:before {
+    display: none !important;
+}
+
+.stm_dynamic_listing_two_filter.stm_dynamic_listing_dealer_filter .tab-content {
+    padding: 38px 30px 13px;
+}
+
+@media (max-width: 991px) {
+    .stm_dynamic_listing_two_filter:before {
+        background: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .stm_dynamic_listing_two_filter .tab-content #stm_third_tab form {
+        padding-bottom: 0;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content #stm_third_tab .btn-wrap .row .stm-select-col:last-child {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content #stm_third_tab .btn-wrap .row .stm-select-col:last-child .motors-gdpr {
+        width: 100%;
+        margin-left: -7 !important;
+        margin-bottom: 10px !important;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content #stm_third_tab .btn-wrap .row .stm-select-col:last-child button {
+        display: inline-block;
+        width: auto;
+        align-self: flex-end;
+        max-width: 180px;
+    }
+}
+/*sm*/
+@media (max-width: 767px) {
+    .stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li {
+        float: none;
+        width: 100%;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content button[type=submit] {
+        margin-left: 0;
+        margin-bottom: 0;
+        float: none;
+        float: right;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .stm-filter-tab-selects .stm-select-col {
+        padding: 0 15px;
+    }
+}
+
+@media (max-width: 767px) {
+    .stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li {
+        float: none;
+        width: 100%;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content button[type=submit] {
+        margin-left: 0;
+        margin-bottom: 0;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .stm-filter-tab-selects .stm-select-col {
+        padding: 0 15px;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane form {
+        padding-bottom: 130px;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane form .btn-wrap {
+        top: inherit;
+        bottom: 0;
+        right: 5px;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane form .stm-filter-tab-selects {
+        padding-right: 0;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_first_tab form {
+        padding-bottom: 70px;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_first_tab form .btn-wrap {
+        padding-left: 4px;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_second_tab form {
+        padding-bottom: 0;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_second_tab form .row .stm-select-col {
+        margin-bottom: 20px;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_second_tab form .btn-wrap {
+        padding-bottom: 10px;
+        display: flex;
+        flex-direction: column;
+        position: static;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_second_tab form .btn-wrap .stm-more-options-wrap {
+        padding: 0 0 20px 0;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_third_tab .btn-wrap {
+        position: static;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_third_tab .btn-wrap .row .stm-select-col:last-child {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_third_tab .btn-wrap .row .stm-select-col:last-child .motors-gdpr {
+        width: 100%;
+        margin-left: 0 !important;
+        margin-bottom: 10px !important;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane#stm_third_tab .btn-wrap .row .stm-select-col:last-child button {
+        display: inline-block;
+        width: auto;
+        align-self: flex-end;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane .stm-filter-tab-selects.stm-filter-tab-selects-third {
+        padding-right: 0;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane .stm-filter-tab-selects.stm-filter-tab-selects-third .stm-slide-content .vmc-file-wrap .file-wrap {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane .stm-filter-tab-selects.stm-filter-tab-selects-third .stm-slide-content .vmc-file-wrap .vmc-photos-list {
+        margin-top: 10px;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane .stm-filter-tab-selects.stm-filter-tab-selects-third .stm-slide-content .vmc-file-wrap .vmc-photos-list ul {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane .stm-filter-tab-selects.stm-filter-tab-selects-third .stm-slide-content .vmc-file-wrap .vmc-photos-list ul li {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .stm_dynamic_listing_two_filter .tab-content .tab-pane .btn-wrap {
+        top: inherit;
+        bottom: 0;
+    }
+}

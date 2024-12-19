@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'stm-rental';
+    src: url('../fonts/rental/stm-rental.eot?n3cuvzq');
+    src: url('../fonts/rental/stm-rental.eot?n3cuvzq#iefix') format('embedded-opentype'),
+    url('../fonts/rental/stm-rental.ttf?n3cuvzq') format('truetype'),
+    url('../fonts/rental/stm-rental.woff?n3cuvzq') format('woff'),
+    url('../fonts/rental/stm-rental.svg?n3cuvzq#stm-rental') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="stm-rental-"], [class*=" stm-rental-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'stm-rental' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.stm-rental-ac:before {
+    content: "\e909";
+}
+
+.stm-rental-door:before {
+    content: "\e90a";
+}
+
+.stm-rental-baloon_tail:before {
+    content: "\e908";
+}
+
+.stm-rental-bag:before {
+    content: "\e900";
+}
+
+.stm-rental-chair_rent:before {
+    content: "\e901";
+}
+
+.stm-rental-gps_rent:before {
+    content: "\e902";
+}
+
+.stm-rental-medal_rent:before {
+    content: "\e903";
+}
+
+.stm-rental-phone_circle:before {
+    content: "\e904";
+}
+
+.stm-rental-seats:before {
+    content: "\e905";
+}
+
+.stm-rental-support_rent:before {
+    content: "\e906";
+}
+
+.stm-rental-thumbs_rent:before {
+    content: "\e907";
+}
+
+.stm-rental-redo:before {
+    content: "\e90b";
+}
+
+.stm-rental-ico-close:before {
+    content: "\e90c";
+}

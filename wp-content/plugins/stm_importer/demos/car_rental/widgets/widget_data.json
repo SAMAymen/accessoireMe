@@ -1,0 +1,91 @@
+[
+  {
+    "default": [
+      "search-2",
+      "recent-posts-2",
+      "recent-comments-2",
+      "archives-2",
+      "categories-2",
+      "meta-2"
+    ],
+    "footer": [
+      "stm_text-2",
+      "text-2",
+      "text-3",
+      "socials-2"
+    ]
+  },
+  {
+    "search": {
+      "2": {
+        "title": ""
+      },
+      "_multiwidget": 1
+    },
+    "recent-posts": {
+      "2": {
+        "title": "",
+        "number": 5
+      },
+      "_multiwidget": 1
+    },
+    "recent-comments": {
+      "2": {
+        "title": "",
+        "number": 5
+      },
+      "_multiwidget": 1
+    },
+    "archives": {
+      "2": {
+        "title": "",
+        "count": 0,
+        "dropdown": 0
+      },
+      "_multiwidget": 1
+    },
+    "categories": {
+      "2": {
+        "title": "",
+        "count": 0,
+        "hierarchical": 0,
+        "dropdown": 0
+      },
+      "_multiwidget": 1
+    },
+    "meta": {
+      "2": {
+        "title": ""
+      },
+      "_multiwidget": 1
+    },
+    "stm_text": {
+      "2": {
+        "title": "About car rental",
+        "text": "Motors Automotive we repair domestic and foreign cars. We service the Los Angeles Metro Area for all Automotive Service & Repair.",
+        "filter": false,
+        "socials": false
+      },
+      "_multiwidget": 1
+    },
+    "text": {
+      "2": {
+        "title": "Contact info",
+        "text": "<span class=\"date\">Car Rental Office:<\/span> (323) 938-5798<br\/>\r\n<span class=\"date\">Vehicle Repair service:<\/span> (888) 637-7262<br\/>\r\n<span class=\"date\">Email:<\/span>  <a href=\"mailto:Info@styleixthemes.com\">Info@styleixthemes.com<\/a>",
+        "filter": false
+      },
+      "3": {
+        "title": "Service hours",
+        "text": "<span class=\"date\">Monday - Friday:<\/span> 09:00AM - 09:00PM<br\/>\r\n<span class=\"date\">Saturday:<\/span> 09:00AM - 07:00PM<br\/>\r\n<span class=\"date\">Sunday:<\/span> Closed",
+        "filter": false
+      },
+      "_multiwidget": 1
+    },
+    "socials": {
+      "2": {
+        "title": "Social Network"
+      },
+      "_multiwidget": 1
+    }
+  }
+]

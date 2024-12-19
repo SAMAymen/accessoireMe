@@ -1,0 +1,197 @@
+.wp-block-freeform.block-library-rich-text__tinymce, .block-editor {
+    font-family: "Open Sans";
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h1, .wp-block-freeform.block-library-rich-text__tinymce .h1, .wp-block-freeform.block-library-rich-text__tinymce h2, .wp-block-freeform.block-library-rich-text__tinymce .h2, .wp-block-freeform.block-library-rich-text__tinymce h3, .wp-block-freeform.block-library-rich-text__tinymce .h3, .wp-block-freeform.block-library-rich-text__tinymce h4, .wp-block-freeform.block-library-rich-text__tinymce .h4, .wp-block-freeform.block-library-rich-text__tinymce h5, .wp-block-freeform.block-library-rich-text__tinymce .h5, .wp-block-freeform.block-library-rich-text__tinymce h6, .wp-block-freeform.block-library-rich-text__tinymce .h6, .wp-block-freeform.block-library-rich-text__tinymce .heading-font,
+.wp-block-freeform.block-library-rich-text__tinymce .button, .wp-block-freeform.block-library-rich-text__tinymce .load-more-btn, .wp-block-freeform.block-library-rich-text__tinymce .vc_tta-panel-title, .wp-block-freeform.block-library-rich-text__tinymce .page-numbers li > a, .wp-block-freeform.block-library-rich-text__tinymce .page-numbers li > span,
+.wp-block-freeform.block-library-rich-text__tinymce .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab a span,
+.wp-block-freeform.block-library-rich-text__tinymce .stm_auto_loan_calculator input, .wp-block-freeform.block-library-rich-text__tinymce .post-content blockquote, .wp-block-freeform.block-library-rich-text__tinymce .contact-us-label,
+.wp-block-freeform.block-library-rich-text__tinymce .wpb_tour_tabs_wrapper.ui-tabs ul.wpb_tabs_nav > li > a,
+.wp-block-freeform.block-library-rich-text__tinymce .stm-shop-sidebar-area .widget.widget_product_categories > ul,
+.wp-block-freeform.block-library-rich-text__tinymce #main .stm-shop-sidebar-area .widget .product_list_widget li .product-title,
+.wp-block-freeform.block-library-rich-text__tinymce #main .stm-shop-sidebar-area .widget .product_list_widget li a,
+.wp-block-freeform.block-library-rich-text__tinymce .woocommerce ul.products li.product .onsale,
+.wp-block-freeform.block-library-rich-text__tinymce .woocommerce div.product p.price, .wp-block-freeform.block-library-rich-text__tinymce .woocommerce div.product span.price,
+.wp-block-freeform.block-library-rich-text__tinymce .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+.wp-block-freeform.block-library-rich-text__tinymce .woocommerce table.shop_attributes td,
+.wp-block-freeform.block-library-rich-text__tinymce .woocommerce table.shop_table td.product-name a,
+.wp-block-freeform.block-library-rich-text__tinymce .woocommerce-cart table.cart td.product-price,
+.wp-block-freeform.block-library-rich-text__tinymce .woocommerce-cart table.cart td.product-subtotal,
+.wp-block-freeform.block-library-rich-text__tinymce .header-listing .listing-menu li a, .block-editor h1, .block-editor .h1, .block-editor h2, .block-editor .h2, .block-editor h3, .block-editor .h3, .block-editor h4, .block-editor .h4, .block-editor h5, .block-editor .h5, .block-editor h6, .block-editor .h6, .block-editor .heading-font,
+.block-editor .button, .block-editor .load-more-btn, .block-editor .vc_tta-panel-title, .block-editor .page-numbers li > a, .block-editor .page-numbers li > span,
+.block-editor .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab a span,
+.block-editor .stm_auto_loan_calculator input, .block-editor .post-content blockquote, .block-editor .contact-us-label,
+.block-editor .wpb_tour_tabs_wrapper.ui-tabs ul.wpb_tabs_nav > li > a,
+.block-editor .stm-shop-sidebar-area .widget.widget_product_categories > ul,
+.block-editor #main .stm-shop-sidebar-area .widget .product_list_widget li .product-title,
+.block-editor #main .stm-shop-sidebar-area .widget .product_list_widget li a,
+.block-editor .woocommerce ul.products li.product .onsale,
+.block-editor .woocommerce div.product p.price, .block-editor .woocommerce div.product span.price,
+.block-editor .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+.block-editor .woocommerce table.shop_attributes td,
+.block-editor .woocommerce table.shop_table td.product-name a,
+.block-editor .woocommerce-cart table.cart td.product-price,
+.block-editor .woocommerce-cart table.cart td.product-subtotal,
+.block-editor .header-listing .listing-menu li a {
+    font-family: "Montserrat";
+    color: #232628;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce .wp-block, .block-editor .wp-block {
+    max-width: 100%;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h1, .wp-block-freeform.block-library-rich-text__tinymce .h1, .block-editor h1, .block-editor .h1 {
+    margin: 0;
+    margin-bottom: 10px;
+    line-height: 1.2;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h2, .wp-block-freeform.block-library-rich-text__tinymce .h2, .block-editor h2, .block-editor .h2 {
+    margin: 0;
+    margin-bottom: 14px;
+    line-height: 1.2;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h3, .wp-block-freeform.block-library-rich-text__tinymce .h3, .block-editor h3, .block-editor .h3 {
+    margin: 0;
+    margin-bottom: 15px;
+    line-height: 1.2;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h4, .wp-block-freeform.block-library-rich-text__tinymce .h4, .block-editor h4, .block-editor .h4 {
+    margin: 0;
+    margin-bottom: 11px;
+    line-height: 1.2;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h5, .wp-block-freeform.block-library-rich-text__tinymce .h5, .block-editor h5, .block-editor .h5 {
+    margin: 0;
+    margin-bottom: 7px;
+    line-height: 22px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h6, .wp-block-freeform.block-library-rich-text__tinymce .h6, .block-editor h6, .block-editor .h6 {
+    margin: 0;
+    margin-bottom: 8px;
+    line-height: 1.2;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh h1, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh .h1, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh h2, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh .h2, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh h3, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh .h3, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh h4, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh .h4, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh h5, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh .h5, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh h6, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh .h6, .wp-block-freeform.block-library-rich-text__tinymce body.stm-macintosh .heading-font, .block-editor body.stm-macintosh h1, .block-editor body.stm-macintosh .h1, .block-editor body.stm-macintosh h2, .block-editor body.stm-macintosh .h2, .block-editor body.stm-macintosh h3, .block-editor body.stm-macintosh .h3, .block-editor body.stm-macintosh h4, .block-editor body.stm-macintosh .h4, .block-editor body.stm-macintosh h5, .block-editor body.stm-macintosh .h5, .block-editor body.stm-macintosh h6, .block-editor body.stm-macintosh .h6, .block-editor body.stm-macintosh .heading-font {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ul, .block-editor ul {
+    padding-left: 20px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ul li, .block-editor ul li {
+    margin-bottom: 8px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ol, .block-editor ol {
+    padding-left: 20px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ol li, .block-editor ol li {
+    margin-bottom: 8px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ul.header-menu ul, .block-editor ul.header-menu ul {
+    margin-top: 0;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ul ol, .wp-block-freeform.block-library-rich-text__tinymce ol ol, .wp-block-freeform.block-library-rich-text__tinymce ol ul, .wp-block-freeform.block-library-rich-text__tinymce ul ul, .block-editor ul ol, .block-editor ol ol, .block-editor ol ul, .block-editor ul ul {
+    margin-top: 8px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote, .block-editor blockquote {
+    margin: 22px 0;
+    padding: 2px 32px;
+    border-left-width: 4px;
+    border-left-color: #cc6119;
+    font-size: 14px;
+    line-height: 22px;
+    color: #888888;
+    font-style: italic;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote, .block-editor blockquote {
+    position: relative;
+    margin-top: 10px;
+    padding-left: 72px;
+    padding-right: 5px;
+    border-left: none;
+    font-size: 16px;
+    line-height: 32px;
+    color: #232628;
+    font-style: normal;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote:after, .wp-block-freeform.block-library-rich-text__tinymce blockquote:before, .block-editor blockquote:after, .block-editor blockquote:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 9px;
+    left: 4px;
+    font-size: 31px;
+    font-family: "stm-icon";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #cc6119;
+    content: "\e923";
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce code, .block-editor code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce table, .block-editor table {
+    border: 0;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce table tr th, .wp-block-freeform.block-library-rich-text__tinymce table tr td, .block-editor table tr th, .block-editor table tr td {
+    border: 1px solid #d5d9e0;
+    padding: 5px 10px;
+    text-align: left;
+}
+
+.post-type-page .wp-block-freeform.block-library-rich-text__tinymce blockquote, .post-type-page .block-editor blockquote {
+    margin: 22px 0;
+    padding: 2px 32px;
+    border-left: 4px solid #cc6119;
+    font-size: 14px;
+    line-height: 22px;
+    color: #888888;
+    font-style: italic;
+}
+
+.post-type-page .wp-block-freeform.block-library-rich-text__tinymce blockquote:before, .post-type-page .wp-block-freeform.block-library-rich-text__tinymce blockquote:after, .post-type-page .block-editor blockquote:before, .post-type-page .block-editor blockquote:after {
+    display: none;
+}

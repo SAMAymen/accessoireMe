@@ -1,0 +1,43 @@
+<div ng-class="'stm_to_builder-element__popup stm_to_builder-element_' + vm.element.type + '__popup'">
+    <h4 ng-bind="vm.element.label"></h4>
+    <md-tabs>
+        <md-tab label="main">
+
+
+            <div class="stm_to-builder__icon_picker">
+                <i class="fas fa-time" ng-click="icon = ''"></i>
+
+                <div icons-list icon="vm.element.data.icon">
+                    <div class="stm_to-builder__open-icons">
+                        <i ng-class="(vm.element.data.icon) ? vm.element.data.icon : 'fa fa-plus'" class="select-icon"></i>
+                        <span ng-bind="vm.element.data.icon ? vm.element.data.icon : 'Select Icon'"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">{{'Cart Title' | translate }}</span>
+                <input
+                        type="text"
+                        class="form-control"
+                        ng-model="vm.element.data.title"
+                        placeholder="{{'Shipping cart' | translate }}">
+            </div>
+        </md-tab>
+        <!--Responsive-->
+        <md-tab label="responsive">
+            <element-margins model="vm.element.margins"></element-margins>
+        </md-tab>
+    </md-tabs>
+
+    <md-dialog-actions layout="row">
+        <md-button class="md-raised" ng-click="vm.cancel()">
+            {{'Cancel' | translate }}
+        </md-button>
+        <span flex></span>
+        <md-button class="md-raised md-primary" ng-click="vm.saveElement(vm.element)">
+            {{'Save' | translate }}
+        </md-button>
+    </md-dialog-actions>
+
+</div>

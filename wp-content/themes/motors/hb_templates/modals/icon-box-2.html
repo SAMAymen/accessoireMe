@@ -1,0 +1,93 @@
+<div ng-class="'stm_to_builder-element__popup stm_to_builder-element_' + vm.element.type + '__popup'">
+    <h4 ng-bind="vm.element.label"></h4>
+    <md-tabs>
+        <md-tab label="main">
+
+
+            <div class="stm_to-builder__icon_picker">
+                <i class="fas fa-times" ng-click="icon = ''"></i>
+
+                <div icons-list icon="vm.element.data.icon">
+                    <div class="stm_to-builder__open-icons">
+                        <i ng-class="(vm.element.data.icon) ? vm.element.data.icon : 'fa fa-plus'" class="select-icon"></i>
+                        <span ng-bind="vm.element.data.icon ? vm.element.data.icon : 'Select Icon'"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="input-group">
+                <span class="input-group-addon">{{'Line 1' | translate }}</span>
+                <input
+                        type="text"
+                        class="form-control"
+                        ng-model="vm.element.data.title"
+                        placeholder="{{'Icon box title' | translate }}">
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">{{'Line 2' | translate }}</span>
+                <input
+                        type="text"
+                        class="form-control"
+                        ng-model="vm.element.data.subtitle"
+                        placeholder="{{'Icon box subtitle' | translate }}">
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">{{'Line 3' | translate }}</span>
+                <input
+                        type="text"
+                        class="form-control"
+                        ng-model="vm.element.data.description"
+                        placeholder="{{'Icon box description' | translate }}">
+
+                <span class="input-group-addon">
+                    {{'Use as link?' | translate }}
+                    <input type="checkbox" ng-model="vm.element.data.line2AsLink">
+                </span>
+            </div>
+
+            <div class="input-group" ng-if="vm.element.data.line2AsLink">
+                <span class="input-group-addon">{{'Line 3 url' | translate }}</span>
+                <div class="stm_admin__select">
+                    <select ng-model="vm.element.data.line2PageId" class="form-control">
+                        <option ng-repeat="(page_id, name) in ::vm.pages track by page_id" ng-value="page_id">{{name}}</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="input-group" ng-if="vm.element.data.line2AsLink">
+                <span class="input-group-addon">{{'Modal width' | translate }}</span>
+                <input type="number" ng-model="vm.element.data.modal2Width" class="form-control">
+            </div>
+
+
+            <div class="input-group">
+                <span class="input-group-addon">{{'Custom text color' | translate }}</span>
+                <input colorpicker="hex" ng-model="vm.element.data.textColor" class="form-control">
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">{{'Custom icon color' | translate }}</span>
+                <input colorpicker="hex" ng-model="vm.element.data.iconColor" class="form-control">
+            </div>
+
+        </md-tab>
+        <!--Responsive-->
+        <md-tab label="responsive">
+            <element-margins model="vm.element.margins"></element-margins>
+        </md-tab>
+    </md-tabs>
+
+    <md-dialog-actions layout="row">
+        <md-button class="md-raised" ng-click="vm.cancel()">
+            {{'Cancel' | translate }}
+        </md-button>
+        <span flex></span>
+        <md-button class="md-raised md-primary" ng-click="vm.saveElement(vm.element)">
+            {{'Save' | translate }}
+        </md-button>
+    </md-dialog-actions>
+
+</div>

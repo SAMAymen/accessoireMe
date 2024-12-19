@@ -1,0 +1,212 @@
+@font-face {
+	font-family: 'boaticons';
+	src:	url('../fonts/boat-icons/boaticons.eot?d0cx1x');
+	src:	url('../fonts/boat-icons/boaticons.eot?d0cx1x#iefix') format('embedded-opentype'),
+			url('../fonts/boat-icons/boaticons.ttf?d0cx1x') format('truetype'),
+			url('../fonts/boat-icons/boaticons.woff?d0cx1x') format('woff'),
+			url('../fonts/boat-icons/boaticons.svg?d0cx1x#boaticons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="stm-boats-icon-"], [class*=" stm-boats-icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'boaticons' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.stm-boats-icon-depth-sounder-installation:before {
+	content: "\e933";
+}
+.stm-boats-icon-engine-repairs:before {
+	content: "\e934";
+}
+.stm-boats-icon-fuel-changes:before {
+	content: "\e935";
+}
+.stm-boats-icon-marine-engine-service:before {
+	content: "\e936";
+}
+.stm-boats-icon-narrow-boat-painting:before {
+	content: "\e937";
+}
+.stm-boats-icon-accident:before {
+	content: "\e930";
+}
+.stm-boats-icon-exterior:before {
+	content: "\e931";
+}
+.stm-boats-icon-interior:before {
+	content: "\e932";
+}
+.stm-boats-icon-calculator-boat:before {
+	content: "\e92f";
+}
+.stm-boats-icon-quote_2:before {
+	content: "\e92e";
+}
+.stm-boats-icon-check:before {
+	content: "\e92d";
+}
+.stm-boats-icon-calendar:before {
+	content: "\e925";
+}
+.stm-boats-icon-dimensions:before {
+	content: "\e926";
+}
+.stm-boats-icon-fan:before {
+	content: "\e927";
+}
+.stm-boats-icon-message:before {
+	content: "\e928";
+}
+.stm-boats-icon-performance:before {
+	content: "\e929";
+}
+.stm-boats-icon-phone:before {
+	content: "\e92a";
+}
+.stm-boats-icon-skype:before {
+	content: "\e92b";
+}
+.stm-boats-icon-tank:before {
+	content: "\e92c";
+}
+.stm-boats-icon-pin:before {
+	content: "\e924";
+}
+.stm-boats-icon-add-to-compare:before {
+	content: "\e920";
+}
+.stm-boats-icon-camera:before {
+	content: "\e921";
+}
+.stm-boats-icon-remove-from-compare:before {
+	content: "\e922";
+}
+.stm-boats-icon-movie:before {
+	content: "\e923";
+}
+.stm-boats-icon-arrow-left:before {
+	content: "\e91e";
+}
+.stm-boats-icon-arrow-right:before {
+	content: "\e91f";
+}
+.stm-boats-icon-cart:before {
+	content: "\e91d";
+}
+.stm-boats-icon-quote:before {
+	content: "\e91c";
+}
+.stm-boats-icon-wave:before {
+	content: "\e90f";
+}
+.stm-boats-icon-jet-sky .path1:before {
+	content: "\e910";
+	color: rgb(45, 163, 198);
+}
+.stm-boats-icon-jet-sky .path2:before {
+	content: "\e911";
+	margin-left: -3em;
+	color: rgb(34, 45, 100);
+}
+.stm-boats-icon-canoe .path1:before {
+	content: "\e912";
+	color: rgb(45, 163, 198);
+}
+.stm-boats-icon-canoe .path2:before {
+	content: "\e913";
+	margin-left: -2.7099609375em;
+	color: rgb(34, 45, 100);
+}
+.stm-boats-icon-dinghy .path1:before {
+	content: "\e914";
+	color: rgb(45, 163, 198);
+}
+.stm-boats-icon-dinghy .path2:before {
+	content: "\e915";
+	margin-left: -3.111328125em;
+	color: rgb(34, 45, 100);
+}
+.stm-boats-icon-yacht .path1:before {
+	content: "\e916";
+	color: rgb(45, 163, 198);
+}
+.stm-boats-icon-yacht .path2:before {
+	content: "\e917";
+	margin-left: -2.7099609375em;
+	color: rgb(34, 45, 100);
+}
+.stm-boats-icon-sailboat .path1:before {
+	content: "\e918";
+	color: rgb(45, 163, 198);
+}
+.stm-boats-icon-sailboat .path2:before {
+	content: "\e919";
+	margin-left: -1.3330078125em;
+	color: rgb(34, 45, 100);
+}
+.stm-boats-icon-boat .path1:before {
+	content: "\e91a";
+	color: rgb(34, 45, 100);
+}
+.stm-boats-icon-boat .path2:before {
+	content: "\e91b";
+	margin-left: -2.3330078125em;
+	color: rgb(45, 163, 198);
+}
+.stm-boats-icon-financing:before {
+	content: "\e900";
+}
+.stm-boats-icon-s_ship:before {
+	content: "\e901";
+}
+.stm-boats-icon-binoculars:before {
+	content: "\e902";
+}
+.stm-boats-icon-helm:before {
+	content: "\e903";
+}
+.stm-boats-icon-shellfish:before {
+	content: "\e904";
+}
+.stm-boats-icon-crew:before {
+	content: "\e905";
+}
+.stm-boats-icon-shackle:before {
+	content: "\e906";
+}
+.stm-boats-icon-compass:before {
+	content: "\e907";
+}
+.stm-boats-icon-anchor:before {
+	content: "\e908";
+}
+.stm-boats-icon-hat:before {
+	content: "\e909";
+}
+.stm-boats-icon-sail:before {
+	content: "\e90a";
+}
+.stm-boats-icon-fuel:before {
+	content: "\e90b";
+}
+.stm-boats-icon-size:before {
+	content: "\e90c";
+}
+.stm-boats-icon-compare-boats:before {
+	content: "\e90d";
+}
+.stm-boats-icon-cap-hat:before {
+	content: "\e90e";
+}

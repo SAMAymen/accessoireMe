@@ -1,0 +1,83 @@
+[
+	{
+	  "wp_inactive_widgets": ["stm_address-3"],
+	  "default": [
+		"search-2",
+		"recent-posts-2",
+		"recent-comments-2",
+		"archives-2",
+		"categories-2",
+		"meta-2"
+	  ],
+	  "stm_listing_car": [
+		"stm_dealer_car_info-2",
+		"stm_listing_car_form-2",
+		"stm_similar_cars-2"
+	  ]
+	},
+	{
+	  "search": {
+		"2": {"title": "Search"},
+		"_multiwidget": 1
+	  },
+	  "recent-posts": {
+		"2": {
+		  "title": "Recent Posts",
+		  "number": 5
+		},
+		"_multiwidget": 1
+	  },
+	  "recent-comments": {
+		"2": {
+		  "title": "Recent Comments",
+		  "number": 5
+		},
+		"_multiwidget": 1
+	  },
+	  "archives": {
+		"2": {
+		  "title": "Archives",
+		  "count": 0,
+		  "dropdown": 0
+		},
+		"_multiwidget": 1
+	  },
+	  "categories": {
+		"2": {
+		  "title": "Categories",
+		  "count": 0,
+		  "hierarchical": 0,
+		  "dropdown": 0
+		},
+		"_multiwidget": 1
+	  },
+	  "meta": {
+		"2": {"title": "Meta"},
+		"_multiwidget": 1
+	  },
+	  "stm_dealer_car_info": {
+		"2": {"title": "Dealer Info","show_whatsapp":"on","show_email":"on"},
+		"_multiwidget": 1
+	  },
+	  "stm_listing_car_form": {
+		"2": {
+		  "title": "Contact Dealer",
+		  "shortcode": "[contact-form-7 id=\"271\" title=\"Single listing request form\"]"
+		},
+		"_multiwidget": 1
+	  },
+	  "stm_similar_cars": {
+		"2": {"title": "Similar Listing"},
+		"_multiwidget": 1
+	  },
+	  "stm_address": {
+		"3": {
+		  "title": false,
+		  "link": "",
+		  "text": "",
+		  "filter": false
+		},
+		"_multiwidget": 1
+	  }
+	}
+  ]

@@ -1,0 +1,120 @@
+.form-table.stm{
+	width: auto;
+}
+
+.form-table.stm th{
+	width: auto;
+}
+
+.form-table.stm td, .form-table.stm th{
+	vertical-align: middle;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.form-table.stm td .wp-color-result{
+	margin-bottom: 0;
+}
+
+.stm_metabox_image .stm_upload_image, .stm_metabox_image .stm_remove_image, .stm_metabox_image .custom_preview_image{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 10px 0 0;
+}
+
+.stm_metabox_image .stm_upload_image:active{
+	vertical-align: middle;
+}
+
+.stm_metabox_image .custom_preview_image{
+	width: 170px;
+	height: auto;
+   	max-height: 200px;
+}
+
+.form-table.stm h3{
+	padding: 20px 0 0 !important;
+	font-size: 20px !important;
+	text-transform: uppercase;
+}
+
+.wp-admin .form-table.stm input[type=text],
+.wp-admin .form-table.stm select {
+	width: 100%;
+}
+
+.stm-metabox-media {
+    margin: 0 -5px;
+}
+
+.stm-metabox-media .stm-uploaded-file {
+    width: 100px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+}
+
+.stm-uploaded-file img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.textfield-description {
+    color: #9e9e9e;
+    font-size: 13px;
+    font-style: italic;
+    line-height: 20px;
+}
+
+.custom_preview_file {
+	margin-right: 15px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.stm-repeat-table-row {
+   margin-bottom: 10px;
+}
+
+.stm-repeat-table-row input[type="text"]{
+   width: inherit !important;
+   margin-right: 10px !important;
+}
+
+.stm-repeat-table-row .add-row {
+   margin-top: 15px !important;
+}
+
+table.form-table.stm.listing_seller_note {
+	width: 100%;
+}
+
+table.form-table.stm.listing_seller_note th {
+	display: none;
+}
+
+table.form-table.stm.listing_seller_note td {
+	padding: 0;
+}
+
+table.form-table.stm.listing_seller_note textarea {
+	width: 100%;
+	min-height: 180px;
+}
+
+.wpcfto_generic_field_iconpicker .preview-container .icon-preview .icon-wrapper{
+	overflow: hidden;
+	padding: 5px;
+}
+
+.wpcfto_generic_field_iconpicker .preview-container .icon-preview i{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+}
+
+.wpcfto_generic_field_iconpicker .preview-container .icon-preview i:before{
+	color: unset;
+}

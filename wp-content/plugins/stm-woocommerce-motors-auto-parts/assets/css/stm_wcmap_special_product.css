@@ -1,0 +1,240 @@
+/*COLORS*/
+/*FONTS*/
+.woocommerce.stm_special_offer {
+    display: block;
+    position: relative;
+}
+
+.woocommerce.stm_special_offer:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    overflow: hidden;
+    padding: 64px 53px 60px;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .stm-spec-prod-text-info {
+    display: block;
+    width: 100%;
+    min-width: 430px;
+    max-width: 430px;
+    z-index: 1;
+    position: relative;
+    flex-grow: 1;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .stm-spec-prod-img {
+    display: block;
+    position: relative;
+    height: auto;
+    width: 44%;
+    min-width: 450px;
+    z-index: 0;
+    flex-grow: 0;
+    margin-left: -66px;
+    margin-top: 22px;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .stm-spec-prod-img img {
+    display: block;
+    max-width: 100%;
+    width: auto;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__title {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__title:first-child {
+    padding-top: 2px;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__title > * {
+    display: inline-block;
+    width: auto;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 0 10px;
+    text-align: left;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__meta .woocommerce-loop-product__title {
+    letter-spacing: -0.2px;
+    line-height: 42px;
+    font-weight: 700;
+    font-size: 42px;
+    margin-top: 30px;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__meta .woocommerce-loop-product__title a {
+    color: #ffffff;
+    transition: all 0.2s ease-in-out;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__meta .woocommerce-loop-product__title a:hover {
+    text-decoration: none;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__meta .price {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 48px;
+    margin-top: 70px;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__meta .price span {
+    font-weight: 700 !important;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__meta .price .woocommerce-Price-amount {
+    color: #ffffff !important;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__meta .price del {
+    font-size: 36px;
+    text-decoration: none;
+    opacity: 0.5;
+    position: relative;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__meta .price del:before {
+    content: "";
+    display: block;
+    width: 80%;
+    height: 2px;
+    position: absolute;
+    top: 10px;
+    left: 14px;
+    background: #ffffff;
+    transform: rotate(-25deg);
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__meta .price ins {
+    font-size: 48px;
+    float: left;
+    margin-left: 30px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__countdown {
+    margin-top: 60px;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__countdown .special_offer_countdown {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    margin: 0;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__countdown .special_offer_countdown .count_meta {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 36px;
+    color: #ffffff;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__countdown .special_offer_countdown .count_meta:last-child {
+    margin-right: 0;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__countdown .special_offer_countdown .count_meta .count_meta_info {
+    padding: 24px 0 5px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_product__countdown .special_offer_countdown .count_meta .count_meta_info div {
+    font-weight: 500;
+    font-size: 16px;
+    padding: 7px 0 0;
+}
+
+.woocommerce.stm_special_offer .special_offer_product__meta_box .special_offer_countdown_out {
+    position: relative;
+    padding: 30px 20px;
+    text-align: center;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+@media (max-width: 1024px) {
+    .woocommerce.stm_special_offer.normal_size .special_offer_product__meta_box .special_offer_product__meta {
+        margin-top: 14px;
+    }
+
+    .woocommerce.stm_special_offer.normal_size .special_offer_product__meta_box .special_offer_product__countdown {
+        margin-top: 0;
+        padding: 0;
+    }
+
+    .woocommerce.stm_special_offer.normal_size .special_offer_product__meta_box .special_offer_product__countdown .count_meta_info {
+        padding: 30px 0 40px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .woocommerce.stm_special_offer .special_offer_product__meta_box {
+        padding: 40px 40px;
+    }
+}
+
+.spacer-offer-product-lg {
+    display: block;
+}
+
+.spacer-offer-product-md {
+    display: none;
+}
+
+.spacer-offer-product-sm_landscape {
+    display: none;
+}
+
+.spacer-offer-product-sm {
+    display: none;
+}
+
+.spacer-offer-product-xs {
+    display: none;
+}
+
+@media (max-width: 1500px) {
+    .spacer-offer-product-lg {
+        display: none;
+    }
+
+    .spacer-offer-product-md {
+        display: block;
+    }
+}
+
+@media (max-width: 1024px) {
+    .spacer-offer-product-md {
+        display: none;
+    }
+}

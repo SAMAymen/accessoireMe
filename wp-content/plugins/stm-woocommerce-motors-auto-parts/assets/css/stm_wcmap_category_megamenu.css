@@ -1,0 +1,247 @@
+.stm-wcmap-category-mm-wrap {
+    display: block;
+    position: relative;
+    background: #ffffff;
+}
+
+.stm-wcmap-category-mm-wrap .stm-wcmap-title {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 14px 0 14px 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-top: 1px solid #f5f7f7;
+    border-left: 1px solid #f5f7f7;
+    border-right: 1px solid #f5f7f7;
+}
+
+.stm-wcmap-category-mm-wrap .stm-wcmap-title span {
+    margin-right: 10px;
+    color: #6c98e1;
+    font-size: 18px;
+    margin-top: -2px;
+}
+
+.stm-wcmap-category-mm-wrap .stm-wcmap-title h4 {
+    margin: 0;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.stm-wcmap-category-mm-wrap ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.stm-wcmap-category-mm-wrap > ul {
+    display: block;
+    position: relative;
+    border-bottom: 1px solid #f5f7f7;
+    border-left: 1px solid #f5f7f7;
+    border-right: 1px solid #f5f7f7;
+}
+
+.stm-wcmap-category-mm-wrap > ul > li {
+    border-bottom: 1px solid #f5f7f7;
+    padding: 0;
+    margin: 0;
+}
+
+.stm-wcmap-category-mm-wrap > ul > li:last-child {
+    border-bottom: none;
+}
+
+.stm-wcmap-category-mm-wrap > ul > li > a {
+    display: block;
+    padding: 5px 0 5px 15px;
+    font-size: 14px;
+    color: #595959;
+}
+
+.stm-wcmap-category-mm-wrap > ul > li > a span {
+    font-size: 8px;
+    margin-right: 11px;
+    color: #6c98e1;
+}
+
+.stm-wcmap-category-mm-wrap > ul > li > a:hover {
+    color: #191919;
+}
+
+.stm-wcmap-category-mm-wrap > ul li {
+    display: block;
+}
+
+.stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content {
+    display: none;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: 100%;
+    min-height: 332px;
+    background: #f5f7f7;
+    position: absolute;
+    left: 100%;
+    top: -3px;
+    z-index: 10;
+    border-top-style: solid;
+    border-top-width: 3px;
+    margin: 0;
+    padding-top: 34px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 6px 7px 14px -4px rgba(0, 0, 0, 0.6);
+}
+
+.stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .subcat-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 75%;
+}
+
+.stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .subcat-list li {
+    width: 33.33%;
+}
+
+@media (max-width: 1023px) {
+    .stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .subcat-list li {
+        width: auto;
+    }
+}
+
+.stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .subcat-list li .subcat {
+    color: #191919;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .subcat-list li .subSubCat {
+    display: block;
+    position: relative;
+    color: #555555;
+    font-size: 14px;
+    padding: 2px 0 2px 15px;
+}
+
+.stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .subcat-list li .subSubCat:before {
+    content: "";
+    display: block;
+    width: 3px;
+    height: 3px;
+    background: #6c98e1;
+    border-radius: 3px;
+    position: absolute;
+    top: 50%;
+    left: 2px;
+    transform: translateY(-50%);
+}
+
+.stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .subcat-list li .stm-wcmap-subsubcats-content {
+    padding-top: 9px;
+}
+
+.stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .subcat-list li .stm-wcmap-subsubcats-content .subsubcat-list li {
+    white-space: nowrap;
+    margin: 0;
+}
+
+.stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .cat-advert {
+    display: block;
+}
+
+.stm-wcmap-category-mm-wrap > ul li:hover, .stm-wcmap-category-mm-wrap > ul li.active {
+    text-decoration: none;
+}
+
+.stm-wcmap-category-mm-wrap > ul li:hover .stm-wcmap-subcats-content, .stm-wcmap-category-mm-wrap > ul li.active .stm-wcmap-subcats-content {
+    display: flex;
+}
+
+@media (max-width: 1100px) {
+    .stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content {
+        width: auto !important;
+        padding-right: 0;
+    }
+
+    .stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content > .subcat-list > li {
+        margin-right: 30px;
+    }
+
+    .stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content .cat-advert {
+        display: none;
+    }
+}
+
+@media (max-width: 900px) {
+    .stm-wcmap-category-mm-wrap > ul li .stm-wcmap-subcats-content {
+        position: relative !important;
+        top: 0 !important;
+        left: 0 !important;
+    }
+
+    .stm-wcmap-category-mm-wrap .stm_wcmap_mobile_mm li a .icon-ap-arrow {
+        display: none;
+    }
+
+    .stm-wcmap-category-mm-wrap .stm_wcmap_mobile_mm li a:hover, .stm-wcmap-category-mm-wrap .stm_wcmap_mobile_mm li a:focus {
+        background: transparent !important;
+    }
+
+    .stm-wcmap-category-mm-wrap .stm_wcmap_mobile_mm li .stm-wcmap-subcats-content {
+        display: none !important;
+        border-top: 0;
+    }
+
+    .stm-wcmap-category-mm-wrap .stm_wcmap_mobile_mm .stm_wcmap_mm_has_children {
+        position: relative;
+    }
+
+    .stm-wcmap-category-mm-wrap .stm_wcmap_mobile_mm .stm_wcmap_mm_has_children a {
+        display: inline-block;
+        width: 88%;
+        overflow: hidden;
+        z-index: 5;
+        vertical-align: middle;
+    }
+
+    .stm-wcmap-category-mm-wrap .stm_wcmap_mobile_mm .stm_wcmap_mm_has_children .icon-ap-arrow {
+        display: inline-block;
+        width: 10%;
+        text-align: center;
+        line-height: 26px;
+        color: #6c98e1;
+        font-size: 8px;
+        z-index: 10;
+        vertical-align: middle;
+    }
+
+    .stm-wcmap-category-mm-wrap .stm_wcmap_mobile_mm .stm_wcmap_mm_has_children.opened .stm-wcmap-subcats-content {
+        display: block !important;
+    }
+}
+
+@media (max-width: 740px) {
+    .stm-wcmap-category-mm-wrap > .stm_wcmap_mobile_mm {
+        margin-bottom: 20px;
+    }
+
+    .stm-wcmap-category-mm-wrap > .stm_wcmap_mobile_mm > li .stm-wcmap-subcats-content {
+        display: none !important;
+        border-top: 0;
+    }
+
+    .stm-wcmap-category-mm-wrap > .stm_wcmap_mobile_mm > li .stm-wcmap-subcats-content > .subcat-list {
+        flex-direction: column;
+    }
+
+    .stm-wcmap-category-mm-wrap > .stm_wcmap_mobile_mm > li .stm-wcmap-subcats-content > .subcat-list > li {
+        width: 100%;
+        margin: 0 0 30px;
+    }
+}

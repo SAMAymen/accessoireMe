@@ -1,0 +1,1 @@
+<div class="global-alerts"></div>

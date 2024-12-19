@@ -1,0 +1,87 @@
+.stm-wcmap-icon-filter-wrap .stm-wcmap-title-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-title-wrap h2 {
+    margin: 0 28px 0 0;
+    padding: 0;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-title-wrap span {
+    display: block;
+    cursor: pointer;
+    border-bottom: 1px dashed #808080;
+    font-size: 13px;
+    line-height: 16px;
+    transition: all 0.2s ease-in-out;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+    justify-content: space-around;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter .non-visible {
+    display: none;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter a {
+    display: block;
+    width: 23%;
+    padding: 12px 0 15px;
+    border-top: 3px solid #ffffff;
+    transition: all 0.2s ease;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter a .inner .image {
+    display: block;
+    margin-bottom: 13px;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter a .inner .image img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    margin: 0 auto;
+    max-height: 50px;
+    transform: translateZ(0);
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter a .inner .name {
+    display: block;
+    overflow: hidden;
+    font-size: 13px;
+    text-align: center;
+    color: #777777;
+    line-height: 15px;
+    padding: 0 8px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter a:hover {
+    box-shadow: 0 4px 20px -3px rgba(0, 0, 0, 0.7);
+    text-decoration: none;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter.only_title .non-visible {
+    display: block;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter.only_title .inner .image {
+    display: none;
+}
+
+.stm-wcmap-icon-filter-wrap .stm-wcmap-icon-filter.only_title .inner .name {
+    text-align: left;
+}

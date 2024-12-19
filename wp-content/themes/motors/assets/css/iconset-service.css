@@ -1,0 +1,181 @@
+@font-face {
+  font-family: 'stm-service-default';
+  src:  url('../fonts/service-fonts/stm-service-default.eot?ok2lqi');
+  src:  url('../fonts/service-fonts/stm-service-default.eot?ok2lqi#iefix') format('embedded-opentype'),
+    url('../fonts/service-fonts/stm-service-default.ttf?ok2lqi') format('truetype'),
+    url('../fonts/service-fonts/stm-service-default.woff?ok2lqi') format('woff'),
+    url('../fonts/service-fonts/stm-service-default.svg?ok2lqi#stm-service-default') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="stm-service-icon-"], [class*=" stm-service-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'stm-service-default' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* unset color on admin color picker modal */
+.stm_theme_font .form-table .stm-listings-pick-icon i:before {
+  color: unset!important;
+}
+
+.stm-service-icon-payment_listing:before {
+  content: "\e91f";
+}
+.stm-service-icon-shield-o:before {
+  content: "\e923";
+  color: #fff;
+}
+.stm-service-icon-reviews:before {
+  content: "\e924";
+  color: #fff;
+}
+.stm-service-icon-two_users:before {
+  content: "\e925";
+  color: #fff;
+}
+.stm-service-icon-car-listing:before {
+  content: "\e926";
+  color: #fff;
+}
+.stm-service-icon-pin_big:before {
+  content: "\e922";
+}
+.stm-service-icon-write-review:before {
+  content: "\e91e";
+  color: #fff;
+}
+.stm-service-icon-sales_phone:before {
+  content: "\e920";
+  color: inherit;
+}
+.stm-service-icon-sales_hours:before {
+  content: "\e921";
+  color: inherit;
+}
+.stm-service-icon-photos:before {
+  content: "\e91c";
+  color: rgba(0, 0, 0, 0.2);
+}
+.stm-service-icon-add_check:before {
+  content: "\e91d";
+  color: #fff;
+}
+.stm-service-icon-star-o:before {
+  content: "\e91a";
+  color: #4e90cc;
+}
+.stm-service-icon-inventory:before {
+  content: "\e91b";
+  color: #4e90cc;
+}
+.stm-service-icon-write_message:before {
+  content: "\e919";
+  color: #aaa;
+}
+.stm-service-icon-hashtag:before {
+  content: "\e918";
+}
+.stm-service-icon-mail-o:before {
+  content: "\e916";
+  color: #aaa;
+}
+.stm-service-icon-user-2:before {
+  content: "\e917";
+  color: #aaa;
+}
+.stm-service-icon-pin_2:before {
+  content: "\e914";
+  color: inherit;
+}
+.stm-service-icon-phone_2:before {
+  content: "\e915";
+  color: inherit;
+}
+.stm-service-icon-vin_check:before {
+  content: "\e911";
+}
+.stm-service-icon-color_type:before {
+  content: "\e912";
+}
+.stm-service-icon-body_type:before {
+  content: "\e913";
+}
+.stm-service-icon-pin:before {
+  content: "\e910";
+  color: rgba(255, 255, 255, 0.5);
+}
+.stm-service-icon-mail:before {
+  content: "\e90e";
+  color: #888;
+}
+.stm-service-icon-phone:before {
+  content: "\e90f";
+  color: inherit;
+}
+.stm-service-icon-compare-new:before {
+  content: "\e90b";
+  color: #fff;
+}
+.stm-service-icon-staricon:before {
+  content: "\e90c";
+  color: #fff;
+}
+.stm-service-icon-photo:before {
+  content: "\e90d";
+  color: #fff;
+}
+.stm-service-icon-cog:before {
+  content: "\e90a";
+}
+.stm-service-icon-listing-compare:before {
+  content: "\e909";
+  color: #fff;
+}
+.stm-service-icon-user:before {
+  content: "\e908";
+  color: #5b6771;
+}
+.stm-service-icon-listing_car_plus:before {
+  content: "\e907";
+  color: inherit;
+}
+.stm-service-icon-cash_dollar:before {
+  content: "\e900";
+  color: inherit;
+}
+.stm-service-icon-like_it:before {
+  content: "\e901";
+  color: #2e84cc;
+}
+.stm-service-icon-shield_check:before {
+  content: "\e902";
+  color: #cc6119;
+}
+.stm-service-icon-award_blank:before {
+  content: "\e903";
+  color: #12b1c4;
+}
+.stm-service-icon-diagnostic_monitor:before {
+  content: "\e904";
+  color: #dd276c;
+}
+.stm-service-icon-calendar_service:before {
+  content: "\e905";
+  color: #df8821;
+}
+.stm-service-icon-appointment_calendar:before {
+  content: "\e906";
+  color: #fff;
+}

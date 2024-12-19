@@ -1,0 +1,86 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+.stm-mt-icon-counter {
+    padding: 15px 0;
+    color: #ffffff;
+    text-align: center;
+}
+
+@media (min-width: 1200px) {
+    .stm-mt-icon-counter {
+        text-align: unset;
+    }
+}
+
+.stm-mt-icon-counter .stm-mt-icon-counter-left {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+    .stm-mt-icon-counter .stm-mt-icon-counter-left {
+        float: left;
+        margin-top: 8px;
+        margin-right: 14px;
+    }
+}
+
+.stm-mt-icon-counter .stm-mt-icon-counter-left i {
+    font-size: 56px;
+}
+
+.stm-mt-icon-counter .stm-counter-meta {
+    overflow: hidden;
+    color: #ffffff;
+}
+
+.stm-mt-icon-counter .stm-counter-meta .stm-value-wrapper {
+    font-weight: 700;
+    word-spacing: 0.2px;
+    line-height: 43px;
+    font-size: 0;
+}
+
+.stm-mt-icon-counter .stm-counter-meta .stm-value-wrapper .stm-value {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 100%;
+    font-size: 45px;
+    letter-spacing: -1.5px;
+}
+
+.stm-mt-icon-counter .stm-counter-meta .stm-value-wrapper .stm-value-affix {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 45px;
+    max-width: 100%;
+}
+
+.stm-mt-icon-counter .stm-counter-meta .stm-label {
+    margin: 6px 0 0 4px;
+    text-transform: uppercase;
+    letter-spacing: -0.4px;
+}
+
+.stm-template-car_dealer_two .stm-mt-icon-counter {
+    text-align: center;
+}
+
+.stm-template-car_dealer_two .stm-mt-icon-counter:first-child {
+    margin-bottom: 70px;
+}
+
+.stm-template-car_dealer_two .stm-mt-icon-counter .stm-counter-meta {
+    overflow: visible;
+}
+
+.stm-template-car_dealer_two .stm-mt-icon-counter .stm-counter-meta .stm-value-wrapper .stm-value {
+    letter-spacing: 6px;
+}
+
+.stm-template-car_dealer_two .stm-mt-icon-counter .stm-counter-meta .stm-label {
+    margin: 20px 0 0 4px;
+}

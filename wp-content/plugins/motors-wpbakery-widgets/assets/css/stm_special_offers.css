@@ -1,0 +1,201 @@
+.special-offers .colored-separator {
+    margin-bottom: 13px;
+}
+
+@media (max-width: 820px) {
+    .special-offers .listing-car-items .listing-car-item .car-title {
+        display: inline;
+        font-size: 14px;
+        white-space: unset;
+    }
+
+    .special-offers .listing-car-items .listing-car-item .price {
+        float: right;
+    }
+}
+
+.special-offers .title {
+    position: relative;
+    margin-bottom: 16px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: normal;
+    color: #fff;
+}
+
+@media (min-width: 820px) {
+    .special-offers .title {
+        padding: 0 130px;
+    }
+}
+
+.special-offers .title .all-offers {
+    display: block;
+    top: 14px;
+    right: 0;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #aaaaaa;
+    text-decoration: none !important;
+}
+
+@media (min-width: 768px) {
+    .special-offers .title .all-offers {
+        position: absolute;
+    }
+}
+
+.special-offers .title .all-offers > i {
+    vertical-align: top;
+    margin-right: 3px;
+    font-size: 19px;
+}
+
+.special-offers .title .all-offers .lt-blue {
+    vertical-align: top;
+}
+
+.special-offers .car-subtitle {
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.special-offers .car-title {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.special-offers .image {
+    position: relative;
+    width: 100%;
+}
+
+.special-offers .image img {
+    height: 205px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.special-offers .sell-online-wrap .normal-price {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.special-offers .sell-online-wrap .normal-price .normal_font {
+    font-size: 10px;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 12px;
+    margin: 0;
+    padding: 0;
+    opacity: 0.7;
+}
+
+.special-offers .sell-online-wrap .normal-price .heading-font {
+    line-height: 16px;
+    margin: 5px 0 0;
+    color: #ffffff;
+}
+
+.special-offers.style_2 .price {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.special-offers.style_2 .car-subtitle {
+    color: #2c313e;
+}
+
+.special-offers.style_2 .car-title {
+    color: #2c313e;
+    margin-top: 6px;
+}
+
+.special-offers.style_2 .listing-car-item-meta {
+    background: #ffffff;
+    padding-bottom: 23px;
+}
+
+.special-offers.style_2 .listing-car-item-meta .car-meta-top {
+    padding-bottom: 19px;
+    border-color: #2c313e;
+}
+
+.special-offers.style_2 .listing-car-item-meta .car-meta-bottom ul li {
+    max-width: 32%;
+    margin-top: 19px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-right: 20px !important;
+}
+
+.special-offers.style_2 .listing-car-item-meta .car-meta-bottom ul li:nth-child(3n) {
+    margin-right: 0 !important;
+}
+
+.special-offers.style_2 .listing-car-item-meta .car-meta-bottom ul li i {
+    color: #2c313e;
+}
+
+.special-offers.style_2 .listing-car-item-meta .car-meta-bottom ul li span {
+    color: #2c313e;
+}
+
+.special-offers.style_2 .stm-owl-prev, .special-offers.style_2 .stm-owl-next {
+    display: none;
+}
+
+.special-offers.style_2 .owl-dots .owl-dot {
+    padding: 4px 10px;
+}
+
+.special-offers.style_2 .owl-dots .owl-dot span {
+    width: 12px;
+    height: 12px;
+    background: transparent;
+    border: 2px solid #c9cbd2;
+}
+
+.special-offers.style_2 .owl-dots .owl-dot.active span {
+    width: 12px;
+    height: 12px;
+    border: 0;
+    transform: scale(1);
+}
+
+.special-offers.style_2 .owl-dots button {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.stm-hoverable-interactive-galleries .special-offers .interactive-hoverable {
+    min-width: 350px;
+    min-height: 205px;
+}
+
+.stm-hoverable-interactive-galleries .special-offers .interactive-hoverable .hoverable-wrap {
+    z-index: 1;
+}
+
+.stm-hoverable-interactive-galleries .special-offers .listing-car-item-inner a.rmv_txt_drctn:hover {
+    opacity: unset;
+}
+
+.stm-hoverable-interactive-galleries .special-offers .price {
+    z-index: 1;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-aircrafts .special-offers .image:before {
+    display: none !important;
+}
+
+.stm-hoverable-interactive-galleries.stm-template-motorcycle .special-offers.view_type_grid .image .interactive-hoverable {
+    min-height: 216px;
+}

@@ -1,0 +1,66 @@
+.post-grid-single-unit:not(.sticky-wrap) .content .title-relative a .title {
+    position: relative;
+    top: 10px;
+    transform: none;
+}
+
+.post-grid-single-unit .image a img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+figure.wp-caption {
+    display: table;
+    clear: both;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+table tr th, table tbody tr td {
+    border: 1px solid #d5d9e0;
+    padding: 5px 10px;
+}
+
+.comment .comment-info-wrapper .comment-text {
+    font-style: normal;
+}
+
+.page #main .container {
+    padding-top: 30px;
+}
+
+.page-links:before, .page-links:after {
+    display: table;
+    content: " ";
+    clear: both;
+}
+
+#wrapper .col-md-3 aside ul {
+    padding-left: 10px;
+}
+
+#wrapper .col-md-3 aside ul:first-child {
+    padding-left: 0;
+}
+
+#wrapper .col-md-3 aside .calendar_wrap table tfoot td:last-child {
+    text-align: right;
+}
+
+#footer aside {
+    margin-bottom: 30px;
+}
+
+#footer aside ul {
+    padding-left: 15px;
+}
+
+#footer aside .wp-caption-text {
+    color: #333333;
+}
+
+#footer aside .calendar_wrap table tfoot td:last-child {
+    text-align: right;
+}

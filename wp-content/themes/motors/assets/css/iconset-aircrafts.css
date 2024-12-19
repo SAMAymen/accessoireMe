@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'stm-aircrafts-icon';
+  src: url("../fonts/aircrafts-icon-font/stm-aircrafts-icon.eot?l6elzm");
+  src: url("../fonts/aircrafts-icon-font/stm-aircrafts-icon.eot?l6elzm#iefix") format("embedded-opentype"),
+  url("../fonts/aircrafts-icon-font/stm-aircrafts-icon.ttf?l6elzm") format("truetype"),
+  url("../fonts/aircrafts-icon-font/stm-aircrafts-icon.woff?l6elzm") format("woff"),
+  url("../fonts/aircrafts-icon-font/stm-aircrafts-icon.svg?l6elzm#stm-aircrafts-icon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ac-icon-"], [class*=" ac-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'stm-aircrafts-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ac-icon-ac-paper-pen:before {
+  content: "\e904";
+}
+
+.ac-icon-arrow-left:before {
+  content: "\e902";
+}
+
+.ac-icon-arrow-right:before {
+  content: "\e903";
+}
+
+.ac-icon-ac-brochure:before {
+  content: "\e900";
+}
+
+.ac-icon-ac-compare:before {
+  content: "\e901";
+}
+
+.ac-icon-ac-message:before {
+  content: "\e905";
+}
+
+.ac-icon-ac-offer-price:before {
+  content: "\e906";
+}
+
+.ac-icon-ac-phone:before {
+  content: "\e907";
+}
+
+.ac-icon-ac-share:before {
+  content: "\e908";
+}
+
+.ac-icon-ac-trade-in:before {
+  content: "\e909";
+}

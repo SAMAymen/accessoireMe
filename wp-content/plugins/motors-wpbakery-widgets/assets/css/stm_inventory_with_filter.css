@@ -1,0 +1,214 @@
+.stm_inventory_with_filter-wrap.is_page_inventory {
+    margin-top: 53px;
+    padding-bottom: 80px;
+}
+
+.stm_inventory_with_filter-wrap.is_page_inventory .col-md-9 .stm-action-wrap {
+    padding-top: 6px;
+    padding-bottom: 28px;
+    border-width: 3px;
+    margin-bottom: 24px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 {
+    margin-top: 0;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-single-unit {
+    margin-top: 15px;
+    box-shadow: 0px 2px 27px 0px rgba(35, 36, 58, 0.13);
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-single-unit:first-child {
+    margin-top: 0;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-filter-listing-directory-price {
+    margin-top: 15px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-filter-listing-directory-price .stm-accordion-content-wrapper {
+    padding: 15px 25px 25px 25px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-filter-listing-directory-price .stm-accordion-content-wrapper input[type=text] {
+    padding: 0 10px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0 25px 25px 25px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner .stm-option-label {
+    padding: 5px 0 5px 20px;
+    position: relative;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner .stm-option-label:before {
+    content: "\f061";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-size: 10px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner .stm-option-label input {
+    display: none;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner .stm-option-label span {
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner .stm-option-label span .count {
+    margin-left: 5px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 18px;
+    padding-bottom: 20px;
+    margin-bottom: 12px;
+    border-bottom: 1px solid #d8e5e6;
+    margin-top: -6px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap h2 {
+    display: block;
+    margin: 0;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .showing {
+    font-size: 15px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-sort-by-options {
+    border: 1px solid #d8e5e6;
+    padding-left: 10px;
+    border-radius: 3px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-sort-by-options > span {
+    margin-top: 12px;
+    margin-right: 0;
+    color: #2c313e;
+    text-transform: none;
+    font-size: 15px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-sort-by-options .select2-container--default .select2-selection--single {
+    height: 43px;
+    opacity: 1 !important;
+    background: transparent;
+    border: 0;
+    border-radius: 3px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-sort-by-options .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 43px;
+    color: #2c313e;
+    font-weight: 700;
+    font-size: 15px !important;
+    min-width: 170px;
+    padding-left: 3px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-sort-by-options .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 43px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-sort-by-options .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    font-size: 0;
+    margin-top: -5px;
+    height: 7px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-sort-by-options .select2-container--default .select2-selection--single .select2-selection__arrow b:before {
+    content: "";
+    display: block;
+    width: 10px;
+    border-top: 7px solid #7f7f7f;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-sort-by-options .select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
+    left: -6px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-view-by {
+    margin-left: 30px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-view-by .view-type {
+    margin-left: 16px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-view-by .view-type .view-grid {
+    font-size: 15px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm_ajax_pagination {
+    margin-bottom: 25px;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-inventory-load-more-btn {
+    display: block;
+    max-width: 200px;
+    margin-bottom: 20px;
+    padding: 10px 0;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+@media (max-width: 500px) {
+    .stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap h2 {
+        margin-bottom: 10px;
+    }
+
+    .stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .showing {
+        margin-bottom: 10px;
+    }
+
+    .stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-sort-by-options {
+        margin-left: 0;
+        margin-right: auto;
+    }
+}
+
+.stm-template-aircrafts .stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner {
+    padding: 0;
+}

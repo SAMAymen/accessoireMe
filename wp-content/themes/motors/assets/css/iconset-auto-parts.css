@@ -1,0 +1,77 @@
+@font-face {
+	font-family: 'stm-ap-icon';
+	src:	url('../fonts/auto-parts-font/stm-ap-icon.eot?ns7xbk');
+	src:	url('../fonts/auto-parts-font/stm-ap-icon.eot?ns7xbk#iefix') format('embedded-opentype'),
+			url('../fonts/auto-parts-font/stm-ap-icon.ttf?ns7xbk') format('truetype'),
+			url('../fonts/auto-parts-font/stm-ap-icon.woff?ns7xbk') format('woff'),
+			url('../fonts/auto-parts-font/stm-ap-icon.svg?ns7xbk#stm-ap-icon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-ap-"], [class*=" icon-ap-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'stm-ap-icon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ap-like-act:before {
+	content: "\e910";
+}
+.icon-ap-arrow-right:before {
+	content: "\e90f";
+}
+.icon-ap-star-empty:before {
+	content: "\e90e";
+}
+.icon-ap-car:before {
+	content: "\e90d";
+}
+.icon-ap-arrow:before {
+	content: "\e90c";
+}
+.icon-ap-note:before {
+	content: "\e90b";
+}
+.icon-ap-login:before {
+	content: "\e90a";
+}
+.icon-ap-add-to-cart:before {
+	content: "\e900";
+}
+.icon-ap-cart:before {
+	content: "\e901";
+}
+.icon-ap-compare:before {
+	content: "\e902";
+}
+.icon-ap-fire:before {
+	content: "\e903";
+}
+.icon-ap-latter:before {
+	content: "\e904";
+}
+.icon-ap-like:before {
+	content: "\e905";
+}
+.icon-ap-phone:before {
+	content: "\e906";
+}
+.icon-ap-quote:before {
+	content: "\e907";
+}
+.icon-ap-star:before {
+	content: "\e908";
+}
+.icon-ap-time:before {
+	content: "\e909";
+}

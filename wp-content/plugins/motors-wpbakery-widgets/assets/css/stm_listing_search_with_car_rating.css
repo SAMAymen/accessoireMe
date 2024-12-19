@@ -1,0 +1,99 @@
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap {
+    padding: 74px 0 32px;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0 10px;
+    position: relative;
+    margin-bottom: 34px;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container:before {
+    content: "";
+    display: block;
+    width: 70px;
+    height: 3px;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    z-index: 1;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container h3 {
+    display: block;
+    width: 70%;
+    text-align: left;
+    font-size: 28px !important;
+    text-transform: uppercase;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container .sort_by {
+    display: flex;
+    justify-content: flex-end;
+    width: 30%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container .sort_by li {
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container .sort_by li span {
+    display: block;
+    position: relative;
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container .sort_by li span.high:before {
+    content: "\f062";
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container .sort_by li span.low:before {
+    content: "\f063";
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .container .sort_by li span:before {
+    display: block;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    font-size: 14px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .selected-filter {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle {
+    margin-top: 10px;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .row:before, .stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .row:after {
+    display: block !important;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .row .col-md-3:nth-child(1), .stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .row .col-md-3:nth-child(2) {
+    width: 31%;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .row .col-md-3:nth-child(3), .stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .row .col-md-3:nth-child(4) {
+    width: 19%;
+}
+
+.stm_dynamic_listing_filter_with_rating .top-filter-wrap .middle .filter .stm-filter-tab-selects .select2-container--default .select2-selection--single {
+    background-color: #ffffff;
+}

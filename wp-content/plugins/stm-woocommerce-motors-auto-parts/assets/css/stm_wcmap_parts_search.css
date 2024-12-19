@@ -1,0 +1,121 @@
+.stm_wcmap_parts_search_wrap {
+    display: flex;
+    flex-direction: column;
+    background: #191919;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 20px 30px 30px;
+    border-radius: 3px;
+}
+
+.stm_wcmap_parts_search_wrap .stm_wcmap_title_wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 18px;
+}
+
+.stm_wcmap_parts_search_wrap .stm_wcmap_title_wrap i {
+    margin-right: 14px;
+    font-size: 18px;
+}
+
+.stm_wcmap_parts_search_wrap .stm_wcmap_title_wrap h2 {
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter {
+    display: block;
+    width: 100%;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter select, .stm_wcmap_parts_search_wrap .wcmap-part-filter input, .stm_wcmap_parts_search_wrap .wcmap-part-filter button {
+    width: 100%;
+    height: 42px;
+    line-height: 42px;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter button {
+    color: #191919;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter .select2.opacity {
+    opacity: 0.5;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter .select2, .stm_wcmap_parts_search_wrap .wcmap-part-filter input {
+    font-size: 14px;
+    color: #191d21;
+    border: none;
+    border-radius: 0;
+    background: #ffffff;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter .select2 {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 10px;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter .select2 .select2-selection {
+    border: 0;
+    height: 42px;
+    font-size: 14px;
+    color: #191d21;
+    background: #ffffff;
+    line-height: 42px;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter .select2 .select2-selection__rendered {
+    height: 42px;
+    line-height: 42px;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter .select2 .select2-selection__arrow {
+    height: 40px;
+    line-height: 40px;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter .select2 .select2-selection__arrow b {
+    position: relative;
+    border: 0;
+    margin: 0;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter .select2 .select2-selection__arrow b:before {
+    content: "\f078";
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-size: 10px;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter .select-wrap {
+    display: block;
+    position: relative;
+}
+
+.stm_wcmap_parts_search_wrap .wcmap-part-filter button {
+    padding: 1px 28px 0;
+}
+
+@media (max-width: 900px) {
+    .stm_wcmap_parts_search_wrap .wcmap-part-filter .row > * {
+        margin-bottom: 20px;
+    }
+
+    .stm_wcmap_parts_search_wrap .wcmap-part-filter .row > *:last-child {
+        margin-bottom: 0;
+    }
+}

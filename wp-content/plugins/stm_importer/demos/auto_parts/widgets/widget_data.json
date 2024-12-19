@@ -1,0 +1,180 @@
+[
+  {
+    "default": [
+      "archives-3",
+      "calendar-2",
+      "categories-4"
+    ],
+    "footer": [
+      "stm_text-3",
+      "media_gallery-3",
+      "socials-3",
+      "text-5"
+    ],
+    "shop": [
+      "woocommerce_layered_nav-2",
+      "woocommerce_layered_nav-3",
+      "woocommerce_layered_nav-4",
+      "woocommerce_layered_nav-5"
+    ],
+    "single_product_sidebar": [
+      "woocommerce_product_categories-3",
+      "woocommerce_recently_viewed_products-2",
+      "woocommerce_top_rated_products-2",
+      "woocommerce_product_search-2",
+      "woocommerce_products-2",
+      "woocommerce_product_tag_cloud-2",
+      "woocommerce_recent_reviews-2"
+    ]
+  },
+  {
+    "archives": {
+      "3": {
+        "title": "Archives",
+        "count": 0,
+        "dropdown": 0
+      },
+      "_multiwidget": 1
+    },
+    "calendar": {
+      "2": {
+        "title": "Calendar"
+      },
+      "_multiwidget": 1
+    },
+    "categories": {
+      "4": {
+        "title": "Categories",
+        "count": 0,
+        "hierarchical": 0,
+        "dropdown": 0
+      },
+      "_multiwidget": 1
+    },
+    "stm_text": {
+      "3": {
+        "title": "Motors Auto Parts Shop",
+        "text": "At Motors Auto Parts Shop we sell domestic and foreign auto spare parts and accessories.",
+        "filter": false,
+        "socials": false
+      },
+      "_multiwidget": 1
+    },
+    "media_gallery": {
+      "3": {
+        "title": "Payment Methods",
+        "columns": 4,
+        "size": "full",
+        "link_type": "post",
+        "orderby_random": false,
+        "ids": [
+          193,
+          194,
+          195,
+          196
+        ]
+      },
+      "_multiwidget": 1
+    },
+    "socials": {
+      "3": {
+        "title": "Social Network"
+      },
+      "_multiwidget": 1
+    },
+    "text": {
+      "5": {
+        "title": "Subscribe",
+        "text": "[mc4wp_form id=\"139\"]\r\n\r\nGet special offers and savings.",
+        "filter": true,
+        "visual": true
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_layered_nav": {
+      "2": {
+        "title": "Filter by Make",
+        "attribute": "make",
+        "display_type": "list",
+        "query_type": "and"
+      },
+      "3": {
+        "title": "Filter by Model",
+        "attribute": "model",
+        "display_type": "list",
+        "query_type": "and"
+      },
+      "4": {
+        "title": "Filter by Year",
+        "attribute": "part-year",
+        "display_type": "list",
+        "query_type": "and"
+      },
+      "5": {
+        "title": "Filter by Body",
+        "attribute": "body",
+        "display_type": "list",
+        "query_type": "and"
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_product_categories": {
+      "3": {
+        "title": "Product categories",
+        "orderby": "name",
+        "dropdown": 0,
+        "count": 0,
+        "hierarchical": 1,
+        "show_children_only": 0,
+        "hide_empty": 0,
+        "max_depth": ""
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_recently_viewed_products": {
+      "2": {
+        "title": "Recently Viewed Products",
+        "number": 10
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_top_rated_products": {
+      "2": {
+        "title": "Top rated products",
+        "number": 4
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_product_search": {
+      "2": {
+        "title": "Search"
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_products": {
+      "2": {
+        "title": "Products",
+        "number": 4,
+        "show": "",
+        "orderby": "date",
+        "order": "desc",
+        "hide_free": 0,
+        "show_hidden": 0
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_product_tag_cloud": {
+      "2": {
+        "title": "Product tags"
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_recent_reviews": {
+      "2": {
+        "title": "Recent reviews",
+        "number": 3
+      },
+      "_multiwidget": 1
+    }
+  }
+]

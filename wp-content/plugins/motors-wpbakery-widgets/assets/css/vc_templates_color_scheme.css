@@ -1,0 +1,195 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+/* =======  INFO BLOCK ANIMATE  ===========  */
+.info-wrap span .stm_flipbox .stm_flipbox__front .inner .inner-flex .ib-title,
+.info-wrap span .stm_flipbox .stm_flipbox__back .inner .inner-flex .ib-title {
+    color: #ffffff;
+}
+
+.info-wrap span .stm_flipbox .stm_flipbox__front .inner .inner-flex .ib-desc,
+.info-wrap span .stm_flipbox .stm_flipbox__back .inner .inner-flex .ib-desc {
+    color: #ffffff;
+}
+
+.info-wrap span .stm_flipbox .stm_flipbox__front {
+    border: 1px solid rgba(255, 255, 255, 0.35);
+}
+
+.info-wrap span .stm_flipbox .stm_flipbox__back {
+    background: rgba(34, 158, 255, 0.9);
+}
+
+.info-wrap span .stm_flipbox .stm_flipbox__back .inner .inner-flex .ib-title {
+    color: #ffffff;
+}
+
+.info-wrap span .stm_flipbox .stm_flipbox__back .inner .inner-flex .ib-desc {
+    color: #ffffff;
+}
+
+/* =======  INFO BLOCK ANIMATE  ===========  */
+/* ======= Listing Two Search ===========*/
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li {
+    background: #11323e;
+    border-right: 1px solid #133340;
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li a {
+    color: #ffffff;
+}
+
+.stm_dynamic_listing_two_filter .stm_dynamic_listing_filter_nav li.active {
+    background-color: #153e4d;
+    border-right-color: #153e4d;
+}
+
+.stm_dynamic_listing_two_filter .tab-content {
+    background-color: #153e4d;
+}
+
+.stm_dynamic_listing_two_filter .tab-content .tab-pane .vmc-photos-list ul li {
+    background: #ffffff;
+}
+
+/* ======= Listing Two Search ===========*/
+/* ======= Image Filter Body type ======= */
+.stm-image-filter-wrap {
+    border-top: 4px solid #153e4d;
+}
+
+.stm-image-filter-wrap .stm-img-filter-container .owl-controls .owl-nav .owl-prev:hover, .stm-image-filter-wrap .stm-img-filter-container .owl-controls .owl-nav .owl-next:hover {
+    background: #1bc744;
+}
+
+.stm-image-filter-wrap .stm-img-filter-container .owl-controls .owl-nav .owl-prev {
+    background: #dddddd;
+}
+
+.stm-image-filter-wrap .stm-img-filter-container .owl-controls .owl-nav .owl-next {
+    background: #dddddd;
+}
+
+/* ======= Image Filter Body type ======= */
+/* ======= Popular Searches ======= */
+.stm-popular-searches .stm-ps-list-wrap {
+    border: 2px solid #d8e5e6;
+}
+
+.stm-popular-searches .stm-ps-list-wrap .stm-ps-item a {
+    border: 1px solid #d8e5e6;
+    color: #798494;
+    background-color: #ffffff;
+}
+
+.stm-popular-searches .stm-ps-list-wrap .stm-ps-item a:hover {
+    color: #ffffff;
+    background-color: #4c94fa;
+}
+
+.stm-popular-searches .stm-ps-list-wrap .stm-ps-item a:hover i {
+    color: #ffffff;
+}
+
+.stm-popular-searches .stm-ps-list-wrap .stm-ps-item a i {
+    color: #4c94fa;
+}
+
+/* ======= Popular Searches ======= */
+/* ======= Inventory With Filter =======*/
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-single-unit > a.title {
+    border-color: #ff9420;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-single-unit > a.title.collapsed {
+    border-color: #4c94fa;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner .stm-option-label:before {
+    color: #bfc2c8;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner .stm-option-label.checked:before {
+    color: #ff9420;
+}
+
+.stm_inventory_with_filter-wrap .col-md-3 .stm-accordion-inner .stm-option-label span .count {
+    color: #bfc2c8;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-view-by .view-type i:before {
+    color: #ff9420;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-view-by .view-type.active {
+    background: #ff9420;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-action-wrap .stm-car-listing-sort-units .stm-view-by .view-type.active i:before {
+    color: #ffffff;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-inventory-load-more-btn {
+    color: #ffffff;
+    background: #ff9420;
+    box-shadow: 0 2px 0 #cc761a;
+}
+
+.stm_inventory_with_filter-wrap .col-md-9 .stm-inventory-load-more-btn:hover {
+    background: #cc761a;
+}
+
+/* ======= Inventory With Filter =======*/
+/* ======= Special Offers =======*/
+.special-offers.style_2 .price {
+    background: #ff9420;
+}
+
+.special-offers.style_2 .price:before {
+    background: #ff9420;
+}
+
+.special-offers.style_2 .car-subtitle {
+    color: #2c313e;
+}
+
+.special-offers.style_2 .car-title {
+    color: #2c313e;
+}
+
+.special-offers.style_2 .owl-dots .owl-dot.active span {
+    background: #ff9420;
+}
+
+.special-offers.style_2 .owl-dots button {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+/* ======= Special Offers =======*/
+/* ======= Category Info Box =======*/
+.stm-cat-info-box {
+    border-top: 3px solid #4c94fa;
+}
+
+.stm-cat-info-box i {
+    color: #4c94fa;
+}
+
+/* ======= Category Info Box =======*/
+/* ======= Data table =======*/
+.stm-data-table .stm-data-table-wrap .data-row-wrap {
+    border-bottom: 1px dashed #d8e5e6;
+    color: #2c313e;
+}
+
+/* ======= Data Table =======*/
+/* ======= Listing Categories Grid Wrap =======*/
+.stm-listing-cetegories-grid-wrap .stm-lcg-items-wrap .stm-lcg-item a {
+    color: #142e5d;
+}
+
+/* ======= Listing Categories Grid Wrap =======*/
+/* ======= STM Icon Filter =======*/
+/* ======= STM Icon Filter =======*/

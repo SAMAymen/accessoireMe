@@ -1,0 +1,32 @@
+.colored-separator {
+    text-align: center;
+    vertical-align: top;
+    font-size: 0;
+}
+
+.colored-separator.text-left {
+    text-align: left;
+}
+
+.colored-separator.text-right {
+    text-align: right;
+}
+
+.colored-separator .first-long,
+.colored-separator .last-short {
+    display: inline-block;
+    vertical-align: top;
+    width: 33px;
+    height: 5px;
+    transform: skew(-40deg, 0deg);
+    border-radius: 2px;
+    background-color: #cc6119;
+}
+
+.colored-separator .first-long {
+    margin-right: 3px;
+}
+
+.colored-separator .last-short {
+    width: 16px;
+}

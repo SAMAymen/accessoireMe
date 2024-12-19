@@ -1,0 +1,837 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors WPBakery Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-20 06:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7\n"
+"X-Domain: motors-wpbakery-widgets"
+
+#: templates/stm_car_listing_tabbed.php:256
+#: templates/stm_listings_tabs_2.php:144
+msgid " cars"
+msgstr ""
+
+#. number of remaining photos
+#. %d: more photo
+#: templates/stm_special_offers.php:168
+#: templates/stm_ev_featured_vehicles.php:111
+msgid "%d more photo"
+msgid_plural "%d more photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. listing title
+#: templates/stm_ev_single_highlight_photos.php:38
+#, php-format
+msgid "%s full"
+msgstr ""
+
+#. number of matched listings
+#. number of car data
+#: templates/stm_inventory_on_map.php:335
+#: templates/stm_inventory_on_map.php:341
+#, php-format
+msgid "%s matches"
+msgstr ""
+
+#. formatted price
+#: templates/stm_car_class_grid.php:52
+#, php-format
+msgid "%s/day"
+msgstr ""
+
+#: includes/functions.php:103
+msgid "0%"
+msgstr ""
+
+#: includes/functions.php:104
+msgid "20%"
+msgstr ""
+
+#: includes/functions.php:105
+msgid "40%"
+msgstr ""
+
+#: includes/functions.php:106
+msgid "60%"
+msgstr ""
+
+#: includes/functions.php:107
+msgid "80%"
+msgstr ""
+
+#. 1. number of posts per page, 2. zero
+#: templates/stm_inventory_with_filter.php:180
+#, php-format
+msgid ""
+"<b>Showing <span class=\"ac-showing\">%1$s</span> jets</b> from <span "
+"class=\"ac-total\">%2$s</span>"
+msgstr ""
+
+#: templates/stm_ev_battery_charging_time.php:22
+msgid "AC 16A"
+msgstr ""
+
+#: templates/stm_inventory_with_filter.php:147
+msgid "Active"
+msgstr ""
+
+#: templates/stm_listing_two_search.php:224
+msgid "Add Image"
+msgstr ""
+
+#: templates/stm_ev_shop_products.php:91 templates/stm_ev_shop_products.php:93
+msgid "Add to cart"
+msgstr ""
+
+#: templates/stm_ev_single_car_gallery_with_buttons.php:48
+msgid "Add to compare"
+msgstr ""
+
+#: templates/stm_listing_two_search.php:131
+#: templates/stm_listing_two_search.php:165
+msgid "Advanced search"
+msgstr ""
+
+#: templates/stm_special_offers.php:44
+msgid "all"
+msgstr ""
+
+#: templates/stm_features_posts.php:49
+msgid "All Features"
+msgstr ""
+
+#: includes/functions.php:332
+msgid "All Makes"
+msgstr ""
+
+#: templates/stm_recent_posts.php:49 templates/stm_recent_posts_magazine.php:43
+msgid "All News"
+msgstr ""
+
+#: templates/stm_dealer_list.php:25
+msgid "Alphabet"
+msgstr ""
+
+#: includes/functions.php:126
+msgid "Anchor for float menu"
+msgstr ""
+
+#: templates/stm_inventory_with_filter.php:117
+#: templates/stm_inventory_on_map.php:346
+msgid "Apply"
+msgstr ""
+
+#: templates/stm_login_register.php:156
+msgid "As Dealer"
+msgstr ""
+
+#: templates/stm_post_author_box.php:15
+msgid "Author:"
+msgstr ""
+
+#: templates/stm_car_listing_tabbed.php:191
+#: templates/stm_car_listing_tabbed.php:254
+#: templates/stm_listings_tabs_2.php:144
+msgid "available"
+msgstr ""
+
+#: templates/stm_ev_battery_charging_time.php:15
+msgid "Battery charging time"
+msgstr ""
+
+#: templates/stm_add_a_car.php:145
+msgid "Become a Dealer"
+msgstr ""
+
+#: includes/functions.php:100
+msgid "Blackout Opacity"
+msgstr ""
+
+#: templates/stm_special_offers.php:244
+msgid "BUY ONLINE"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:108
+msgid "Calculate"
+msgstr ""
+
+#: templates/stm_call_to_action.php:68
+msgid "Call to action"
+msgstr ""
+
+#: templates/stm_ev_single_car_gallery_with_buttons.php:112
+msgid "Car brochure"
+msgstr ""
+
+#: templates/stm_image_filter_by_type.php:81
+msgid "cars"
+msgstr ""
+
+#: templates/stm_dealer_list.php:28
+msgid "Cars number"
+msgstr ""
+
+#: templates/stm_post_meta_bottom.php:16
+msgid "Category:"
+msgstr ""
+
+#: templates/stm_ev_battery_charging_time.php:36
+msgid "Charging from 0 to 80%"
+msgstr ""
+
+#: templates/stm_social_buttons.php:67
+msgid "Chat via WhatsApp"
+msgstr ""
+
+#: templates/stm_dealer_list.php:60
+msgid "Choose"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:67 templates/stm_rent_car_form.php:99
+msgid "Choose office"
+msgstr ""
+
+#: templates/stm_ev_car_mpge.php:18
+msgid "CITY MPGe"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:138 templates/stm_rent_car_form.php:145
+msgid "Clear Data"
+msgstr ""
+
+#: templates/stm_working_days.php:40
+msgid "Closed"
+msgstr ""
+
+#: templates/stm_recent_posts.php:73
+msgid "Comment"
+msgstr ""
+
+#: templates/stm_ev_single_car_price_block.php:93
+#: templates/stm_contact_information.php:7
+msgid "Contact Information"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:141
+msgid "Continue reservation"
+msgstr ""
+
+#: templates/stm_dealer_list.php:27
+msgid "Date"
+msgstr ""
+
+#: templates/stm_ev_battery_charging_time.php:32
+msgid "DC 64A"
+msgstr ""
+
+#: templates/stm_ev_featured_vehicles.php:196
+msgid "Details"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:103
+msgid "Down Payment"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:215
+msgid "Down payment can not be more than vehicle price"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:114
+msgid "Drop Date/Time*"
+msgstr ""
+
+#: templates/stm_login_register.php:115
+msgid "Email *"
+msgstr ""
+
+#: templates/stm_contact_information.php:38
+msgid "Email:"
+msgstr ""
+
+#: includes/functions.php:84
+msgid "Enable STM Fullwidth"
+msgstr ""
+
+#: includes/functions.php:92
+msgid "Enable STM Fullwidth without js"
+msgstr ""
+
+#: includes/functions.php:136
+msgid "Enable STM theme LightGallery on click"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enables WPBakery Page Builder plugin support in Motors theme."
+msgstr ""
+
+#: templates/stm_dealer_list.php:95
+msgid "Enter a location"
+msgstr ""
+
+#: templates/stm_login_register.php:116
+msgid "Enter E-mail"
+msgstr ""
+
+#: templates/stm_login_register.php:97
+msgid "Enter First name"
+msgstr ""
+
+#: templates/stm_login_register.php:101
+msgid "Enter Last name"
+msgstr ""
+
+#: templates/stm_login_register.php:123
+msgid "Enter Login"
+msgstr ""
+
+#: templates/stm_login_register.php:45 templates/stm_login_register.php:75
+msgid "Enter login or E-mail"
+msgstr ""
+
+#: templates/stm_login_register.php:129
+msgid "Enter Password"
+msgstr ""
+
+#: templates/stm_login_register.php:49
+msgid "Enter password"
+msgstr ""
+
+#: templates/stm_login_register.php:108
+msgid "Enter Phone"
+msgstr ""
+
+#: templates/stm_ev_battery_charging_time.php:30
+msgid "Fast charge"
+msgstr ""
+
+#: templates/stm_ev_featured_vehicles.php:77
+msgid "Featured listing"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:136
+msgid "Find a vehicle"
+msgstr ""
+
+#: templates/stm_dealer_list.php:123
+msgid "Find Dealer"
+msgstr ""
+
+#: templates/stm_login_register.php:96
+msgid "First Name"
+msgstr ""
+
+#: includes/functions.php:121
+msgid "Float menu color"
+msgstr ""
+
+#: includes/functions.php:116
+msgid "Float menu item title"
+msgstr ""
+
+#: templates/stm_login_register.php:58
+msgid "Forgot Password"
+msgstr ""
+
+#: templates/stm_filter_selects.php:133
+msgid "Found:"
+msgstr ""
+
+#: templates/stm_working_days.php:20
+msgid "Friday"
+msgstr ""
+
+#: templates/stm_car_class_grid.php:48
+msgid "From"
+msgstr ""
+
+#: templates/stm_ev_battery_charging_time.php:20
+msgid "Home charge"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: templates/stm_ev_car_mpge.php:25
+msgid "HWY MPGe"
+msgstr ""
+
+#: templates/stm_login_register.php:141
+msgid "I accept the terms of the"
+msgstr ""
+
+#: templates/stm_login_register.php:111
+msgid "I have a WhatsApp account with this number"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:73
+msgid "Interest rate"
+msgstr ""
+
+#: templates/stm_dealer_list.php:116
+msgid "Keyword"
+msgstr ""
+
+#: templates/stm_login_register.php:100
+msgid "Last Name"
+msgstr ""
+
+#: templates/stm_inventory_with_filter.php:138
+msgid "Listing status"
+msgstr ""
+
+#: templates/stm_inventory_on_map.php:200
+msgid "Listings"
+msgstr ""
+
+#: templates/stm_magazine_events_list.php:84
+#: templates/stm_car_listing_tabbed.php:219
+#: templates/stm_listing_search_with_car_rating.php:76
+msgid "Load more"
+msgstr ""
+
+#: templates/stm_ev_single_car_gallery_with_buttons.php:80
+msgid "Loan calculator"
+msgstr ""
+
+#: templates/stm_login_register.php:66
+msgid "Login"
+msgstr ""
+
+#: templates/stm_login_register.php:122
+msgid "Login *"
+msgstr ""
+
+#: templates/stm_login_register.php:44 templates/stm_login_register.php:73
+msgid "Login or E-mail"
+msgstr ""
+
+#: templates/stm_ev_single_car_price_block.php:85
+msgid "Make an Offer Price"
+msgstr ""
+
+#: templates/stm_media_library.php:42
+msgid "Media gallery image"
+msgstr ""
+
+#: templates/stm_working_days.php:16
+msgid "Monday"
+msgstr ""
+
+#: templates/stm_pricing_tables.php:123
+msgid "Month"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:88
+msgid "month"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:120
+msgid "Monthly Payment"
+msgstr ""
+
+#: templates/stm_ev_swiper_slider.php:214
+#: templates/stm_ev_swiper_slider.php:221
+msgid "More info"
+msgstr ""
+
+#: templates/stm_listing_two_search.php:252
+msgid "More Options"
+msgstr ""
+
+#. Name of the plugin
+msgid "Motors WPBakery Widgets"
+msgstr ""
+
+#: templates/stm_add_a_car.php:150
+msgid "My inventory"
+msgstr ""
+
+#: templates/vc_tabs.php:53
+msgid "Next tab"
+msgstr ""
+
+#: templates/stm_add_a_car.php:183
+msgid "No car to edit."
+msgstr ""
+
+#: templates/stm_inventory_on_map.php:211
+#, php-format
+msgid "No categories created for %s"
+msgstr ""
+
+#: templates/stm_recent_posts.php:79
+msgid "No comments"
+msgstr ""
+
+#: templates/stm_dealer_list.php:176
+msgid "No dealers on your search parameters"
+msgstr ""
+
+#: templates/stm_ev_shop_products.php:112
+msgid "No products found"
+msgstr ""
+
+#: templates/stm_ev_shop_products.php:35
+msgid "Online shop"
+msgstr ""
+
+#: templates/stm_login_register.php:48
+msgid "Password"
+msgstr ""
+
+#: templates/stm_login_register.php:126
+msgid "Password *"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:87
+msgid "Period"
+msgstr ""
+
+#: templates/stm_login_register.php:107
+msgid "Phone number"
+msgstr ""
+
+#: templates/stm_contact_information.php:26
+msgid "Phone:"
+msgstr ""
+
+#: templates/stm_ev_photo_collage.php:54 templates/stm_ev_photo_collage.php:75
+msgid "Photo collage"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:61
+msgid "Pick Up"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:82
+msgid "Pick-up Date/Time*"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:84
+msgid "Pickup Date"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:95
+msgid "Place to drop the Car*"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:63
+msgid "Place to pick up the Car*"
+msgstr ""
+
+#: templates/stm_ev_shop_products.php:67 templates/stm_ev_shop_products.php:73
+#: templates/stm_special_offers.php:103
+#: templates/stm_ev_single_car_gallery_with_buttons.php:69
+msgid "Placeholder"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:209
+msgid "Please fill Down Payment field"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:199
+msgid "Please fill Interest Rate field"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:204
+msgid "Please fill Period field"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:194
+msgid "Please fill Vehicle Price field"
+msgstr ""
+
+#: templates/stm_social_follow_counter.php:13
+msgid "Please install plugin Access Press Social Counter"
+msgstr ""
+
+#: templates/stm_add_a_car.php:169
+msgid "Please login."
+msgstr ""
+
+#: templates/stm_dealer_list.php:29
+msgid "Popularity"
+msgstr ""
+
+#: templates/stm_post_info.php:19 templates/stm_post_animated_image.php:34
+#: templates/stm_post_fullwidth_info.php:27
+msgid "Posted by:"
+msgstr ""
+
+#: templates/stm_add_a_car.php:130
+msgid "Posts Available"
+msgstr ""
+
+#: templates/vc_tabs.php:53
+msgid "Previous tab"
+msgstr ""
+
+#: templates/stm_ev_featured_vehicles.php:170
+msgid "Price"
+msgstr ""
+
+#: templates/stm_add_a_car.php:152
+msgid "Registration"
+msgstr ""
+
+#: templates/stm_login_register.php:54
+msgid "Remember me"
+msgstr ""
+
+#: templates/stm_ev_single_car_gallery_with_buttons.php:49
+msgid "Remove from list"
+msgstr ""
+
+#: templates/stm_inventory_on_map.php:305
+msgid "Reset all"
+msgstr ""
+
+#: templates/stm_car_listing_tabbed.php:327
+msgid "Reset search fields"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:92
+msgid "Return"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:118
+msgid "Return Date"
+msgstr ""
+
+#: templates/stm_rent_car_form.php:79
+msgid "Return to the same location"
+msgstr ""
+
+#: templates/stm_dealer_list.php:26
+msgid "Reviews"
+msgstr ""
+
+#: templates/stm_working_days.php:21
+msgid "Saturday"
+msgstr ""
+
+#: templates/stm_listing_search_without_tabs.php:64
+#: templates/stm_filter_selects.php:138
+#: templates/stm_car_listing_tabbed.php:322
+msgid "Search"
+msgstr ""
+
+#: templates/stm_car_listing_tabbed.php:58
+msgid "Search inventory"
+msgstr ""
+
+#: templates/stm_inventory_on_map.php:193
+msgid "Search Options"
+msgstr ""
+
+#: templates/stm_inventory_search_results.php:23
+msgid "Search results"
+msgstr ""
+
+#. category name
+#: templates/stm_filter_selects.php:80
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: templates/stm_ev_shop_products.php:81 templates/stm_ev_shop_products.php:83
+msgid "Select options"
+msgstr ""
+
+#: templates/stm_login_register.php:76
+msgid "Send password"
+msgstr ""
+
+#: includes/functions.php:160
+msgid "Service Style"
+msgstr ""
+
+#: templates/stm_post_meta_bottom.php:44 templates/stm_post_meta_bottom.php:47
+#: templates/stm_ev_single_car_gallery_with_buttons.php:28
+msgid "Share this"
+msgstr ""
+
+#: templates/stm_car_listing_tabbed.php:231 templates/stm_cars_on_top.php:54
+#: templates/stm_modern_filter.php:198 templates/stm_listings_tabs_2.php:160
+#: templates/stm_listings_tabs_2.php:208 templates/stm_listings_tabs_2.php:252
+#: templates/stm_listings_tabs_2.php:303 templates/stm_reduced_cars.php:84
+msgid "Show all"
+msgstr ""
+
+#: templates/stm_cars_on_top.php:63
+msgid "Show all premium cars"
+msgstr ""
+
+#: templates/stm_reduced_cars.php:93
+msgid "Show all reduced cars"
+msgstr ""
+
+#: templates/stm_inventory_on_map.php:301
+msgid "Show cars"
+msgstr ""
+
+#: templates/stm_dealer_list.php:171
+msgid "Show more"
+msgstr ""
+
+#: templates/stm_login_register.php:20
+msgid "Sign In"
+msgstr ""
+
+#: templates/stm_login_register.php:90
+msgid "Sign Up"
+msgstr ""
+
+#: templates/stm_login_register.php:231 templates/stm_login_register.php:233
+msgid "Sign up now!"
+msgstr ""
+
+#: templates/stm_car_listing_similar.php:9
+msgid "Similar Listing"
+msgstr ""
+
+#: templates/stm_posts_available.php:23
+msgid "Slots available"
+msgstr ""
+
+#: templates/stm_boat_image.php:29 templates/stm_inventory_with_filter.php:152
+msgid "Sold"
+msgstr ""
+
+#: templates/stm_modern_filter.php:145 templates/stm_modern_filter.php:147
+#: templates/stm_dealer_list.php:137
+msgid "Sort by:"
+msgstr ""
+
+#: templates/stm_boat_image.php:12
+msgid "Special"
+msgstr ""
+
+#: templates/stm_special_offers.php:45
+msgid "specials"
+msgstr ""
+
+#. stock number
+#: templates/stm_ev_single_car_title_attributes.php:64
+msgid "Stock #%d"
+msgstr ""
+
+#: includes/functions.php:148
+msgid "Style 2"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: templates/stm_working_days.php:15
+msgid "Sunday"
+msgstr ""
+
+#: templates/stm_post_meta_bottom.php:31
+msgid "Tags:"
+msgstr ""
+
+#: templates/stm_car_leasing.php:27
+msgid "TEST DRIVE"
+msgstr ""
+
+#: templates/stm_ev_single_car_gallery_with_buttons.php:103
+msgid "Test drive"
+msgstr ""
+
+#: templates/stm_working_days.php:19
+msgid "Thursday"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:126
+msgid "Total Amount to Pay"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:123
+msgid "Total Interest Payment"
+msgstr ""
+
+#: templates/stm_ev_single_car_price_block.php:80
+msgid "Trande in Form"
+msgstr ""
+
+#: templates/stm_working_days.php:17
+msgid "Tuesday"
+msgstr ""
+
+#: templates/stm_add_a_car.php:139
+msgid "Upgrade Plan"
+msgstr ""
+
+#: templates/stm_auto_loan_calculator.php:58
+msgid "Vehicle price"
+msgstr ""
+
+#: templates/stm_filter_selects.php:135
+msgid "Vehicles"
+msgstr ""
+
+#: templates/stm_modern_filter.php:118
+msgid "Vehicles available"
+msgstr ""
+
+#: templates/stm_featured_boats.php:38
+msgid "View All Inventory"
+msgstr ""
+
+#: templates/stm_ev_recent_listings.php:40
+msgid "View all inventory"
+msgstr ""
+
+#: templates/stm_special_offers.php:81
+msgid "View full information about"
+msgstr ""
+
+#: templates/stm_ev_single_car_gallery_with_buttons.php:94
+msgid "VIN report"
+msgstr ""
+
+#: templates/stm_media_library.php:41 templates/stm_carousel.php:56
+msgid "Watch in popup"
+msgstr ""
+
+#: templates/stm_working_days.php:18
+msgid "Wednesday"
+msgstr ""
+
+#: templates/stm_pricing_tables.php:125
+msgid "Yearly"
+msgstr ""
+
+#: includes/functions.php:87 includes/functions.php:95
+#: includes/functions.php:139 includes/functions.php:151
+#: includes/functions.php:163
+msgid "Yes"
+msgstr ""
+
+#: templates/stm_add_a_car.php:179
+msgid "You are not the owner of this car."
+msgstr ""
+
+#: templates/stm_add_a_car.php:131
+msgid ""
+"You ended the limit of free classified ads. Please select one of the "
+"following"
+msgstr ""

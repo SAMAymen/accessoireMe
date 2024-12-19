@@ -1,0 +1,109 @@
+@media (max-width: 500px) and (min-width: 320px) {
+    .stm-template-equipment #stm_motors_vin_decoder {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
+
+.stm-template-equipment #stm_motors_vin_decoder .vin {
+    color: white;
+}
+
+.stm-template-motorcycle #stm_motors_vin_decoder .vin {
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .theme-motors .stm_vehicle_vin_check #request-stm_vim_history .stm_vin_info .vc_toggle_content {
+        width: 100%;
+    }
+}
+
+.theme-motors #stm_vim_history {
+    width: 100%;
+}
+
+.theme-motors #stm_motors_vin_decoder {
+    width: 100%;
+    margin-bottom: 50px !important;
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 500px) and (min-width: 320px) {
+    .theme-motors #stm_motors_vin_decoder {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
+
+.theme-motors #stm_motors_vin_decoder input[type=text].vin {
+    width: 385px !important;
+}
+
+.theme-motors #stm_motors_vin_decoder #checkVin {
+    width: 150px;
+}
+
+@media (max-width: 500px) and (min-width: 320px) {
+    .theme-motors #stm_motors_vin_decoder #checkVin {
+        margin-top: 10px;
+    }
+}
+
+.theme-motors #stm_motors_vin_decoder .sample_vin {
+    letter-spacing: normal;
+    font-style: normal;
+    text-transform: none;
+    top: 46px;
+    opacity: 0.8;
+    left: 17.7rem;
+}
+
+@media (max-width: 767px) and (min-width: 500px) {
+    .theme-motors #stm_motors_vin_decoder .sample_vin {
+        left: 0rem;
+    }
+}
+
+@media (max-width: 500px) and (min-width: 320px) {
+    .theme-motors #stm_motors_vin_decoder .sample_vin {
+        right: 0 !important;
+        left: 70% !important;
+    }
+}
+
+@media (max-width: 800px) and (min-width: 768px) {
+    .theme-motors #stm_motors_vin_decoder .sample_vin {
+        left: 6rem;
+    }
+}
+
+@media (max-width: 1030px) and (min-width: 900px) {
+    .theme-motors #stm_motors_vin_decoder .sample_vin {
+        left: 14rem;
+    }
+}
+
+.theme-motors #stm_motors_vin_decoder .success {
+    border-color: #eceff3 !important;
+}
+
+.theme-motors #stm_motors_vin_decoder #checkVin {
+    background-color: #6c98e1;
+    box-shadow: none !important;
+    border-radius: 3px;
+    border-color: #6c98e1;
+}
+
+.theme-motors #stm_motors_vin_decoder #checkVin active {
+    top: 1px;
+}
+
+.theme-motors #stm_motors_vin_decoder #checkVin active ~ #stm_motors_vin_decoder {
+    width: 100%;
+}
+
+.theme-motors #stm_motors_vin_decoder .vin {
+    background-color: transparent;
+}

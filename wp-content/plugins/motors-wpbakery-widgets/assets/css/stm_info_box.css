@@ -1,0 +1,31 @@
+.stm-info-box .inner {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.stm-info-box .inner img {
+    display: block;
+    max-width: 90px;
+    max-height: 79px;
+    position: relative;
+}
+
+.stm-info-box .inner .title {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 36px 0 25px;
+}
+
+.stm-info-box .inner .content {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+@media (max-width: 767px) {
+    .stm-info-box {
+        margin: 20px 0;
+    }
+}

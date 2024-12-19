@@ -1,0 +1,103 @@
+.stm-wcmap-compare table {
+    table-layout: fixed;
+}
+
+.stm-wcmap-compare table tbody tr:nth-child(even) th, .stm-wcmap-compare table tbody tr:nth-child(even) td {
+    background-color: #ffffff !important;
+}
+
+.stm-wcmap-compare table tbody tr:nth-child(odd) th, .stm-wcmap-compare table tbody tr:nth-child(odd) td {
+    background-color: #E5E5E5 !important;
+}
+
+.stm-wcmap-compare table tbody tr th, .stm-wcmap-compare table tbody tr td {
+    padding: 15px 30px;
+    border: none;
+}
+
+.stm-wcmap-compare table tbody tr th img, .stm-wcmap-compare table tbody tr td img {
+    margin: 0;
+}
+
+.stm-wcmap-compare table tbody tr th a.button, .stm-wcmap-compare table tbody tr td a.button {
+    display: inline-block;
+    margin: 0;
+    padding: 10px 20px;
+    border: 3px;
+}
+
+.stm-wcmap-compare table tbody tr th {
+    font-weight: 400;
+    font-size: 13px;
+    color: #777777;
+}
+
+.stm-wcmap-compare table tbody tr td {
+    width: auto;
+    font-size: 14px;
+    font-weight: 600;
+    color: #595959;
+    text-align: center;
+}
+
+.stm-wcmap-compare table tbody tr.remove td {
+    text-align: center;
+}
+
+.stm-wcmap-compare table tbody tr.remove a {
+    color: #191919;
+}
+
+.stm-wcmap-compare table tbody tr.remove a span {
+    display: none;
+}
+
+.stm-wcmap-compare table tbody tr.title td {
+    font-weight: 700;
+    letter-spacing: 0;
+}
+
+.stm-wcmap-compare table tbody tr.price td {
+    color: #555555;
+    font-weight: 400;
+    margin-top: 9px;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.stm-wcmap-compare table tbody tr.price td del {
+    color: #212121;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.stm-wcmap-compare table tbody tr.price td > .amount, .stm-wcmap-compare table tbody tr.price td ins {
+    margin-left: 4px;
+    text-decoration: none;
+    background: 0 0;
+    font-weight: 500;
+    font-size: 20px;
+    color: #cc0033;
+}
+
+.stm-wcmap-compare table tbody tr.price td .from {
+    font-size: 0.67em;
+    margin: -2px 0 0;
+    text-transform: uppercase;
+    color: rgba(132, 132, 132, 0.5);
+}
+
+.stm-wcmap-compare table tbody tr.add-to-cart td a {
+    display: inline-block;
+    position: relative;
+    width: auto;
+    height: 40px;
+    line-height: 38px;
+    border-radius: 3px;
+    overflow: hidden;
+    color: #191919;
+    padding: 0 16px;
+    margin-bottom: 0;
+    vertical-align: middle;
+}

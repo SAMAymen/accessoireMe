@@ -1,0 +1,98 @@
+.stm-orange {
+    color: #ffb129;
+}
+
+.stm-car-leasing-wrap {
+    display: block;
+    text-align: center;
+}
+
+.stm-car-leasing-wrap h2 {
+    color: #ffffff;
+    font-size: 48px;
+    margin-bottom: 25px;
+}
+
+.stm-car-leasing-wrap .price_wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.stm-car-leasing-wrap .price_wrap .left .price {
+    font-size: 48px;
+    line-height: 50px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.stm-car-leasing-wrap .price_wrap .right {
+    padding: 8px 0 0 10px;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.stm-car-leasing-wrap .subtitle {
+    display: block;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.stm-car-leasing-wrap .btn-wrap {
+    margin-top: 45px;
+}
+
+.stm-car-leasing-wrap .btn-wrap .c-l-test-drive {
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    border-radius: 4px;
+    background-color: #3350b8;
+    padding: 16px 22px 16px 14px !important;
+    color: #ffffff;
+    font-weight: 700 !important;
+    text-decoration: none;
+    font-size: 14px;
+    z-index: 2;
+}
+
+.stm-car-leasing-wrap .btn-wrap .c-l-test-drive i {
+    font-size: 18px !important;
+    margin-right: 10px !important;
+    vertical-align: middle;
+}
+
+.stm-car-leasing-wrap .btn-wrap .c-l-test-drive:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150%;
+    height: 100%;
+    z-index: -1;
+    background: #ffb129;
+    transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
+    transform-origin: 0% 100%;
+    transition: transform 0.3s, opacity 0.3s, background-color 0.3s;
+}
+
+.stm-car-leasing-wrap .btn-wrap .c-l-test-drive:hover {
+    color: #ffffff;
+    opacity: 1;
+}
+
+.stm-car-leasing-wrap .btn-wrap .c-l-test-drive:hover i {
+    color: #ffffff !important;
+}
+
+.stm-car-leasing-wrap .btn-wrap .c-l-test-drive:hover:before {
+    opacity: 1;
+    transform: rotate3d(0, 0, 1, 0deg);
+    transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
+}

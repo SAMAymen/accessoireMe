@@ -1,0 +1,993 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Multi Currency Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-05 07:50+0000\n"
+"PO-Revision-Date: 2022-09-09 09:19+0000\n"
+"Last-Translator: Grey\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/admin.php:45
+msgid " to set default currency."
+msgstr "để chọn tiền tệ mặc định. "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/woo_discount_rules.php:85
+#, php-format
+#| msgid ""
+#| "<strong>WooCommerce Multi Currency and Woo Discount Rules compatibility "
+#| "issue</strong>: To make the two plugins work properly, please go to <a "
+#| "href=\"%s\">Woo Discount Rules/Settings/Third party plugin conflict fixes & "
+#| "options</a> and check the \"No\" checkbox next to \"Do you have custom "
+#| "prices set using another plugin or custom code?\""
+msgid ""
+"<strong>Multi Currency for WooCommerce and Woo Discount Rules compatibility "
+"issue</strong>: To make the two plugins work properly, please go to <a "
+"href=\"%s\">Woo Discount Rules/Settings/Third party plugin conflict fixes & "
+"options</a> and check the \"No\" checkbox next to \"Do you have custom "
+"prices set using another plugin or custom code?\""
+msgstr ""
+"<strong>Vấn đề tương thích giữa WooCommerce Multi Currency và Woo Discount "
+"Rules</strong>: Để 2 plugins cùng hoạt động, vui lòng đến <a href=\"%s\">Woo "
+"Discount Rules/Settings/Third party plugin conflict fixes & options</a> và "
+"đánh dấu tùy chọn \"No\" cạnh tùy chọn \"Do you have custom prices set using "
+"another plugin or custom code?\""
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:101
+msgid "[WooCommerce] Your GEO IP"
+msgstr "[WooCommerce] GEO IP"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:95
+msgid "[WooCommerce] Your IP"
+msgstr "[WooCommerce] Địa chỉ IP"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:107
+msgid "_SERVER system"
+msgstr "_SERVER system"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:288
+msgid "Action"
+msgstr "Thao tác"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:511
+msgid "Actions"
+msgstr "Thao tác"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:873
+msgid "Active currency background color"
+msgstr "Màu nền của tiền tệ đang kích hoạt"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:862
+msgid "Active currency text color"
+msgstr "Màu tiền tệ đang sử dụng"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:420
+msgid "Add Currency"
+msgstr "Thêm tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/reports.php:394
+#| msgid "Add All Currencies"
+msgid "All currencies"
+msgstr "Tất cả tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:605
+#| msgid ""
+#| "All product fields of WooCommerce Multi Currency will be copied. When you "
+#| "switch language, Currency will change. "
+msgid ""
+"All product fields of Multi Currency for WooCommerce will be copied. When "
+"you switch language, Currency will change. "
+msgstr ""
+"Tất cả trường sản phẩm của Multi Currency for WooCommerce sẽ được sao chép. "
+"Khi thay đổi ngôn ngữ, Tiền tệ sẽ thay đổi theo. "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:66
+msgid "Allow URL Open"
+msgstr "Cho phép mở URL"
+
+#. Description of the plugin
+msgid ""
+"Allows you to display prices and accepts payments in multiple currencies. "
+"Working only with WooCommerce."
+msgstr ""
+"Cho phép hiển thị giá và chấp nhận thanh toán bằng nhiều tiền tệ. Chỉ hoạt "
+"động với WooCommerce. "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:481
+#| msgid "API will help detect customer country code based on IP address."
+msgid "API will help detect customer country code base on IP address."
+msgstr "API sẽ tìm kiếm mã quốc gia của khách hàng dựa trên địa chỉ IP"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:461
+msgid "Approximate Price"
+msgstr "Giá ước tính"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/price.php:321
+msgid "Approximately"
+msgstr "Xấp xỉ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:451
+msgid "Auto Detect"
+msgstr "Tự động phát hiện"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:459
+msgid "Auto select currency"
+msgstr "Tự động chọn tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:994
+msgid "Auto Update Exchange Rate"
+msgstr "Tự Động Cập Nhật Tỷ Giá Hối Đoái"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:755
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:851
+msgid "Background color"
+msgstr "Màu nền"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/order.php:89
+msgid "Base on Currency"
+msgstr "Dựa theo Tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:789
+msgid "Cart page"
+msgstr "Trang Giỏ hàng"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-selector.php:19
+msgid ""
+"Change display currency on shop page. Widget of Multi Currency for "
+"WooCommerce by VillaTheme"
+msgstr ""
+"Thay đổi tiền tệ hiển thị trên trang cửa hàng. Widget của Multi Currency for "
+"WooCommerce - VillaTheme"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:948
+msgid "Change the currency in cart page to a check out currency."
+msgstr ""
+"Đổi tiền tệ trên trang Giỏ hàng sang loại tiền tệ dùng khi thanh toán. "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:153
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:955
+msgid "Checkout currency"
+msgstr "Tiền tệ thanh toán"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:772
+msgid "Checkout page"
+msgstr "Trang thanh toán"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:766
+msgid "Conditional Tags"
+msgstr "Thẻ Điều Kiện"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:510
+msgid "Countries"
+msgstr "Quốc gia"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:905
+msgid "CSS"
+msgstr "CSS"
+
+#. Name of the plugin
+msgid "CURCY - Multi Currency for WooCommerce"
+msgstr "CURCY - Multi Currency for WooCommerce"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:626
+msgid "Currencies Bar"
+msgstr "Thanh Tiền Tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/order.php:83
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:282
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:509
+msgid "Currency"
+msgstr "Tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:488
+msgid "Currency by Country"
+msgstr "Tiền tệ theo Quốc gia"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/order.php:26
+msgid "Currency Information"
+msgstr "Thông tin Tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:271
+msgid "Currency Options"
+msgstr "Tùy chọn Tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:218
+msgid "Currency Price Switcher"
+msgstr "Bộ Chuyển Đổi Tiền Tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/order.php:95
+msgid "Currency Rate"
+msgstr "Tỷ Giá Tiền Tệ"
+
+#. Base ID
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-selector.php:18
+msgid "Currency Selector"
+msgstr "Bộ Chọn Tiền Tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:246
+msgid ""
+"Currency will be changed but It does not use URL. It is good for SEO. Now It "
+"is not compatible with Caching plugins."
+msgstr ""
+"Tiền tệ thay đổi mà không ảnh hưởng URL. Tính năng này có lợi cho SEO. Hiện "
+"tại không tương thích với các plugin Bộ nhớ đệm. "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/order.php:44
+msgid "Currency: "
+msgstr "Tiền Tệ:"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:884
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1041
+msgid "Custom Email"
+msgstr "Email Tùy chỉnh"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:287
+msgid "Custom symbol"
+msgstr "Biểu tượng Tùy chỉnh"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:436
+msgid ""
+"Custom symbol: You can set custom symbol for each currency in your list and "
+"how to it will be displayed (used when you have many currency have same "
+"symbol). Leave it empty to used default symbol. Example: if you set US$ for "
+"US dolar, system will display US$100 instead of $100 like default. Or you "
+"can use with pramater #PRICE# to display price in special format, example: "
+"if you set US #PRICE# $, system will display: US 100 $."
+msgstr ""
+"Biểu tượng tùy chỉnh: Thêm biểu tượng tùy chỉnh cho các loại tiền tệ (nhiều "
+"loại tiền tệ có thể có cùng biểu tượng). Để trống nếu muốn dùng biểu tượng "
+"mặc đinh. Ví dụ: Sử dụng biểu tượng US$ cho đồng US dollar, hệ thống sẽ hiển "
+"thị US$100 thay vì $100 như bình thường. Hoặc hiển thị định dạng đặc biệt "
+"bằng cách dùng tham số #PRICE# Ví dụ: Nếu đặt US #PRICE# $, hệ thống sẽ hiển "
+"thị US 100 $."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:280
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:730
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:739
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:60
+msgid "Default"
+msgstr "Mặc định"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:156
+msgid "Design"
+msgstr "Thiết kế"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:698
+msgid "Desktop"
+msgstr "Máy tính"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:233
+msgid ""
+"Display a currency switcher under product price in single product pages."
+msgstr "Hiển thị bộ chuyển đổi tiền tệ dưới giá sản phẩm trong trang sản phẩm."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:810
+msgid "eg: !is_page(array(34,98,73))"
+msgstr "eg: !is_page(array(34,98,73))"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:172
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:590
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:632
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:924
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:976
+msgid "Enable"
+msgstr "Bật"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:940
+msgid "Enable Cart Page"
+msgstr "Bật Trang Giỏ hàng"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:707
+msgid "Enable Collapse"
+msgstr "Bật Thu gọn"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:264
+msgid ""
+"Enable this if you are using a caching plugin(WP Super cache, W3 total cache,"
+" WP rocket, ...) and currency does not remain after being switched by "
+"customers in the frontend"
+msgstr ""
+"Bật tùy chọn này nếu một plugin bộ nhớ đệm đang được sử dụng (WP Super cache,"
+" W3 total cache, WP rocket, ...) và ảnh hưởng đến quá trình chuyển đổi tiền "
+"tệ "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:900
+msgid ""
+"Enable this if you want rel=\"nofollow\" to be added to currency switcher "
+"buttons"
+msgstr "Bật tính năng này để thêm rel=\"nofollow\" vào nút chuyển đổi tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:800
+msgid "Enable to hide Currencies Bar on Cart page."
+msgstr "Bật tùy chọn này để ẩn Thanh Tiền Tệ khỏi trang Giỏ hàng."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:783
+msgid "Enable to hide Currencies Bar on Checkout page."
+msgstr "Bật tùy chọn này để ẩn Thanh Tiền Tệ khỏi trang Thanh Toán."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/cryptocurrency.php:27
+msgid "Ethereum"
+msgstr "Ethereum"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:592
+msgid "European Union"
+msgstr "Liên minh Châu Âu"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1014
+msgid "Exchange rate resources."
+msgstr "Nguồn tỷ giá hối đoái"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1002
+msgid "Exchange will be updated automatically."
+msgstr "Tỷ giá sẽ được tự động cập nhật"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:479
+msgid "External"
+msgstr "Bên ngoài"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1007
+msgid "Finance API"
+msgstr "API tài chính"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:188
+msgid "Fixed Price"
+msgstr "Giá Cố Định"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:227
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:734
+msgid "Flag"
+msgstr "Cờ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:750
+msgid "Flag + Country + Currency + Symbol"
+msgstr "Cờ + tên Quốc gia + Tiền tệ + Biểu tượng"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:229
+msgid "Flag + Currency Code"
+msgstr "Cờ + Mã Tiền Tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:736
+msgid "Flag + Currency code"
+msgstr "Cờ + Mã tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:738
+msgid "Flag + Currency symbol"
+msgstr "Cờ + Biểu tượng"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:231
+msgid "Flag + Price"
+msgstr "Cờ + Giá"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:825
+msgid "Flag Custom"
+msgstr "Cờ Tùy Chỉnh"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-selector.php:70
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:78
+msgid "Flag size"
+msgstr "Kích cỡ cờ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:147
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:48
+msgid "General"
+msgstr "Chung"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:471
+msgid "Geo API"
+msgstr "Geo API"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:281
+msgid "Hidden"
+msgstr "Ẩn"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:340
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:341
+#| msgid "Hide currencies on widget, shortcode and sidebar"
+msgid "Hidden currencies on widget, shortcode and sidebar"
+msgstr "Ẩn tiền tệ trên widget, shortcode và thanh bên"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:747
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:68
+msgid "Horizontal Currency Slide"
+msgstr "Thanh Trượt Tiền Tệ Ngang"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:746
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:67
+msgid "Horizontal Currency Symbols"
+msgstr "Biểu Tượng Tiền Tệ Ngang"
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woo-multi-currency/"
+msgstr "https://villatheme.com/extensions/woo-multi-currency/"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1048
+#| msgid "If empty, notification will be sent to"
+msgid "If empty, notification will sent to "
+msgstr "Nếu để trống, thông báo sẽ được gửi đến"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:378
+msgid ""
+"It is fixed rate. Eg: (Original rate)1.62 + 0.1(Exchange fee rate) = 1."
+"72(End rate)"
+msgstr ""
+"Tỷ giá cố định. Ví dụ: (Tỷ giá gốc)1.62 + 0.1(Phí chuyển đổi) = 1.72(End "
+"rate)"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:463
+msgid "Language Polylang"
+msgstr "Ngôn ngữ Polylang"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:568
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:611
+msgid "Language switcher"
+msgstr "Chuyển đổi ngôn ngữ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-selector.php:76
+msgid "Large"
+msgstr "Rộng"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-selector.php:60
+msgid "Layout"
+msgstr "Bố cục"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:672
+msgid "Left"
+msgstr "Trái"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:360
+#, php-format
+#| msgid "Left %s99"
+msgid "Left $99"
+msgstr "Trái $99"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:364
+#, php-format
+#| msgid "Left with space %s 99"
+msgid "Left with space $ 99"
+msgstr "Trái có khoảng cách $ 99"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:815
+#| msgid "Adjust which pages will appear using WP's conditional tags."
+msgid "Let you adjust which pages will appear using WP's conditional tags."
+msgstr ""
+"Cho phép chỉ định trang nào được hiển thị sử dụng thẻ điều kiện của "
+"WordPress."
+
+#. Base ID
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-rates.php:18
+msgid "List Currency Rates"
+msgstr "Danh Sách Tỷ Giá Tiền Tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:745
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:66
+msgid "List Flag + Currency Code"
+msgstr "Danh sách Cờ + Mã Tiền Tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:743
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:64
+msgid "List Flag Horizontal"
+msgstr "Danh Sách Cờ Ngang"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:744
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:65
+msgid "List Flag Vertical"
+msgstr "Danh Sách Cờ Dọc"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:742
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:63
+msgid "Listbox currency code"
+msgstr "Hộp danh sách mã tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/cryptocurrency.php:26
+msgid "Litecoin"
+msgstr "Litecoin"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:150
+msgid "Location"
+msgstr "Vị trí"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:744
+msgid "Main color"
+msgstr "Màu chính"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:61
+msgid "Memory Limit"
+msgstr "Giới hạn Bộ nhớ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/admin.php:229
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/product.php:75
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:33
+msgid "Multi Currency"
+msgstr "Multi Currency"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/admin.php:229
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:31
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:46
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:61
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:76
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:91
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:105
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:120
+msgid "Multi Currency for WooCommerce"
+msgstr "Multi Currency for WooCommerce"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/admin.php:45
+msgid "Multi Currency for WooCommerce setting page"
+msgstr "Trang cài đặt Multi Currency for WooCommerce "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:142
+msgid "Multi Currency for WooCommerce Settings"
+msgstr "Cài Đặt Multi Currency for WooCommerce "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:344
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:457
+msgid "No"
+msgstr "Không"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:225
+msgid "Not Show"
+msgstr "Không hiển thị"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:286
+msgid "Number of Decimals"
+msgstr "Số thập phân"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:499
+msgid ""
+"Only working with AUTO SELECT CURRENCY feature. Currency will be selected "
+"base on country."
+msgstr ""
+"Chỉ hoạt động với tính năng TỰ ĐỘNG CHỌN TIỀN TỆ. Tiền tệ được hiển thị dựa "
+"trên quốc gia. "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:806
+msgid "Other pages"
+msgstr "Các trang khác"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:934
+msgid "Pay in many currencies"
+msgstr "Thanh toán bằng nhiều loại tiền tệ "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:964
+msgid ""
+"Payment method depend on Payment Gateway. If Payment Gateway is not support "
+"currency, customer can not checkout with currency. Example: Paypal is not "
+"support IDR, Customer can not checkout IDR by Paypal."
+msgstr ""
+"Phương thức thanh toán phụ thuộc vào Cổng Thanh Toán. Nếu Cổng Thanh Toán "
+"không hỗ trợ một loại tiền tệ, khách hàng không thể thanh toán bằng loại "
+"tiền tệ đó. Ví dụ: PayPal không hỗ trợ IDR, nên khách hàng không thể dùng "
+"PayPal để thanh toán bằng IDR."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:56
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:52
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:740
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:61
+msgid "Plain Horizontal"
+msgstr "Ngang - Đơn giản"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:741
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:62
+msgid "Plain Vertical"
+msgstr "Dọc - Đơn giản"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-rates.php:53
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-selector.php:54
+msgid "Please enter your title"
+msgstr "Vui lòng điền tiêu đề"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/woo-multi-currency.php:52
+msgid ""
+"Please install and activate WooCommerce to use Multi Currency for "
+"WooCommerce plugin."
+msgstr ""
+"Vui lòng cài đặt và kích hoạt WooCommerce để sử dụng Multi Currency for "
+"WooCommerce."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:525
+msgid "Please select countries"
+msgstr "Vui lòng chọn quốc gia"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/shortcode.php:70
+msgid "Please select your currency"
+msgstr "Vui lòng chọn loại tiền tệ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:562
+msgid "Polylang"
+msgstr "Polylang"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:283
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:657
+msgid "Position"
+msgstr "Vị trí"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:159
+msgid "Price format"
+msgstr "Định dạng Giá"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:285
+msgid "Rate + Exchange Fee"
+msgstr "Tỷ giá + Phí chuyển đổi"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1019
+msgid "Rate Decimals"
+msgstr "Số thập phân của Tỷ giá"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/product.php:103
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/yith_product_bundles.php:36
+msgid "Regular Price"
+msgstr "Giá Bán Thường"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/product.php:149
+msgid "Regular Price:"
+msgstr "Giá Bán Thường:"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:405
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:406
+msgid "Remove"
+msgstr "Xóa"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:548
+msgid "Remove All"
+msgstr "Xóa Tất Cả"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:688
+msgid "Right"
+msgstr "Phải"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:362
+#, php-format
+#| msgid "Right 99%s"
+msgid "Right 99$"
+msgstr "Phải 99$"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:366
+#, php-format
+#| msgid "Right with space 99 %s"
+msgid "Right with space 99 $"
+msgstr "Phải có khoảng cách 99 $"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/product.php:111
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/yith_product_bundles.php:43
+msgid "Sale Price"
+msgstr "Giá Khuyến Mãi"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/product.php:156
+msgid "Sale Price:"
+msgstr "Giá Khuyến Mãi:"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1058
+msgid "Save"
+msgstr "Lưu"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:545
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:56
+msgid "Select switcher layout"
+msgstr "Chọn bố cục Bộ chuyển đổi"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1029
+msgid "Send Email"
+msgstr "Gửi Email"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1036
+msgid "Send email to admin when exchange rate is updated."
+msgstr "Gửi email tới Quản trị viên khi tỷ giá hối đoái được cập nhật."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:78
+msgid "Session path"
+msgstr "Đường dẫn phiên"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/product.php:82
+msgid "Set regular prices"
+msgstr "Đặt giá bán thường"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/product.php:83
+msgid "Set sale prices"
+msgstr "Đặt giá ưu đãi"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:199
+msgid ""
+"Set up product price in each currency manually, this price will overwrite "
+"the calculated price."
+msgstr ""
+"Thiết lập giá sản phẩm thủ công cho từng loại tiền tệ. Giá Cố Định sẽ ghi đè "
+"giá được tính toán bằng tỷ giá."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/admin.php:192
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:835
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-rates.php:19
+msgid ""
+"Show list currency exchange rates of Multi Currency for WooCommerce by "
+"VillaTheme"
+msgstr ""
+"Hiển thị danh sách tỷ giá tiền tệ hối đoái của Multi Currency for "
+"WooCommerce - VillaTheme "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:709
+msgid "Sidebar will collapse if you have many currencies."
+msgstr "Thanh bên sẽ thu gọn nếu có quá nhiều tiền tệ."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-selector.php:75
+msgid "Small"
+msgstr "Nhỏ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:830
+#| msgid ""
+#| "Some countries use the same currency. You can choose the flag correctly. "
+#| "Each line is a flag. Structure [currency_code,country_code]. Example: EUR,ES"
+msgid ""
+"Some countries use the same currency. You can choice flag correctly. Each "
+"line is the flag. Structure [currency_code,country_code]. Example: EUR,ES"
+msgstr ""
+"Một số quốc gia sử dụng cùng một loại tiền tệ. Cờ quốc gia có thể lựa chọn "
+"lại ở đây. Mỗi dòng là một lá cờ. Cấu trúc như sau [currency_code,"
+"country_code]. Ví dụ: EUR,ES"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:725
+msgid "Style"
+msgstr "Kiểu"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:239
+msgid "Switch Currency by JS"
+msgstr "Đổi tiền tệ bằng JS"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:732
+msgid "Symbol"
+msgstr "Biểu tượng"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:22
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:124
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:124
+msgid "System Status"
+msgstr "Trạng thái Hệ thống"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:714
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:840
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/admin.php:45
+#| msgid ""
+#| "The following options affect how prices are displayed on the frontend. Woo "
+#| "Multi Currency is working. Please go to "
+msgid ""
+"The following options affect how prices are displayed on the frontend. Multi "
+"Currency for WooCommerce is working. Please go to "
+msgstr ""
+"Những tùy chọn sau đây ảnh hưởng đến cách hiển thị giá. Woo Multi Currency "
+"for WooCommerce đang hoạt động. Vui lòng đến "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:982
+msgid ""
+"This option only works when input price same as output price (both include "
+"tax or exclude tax)"
+msgstr ""
+"Tùy chọn này chỉ hoạt động khi giá đầu vào có cùng cấu hình thuế với giá bán "
+"ra (đều bao gồm hoặc không bao gồm thuế) "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:647
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:39
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:54
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:69
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:84
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:99
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:113
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:128
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-rates.php:52
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/frontend/widgets/widget-selector.php:53
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:84
+#, php-format
+msgid "To allow logging, make %1$s writable."
+msgstr "Để cho phép ghi chép, cho phép %1$s có thể ghi được."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:211
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:245
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:434
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:574
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:603
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:617
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:946
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:962
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:981
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1000
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1012
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1035
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:1046
+msgid "Unlock This Feature"
+msgstr "Mở Khóa Tính Năng Này"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:162
+msgid "Update"
+msgstr "Cập nhật"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:423
+msgid "Update All Rates"
+msgstr "Cập Nhật Tất Cả Tỷ Giá"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:399
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:400
+msgid "Update Rate"
+msgstr "Cập Nhật Tỷ Giá"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:252
+msgid "Use cache plugin"
+msgstr "Sử dụng plugin bộ nhớ đệm"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:890
+msgid "Use rel=\"nofollow\""
+msgstr "Sử dụng rel=\"nofollow\""
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:205
+msgid "Use SESSION"
+msgstr "Dùng SESSION"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:212
+msgid "Use SESSION instead of COOKIE."
+msgstr "Dùng SESSION thay cho COOKIE."
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:748
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:69
+msgid "Vertical Currency Symbols"
+msgstr "Biểu tượng Tiền tệ dọc"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/data.php:749
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/includes/elementor/widget.php:70
+msgid "Vertical Currency Symbols (circle)"
+msgstr "Biểu tượng Tiền Tệ dọc (vòng tròn)"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/reports.php:414
+#, php-format
+#| msgid "View in default currency(%s)"
+msgid "View in default currency"
+msgstr "Xem với đồng mặc định"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:820
+msgid "Widget"
+msgstr "Widget"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:477
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:35
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:50
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:65
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:80
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:95
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:109
+#:  
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/plugins/visual_composer.php:124
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:585
+msgid "WPML.org"
+msgstr "WPML.org"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:346
+msgid "Yes"
+msgstr "Có"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/settings.php:431
+msgid ""
+"You can add only 2 currencies. Please update Pro version to add unlimited "
+"currencies."
+msgstr ""
+"Chỉ được thêm 2 loại tiền tệ. Vui lòng nâng cấp lên bản Pro để không giới "
+"hạn số lượng tiền tệ. "
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/system.php:89
+msgid "Your IP"
+msgstr "Địa chỉ IP"
+
+#: D:/Git/free-version/woo-multi-currency/woo-multi-currency/admin/cryptocurrency.php:28
+msgid "Zimbabwe"
+msgstr "Zimbabwe"

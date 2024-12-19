@@ -1,0 +1,5491 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Motors\n"
+"POT-Creation-Date: 2024-04-17 14:33+0500\n"
+"PO-Revision-Date: 2024-04-17 14:33+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:7
+msgid "The page you are looking for does not exist"
+msgstr ""
+
+#: 404.php:8
+msgid "Home Page"
+msgstr ""
+
+#: comments.php:28
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:34
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:49
+msgid "Leave a Reply"
+msgstr ""
+
+#: functions.php:79
+msgid ""
+"Please update the plugins right below as well! It is essential to update "
+"these plugins for the theme to work properly."
+msgstr ""
+
+#. translators: %d - number of products in cart
+#: hb_templates/elements/cart-2/cart-2.php:35
+#, php-format
+msgid "<span class=\"cart__quantity-badge\">%d</span> items"
+msgstr ""
+
+#: hb_templates/elements/multi-currency/multi-currency.php:22
+msgid "Currency: "
+msgstr ""
+
+#: hb_templates/elements/multi-currency/multi-currency.php:50
+#: partials/top-bar-auto-parts.php:75
+msgid "Please, install WooCommerce & Multi Currency for WooCommerce"
+msgstr ""
+
+#: inc/MultiplePlan.php:72 partials/user/private/dealer.php:112
+#: partials/user/private/mobile/dealer-profile.php:76
+#: partials/user/private/mobile/user-profile.php:90
+#: partials/user/private/user.php:129 ulisting/add-listing/form.php:102
+msgid "Free"
+msgstr ""
+
+#: inc/custom.php:60
+msgid "Icon Box 2"
+msgstr ""
+
+#: inc/custom.php:68
+msgid "Cart 2"
+msgstr ""
+
+#: inc/custom.php:76
+msgid "Text Link"
+msgstr ""
+
+#: inc/custom.php:84
+msgid "Multi Currency Select"
+msgstr ""
+
+#: inc/custom.php:185
+msgid ""
+"<span class=\"comment-divider\">/</span><i class=\"fas fa-reply\"></i> Reply"
+msgstr ""
+
+#: inc/custom.php:195
+msgid ""
+"<span class=\"comment-divider\">/</span><i class=\"fas fa-pen-square\"></i> "
+"Edit"
+msgstr ""
+
+#: inc/custom.php:200
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/custom.php:228
+#, php-format
+msgid "Name %s"
+msgstr ""
+
+#: inc/custom.php:233
+#, php-format
+msgid "E-mail %s"
+msgstr ""
+
+#: inc/custom.php:238
+msgid "Website"
+msgstr ""
+
+#: inc/custom.php:252
+msgid "Message *"
+msgstr ""
+
+#: inc/custom.php:661
+msgid "Motors Theme Default"
+msgstr ""
+
+#: inc/custom.php:1133
+msgid "mi"
+msgstr ""
+
+#: inc/custom.php:1136
+msgid "km"
+msgstr ""
+
+#. translators: %s name options
+#: inc/custom.php:1622
+#, php-format
+msgid "Enter %s"
+msgstr ""
+
+#: inc/custom.php:1623
+msgid "or"
+msgstr ""
+
+#: inc/custom.php:1750 partials/user/private/user-inventory.php:14
+msgid "My Inventory"
+msgstr ""
+
+#: inc/custom.php:1755 partials/user/private/user-favourite.php:13
+msgid "My Favorites"
+msgstr ""
+
+#: inc/custom.php:1760 partials/user/private/main.php:25
+#: ulisting/account/my-plans/detail.php:68
+msgid "My Plans"
+msgstr ""
+
+#: inc/custom.php:1765 partials/user/private/dealer-settings.php:390
+#: partials/user/private/user-settings.php:22
+msgid "Profile Settings"
+msgstr ""
+
+#: inc/custom.php:2167 partials/user/dealer-single-review.php:10
+#: partials/user/dealer-write-review.php:42
+msgid "Customer Service"
+msgstr ""
+
+#: inc/custom.php:2169 partials/user/dealer-single-review.php:11
+#: partials/user/dealer-write-review.php:43
+msgid "Buying Process"
+msgstr ""
+
+#: inc/custom.php:2171 partials/user/dealer-single-review.php:12
+#: partials/user/dealer-write-review.php:44
+msgid "Overall Experience"
+msgstr ""
+
+#: inc/custom.php:3884 inc/scripts_styles.php:340 inc/stm-ajax.php:32
+#: listings/loop/classified/grid/image.php:187
+#: listings/loop/classified/list/image-inventory-no-filter.php:85
+#: listings/loop/default/grid/image.php:7
+#: listings/loop/default/list/compare.php:23
+#: listings/loop/default/list/features.php:101
+#: partials/car-filter-ev-loop.php:89 partials/car-filter-loop.php:111
+#: partials/compare.php:8
+#: partials/listing-cars/listing-directive-list-loop-actions.php:72
+#: partials/listing-cars/listing-list-loop-actions.php:69
+#: partials/listing-cars/motos/grid.php:16
+#: partials/listing-cars/motos/moto-single-grid.php:16
+#: partials/single-aircrafts/action-bar.php:65
+#: partials/single-car-boats/boats-actions.php:62
+#: partials/single-car/car-actions.php:75
+msgid "Add to compare"
+msgstr ""
+
+#: inc/custom.php:3972 inc/custom.php:3981
+msgid "English"
+msgstr ""
+
+#: inc/custom.php:3977
+msgid "Français"
+msgstr ""
+
+#: inc/custom.php:4114
+msgid "Max"
+msgstr ""
+
+#: inc/custom.php:4153 inc/custom.php:4231
+msgid "Choose"
+msgstr ""
+
+#: inc/custom.php:4211
+msgid "Enter a location"
+msgstr ""
+
+#: inc/custom.php:4281 listings/boats/filter/sidebar.php:96
+#: listings/classified/filter/sidebar.php:128
+#: listings/filter/sidebar-mobile.php:110 listings/filter/sidebar.php:106
+#: listings/modern_filter/filters/sold_filter.php:19
+#: listings/motorcycles/filter/sidebar.php:118
+msgid "Listing status"
+msgstr ""
+
+#: inc/custom.php:4284 inc/tgm/tgm-plugin-activation.php:2254
+#: listings/boats/filter/sidebar.php:99
+#: listings/classified/filter/sidebar.php:131
+#: listings/filter/sidebar-mobile.php:113 listings/filter/sidebar.php:109
+#: listings/modern_filter/filters/sold_filter.php:27
+#: listings/modern_filter/filters/sold_filter.php:28
+#: listings/motorcycles/filter/sidebar.php:121
+msgid "Active"
+msgstr ""
+
+#: inc/custom.php:4287 listings/boats/filter/sidebar.php:102
+#: listings/classified/filter/sidebar.php:134
+#: listings/filter/sidebar-mobile.php:116 listings/filter/sidebar.php:112
+#: listings/loop/default/list/badge.php:33
+#: listings/modern_filter/filters/sold_filter.php:33
+#: listings/modern_filter/filters/sold_filter.php:34
+#: listings/motorcycles/filter/sidebar.php:124
+#: partials/listing-cars/listing-directory-badges.php:29
+#: partials/listing-cars/listing-directory-badges.php:39
+#: partials/single-aircrafts/action-bar.php:113
+#: partials/single-car-listing/car-gallery.php:168
+#: partials/single-car-listing/car-price-title.php:41
+#: partials/single-car-motorcycle/car-gallery.php:70
+#: partials/single-car/car-gallery.php:94
+msgid "Sold"
+msgstr ""
+
+#: inc/custom.php:4362 listings/filter/actions.php:3
+msgid "Cars for sale"
+msgstr ""
+
+#: inc/custom.php:4363
+msgid " for sale"
+msgstr ""
+
+#: inc/custom.php:4664
+msgctxt "Comma-separated list of search stopwords in your language"
+msgid ""
+"about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,to,"
+"was,what,when,where,who,will,with,www"
+msgstr ""
+
+#: inc/custom.php:5324
+msgid "Stick this post to the front page"
+msgstr ""
+
+#: inc/custom.php:5325
+msgid "Public, Sticky"
+msgstr ""
+
+#: inc/custom.php:5340 inc/tgm/tgm-plugin-activation.php:2491
+#: partials/user/private/user-plans.php:97
+#: ulisting/account/my-plans/list.php:32
+#: ulisting/account/payment-history.php:32
+#: woocommerce/myaccount/my-orders.php:31
+#: woocommerce/myaccount/my-orders.php:57
+#: woocommerce/myaccount/my-orders.php:78
+msgid "Status"
+msgstr ""
+
+#: inc/custom.php:5341
+msgid "Make this post sticky"
+msgstr ""
+
+#: inc/custom.php:5342 partials/blog/content-grid-loop.php:61
+#: partials/blog/grid-loop.php:32
+msgid "Sticky"
+msgstr ""
+
+#: inc/custom.php:5429 partials/modals/get-car-price.php:25
+#: partials/modals/test-drive.php:33 partials/modals/trade-offer.php:37
+#: partials/user/private/dealer-settings.php:509
+#: ulisting/account/edit-profile.php:66 ulisting/account/register.php:56
+#: woocommerce/single-product-reviews.php:93
+msgid "Email"
+msgstr ""
+
+#: inc/custom.php:5430 inc/user-extra.php:26
+#: partials/modals/get-car-price.php:33 partials/modals/test-drive.php:41
+#: partials/modals/trade-offer.php:45
+#: partials/user/private/dealer-settings.php:499
+#: partials/user/private/user-settings.php:99
+msgid "Phone"
+msgstr ""
+
+#: inc/custom.php:5431 partials/trade-in.php:19 partials/trade-in.php:196
+#: partials/trade-in.php:532 partials/trade-in.php:693
+#: partials/trade-in.php:966 partials/trade-in.php:1123
+msgid "Make"
+msgstr ""
+
+#: inc/custom.php:5432 partials/trade-in.php:20 partials/trade-in.php:203
+#: partials/trade-in.php:533 partials/trade-in.php:699
+#: partials/trade-in.php:967 partials/trade-in.php:1130
+msgid "Model"
+msgstr ""
+
+#: inc/custom.php:5433 partials/trade-in.php:35 partials/trade-in.php:210
+#: partials/trade-in.php:548 partials/trade-in.php:705
+#: partials/trade-in.php:982 partials/trade-in.php:1137
+msgid "Year"
+msgstr ""
+
+#: inc/custom.php:5434 partials/trade-in.php:27 partials/trade-in.php:225
+#: partials/trade-in.php:540 partials/trade-in.php:711
+msgid "Mileage"
+msgstr ""
+
+#: inc/custom.php:5435 listings/add_car/step_1_additional_fields.php:41
+#: partials/single-car/car-data.php:114 partials/trade-in.php:233
+#: partials/trade-in.php:717
+msgid "VIN"
+msgstr ""
+
+#: inc/custom.php:5436
+msgid "Photo"
+msgstr ""
+
+#: inc/custom.php:5508
+msgid "Distance : nearby"
+msgstr ""
+
+#: inc/custom.php:5838 partials/listing-cars/listing-list-owner-actions.php:76
+msgid "Mark as sold"
+msgstr ""
+
+#: inc/custom.php:5858
+msgid "Stock Number"
+msgstr ""
+
+#: inc/custom.php:6319
+msgid "Default icons"
+msgstr ""
+
+#: inc/custom.php:6328
+msgid "Aircrafts icons"
+msgstr ""
+
+#: inc/custom.php:6337
+msgid "Auto Parts icons"
+msgstr ""
+
+#: inc/custom.php:6346
+msgid "Boats icons"
+msgstr ""
+
+#: inc/custom.php:6355
+msgid "Listings icons"
+msgstr ""
+
+#: inc/custom.php:6364
+msgid "Magazine icons"
+msgstr ""
+
+#: inc/custom.php:6373
+msgid "Motorcycles icons"
+msgstr ""
+
+#: inc/custom.php:6382
+msgid "Rental icons"
+msgstr ""
+
+#: inc/custom.php:6391
+msgid "Service icons"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:4
+#: inc/email_template_manager/main.php:16
+msgid "Email Template Manager"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:13
+msgid "Request Test Drive [car]"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:14
+msgid "Request car price [car]"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:15
+msgid "Trade offer [car]"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:16
+msgid "Car Trade In"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:17
+msgid "Sell a car"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:18
+msgid "Car Added"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:19
+msgid "New Pay Per Listing"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:20
+msgid "Report Review"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:21
+msgid "Password recovery"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:22
+msgid "Request for becoming a dealer"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:23
+msgid "Welcome"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:24
+msgid "New user"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:25
+msgid "Add a car"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:26
+msgid "Car Approved"
+msgstr ""
+
+#: inc/email_template_manager/email_template_manager.php:27
+msgid "User Email Confirm"
+msgstr ""
+
+#: inc/helpers.php:14 inc/setup.php:5
+msgid "ELECTRIC VEHICLE DEALERSHIP"
+msgstr ""
+
+#: inc/helpers.php:15 inc/setup.php:11
+msgid "CAR DEALERSHIP ONE"
+msgstr ""
+
+#: inc/helpers.php:16 inc/setup.php:17
+msgid "CAR DEALERSHIP TWO"
+msgstr ""
+
+#: inc/helpers.php:17 inc/setup.php:23
+msgid "CLASSIFIED LISTING"
+msgstr ""
+
+#: inc/helpers.php:18 inc/setup.php:29
+msgid "CLASSIFIED LISTING 2"
+msgstr ""
+
+#: inc/helpers.php:19 inc/setup.php:35
+msgid "CLASSIFIED LISTING 3"
+msgstr ""
+
+#: inc/helpers.php:20 inc/setup.php:83
+msgid "CLASSIFIED LISTING 4"
+msgstr ""
+
+#: inc/helpers.php:21
+msgid "CLASSIFIED LISTING 5"
+msgstr ""
+
+#: inc/helpers.php:22
+msgid "CLASSIFIED LISTING 6"
+msgstr ""
+
+#: inc/helpers.php:23 inc/setup.php:41
+msgid "RENT A CAR SERVICE"
+msgstr ""
+
+#: inc/helpers.php:24 inc/setup.php:53
+msgid "MOTORCYCLES DEALERS"
+msgstr ""
+
+#: inc/helpers.php:25 inc/setup.php:59
+msgid "BOATS DEALERSHIP"
+msgstr ""
+
+#: inc/helpers.php:26 inc/setup.php:65
+msgid "CAR REPAIR SERVICE"
+msgstr ""
+
+#: inc/helpers.php:27 inc/setup.php:71
+msgid "CAR MAGAZINE"
+msgstr ""
+
+#: inc/helpers.php:28 inc/setup.php:77
+msgid "AUTO PARTS"
+msgstr ""
+
+#: inc/helpers.php:29 inc/setup.php:89
+msgid "AIRCRAFTS"
+msgstr ""
+
+#: inc/helpers.php:30 inc/setup.php:95
+msgid "RENT A CAR TWO"
+msgstr ""
+
+#: inc/helpers.php:31 inc/setup.php:101
+msgid "EQUIPMENT"
+msgstr ""
+
+#: inc/helpers.php:184 listings/boats/filter/sidebar.php:19
+#: listings/classified/filter/sidebar.php:54
+#: listings/filter/sidebar-mobile.php:39 listings/filter/sidebar.php:29
+#: listings/motorcycles/filter/sidebar.php:50 ulisting/pricing-plan/list.php:27
+#: ulisting/pricing-plan/list.php:59 ulisting/pricing-plan/payment.php:47
+msgid "Listings"
+msgstr ""
+
+#: inc/helpers.php:400 listings/classified/filter/sidebar.php:45
+#: listings/motorcycles/filter/sidebar.php:42
+msgid "Reset All"
+msgstr ""
+
+#: inc/helpers.php:401 woocommerce/myaccount/orders.php:109
+msgid "Previous"
+msgstr ""
+
+#: inc/helpers.php:402 ulisting/listing-list/pagination.php:28
+#: woocommerce/myaccount/orders.php:114
+msgid "Next"
+msgstr ""
+
+#: inc/helpers.php:404
+msgid "file type noimg"
+msgstr ""
+
+#: inc/helpers.php:405
+msgid "file size big"
+msgstr ""
+
+#: inc/helpers.php:406
+msgid "max imgs 3"
+msgstr ""
+
+#: inc/helpers.php:408
+msgid "No results found"
+msgstr ""
+
+#: inc/helpers.php:409 listings/add_car/step_7.php:42
+msgid "Please, log in to view your available plans"
+msgstr ""
+
+#: inc/helpers.php:414
+msgid "more photo"
+msgstr ""
+
+#: inc/helpers.php:415
+msgid "more photos"
+msgstr ""
+
+#: inc/modals.php:93
+msgid "Close"
+msgstr ""
+
+#. translators: %s: Selected currency.
+#: inc/multiple_currencies.php:29
+#, php-format
+msgid "Currency (%s)"
+msgstr ""
+
+#: inc/perpay.php:36
+msgid "Invalid product."
+msgstr ""
+
+#: inc/perpay.php:124
+msgid "Invalid product ID"
+msgstr ""
+
+#: inc/perpay.php:298
+msgid "Sorry, item is out of stock and cannot be added to cart"
+msgstr ""
+
+#: inc/rental/DiscountByDays.php:154 inc/rental/DiscountByDays.php:191
+#: inc/rental/PriceForQuantityDays.php:266
+#: inc/rental/PriceForQuantityDays.php:312
+msgid "Days"
+msgstr ""
+
+#: inc/rental/DiscountByDays.php:164 inc/rental/DiscountByDays.php:200
+#: partials/rental/main-shop/promo-popup.php:125
+msgid "Discount"
+msgstr ""
+
+#: inc/rental/DiscountByDays.php:177 inc/rental/DiscountByDays.php:212
+#: inc/rental/PriceForDatePeriod.php:541 inc/rental/PriceForDatePeriod.php:579
+#: inc/rental/PriceForQuantityDays.php:298
+#: inc/rental/PriceForQuantityDays.php:342
+#: partials/rental/product/option.php:91
+msgid "Remove"
+msgstr ""
+
+#: inc/rental/DiscountByDays.php:219 inc/rental/PriceForDatePeriod.php:588
+#: inc/rental/PriceForQuantityDays.php:351
+#: partials/rental/product/option.php:84
+msgid "Add"
+msgstr ""
+
+#: inc/rental/PriceForDatePeriod.php:510 inc/rental/PriceForDatePeriod.php:554
+msgid "Start Date"
+msgstr ""
+
+#: inc/rental/PriceForDatePeriod.php:520 inc/rental/PriceForDatePeriod.php:562
+msgid "End Date"
+msgstr ""
+
+#: inc/rental/PriceForDatePeriod.php:530 inc/rental/PriceForDatePeriod.php:570
+#: inc/rental/PriceForQuantityDays.php:281
+#: inc/rental/PriceForQuantityDays.php:326 inc/rental/PricePerHour.php:201
+#: listings/add_car/price_templates/price.php:3 partials/compare.php:189
+#: partials/listing-layout-parts/boats-list-sort.php:29
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:89
+#: woocommerce/emails/email-order-details.php:40
+msgid "Price"
+msgstr ""
+
+#: inc/rental/PricePerHour.php:186
+msgid "Price Per Hour"
+msgstr ""
+
+#: inc/rental/PricePerHour.php:190
+msgid "Fixed Price By Quantity Days"
+msgstr ""
+
+#: inc/rental/PricePerHour.php:190
+msgid "Discount By Days"
+msgstr ""
+
+#: inc/rental/PricePerHour.php:194
+msgid "Price For Date Period"
+msgstr ""
+
+#: inc/scripts_styles.php:337 listings/loop/default/grid/image.php:11
+#: listings/loop/default/list/compare.php:13 partials/compare.php:123
+#: partials/listing-cars/motos/grid.php:41
+#: partials/listing-cars/motos/moto-single-grid.php:45
+msgid "Remove from compare"
+msgstr ""
+
+#: inc/scripts_styles.php:338
+msgid "Remove from favorites"
+msgstr ""
+
+#: inc/scripts_styles.php:339 listings/loop/classified/grid/image.php:173
+#: listings/loop/classified/list/image-inventory-no-filter.php:95
+#: listings/loop/classified/list/image.php:88
+msgid "Add to favorites"
+msgstr ""
+
+#: inc/scripts_styles.php:493
+msgctxt "Exo 2 font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/scripts_styles.php:495
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/scripts_styles.php:497
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/scripts_styles.php:537
+#, php-format
+msgid ""
+"Motors theme Customize Settings were moved to <a href=\"%s\">Dashboard > "
+"Theme Options</a>."
+msgstr ""
+
+#: inc/setup.php:47
+msgid "RENT A CAR SERVICE ELEMENTOR"
+msgstr ""
+
+#: inc/setup.php:107
+msgid "LISTING FIVE"
+msgstr ""
+
+#: inc/setup.php:113
+msgid "ELEMENTOR LISTING FIVE"
+msgstr ""
+
+#: inc/setup.php:119
+msgid "ELEMENTOR CAR DEALERSHIP ONE"
+msgstr ""
+
+#: inc/setup.php:125
+msgid "ELEMENTOR CLASSIFIED ONE"
+msgstr ""
+
+#: inc/setup.php:131
+msgid "ELEMENTOR CAR DEALERSHIP TWO"
+msgstr ""
+
+#: inc/setup.php:137
+msgid "ELEMENTOR CLASSIFIED FOUR"
+msgstr ""
+
+#: inc/setup.php:143
+msgid "ELEMENTOR CLASSIFIED THREE"
+msgstr ""
+
+#: inc/setup.php:149
+msgid "ELEMENTOR CLASSIFIED TWO"
+msgstr ""
+
+#: inc/setup.php:155
+msgid "ELEMENTOR CAR DEALERSHIP ONE RTL"
+msgstr ""
+
+#: inc/setup.php:600
+msgid "Top primary menu"
+msgstr ""
+
+#: inc/setup.php:601
+msgid "Top bar menu"
+msgstr ""
+
+#: inc/setup.php:602
+msgid "Bottom menu"
+msgstr ""
+
+#: inc/setup.php:608
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/setup.php:610
+msgid "Main sidebar that appears on the right or left."
+msgstr ""
+
+#: inc/setup.php:620
+msgid "Footer"
+msgstr ""
+
+#: inc/setup.php:622
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: inc/setup.php:633
+msgid "Shop"
+msgstr ""
+
+#: inc/setup.php:635
+msgid "Woocommerce pages sidebar"
+msgstr ""
+
+#: inc/setup.php:647
+msgid "STM Listing Car Sidebar"
+msgstr ""
+
+#: inc/setup.php:649
+msgid "Default sidebar for Single Car Page (Listing layout)"
+msgstr ""
+
+#: inc/setup.php:660
+msgid "STM Single Boat Sidebar"
+msgstr ""
+
+#: inc/setup.php:662
+msgid "Default sidebar for Single Boat Page (Boats layout)"
+msgstr ""
+
+#: inc/stm-ajax.php:33
+msgid "In compare list"
+msgstr ""
+
+#: inc/stm-ajax.php:34 listings/loop/default/list/features.php:87
+#: partials/compare.php:87 partials/compare.php:181
+#: partials/listing-cars/listing-directive-list-loop-actions.php:62
+#: partials/listing-cars/listing-list-loop-actions.php:58
+#: partials/single-aircrafts/action-bar.php:60
+#: partials/single-car-boats/boats-actions.php:51
+#: partials/single-car/car-actions.php:70
+msgid "Remove from list"
+msgstr ""
+
+#: inc/stm-ajax.php:44
+#, php-format
+msgid "%s has been removed from compare"
+msgstr ""
+
+#: inc/stm-ajax.php:50
+#, php-format
+msgid "%s has been added to compare!"
+msgstr ""
+
+#: inc/stm-ajax.php:53
+#, php-format
+msgid "You have already added %d cars"
+msgstr ""
+
+#: inc/stm-ajax.php:57
+#, php-format
+msgid "%s has already been added"
+msgstr ""
+
+#: inc/stm-ajax.php:79 inc/stm-ajax.php:91 inc/stm-ajax.php:96
+#: inc/stm-ajax.php:157 inc/stm-ajax.php:226 inc/stm-ajax.php:345
+msgid "Please fill all fields"
+msgstr ""
+
+#: inc/stm-ajax.php:83
+msgid "Please enter correct email"
+msgstr ""
+
+#: inc/stm-ajax.php:87
+msgid "Please enter correct phone number"
+msgstr ""
+
+#: inc/stm-ajax.php:115
+msgid "New request for test drive"
+msgstr ""
+
+#: inc/stm-ajax.php:123 inc/stm-ajax.php:207 inc/stm-ajax.php:316
+msgid "Your request was sent"
+msgstr ""
+
+#: inc/stm-ajax.php:165 inc/stm-ajax.php:234 partials/trade-in.php:15
+#: partials/trade-in.php:528 partials/trade-in.php:961
+msgid "Please prove you're not a robot"
+msgstr ""
+
+#: inc/stm-ajax.php:529 inc/stm-ajax.php:725
+msgid "Site is on demo mode."
+msgstr ""
+
+#: inc/stm-ajax.php:542
+msgid "Please, enter review title."
+msgstr ""
+
+#: inc/stm-ajax.php:547
+msgid "Do not cheat!"
+msgstr ""
+
+#: inc/stm-ajax.php:556
+msgid "Please, enter review text."
+msgstr ""
+
+#: inc/stm-ajax.php:561 inc/stm-ajax.php:565
+msgid "Please, check you are not a dealer."
+msgstr ""
+
+#: inc/stm-ajax.php:577
+msgid "Please add rating"
+msgstr ""
+
+#: inc/stm-ajax.php:590
+msgid "You are not logged in"
+msgstr ""
+
+#: inc/stm-ajax.php:605
+msgid "Do not cheat"
+msgstr ""
+
+#: inc/stm-ajax.php:693
+msgid "User not found"
+msgstr ""
+
+#: inc/stm-ajax.php:721
+msgid "Instructions send on your email"
+msgstr ""
+
+#: inc/stm-ajax.php:727
+msgid "Please fill required fields"
+msgstr ""
+
+#: inc/stm-ajax.php:774
+msgid "Reported"
+msgstr ""
+
+#: inc/stm-ajax.php:850 partials/user/private/become-dealer.php:80
+#: partials/user/private/dealer-settings.php:373
+msgid "Site is on demo mode"
+msgstr ""
+
+#: inc/stm-ajax.php:861 inc/stm_single_dealer.php:141
+#: listings/loop/woo/listing_data.php:29 listings/loop/woo/listing_data.php:49
+#: listings/loop/woo/listing_data.php:68 listings/loop/woo/listing_data.php:138
+#: partials/single-car-listing/car-data.php:34
+#: partials/single-car-listing/car-data.php:54
+#: partials/single-car-listing/car-data.php:73
+#: partials/single-car-listing/car-data.php:143
+#: woocommerce/order/order-details-customer.php:70
+#: woocommerce/order/order-details-customer.php:84
+msgid "N/A"
+msgstr ""
+
+#: inc/stm-ajax.php:878
+msgid "Please, log in"
+msgstr ""
+
+#. translators: %s name field
+#: inc/stm-ajax.php:923 inc/stm-ajax.php:934
+#, php-format
+msgid "Enter required %s field"
+msgstr ""
+
+#: inc/stm-ajax.php:1025
+msgid "Please add item price"
+msgstr ""
+
+#: inc/stm-ajax.php:1059
+msgid "Please select plan"
+msgstr ""
+
+#: inc/stm-ajax.php:1297
+msgid "Listing Updated, uploading photos"
+msgstr ""
+
+#: inc/stm-ajax.php:1299
+msgid "Listing Added, uploading photos"
+msgstr ""
+
+#: inc/stm-ajax.php:1548 inc/woocommerce_setups_rental.php:1272
+#: partials/rental/main-shop/loop.php:141
+msgid "This Class is already booked in: "
+msgstr ""
+
+#: inc/stm-ajax.php:1737
+msgid "More Details"
+msgstr ""
+
+#: inc/stm-ajax.php:1762
+#: partials/listing-cars/listing-directive-list-loop-actions.php:44
+msgid "Test Drive"
+msgstr ""
+
+#: inc/stm_single_dealer.php:8
+msgid "Cars in stock"
+msgstr ""
+
+#: inc/stm_single_dealer.php:10
+msgid "Car in stock"
+msgstr ""
+
+#: inc/stm_single_dealer.php:68 partials/single-car-listing/car-dealer.php:61
+#: partials/user/dealer-reviews.php:78
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: inc/stm_single_dealer.php:102 partials/single-car-listing/car-dealer.php:79
+#: partials/single-car-listing/car-dealer.php:147
+#: partials/user/dealer-public-profile.php:79
+#: partials/user/listing-list-user-info.php:70
+#: ulisting/custom/dealer_info.php:32
+msgid "Show number"
+msgstr ""
+
+#: inc/stm_single_dealer.php:118
+msgid "See map"
+msgstr ""
+
+#. translators: %s is user location
+#: inc/stm_single_dealer.php:130
+#, php-format
+msgid "From %s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:337
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:338
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:339
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:357
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:362
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:367
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:372
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:377
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:382
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:387
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:392
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:397
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:401
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:402
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:403 inc/tgm/tgm-plugin-activation.php:3079
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:404 inc/tgm/tgm-plugin-activation.php:2881
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:405
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:406
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:407
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:830 inc/tgm/tgm-plugin-activation.php:3465
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:940 inc/tgm/tgm-plugin-activation.php:950
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:950
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:1135
+#: inc/tgm/tgm-plugin-activation.php:2877
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:1920
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2206
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2209
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2225
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2228
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2231
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2248
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2252
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2260
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2263
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2266
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2274
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2319
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2322
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2325
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2328
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2410
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2418
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2426
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2438
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2461
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2484
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2485
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2486 ulisting/account/my-plans/list.php:33
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2490
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2539
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2543
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2548
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2618
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2651
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2657 ulisting/account/edit-profile.php:146
+#: ulisting/add-listing/edit.php:29
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2660
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2691
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2693
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2729
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2731
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2837
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2863
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3078
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3389
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3391
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3392
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3396
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3397
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3398
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3399
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3402
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3403
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3404
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3405
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/user-extra.php:10
+msgid "STM User/Dealer additional fields"
+msgstr ""
+
+#: inc/user-extra.php:15
+msgid "Email visibility"
+msgstr ""
+
+#: inc/user-extra.php:20
+msgid "Email address is visible to anyone"
+msgstr ""
+
+#: inc/user-extra.php:32
+msgid "User phone"
+msgstr ""
+
+#: inc/user-extra.php:37
+msgid "WhatsApp Account"
+msgstr ""
+
+#: inc/user-extra.php:42
+msgid "User has WhatApp account with this number"
+msgstr ""
+
+#: inc/user-extra.php:48
+msgid "User Avatar"
+msgstr ""
+
+#: inc/user-extra.php:57
+msgid "User avatar(stores URL and path to image)"
+msgstr ""
+
+#: inc/user-extra.php:62
+msgid "STM User/Dealer additional fields (socials)"
+msgstr ""
+
+#: inc/user-extra.php:67 partials/user/private/dealer-settings.php:614
+#: partials/user/private/user-settings.php:161
+msgid "Facebook"
+msgstr ""
+
+#: inc/user-extra.php:77 partials/user/private/dealer-settings.php:623
+#: partials/user/private/user-settings.php:172
+msgid "Twitter"
+msgstr ""
+
+#: inc/user-extra.php:87 partials/user/private/dealer-settings.php:634
+#: partials/user/private/user-settings.php:185
+msgid "Linked In"
+msgstr ""
+
+#: inc/user-extra.php:97 partials/user/private/dealer-settings.php:643
+#: partials/user/private/user-settings.php:196
+msgid "Youtube"
+msgstr ""
+
+#: inc/user-extra.php:107
+msgid "User favorite car ids"
+msgstr ""
+
+#: inc/user-extra.php:119
+msgid "Dealer Settings"
+msgstr ""
+
+#: inc/user-extra.php:120
+msgid ""
+"This settings will only be filled by dealers, and shown only on dealer page."
+msgstr ""
+
+#: inc/user-extra.php:124
+msgid "Message to pending user"
+msgstr ""
+
+#: inc/user-extra.php:131
+msgid ""
+"In case a user has entered incorrect details in Dealer submission, you can "
+"reject the request and add a notice."
+msgstr ""
+
+#: inc/user-extra.php:137 partials/user/private/become-dealer.php:66
+#: partials/user/private/become-dealer.php:261
+#: partials/user/private/dealer-settings.php:529
+msgid "Company name"
+msgstr ""
+
+#: inc/user-extra.php:147
+msgid "Website URL"
+msgstr ""
+
+#: inc/user-extra.php:157 ulisting/account/edit-profile.php:110
+msgid "License"
+msgstr ""
+
+#: inc/user-extra.php:167
+msgid "Dealer Logo"
+msgstr ""
+
+#: inc/user-extra.php:176
+msgid "Dealer logo(stores URL and path to image)"
+msgstr ""
+
+#: inc/user-extra.php:181
+msgid "Dealer Image"
+msgstr ""
+
+#: inc/user-extra.php:190
+msgid "Dealer image(stores URL and path to image)"
+msgstr ""
+
+#: inc/user-extra.php:195
+msgid "Dealer Location"
+msgstr ""
+
+#: inc/user-extra.php:201
+msgid "Dealer location address"
+msgstr ""
+
+#: inc/user-extra.php:205
+msgid "Dealer location latitude"
+msgstr ""
+
+#: inc/user-extra.php:209
+msgid "Dealer location longitude"
+msgstr ""
+
+#: inc/user-extra.php:214 partials/user/dealer-public-profile.php:88
+#: partials/user/private/become-dealer.php:295
+#: partials/user/private/dealer-settings.php:562
+msgid "Sales Hours"
+msgstr ""
+
+#: inc/user-extra.php:224
+msgid "Seller Notes"
+msgstr ""
+
+#: inc/user-extra.php:232
+msgid "Payment status"
+msgstr ""
+
+#: inc/user-filter.php:34
+msgid "Displaying Local Car Dealerships"
+msgstr ""
+
+#: inc/user-filter.php:204
+msgid "Displaying Dealerships near"
+msgstr ""
+
+#: inc/user-filter.php:224 inc/user-filter.php:227
+msgid "Displaying"
+msgstr ""
+
+#: inc/user-filter.php:224
+msgid "Dealerships near"
+msgstr ""
+
+#: inc/user-filter.php:227
+msgid "Dealerships"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:39 inc/value_my_car/value_my_car.php:24
+msgid "Value My Car"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:52
+#: partials/single-car-motorcycle/tabs.php:31
+#: partials/user/private/user-inventory.php:35
+#: ulisting/account/my-listing.php:78
+msgid "All"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:61
+#: partials/user/private/user-inventory.php:36
+#: ulisting/account/my-listing.php:86
+msgid "Pending"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:70 inc/value_my_car/admin-page.php:137
+#: ulisting/account/my-listing.php:92
+msgid "Trash"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:73
+#: listings/add_car/step_1_additional_fields.php:81
+#: listings/add_car/step_5.php:30
+msgid "Apply"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:90
+#: partials/rental/common/order-info-empty.php:7
+msgid "Car"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:91
+msgid "Details"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:92
+msgid "Images"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:93
+msgid "Actions"
+msgstr ""
+
+#: inc/value_my_car/admin-page.php:132
+msgid "Reply"
+msgstr ""
+
+#: inc/value_my_car/value_my_car.php:44
+msgid "Please enter required fields"
+msgstr ""
+
+#: inc/value_my_car/value_my_car.php:88 inc/value_my_car/value_my_car.php:155
+msgid ""
+"Thanks for your request, we will contact you as soon as we review you car."
+msgstr ""
+
+#: inc/value_my_car/value_my_car.php:91 woocommerce/notices/error.php:31
+msgid "Error"
+msgstr ""
+
+#: inc/value_my_car/value_my_car.php:229
+msgid "Reply was sent"
+msgstr ""
+
+#: inc/woocommerce_setups.php:91
+msgid "Pricing Plan Options (Works only with \"Subscription\" Product)"
+msgstr ""
+
+#: inc/woocommerce_setups.php:100
+msgid "Number of Slots"
+msgstr ""
+
+#: inc/woocommerce_setups.php:104
+msgid "Number of Images per slot"
+msgstr ""
+
+#: inc/woocommerce_setups.php:108
+msgid "Price Plan User Role"
+msgstr ""
+
+#: inc/woocommerce_setups.php:111
+msgid "User"
+msgstr ""
+
+#: inc/woocommerce_setups.php:112
+msgid "Dealer"
+msgstr ""
+
+#: inc/woocommerce_setups.php:398
+msgid "Please publish this Listing manually"
+msgstr ""
+
+#: inc/woocommerce_setups.php:402
+msgid "Please make featured this Listing manually"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:37
+msgid "Car Option"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:389
+msgid "Driver license"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:480
+msgid "Availble payment method"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:481
+msgid ""
+"Choose payment method available only for this variable product. If this "
+"product will be in cart, all other payment methods will be disabled on "
+"checkout page."
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:530
+msgid "Pick Up"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:534
+#: partials/rental/wizard-nav/nav-step-1.php:38
+msgid "Drop off"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:538 partials/trade-in.php:539
+#: partials/trade-in.php:687
+msgid "Vehicle Type"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:542
+#: partials/rental/common/order-info-empty.php:48
+#: partials/rental/common/order-info.php:209
+msgid "Add-ons"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:546
+msgid "Your Information"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:550
+#: partials/rental/wizard-nav/nav-step-3.php:33
+msgid "Payment information"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:588
+#: partials/rental/wizard-nav/nav-step-3.php:15
+#, php-format
+msgid "Estimated Total - %s"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1046
+msgid "Phone:"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1049 ulisting/account/dashboard.php:58
+msgid "Fax:"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1338
+msgid "Sessions:"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1343
+msgid "From "
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1343
+msgid " to "
+msgstr ""
+
+#. translators: for reg price
+#. translators: for price
+#: inc/woocommerce_setups_rental.php:1343
+#: partials/rental/main-shop/price.php:97
+#: partials/rental/main-shop/price.php:167
+#: partials/rental/product/option.php:67 partials/rental/product/option.php:76
+#, php-format
+msgid "%s/Day"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1348
+msgid "Fixed price:"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1350
+#, php-format
+msgid "%1$s days and more: %2$s"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1355
+msgid "Discounts:"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1357
+#, php-format
+msgid "%1$s days and more: %2$s sale"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1363
+msgid "Per Hour:"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1364
+#, php-format
+msgid "%s Per hour"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1406
+msgid "Single pay for the option"
+msgstr ""
+
+#: inc/woocommerce_setups_rental.php:1407
+msgid ""
+"Payment amount doesn`t depend on rental days. Only one time payment for this "
+"option."
+msgstr ""
+
+#: index.php:124
+msgid "No Results"
+msgstr ""
+
+#: listings/add_car/check_user.php:77
+#: partials/header/header-classified-five/parts/account-dropdown.php:52
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:52
+#: partials/user/private/mobile/user.php:7 partials/user/user-dropdown.php:45
+msgid "Login or E-mail"
+msgstr ""
+
+#: listings/add_car/check_user.php:78
+#: partials/header/header-classified-five/parts/account-dropdown.php:53
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:53
+#: partials/user/private/mobile/user.php:8 partials/user/user-dropdown.php:46
+msgid "Enter login or E-mail"
+msgstr ""
+
+#: listings/add_car/check_user.php:82
+#: partials/header/header-classified-five/parts/account-dropdown.php:57
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:57
+#: partials/user/private/mobile/user.php:12 partials/user/user-dropdown.php:50
+#: ulisting/account/login.php:28 ulisting/account/register.php:71
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:174
+msgid "Password"
+msgstr ""
+
+#: listings/add_car/check_user.php:83
+#: partials/header/header-classified-five/parts/account-dropdown.php:58
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:58
+#: partials/user/private/mobile/user.php:13 partials/user/user-dropdown.php:51
+#: ulisting/account/login.php:33 ulisting/account/register.php:75
+msgid "Enter password"
+msgstr ""
+
+#: listings/add_car/check_user.php:89
+#: partials/header/header-classified-five/parts/account-dropdown.php:64
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:64
+#: partials/user/private/mobile/user.php:19 partials/user/user-dropdown.php:57
+#: ulisting/account/login.php:42 woocommerce/myaccount/form-login.php:85
+#: woocommerce/myaccount/form-login.php:97
+msgid "Remember me"
+msgstr ""
+
+#: listings/add_car/check_user.php:110 listings/add_car/user_info.php:45
+#: listings/add_car/user_info.php:118
+msgid "Add a Listing using Free or Paid Plan limits"
+msgstr ""
+
+#: listings/add_car/check_user.php:115 listings/add_car/user_info.php:50
+#: listings/add_car/user_info.php:123
+msgid "Edit Listing"
+msgstr ""
+
+#: listings/add_car/check_user.php:117 listings/add_car/user_info.php:52
+#: listings/add_car/user_info.php:125
+msgid "Submit listing"
+msgstr ""
+
+#: listings/add_car/check_user.php:128 listings/add_car/user_info.php:63
+#: listings/add_car/user_info.php:136
+msgid "Pay for this Listing"
+msgstr ""
+
+#: listings/add_car/check_user.php:132 listings/add_car/user_info.php:67
+#: listings/add_car/user_info.php:140
+msgid "Pay for Listing"
+msgstr ""
+
+#: listings/add_car/image-gallery.php:45
+msgid "Add image"
+msgstr ""
+
+#: listings/add_car/price_templates/custom_label.php:4
+msgid "Custom label instead of price"
+msgstr ""
+
+#: listings/add_car/price_templates/sale_price.php:3
+msgid "Sale Price"
+msgstr ""
+
+#: listings/add_car/registered.php:27 listings/add_car/user_info.php:104
+#: partials/single-car-listing/car-dealer.php:133
+#: partials/user/private/mobile/user-profile.php:22
+#: partials/user/private/user.php:38 partials/user/user-public-profile.php:35
+msgid "Private Seller"
+msgstr ""
+
+#: listings/add_car/registered.php:34 listings/add_car/user_info.php:77
+#: listings/add_car/user_info.php:149 partials/user/private/dealer.php:125
+#: partials/user/private/mobile/dealer-profile.php:122
+#: partials/user/private/mobile/user-profile.php:130
+#: partials/user/private/user.php:143
+msgid "Show my Public Profile"
+msgstr ""
+
+#: listings/add_car/registered.php:38 listings/add_car/user_info.php:81
+#: listings/add_car/user_info.php:152 partials/top-bar-boats.php:68
+#: partials/top-bar-boats.php:70 partials/top-bar-boats.php:91
+#: partials/top-bar-boats.php:93 partials/top-bar-parts/top-bar-auth.php:15
+#: partials/top-bar-parts/top-bar-auth.php:17
+#: partials/top-bar-parts/top-bar-auth.php:64
+#: partials/top-bar-parts/top-bar-auth.php:66
+msgid "Log out"
+msgstr ""
+
+#: listings/add_car/registered.php:39 listings/add_car/user_info.php:82
+#: listings/add_car/user_info.php:153
+msgid "to choose a different account"
+msgstr ""
+
+#: listings/add_car/registration.php:3
+#: partials/header/header-classified-five/parts/account-dropdown.php:72
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:72
+#: partials/top-bar-boats.php:74 partials/user/private/mobile/user.php:32
+#: partials/user/user-dropdown.php:65 ulisting/account/account-panel.php:39
+msgid "Sign Up"
+msgstr ""
+
+#: listings/add_car/registration.php:4
+msgid "Already Registered? Members"
+msgstr ""
+
+#: listings/add_car/registration.php:5
+msgid "Login Here"
+msgstr ""
+
+#: listings/add_car/registration.php:27 woocommerce/myaccount/my-address.php:75
+msgid "First Name"
+msgstr ""
+
+#: listings/add_car/registration.php:28
+msgid "Enter First name"
+msgstr ""
+
+#: listings/add_car/registration.php:31 woocommerce/myaccount/my-address.php:79
+msgid "Last Name"
+msgstr ""
+
+#: listings/add_car/registration.php:32
+msgid "Enter Last name"
+msgstr ""
+
+#: listings/add_car/registration.php:38 partials/trade-in.php:456
+#: partials/trade-in.php:888 partials/trade-in.php:1331
+msgid "Phone number"
+msgstr ""
+
+#: listings/add_car/registration.php:39
+#: partials/user/private/dealer-settings.php:500
+#: partials/user/private/user-settings.php:102
+msgid "Enter Phone"
+msgstr ""
+
+#: listings/add_car/registration.php:42
+#: partials/user/private/dealer-settings.php:503
+#: partials/user/private/user-settings.php:105
+msgid "I have a WhatsApp account with this number"
+msgstr ""
+
+#: listings/add_car/registration.php:46
+msgid "Email *"
+msgstr ""
+
+#: listings/add_car/registration.php:47
+#: partials/user/private/dealer-settings.php:510
+#: partials/user/private/user-settings.php:114
+msgid "Enter E-mail"
+msgstr ""
+
+#: listings/add_car/registration.php:53
+msgid "Login *"
+msgstr ""
+
+#: listings/add_car/registration.php:54
+msgid "Enter Login"
+msgstr ""
+
+#: listings/add_car/registration.php:57
+msgid "Password *"
+msgstr ""
+
+#: listings/add_car/registration.php:60
+msgid "Enter Password"
+msgstr ""
+
+#: listings/add_car/registration.php:69
+msgid "I accept the terms of the"
+msgstr ""
+
+#: listings/add_car/registration.php:143 listings/add_car/registration.php:145
+msgid "Sign up now!"
+msgstr ""
+
+#: listings/add_car/step_1.php:22
+msgid "Listing Item Details"
+msgstr ""
+
+#: listings/add_car/step_1.php:23 listings/add_car/step_2.php:4
+#: listings/add_car/step_3.php:76 listings/add_car/step_4.php:5
+#: listings/add_car/step_4.php:38 listings/add_car/step_5.php:11
+#: listings/add_car/step_6.php:15 listings/add_car/step_7.php:14
+msgid "step"
+msgstr ""
+
+#. translators: %s name option
+#: listings/add_car/step_1.php:72 listings/add_car/step_1.php:149
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: listings/add_car/step_1.php:96 listings/add_car/step_1.php:102
+#: listings/add_car/step_1.php:183
+msgid "Select"
+msgstr ""
+
+#: listings/add_car/step_1.php:133
+#, php-format
+msgid "Enter %s %s"
+msgstr ""
+
+#: listings/add_car/step_1.php:212
+msgid "Listing item Location"
+msgstr ""
+
+#: listings/add_car/step_1.php:218 listings/loop/boats/list/options.php:20
+#: listings/loop/classified/list/options.php:89
+#: partials/listing-layout-parts/boats-list-sort.php:24
+#: partials/single-car-boats/boats-data.php:56
+#: partials/user/dealer-public-profile.php:62
+#: partials/user/private/become-dealer.php:68
+#: partials/user/private/become-dealer.php:280
+#: partials/user/private/dealer-settings.php:547
+msgid "Location"
+msgstr ""
+
+#: listings/add_car/step_1.php:223
+msgid "Enter ZIP or Address"
+msgstr ""
+
+#: listings/add_car/step_1.php:228
+msgid "Latitude"
+msgstr ""
+
+#: listings/add_car/step_1.php:232
+msgid "Enter Latitude"
+msgstr ""
+
+#: listings/add_car/step_1.php:237
+msgid "Longitude"
+msgstr ""
+
+#: listings/add_car/step_1.php:241
+msgid "Enter Longitude"
+msgstr ""
+
+#: listings/add_car/step_1.php:244
+msgid "Lat and Long Finder"
+msgstr ""
+
+#: listings/add_car/step_1_additional_fields.php:17
+msgid "Enter date"
+msgstr ""
+
+#: listings/add_car/step_1_additional_fields.php:21
+#: listings/loop/woo/listing_data.php:19 listings/loop/woo/listing_data.php:28
+#: partials/single-car-listing/car-data.php:24
+#: partials/single-car-listing/car-data.php:33
+msgid "Registered"
+msgstr ""
+
+#: listings/add_car/step_1_additional_fields.php:38
+msgid "Enter VIN"
+msgstr ""
+
+#: listings/add_car/step_1_additional_fields.php:55
+msgid "Vehicle History Report"
+msgstr ""
+
+#: listings/add_car/step_1_additional_fields.php:58
+#: listings/loop/woo/listing_data.php:38 listings/loop/woo/listing_data.php:48
+#: partials/single-car-listing/car-data.php:43
+#: partials/single-car-listing/car-data.php:53
+msgid "History"
+msgstr ""
+
+#: listings/add_car/step_1_additional_fields.php:64
+msgid "Vehicle history"
+msgstr ""
+
+#: listings/add_car/step_1_additional_fields.php:80
+msgid "Insert link"
+msgstr ""
+
+#: listings/add_car/step_2.php:3
+msgid "Select Your Car Features"
+msgstr ""
+
+#: listings/add_car/step_3.php:33
+msgid "Some error occurred, try again later"
+msgstr ""
+
+#. translators: %s: uploading image dotted
+#: listings/add_car/step_3.php:36
+#, php-format
+msgid "Wait, uploading image%s"
+msgstr ""
+
+#: listings/add_car/step_3.php:39
+msgid "Sorry, you are trying to upload the wrong image format:"
+msgstr ""
+
+#: listings/add_car/step_3.php:40
+msgid "Sorry, image is too large:"
+msgstr ""
+
+#: listings/add_car/step_3.php:41
+msgid "Wait, converting image"
+msgstr ""
+
+#. translators: %s: rendering image dotted
+#: listings/add_car/step_3.php:44
+#, php-format
+msgid "Wait, rendering image%s"
+msgstr ""
+
+#. translators: %s: optimized image dotted
+#: listings/add_car/step_3.php:49
+#, php-format
+msgid "Wait, the image is being optimized%s"
+msgstr ""
+
+#. translators: %d: images limit
+#: listings/add_car/step_3.php:54
+#, php-format
+msgid "Sorry, you can upload only %d images per add"
+msgstr ""
+
+#: listings/add_car/step_3.php:75
+msgid "Upload photo"
+msgstr ""
+
+#: listings/add_car/step_4.php:4 listings/add_car/step_4.php:37
+msgid "Add Videos"
+msgstr ""
+
+#: listings/add_car/step_4.php:13 listings/add_car/step_4.php:47
+msgid "Video link"
+msgstr ""
+
+#: listings/add_car/step_4.php:25 listings/add_car/step_4.php:80
+msgid ""
+"If you don't have the videos handy, don't worry. You can add or edit them "
+"after you complete your ad using the \"Manage Your Ad\" page."
+msgstr ""
+
+#: listings/add_car/step_5.php:10
+msgid "Enter Seller's notes"
+msgstr ""
+
+#: listings/add_car/step_5.php:20
+msgid "Select all the phrases that apply to your vehicle."
+msgstr ""
+
+#: listings/add_car/step_5.php:58
+msgid "Add the Template Phrases"
+msgstr ""
+
+#: listings/add_car/step_6.php:14
+msgid "Set Your Asking Price"
+msgstr ""
+
+#: listings/add_car/step_7.php:13
+msgid "Choose plan"
+msgstr ""
+
+#: listings/add_car/step_7.php:20
+msgid "Select Plan"
+msgstr ""
+
+#: listings/add_car/title.php:9
+msgid "Listing Title"
+msgstr ""
+
+#: listings/add_car/title.php:10 partials/user/dealer-write-review.php:22
+#: ulisting/add-listing/form.php:192
+msgid "Title"
+msgstr ""
+
+#: listings/boats/filter/actions.php:6
+#: listings/classified/filter/actions.php:32 listings/filter/actions.php:11
+#: listings/motorcycles/filter/actions.php:31
+msgid "Sort by:"
+msgstr ""
+
+#. translators: post type name
+#. translators: %s post type name
+#: listings/boats/filter/sidebar.php:32
+#: listings/classified/filter/sidebar.php:67
+#: listings/filter/sidebar-mobile.php:52 listings/filter/sidebar.php:43
+#: listings/motorcycles/filter/sidebar.php:61
+#, php-format
+msgid "No categories created for %s"
+msgstr ""
+
+#: listings/boats/filter/sidebar.php:82
+msgid "More options"
+msgstr ""
+
+#: listings/boats/filter/sidebar.php:84
+msgid "Less options"
+msgstr ""
+
+#: listings/boats/filter/sidebar.php:136
+msgid "Items"
+msgstr ""
+
+#: listings/classified/filter/featured.php:54
+msgid "Featured Classified"
+msgstr ""
+
+#: listings/classified/filter/featured.php:57
+msgid "Show all"
+msgstr ""
+
+#: listings/classified/filter/sidebar.php:39
+#: listings/filter/sidebar-mobile.php:13 listings/filter/sidebar-mobile.php:22
+#: listings/filter/sidebar.php:23
+msgid "Search Options"
+msgstr ""
+
+#: listings/classified/filter/sidebar.php:43
+#: listings/motorcycles/filter/sidebar.php:40 partials/modals/searchform.php:6
+#: partials/title_box.php:78 ulisting/filter/stm_search_form_category.php:216
+#: ulisting/filter/stm_search_form_type.php:158
+msgid "Search"
+msgstr ""
+
+#: listings/classified/filter/sidebar.php:175
+#: listings/filter/sidebar-mobile.php:159 listings/filter/sidebar.php:153
+#: listings/motorcycles/filter/sidebar.php:165
+msgid "Show cars"
+msgstr ""
+
+#: listings/classified/filter/sidebar.php:177
+#: listings/filter/sidebar-mobile.php:194 listings/filter/sidebar.php:156
+#: listings/motorcycles/filter/sidebar.php:167
+#: ulisting/listing-list/filter.php:22
+msgid "Reset all"
+msgstr ""
+
+#: listings/filter/inventory/items-empty.php:38
+msgid "Cars found in other locations"
+msgstr ""
+
+#: listings/filter/results.php:70
+msgid "Load More"
+msgstr ""
+
+#: listings/filter/results.php:80
+msgid "Not found any vehicle based on your filter"
+msgstr ""
+
+#: listings/filter/results.php:81
+msgid "Try another filter, location or keywords"
+msgstr ""
+
+#: listings/filter/results.php:83
+msgid "Reset filters"
+msgstr ""
+
+#: listings/filter/sidebar-mobile.php:170
+msgid "Show "
+msgstr ""
+
+#: listings/filter/sidebar-mobile.php:181
+msgid "Moto"
+msgstr ""
+
+#: listings/filter/sidebar-mobile.php:183
+msgid "Boats"
+msgstr ""
+
+#: listings/filter/sidebar-mobile.php:185
+msgid "Aircrafts"
+msgstr ""
+
+#: listings/filter/sidebar-mobile.php:187
+msgid "Cars"
+msgstr ""
+
+#: listings/filter/sidebar.php:104
+msgid "Select listing status"
+msgstr ""
+
+#: listings/filter/types/keywords.php:24
+msgid "Search..."
+msgstr ""
+
+#: listings/filter/types/keywords.php:26
+msgid "Search by keywords..."
+msgstr ""
+
+#: listings/filter/types/keywords.php:29
+msgid "Search by keywords"
+msgstr ""
+
+#: listings/filter/types/keywords.php:31
+msgid "Search by keywords in listings"
+msgstr ""
+
+#. translators: number of remaining photos
+#: listings/loop/boats/list/image.php:34
+#: listings/loop/classified/grid/image.php:79
+#: listings/loop/classified/list/image-inventory-no-filter.php:141
+#: listings/loop/classified/list/image.php:135
+#: listings/loop/default/grid/image.php:84
+#: listings/loop/default/list/image.php:61 partials/car-filter-ev-loop.php:50
+#: partials/car-filter-loop.php:71 partials/listing-cars/motos/image.php:67
+#: partials/listing-cars/motos/list.php:124
+#: partials/listing-cars/motos/moto-single-grid.php:88
+#, php-format
+msgid "%d more photo"
+msgid_plural "%d more photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: listings/loop/boats/list/image.php:90
+#: listings/loop/classified/grid/image.php:55
+#: listings/loop/classified/list/image-inventory-no-filter.php:194
+#: listings/loop/default/grid/image.php:61
+#: listings/loop/default/list/image.php:38 partials/car-filter-ev-loop.php:23
+#: partials/car-filter-loop.php:45
+#: partials/inventory-search-results-carousel-loop.php:113
+#: partials/inventory-search-results-carousel-loop.php:122
+#: partials/inventory-search-results-carousel-loop.php:128
+#: partials/inventory-search-results-carousel-loop.php:134
+#: partials/inventory-search-results-carousel-loop.php:140
+#: partials/listing-cars/listing-list-directory-edit-loop.php:141
+#: partials/listing-cars/motos/image.php:43
+#: partials/listing-cars/motos/list.php:176
+#: partials/listing-cars/motos/moto-single-grid.php:138
+#: partials/single-aircrafts/gallery.php:18
+#: partials/single-aircrafts/gallery.php:81
+#: partials/single-car-boats/boat-image.php:14
+#: partials/single-car-listing/car-gallery.php:57
+#: partials/single-car-listing/car-gallery.php:205
+#: partials/single-car-motorcycle/car-gallery.php:30
+#: partials/single-car-motorcycle/car-gallery.php:83
+#: partials/single-car/car-gallery.php:46
+msgid "Placeholder"
+msgstr ""
+
+#: listings/loop/classified/list/title_price.php:31
+#: partials/single-car/car-price.php:116
+msgid "BUY CAR ONLINE"
+msgstr ""
+
+#: listings/loop/default/grid/title_price.php:16
+msgid "BUY ONLINE"
+msgstr ""
+
+#: listings/loop/default/list/badge.php:14
+#: partials/listing-cars/listing-directory-badges.php:20
+#: partials/single-aircrafts/action-bar.php:24
+#: partials/single-car-listing/car-gallery.php:22
+#: partials/single-car-motorcycle/car-gallery.php:17
+#: partials/single-car/car-gallery.php:23
+msgid "Special"
+msgstr ""
+
+#: listings/loop/default/list/features.php:52
+#: partials/listing-cars/listing-directive-list-loop-actions.php:35
+#: partials/listing-cars/listing-list-loop-actions.php:29
+#: partials/single-car-boats/boats-actions.php:22
+#: partials/single-car/car-actions.php:47
+msgid "stock"
+msgstr ""
+
+#: listings/loop/default/list/features.php:66
+#: partials/listing-cars/listing-list-loop-actions.php:38
+#: partials/single-car-boats/boats-actions.php:31
+#: partials/single-car/car-actions.php:57
+msgid "Schedule Test Drive"
+msgstr ""
+
+#: listings/loop/default/list/features.php:84
+#: partials/listing-cars/listing-directive-list-loop-actions.php:59
+#: partials/listing-cars/listing-list-loop-actions.php:55
+#: partials/single-aircrafts/action-bar.php:57
+#: partials/single-car-boats/boats-actions.php:48
+#: partials/single-car/car-actions.php:67
+msgid "in compare list"
+msgstr ""
+
+#: listings/loop/default/list/features.php:101
+msgid "compare"
+msgstr ""
+
+#: listings/loop/default/list/features.php:118
+#: partials/listing-cars/listing-directive-list-loop-actions.php:84
+#: partials/listing-cars/listing-list-loop-actions.php:82
+#: partials/single-aircrafts/action-bar.php:91
+#: partials/single-car-boats/boats-actions.php:75
+#: partials/single-car-listing/car-gallery.php:77
+#: partials/single-car/car-actions.php:87
+msgid "Download brochure"
+msgstr ""
+
+#: listings/loop/default/list/features.php:121
+#: partials/listing-cars/listing-directive-list-loop-actions.php:87
+#: partials/listing-cars/listing-list-loop-actions.php:85
+#: partials/single-aircrafts/action-bar.php:94
+#: partials/single-car-boats/boats-actions.php:78
+#: partials/single-car/car-actions.php:90
+msgid "PDF brochure"
+msgstr ""
+
+#: listings/loop/default/list/features.php:121
+#: partials/listing-cars/listing-directive-list-loop-actions.php:87
+#: partials/listing-cars/listing-list-loop-actions.php:85
+#: partials/single-aircrafts/action-bar.php:94
+#: partials/single-car-boats/boats-actions.php:78
+#: partials/single-car/car-actions.php:90
+msgid "Car brochure"
+msgstr ""
+
+#: listings/loop/default/list/features.php:138 partials/blog/content.php:153
+#: partials/blog/content.php:156
+#: partials/listing-cars/listing-directive-list-loop-actions.php:98
+#: partials/listing-cars/listing-list-loop-actions.php:99
+#: partials/listing-cars/listing-list-loop-actions.php:101
+#: partials/magazine/main-interview.php:60
+#: partials/magazine/main-interview.php:63 partials/magazine/main.php:65
+#: partials/magazine/main.php:68 partials/single-aircrafts/action-bar.php:72
+#: partials/single-aircrafts/action-bar.php:74
+#: partials/single-car-boats/boats-actions.php:91
+#: partials/single-car-boats/boats-actions.php:94
+#: partials/single-car-motorcycle/car-links.php:58
+#: partials/single-car/car-actions.php:104
+#: partials/single-car/car-actions.php:107
+msgid "Share this"
+msgstr ""
+
+#: listings/loop/default/list/features.php:166
+#: partials/listing-cars/listing-directive-list-loop-actions.php:120
+#: partials/listing-cars/listing-list-loop-actions.php:129
+#: partials/single-car-boats/boats-actions.php:113
+#: partials/single-car/car-actions.php:142
+msgid "Logo 1"
+msgstr ""
+
+#: listings/loop/default/list/features.php:190
+#: partials/listing-cars/listing-directive-list-loop-actions.php:144
+#: partials/listing-cars/listing-list-loop-actions.php:153
+#: partials/single-car-boats/boats-actions.php:126
+#: partials/single-car/car-actions.php:163
+msgid "Logo 2"
+msgstr ""
+
+#. translators: rating sum
+#. translators: for rating summ
+#: listings/loop/default/list/features.php:209
+#: partials/listing-cars/listing-grid-loop-magazine.php:57
+#: partials/single-car/car-review_rating.php:29
+#, php-format
+msgid "%s out of 5.0"
+msgstr ""
+
+#: listings/loop/default/list/options.php:77
+#: partials/listing-cars/listing-list-directory-loop-animate.php:218
+msgid "Distance"
+msgstr ""
+
+#: listings/loop/default/list/video.php:5
+#: partials/blog/content-grid-loop.php:43
+#: partials/blog/content-list-loop.php:23 partials/blog/grid-loop.php:20
+#: partials/single-aircrafts/gallery.php:53
+#: partials/single-aircrafts/gallery.php:121
+#: partials/single-car/car-gallery.php:59
+msgid "Video"
+msgstr ""
+
+#: listings/loop/woo/listing_data.php:58 listings/loop/woo/listing_data.php:67
+msgid "Stock ID"
+msgstr ""
+
+#: listings/loop/woo/listing_data.php:79 listings/loop/woo/listing_data.php:89
+#: partials/single-car-listing/car-data.php:83
+#: partials/single-car-listing/car-data.php:93
+msgid "VIN:"
+msgstr ""
+
+#: listings/modern_filter/filters/images.php:63
+msgid "Brand"
+msgstr ""
+
+#: listings/modern_filter/filters/images.php:82
+msgid "View all"
+msgstr ""
+
+#: page.php:91 partials/blog/content.php:18 partials/blog/content.php:109
+#: partials/magazine/main-interview.php:28 partials/magazine/main.php:36
+msgid "Pages:"
+msgstr ""
+
+#: page.php:95 partials/blog/content.php:22 partials/blog/content.php:113
+#: partials/magazine/main-interview.php:32 partials/magazine/main.php:40
+msgid "Page"
+msgstr ""
+
+#: partials/blog/content-grid-loop.php:48 partials/blog/content-list-loop.php:7
+#: partials/blog/grid-loop.php:25
+msgid "Sticky Post"
+msgstr ""
+
+#: partials/blog/content-grid-loop.php:87 partials/blog/grid-loop.php:48
+msgid "Continue reading"
+msgstr ""
+
+#: partials/blog/content-list-loop.php:42 partials/blog/content.php:80
+msgid "Posted by:"
+msgstr ""
+
+#: partials/blog/content.php:126
+msgid "Category:"
+msgstr ""
+
+#: partials/blog/content.php:140
+msgid "Tags:"
+msgstr ""
+
+#: partials/blog/content.php:175 partials/magazine/main-interview.php:82
+#: partials/magazine/main.php:87
+msgid "Author:"
+msgstr ""
+
+#: partials/car-filter-ev-loop.php:123
+msgid "Listing attribute"
+msgstr ""
+
+#: partials/compare-notification.php:19 partials/compare.php:23
+#: partials/header/header-car_dealer.php:162
+#: partials/header/header-car_magazine.php:82
+#: partials/header/header-car_magazine.php:121
+#: partials/header/header-classified-five/header.php:107
+#: partials/header/header-ev-dealer/header.php:199
+#: partials/header/header-listing.php:142 partials/header/header-nav.php:43
+#: partials/header/parts/compare.php:11
+#: partials/header/parts/mobile_menu_items.php:57
+#: partials/listing-cars/motos/grid.php:108
+#: partials/listing-cars/motos/list.php:192
+#: partials/listing-cars/motos/moto-single-grid.php:157
+#: partials/single-car-motorcycle/car-gallery.php:48
+msgid "Compare"
+msgstr ""
+
+#: partials/compare.php:8
+msgid "Add car to compare"
+msgstr ""
+
+#: partials/compare.php:11
+msgid "Add boat to compare"
+msgstr ""
+
+#: partials/compare.php:13
+msgid "Add vehicle to compare"
+msgstr ""
+
+#: partials/compare.php:16
+msgid "Compare Vehicles"
+msgstr ""
+
+#: partials/compare.php:19
+msgid "Compare Boats"
+msgstr ""
+
+#: partials/compare.php:75 partials/compare.php:134 partials/compare.php:281
+#: partials/compare.php:315 partials/compare.php:401
+msgid "Empty"
+msgstr ""
+
+#: partials/compare.php:237 partials/compare.php:241
+msgid "None"
+msgstr ""
+
+#: partials/compare.php:367
+msgid "Additional features"
+msgstr ""
+
+#: partials/header/header-404.php:8 partials/header/header-404.php:12
+#: partials/header/header-aircrafts.php:41
+#: partials/header/header-aircrafts.php:47
+#: partials/header/header-auto-parts.php:66
+#: partials/header/header-auto-parts.php:74
+#: partials/header/header-auto-parts.php:150
+#: partials/header/header-auto-parts.php:158
+#: partials/header/header-boats-mobile.php:19
+#: partials/header/header-boats-mobile.php:24
+#: partials/header/header-boats.php:38 partials/header/header-boats.php:43
+#: partials/header/header-car_dealer.php:48
+#: partials/header/header-car_dealer.php:56
+#: partials/header/header-car_dealer_two.php:39
+#: partials/header/header-car_dealer_two.php:44
+#: partials/header/header-car_magazine.php:40
+#: partials/header/header-car_magazine.php:45
+#: partials/header/header-car_rental.php:42
+#: partials/header/header-car_rental.php:47
+#: partials/header/header-classified-five/header.php:51
+#: partials/header/header-classified-five/header.php:56
+#: partials/header/header-coming-soon.php:6
+#: partials/header/header-coming-soon.php:14
+#: partials/header/header-equipment.php:36
+#: partials/header/header-equipment.php:41
+#: partials/header/header-ev-dealer/header.php:77
+#: partials/header/header-ev-dealer/header.php:82
+#: partials/header/header-listing.php:48 partials/header/header-listing.php:53
+#: partials/header/header-motorcycle.php:61
+#: partials/header/header-motorcycle.php:66
+#: partials/header/header-motorcycle.php:99
+#: partials/header/header-motorcycle.php:107
+#: partials/service/header-service.php:31
+#: partials/service/header-service.php:36
+msgid "Home"
+msgstr ""
+
+#: partials/header/header-404.php:9 partials/header/header-aircrafts.php:42
+#: partials/header/header-auto-parts.php:67
+#: partials/header/header-auto-parts.php:151
+#: partials/header/header-boats-mobile.php:20
+#: partials/header/header-boats.php:39 partials/header/header-car_dealer.php:49
+#: partials/header/header-car_dealer_two.php:40
+#: partials/header/header-car_magazine.php:41
+#: partials/header/header-car_rental.php:43
+#: partials/header/header-classified-five/header.php:52
+#: partials/header/header-coming-soon.php:7
+#: partials/header/header-equipment.php:37
+#: partials/header/header-ev-dealer/header.php:78
+#: partials/header/header-listing.php:49
+#: partials/header/header-motorcycle.php:62
+#: partials/header/header-motorcycle.php:108
+#: partials/service/header-service.php:32
+msgid "Logo"
+msgstr ""
+
+#: partials/header/header-auto-parts.php:104
+#: partials/header/header-auto-parts.php:167 partials/header/header-nav.php:55
+#: partials/header/parts/cart.php:17
+#: partials/header/parts/mobile_menu_items.php:37
+msgid "Watch shop items"
+msgstr ""
+
+#: partials/header/header-auto-parts.php:110
+msgid "items"
+msgstr ""
+
+#: partials/header/header-car_dealer.php:154
+#: partials/header/header-classified-five/header.php:99
+#: partials/header/header-ev-dealer/header.php:191
+msgid "Account"
+msgstr ""
+
+#: partials/header/header-car_dealer.php:169
+#: partials/header/header-listing.php:146 partials/header/header-nav.php:57
+#: partials/header/parts/mobile_menu_items.php:38
+msgid "Cart"
+msgstr ""
+
+#: partials/header/header-car_dealer.php:266
+msgid "View on map"
+msgstr ""
+
+#: partials/header/header-car_magazine.php:120
+#: partials/header/header-classified-five/parts/compare.php:18
+#: partials/header/header-ev-dealer/parts/compare.php:18
+#: partials/header/header-listing.php:101 partials/header/header-nav.php:42
+#: partials/header/parts/compare.php:9
+#: partials/header/parts/mobile_menu_items.php:56
+msgid "View compared items"
+msgstr ""
+
+#: partials/header/header-classified-five/header.php:22
+#: partials/header/header-ev-dealer/header.php:22
+#: partials/header/header-motorcycle.php:24 partials/header/header-nav.php:71
+#: partials/header/parts/add_a_car.php:5
+#: partials/header/parts/mobile_menu_items.php:6
+msgid "Add your item"
+msgstr ""
+
+#: partials/header/header-classified-five/header.php:114
+#: ulisting/wishlist/main.php:10 ulisting/wishlist/main.php:17
+msgid "Wishlist"
+msgstr ""
+
+#: partials/header/header-classified-five/parts/account-dropdown.php:33
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:33
+#: partials/user/user-dropdown.php:27
+msgid "My items"
+msgstr ""
+
+#: partials/header/header-classified-five/parts/account-dropdown.php:35
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:35
+#: partials/user/user-dropdown.php:29
+msgid "My plans"
+msgstr ""
+
+#: partials/header/header-classified-five/parts/account-dropdown.php:37
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:37
+#: partials/user/user-dropdown.php:31
+msgid "Favorites"
+msgstr ""
+
+#: partials/header/header-classified-five/parts/account-dropdown.php:40
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:40
+#: partials/single-car-listing/car-edit-panel.php:20
+#: partials/user/private/mobile/dealer-profile.php:127
+#: partials/user/private/mobile/user-profile.php:135
+#: partials/user/user-dropdown.php:34 ulisting/account/account-panel.php:29
+msgid "Logout"
+msgstr ""
+
+#: partials/header/header-classified-five/parts/account-dropdown.php:70
+#: partials/header/header-classified-five/parts/login-reg-links.php:11
+#: partials/header/header-ev-dealer/parts/account-dropdown.php:70
+#: partials/header/header-ev-dealer/parts/login-reg-links.php:11
+#: partials/top-bar-auto-parts.php:36 partials/top-bar-boats.php:77
+#: partials/top-bar-boats.php:97 partials/top-bar-parts/top-bar-auth.php:45
+#: partials/top-bar-parts/top-bar-auth.php:71
+#: partials/user/dealer-write-review.php:175
+#: partials/user/private/mobile/user.php:30 partials/user/user-dropdown.php:63
+#: ulisting/account/account.php:27 ulisting/account/login.php:18
+#: ulisting/account/login.php:50 ulisting/account/register.php:29
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:79
+#: woocommerce/myaccount/form-login.php:82
+#: woocommerce/myaccount/form-login.php:101
+msgid "Login"
+msgstr ""
+
+#: partials/header/header-classified-five/parts/lang-switcher.php:33
+#: partials/header/header-classified-five/parts/lang-switcher.php:49
+#: partials/header/header-classified-five/parts/lang-switcher.php:77
+#: partials/header/header-ev-dealer/header.php:97
+#: partials/header/header-ev-dealer/header.php:113
+#: partials/header/header-ev-dealer/header.php:141
+#: partials/header/header-ev-dealer/parts/lang-switcher.php:33
+#: partials/header/header-ev-dealer/parts/lang-switcher.php:49
+#: partials/header/header-ev-dealer/parts/lang-switcher.php:77
+#: partials/top-bar.php:59 partials/top-bar.php:75 partials/top-bar.php:107
+msgid "Language flag"
+msgstr ""
+
+#: partials/header/header-classified-five/parts/login-reg-links.php:12
+#: partials/header/header-ev-dealer/parts/login-reg-links.php:12
+#: partials/top-bar-auto-parts.php:39 partials/top-bar-boats.php:100
+#: partials/top-bar-parts/top-bar-auth.php:48
+#: partials/top-bar-parts/top-bar-auth.php:74 ulisting/account/register.php:89
+#: woocommerce/myaccount/form-login.php:124
+#: woocommerce/myaccount/form-login.php:195
+#: woocommerce/myaccount/form-login.php:200
+msgid "Register"
+msgstr ""
+
+#: partials/header/parts/mobile_menu_items.php:28
+msgid "Profile"
+msgstr ""
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:38
+msgid "Starting at"
+msgstr ""
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:46
+msgid "Hwy"
+msgstr ""
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:46
+#: woocommerce/myaccount/my-address.php:91
+msgid "City"
+msgstr ""
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:62
+#: partials/single-car/car-review_rating.php:36
+msgid "Performance"
+msgstr ""
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:69
+#: partials/single-car/car-review_rating.php:47
+msgid "Comfort"
+msgstr ""
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:76
+#: partials/single-car/car-review_rating.php:58
+msgid "Interior"
+msgstr ""
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:83
+#: partials/single-car/car-review_rating.php:69
+msgid "Exterior"
+msgstr ""
+
+#: partials/listing-cars/listing-grid-loop-magazine.php:94
+msgid "No reviews for this Vehicle"
+msgstr ""
+
+#: partials/listing-cars/listing-list-directory-edit-loop.php:159
+#: partials/listing-cars/listing-list-directory-loop-animate.php:305
+#: partials/listing-cars/listing-list-directory-loop.php:41
+#: partials/listing-cars/listing-list-loop-boats.php:91
+#: partials/listing-cars/motos/list.php:351
+msgid "View more"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:25
+#: partials/user/private/user-favourite.php:122
+#: partials/user/private/user-inventory.php:37
+msgid "Disabled"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:28
+msgid "Pending..."
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:31
+msgid "Marked as sold"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:47
+#, php-format
+msgid "Featured (requested, %s)"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:49
+#, php-format
+msgid "Featured item (%1$s days, ends on %2$s)"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:53
+msgid "Featured. Special listing"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:71
+msgid "Unmark as sold"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:96
+msgid "Make Featured"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:103
+#: partials/listing-cars/listing-list-owner-actions.php:111
+msgid "Marked Featured"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:120
+msgid "Enable"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:125
+msgid "Disable"
+msgstr ""
+
+#: partials/listing-cars/listing-list-owner-actions.php:133
+#: woocommerce/myaccount/my-address.php:126
+msgid "Edit"
+msgstr ""
+
+#: partials/listing-cars/motos/list-actions.php:15
+#: ulisting/loop/stm_quickview.php:57
+msgid "View Details"
+msgstr ""
+
+#: partials/listing-cars/motos/list-actions.php:22
+msgid "Test drive"
+msgstr ""
+
+#: partials/listing-cars/motos/list-actions.php:30
+msgid "Сalculate"
+msgstr ""
+
+#: partials/listing-cars/motos/list-actions.php:38
+msgid "Trade value"
+msgstr ""
+
+#: partials/listing-cars/motos/list-actions.php:46
+#: partials/single-car-motorcycle/car-links.php:35
+msgid "Quote by Phone"
+msgstr ""
+
+#: partials/listing-cars/motos/list-actions.php:53
+#: partials/single-car-motorcycle/car-links.php:65
+msgid "History report"
+msgstr ""
+
+#: partials/listing-cars/motos/list.php:336
+#: partials/single-car-boats/boat-top.php:17
+msgid "Stock#"
+msgstr ""
+
+#: partials/listing-layout-parts/footer-copyright-top.php:19
+msgid "Search Inventory"
+msgstr ""
+
+#: partials/listing-layout-parts/items-per-page.php:16
+msgid "Vehicles per page:"
+msgstr ""
+
+#: partials/listing-layout-parts/items-per-page.php:18
+msgid "Show"
+msgstr ""
+
+#: partials/listing-layout-parts/items-per-page.php:48
+msgid "items per page"
+msgstr ""
+
+#: partials/magazine/content/previous_next_pagination.php:42
+msgid "PREVIOUS"
+msgstr ""
+
+#: partials/magazine/content/previous_next_pagination.php:64
+msgid "NEXT"
+msgstr ""
+
+#: partials/magazine/content/title_box_magazine_archive.php:29
+msgid "All News"
+msgstr ""
+
+#: partials/magazine/content/top-interview.php:11
+msgid "Interview"
+msgstr ""
+
+#: partials/magazine/main-interview.php:47 partials/magazine/main.php:52
+msgid "Tags"
+msgstr ""
+
+#: partials/modals/car-calculator.php:9
+msgid "Calculate Payment"
+msgstr ""
+
+#: partials/modals/car-calculator.php:53
+#: partials/single-car-boats/boats-calculator.php:23
+#: partials/single-car/car-calculator.php:36
+msgid "Financing calculator"
+msgstr ""
+
+#: partials/modals/car-calculator.php:60
+#: partials/single-car-boats/boats-calculator.php:30
+#: partials/single-car/car-calculator.php:44
+msgid "Vehicle price"
+msgstr ""
+
+#: partials/modals/car-calculator.php:70
+#: partials/single-car-boats/boats-calculator.php:38
+#: partials/single-car/car-calculator.php:51
+msgid "Interest rate"
+msgstr ""
+
+#: partials/modals/car-calculator.php:78
+#: partials/single-car-boats/boats-calculator.php:45
+#: partials/single-car/car-calculator.php:58
+msgid "Period"
+msgstr ""
+
+#: partials/modals/car-calculator.php:79
+#: partials/single-car-boats/boats-calculator.php:45
+#: partials/single-car/car-calculator.php:58
+msgid "month"
+msgstr ""
+
+#: partials/modals/car-calculator.php:87
+#: partials/single-car-boats/boats-calculator.php:53
+#: partials/single-car/car-calculator.php:65
+msgid "Down Payment"
+msgstr ""
+
+#: partials/modals/car-calculator.php:92
+#: partials/single-car-boats/boats-calculator.php:58
+#: partials/single-car/car-calculator.php:74
+msgid "Calculate"
+msgstr ""
+
+#: partials/modals/car-calculator.php:105
+#: partials/single-car-boats/boats-calculator.php:71
+#: partials/single-car/car-calculator.php:80
+msgid "Monthly Payment"
+msgstr ""
+
+#: partials/modals/car-calculator.php:109
+#: partials/single-car-boats/boats-calculator.php:74
+#: partials/single-car/car-calculator.php:84
+msgid "Total Interest Payment"
+msgstr ""
+
+#: partials/modals/car-calculator.php:113
+#: partials/single-car-boats/boats-calculator.php:77
+#: partials/single-car/car-calculator.php:88
+msgid "Total Amount to Pay"
+msgstr ""
+
+#: partials/modals/car-calculator.php:165
+#: partials/single-car-boats/boats-calculator.php:129
+#: partials/single-car/car-calculator.php:145
+msgid "Please fill Vehicle Price field"
+msgstr ""
+
+#: partials/modals/car-calculator.php:170
+#: partials/single-car-boats/boats-calculator.php:134
+#: partials/single-car/car-calculator.php:150
+msgid "Please fill Interest Rate field"
+msgstr ""
+
+#: partials/modals/car-calculator.php:175
+#: partials/single-car-boats/boats-calculator.php:139
+#: partials/single-car/car-calculator.php:155
+msgid "Please fill Period field"
+msgstr ""
+
+#: partials/modals/car-calculator.php:180
+#: partials/single-car-boats/boats-calculator.php:144
+#: partials/single-car/car-calculator.php:160
+msgid "Please fill Down Payment field"
+msgstr ""
+
+#: partials/modals/car-calculator.php:186
+#: partials/single-car-boats/boats-calculator.php:150
+#: partials/single-car/car-calculator.php:166
+msgid "Down payment can not be more than vehicle price"
+msgstr ""
+
+#: partials/modals/get-car-price.php:7
+msgid "Request car price"
+msgstr ""
+
+#: partials/modals/get-car-price.php:19 partials/modals/test-drive.php:27
+#: partials/modals/trade-offer.php:31 woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#: partials/modals/get-car-price.php:41 partials/modals/test-drive.php:93
+#: partials/modals/test-drive.php:95 partials/modals/trade-offer.php:98
+#: partials/modals/trade-offer.php:100
+msgid "Request"
+msgstr ""
+
+#: partials/modals/limit_exceeded.php:3
+msgid "Slots available:"
+msgstr ""
+
+#: partials/modals/limit_exceeded.php:4
+msgid "Your reached the limit of ads. Please upgrade your plan."
+msgstr ""
+
+#: partials/modals/limit_exceeded.php:11
+msgid "Upgrade"
+msgstr ""
+
+#: partials/modals/rental-notification-choose-another-class.php:8
+msgid ""
+"There is no selected car class in current office. Please choose another "
+"Class!"
+msgstr ""
+
+#: partials/modals/rental-notification-choose-another-class.php:14
+msgid "Select Vehicle"
+msgstr ""
+
+#: partials/modals/searchform.php:10
+msgid "Start typing here..."
+msgstr ""
+
+#: partials/modals/statistics-modal.php:11
+msgid "Listing statistics for:"
+msgstr ""
+
+#: partials/modals/statistics-modal.php:20
+msgid "Last week"
+msgstr ""
+
+#: partials/modals/statistics-modal.php:21
+msgid "Last 30 days"
+msgstr ""
+
+#: partials/modals/statistics-modal.php:28
+#: partials/modals/statistics-modal.php:148
+msgid "Listing views"
+msgstr ""
+
+#: partials/modals/statistics-modal.php:32
+msgid "Phone number views"
+msgstr ""
+
+#: partials/modals/statistics-modal.php:155
+msgid "Phone views"
+msgstr ""
+
+#: partials/modals/subscription_ended.php:12
+msgid "Plan days left:"
+msgstr ""
+
+#: partials/modals/subscription_ended.php:13
+msgid "Your plan period time is expired, please renew the subscription."
+msgstr ""
+
+#: partials/modals/subscription_ended.php:17
+msgid "Renew"
+msgstr ""
+
+#: partials/modals/subscription_ended.php:20
+msgid "My subscriptions"
+msgstr ""
+
+#: partials/modals/test-drive.php:13
+msgid "Schedule a Test Drive"
+msgstr ""
+
+#: partials/modals/test-drive.php:47
+msgid "Best time"
+msgstr ""
+
+#: partials/modals/trade-in.php:8
+msgid "Trade in"
+msgstr ""
+
+#: partials/modals/trade-offer.php:9
+msgid "Trade Offer"
+msgstr ""
+
+#: partials/modals/trade-offer.php:17
+msgid "Offer Price"
+msgstr ""
+
+#: partials/modals/trade-offer.php:51
+msgid "Trade price"
+msgstr ""
+
+#: partials/rental/common/coupon-form.php:5
+#: partials/rental/common/coupon.php:12 woocommerce/cart/cart.php:141
+msgid "Coupon code"
+msgstr ""
+
+#: partials/rental/common/coupon-form.php:9
+msgid "Apply coupon"
+msgstr ""
+
+#: partials/rental/common/coupon.php:8 partials/rental/common/coupon.php:49
+msgid "Coupons"
+msgstr ""
+
+#: partials/rental/common/coupon.php:14
+msgid "amount"
+msgstr ""
+
+#: partials/rental/common/coupon.php:35 partials/rental/common/coupon.php:53
+msgid "Total discount"
+msgstr ""
+
+#: partials/rental/common/order-details.php:4
+msgid "Summary"
+msgstr ""
+
+#: partials/rental/common/order-info-accept.php:8
+msgid "Continue"
+msgstr ""
+
+#: partials/rental/common/order-info-empty.php:8
+msgid "Please select your vehicle "
+msgstr ""
+
+#: partials/rental/common/order-info-empty.php:18
+msgid "Find a vehicle"
+msgstr ""
+
+#: partials/rental/common/order-info-empty.php:26
+#: partials/rental/common/order-info-empty.php:54
+#: partials/rental/common/order-info.php:47
+#: partials/rental/common/order-info.php:52
+#: partials/rental/common/order-info.php:214
+msgid "Rate"
+msgstr ""
+
+#: partials/rental/common/order-info-empty.php:53
+#: partials/rental/common/order-info.php:51
+#: partials/rental/common/order-info.php:213
+#: partials/rental/common/order-info.php:279
+#: partials/rental/main-shop/promo-popup.php:23 woocommerce/cart/cart.php:33
+msgid "QTY"
+msgstr ""
+
+#: partials/rental/common/order-info-empty.php:55
+#: partials/rental/common/order-info.php:53
+#: partials/rental/common/order-info.php:215
+#: woocommerce/cart/cart-totals.php:35 woocommerce/checkout/review-order.php:83
+msgid "Subtotal"
+msgstr ""
+
+#: partials/rental/common/order-info-empty.php:66
+#, php-format
+msgid "%1$d x %2$s"
+msgstr ""
+
+#: partials/rental/common/order-info-empty.php:78
+#: partials/rental/common/order-info.php:199
+#: partials/rental/main-shop/promo-popup.php:147
+msgid "Rental Charges Rate"
+msgstr ""
+
+#: partials/rental/common/order-info-empty.php:104
+#: partials/rental/common/order-info.php:261
+msgid "Estimated total"
+msgstr ""
+
+#: partials/rental/common/order-info.php:69
+#: partials/rental/common/order-info.php:105
+#: partials/rental/common/order-info.php:134
+#: partials/rental/common/order-info.php:150
+#: partials/rental/main-shop/promo-popup.php:37
+#: partials/rental/main-shop/promo-popup.php:53
+#: partials/rental/main-shop/promo-popup.php:88
+#, php-format
+msgid "%s Days"
+msgstr ""
+
+#: partials/rental/common/order-info.php:170
+#: partials/rental/main-shop/promo-popup.php:103
+#, php-format
+msgid "%s Hours"
+msgstr ""
+
+#: partials/rental/common/order-info.php:192
+#, php-format
+msgid ""
+"Discount: <span class=\"show-discount-popup\">%s Days and more %s sale</span>"
+msgstr ""
+
+#: partials/rental/common/order-info.php:229
+#, php-format
+msgid "%1$s x %2$1s"
+msgstr ""
+
+#. translators: 1. quantity, 2. option name, 3. number of days
+#: partials/rental/common/order-info.php:232
+#, php-format
+msgid "%1$s x %2$1s %3$s %4$s day(s)"
+msgstr ""
+
+#: partials/rental/common/order-info.php:232
+msgid "for"
+msgstr ""
+
+#: partials/rental/common/order-info.php:246
+msgid "Add-ons Charges Rate"
+msgstr ""
+
+#: partials/rental/common/order-info.php:272
+msgid "Discount program"
+msgstr ""
+
+#: partials/rental/common/order-info.php:280
+msgid "DISCOUNT"
+msgstr ""
+
+#: partials/rental/common/order-info.php:284
+#, php-format
+msgid "%s Days and more"
+msgstr ""
+
+#: partials/rental/common/order-print.php:3
+msgid "Print"
+msgstr ""
+
+#: partials/rental/common/tax.php:8
+msgid "Taxes & Fees"
+msgstr ""
+
+#: partials/rental/main-shop/archive-content.php:4
+msgid "Select vehicle/add-ons"
+msgstr ""
+
+#: partials/rental/main-shop/archive-content.php:38
+msgid "There are no cars in this office"
+msgstr ""
+
+#: partials/rental/main-shop/loop.php:109 partials/rental/product/option.php:46
+msgid "More information"
+msgstr ""
+
+#: partials/rental/main-shop/price.php:79
+#: partials/rental/main-shop/price.php:82
+#: partials/rental/main-shop/price.php:152
+#, php-format
+msgid "%s/Total"
+msgstr ""
+
+#: partials/rental/main-shop/price.php:93
+#: partials/rental/main-shop/price.php:162
+#, php-format
+msgid "%1$s Days / %2$s Hours"
+msgstr ""
+
+#: partials/rental/main-shop/price.php:109
+#, php-format
+msgid "Saves you %s"
+msgstr ""
+
+#: partials/rental/main-shop/price.php:174
+msgid "Pay now"
+msgstr ""
+
+#: partials/rental/main-shop/promo-popup.php:24
+msgid "RATE"
+msgstr ""
+
+#: partials/rental/main-shop/promo-popup.php:25
+msgid "SUBTOTAL"
+msgstr ""
+
+#: partials/rental/product/content.php:17
+msgid "Vehicle Add-ons"
+msgstr ""
+
+#: partials/rental/product/option.php:90
+msgid "Added"
+msgstr ""
+
+#: partials/rental/wizard-nav/main.php:3
+msgid "Reservation"
+msgstr ""
+
+#: partials/rental/wizard-nav/nav-step-1.php:29
+msgid "Your Itinerary"
+msgstr ""
+
+#: partials/rental/wizard-nav/nav-step-1.php:33
+msgid "Pick up"
+msgstr ""
+
+#: partials/rental/wizard-nav/nav-step-2.php:19
+#, php-format
+msgid "%s Type"
+msgstr ""
+
+#: partials/rental/wizard-nav/nav-step-2.php:34
+msgid "Select Vehicle/Add-ons"
+msgstr ""
+
+#: partials/rental/wizard-nav/nav-step-2.php:43
+#: partials/rental/wizard-nav/nav-step-2.php:45
+msgid "Addons"
+msgstr ""
+
+#: partials/rental/wizard-nav/nav-step-3.php:25
+msgid "Reserve Your Vehicle"
+msgstr ""
+
+#: partials/rental/wizard-nav/nav-step-3.php:29
+msgid "Your information"
+msgstr ""
+
+#: partials/service/header-service.php:46
+msgid "Make an Appointment"
+msgstr ""
+
+#: partials/single-aircrafts/action-bar.php:41
+#: partials/single-car/car-actions.php:123
+msgid "Print page"
+msgstr ""
+
+#: partials/single-aircrafts/action-bar.php:49
+#: ulisting/account/my-listing.php:128 ulisting/loop/thumbnail-box.php:88
+msgid "Featured"
+msgstr ""
+
+#: partials/single-aircrafts/gallery.php:46
+#: partials/single-aircrafts/gallery.php:114
+#: partials/single-car-boats/boats-video.php:20
+#: partials/single-car-boats/boats-video.php:33
+#: partials/single-car-boats/boats-video.php:51
+#: partials/single-car-boats/boats-video.php:64
+#: partials/single-car/car-gallery.php:131
+#: partials/single-car/car-gallery.php:143
+#: partials/single-car/car-gallery.php:174
+#: partials/single-car/car-gallery.php:200
+#: partials/single-car/car-gallery.php:228
+msgid "Video preview"
+msgstr ""
+
+#. translators: img title
+#. translators: img alt
+#. translators: full title
+#. translators: img alt
+#: partials/single-aircrafts/gallery.php:96
+#: partials/single-car-listing/car-gallery.php:194
+#: partials/single-car-listing/car-gallery.php:226
+#: partials/single-car/car-gallery.php:157
+#: partials/single-car/car-gallery.php:212
+#, php-format
+msgid "%s full"
+msgstr ""
+
+#: partials/single-aircrafts/gallery.php:162
+#, php-format
+msgid "+%s Images"
+msgstr ""
+
+#: partials/single-aircrafts/header-search.php:29
+msgid "Planes"
+msgstr ""
+
+#: partials/single-aircrafts/title.php:18
+msgid "Type: "
+msgstr ""
+
+#: partials/single-aircrafts/title.php:24
+msgid "Serial Number: "
+msgstr ""
+
+#: partials/single-aircrafts/title.php:28
+msgid "Reg Number: "
+msgstr ""
+
+#: partials/single-car-boats/boats-mpg.php:12
+#: partials/single-car/car-mpg.php:12
+msgid "city mpg"
+msgstr ""
+
+#: partials/single-car-boats/boats-mpg.php:19
+#: partials/single-car/car-mpg.php:19
+msgid "hwy mpg"
+msgstr ""
+
+#: partials/single-car-listing/car-data.php:63
+#: partials/single-car-listing/car-data.php:72
+msgid "Stock id"
+msgstr ""
+
+#: partials/single-car-listing/car-dealer.php:90
+#: partials/single-car-listing/car-dealer.php:157
+msgid "Chat via WhatsApp"
+msgstr ""
+
+#: partials/single-car-listing/car-dealer.php:102
+#: partials/single-car-listing/car-dealer.php:169
+msgid "Message to dealer"
+msgstr ""
+
+#: partials/single-car-listing/car-edit-panel.php:10
+msgid "Hello, "
+msgstr ""
+
+#. translators: video count
+#: partials/single-car-listing/car-gallery.php:134
+#, php-format
+msgid "%s Video"
+msgstr ""
+
+#: partials/single-car-listing/car-main-four.php:24
+#: partials/single-car-listing/car-main.php:21
+msgid "Car Details"
+msgstr ""
+
+#: partials/single-car-listing/car-main-four.php:36
+#: partials/single-car-listing/car-main.php:38
+#: ulisting/pricing-plan/payment.php:48
+msgid "Features"
+msgstr ""
+
+#: partials/single-car-listing/car-main-four.php:49
+#: partials/single-car-listing/car-main.php:45
+msgid "Seller Note"
+msgstr ""
+
+#: partials/single-car-listing/car-main.php:23
+msgid "Listing Details"
+msgstr ""
+
+#: partials/single-car-listing/car-price-title.php:54
+#, php-format
+msgid "ADDED: %s"
+msgstr ""
+
+#: partials/single-car-motorcycle/car-data.php:105 partials/trade-in.php:28
+#: partials/trade-in.php:541
+msgid "Vin"
+msgstr ""
+
+#: partials/single-car-motorcycle/car-links.php:19
+msgid "Request a quote"
+msgstr ""
+
+#: partials/single-car-motorcycle/car-links.php:27
+msgid "Schedule test drive"
+msgstr ""
+
+#: partials/single-car-motorcycle/car-links.php:43
+msgid "Trade In"
+msgstr ""
+
+#: partials/single-car-motorcycle/car-links.php:51
+msgid "Сalculate Payment"
+msgstr ""
+
+#: partials/single-car/aircraft-price.php:5
+msgid "Incl Taxes &amp; Checkup"
+msgstr ""
+
+#: partials/single-car/car-actions.php:31
+msgid "ADDED: "
+msgstr ""
+
+#: partials/single-car/car-buttons.php:11
+msgid "Trade in form"
+msgstr ""
+
+#: partials/single-car/car-buttons.php:18
+msgid "Make an offer price"
+msgstr ""
+
+#: partials/single-car/car-price.php:68
+msgid "BUY CAR ONLINE:"
+msgstr ""
+
+#: partials/single-car/car-review_rating.php:18
+msgid "Car Overview"
+msgstr ""
+
+#: partials/single-car/car-review_rating.php:19
+msgid "Ratings"
+msgstr ""
+
+#: partials/single-car/search-results-carousel.php:42
+msgid "Search results"
+msgstr ""
+
+#: partials/title_box.php:59
+msgid "News"
+msgstr ""
+
+#: partials/title_box.php:69
+msgid "Inventory"
+msgstr ""
+
+#: partials/title_box.php:250
+msgid "Ad limit has been reached. Buy a new plan"
+msgstr ""
+
+#: partials/title_box.php:253
+msgid "Plans"
+msgstr ""
+
+#: partials/top-bar-auto-parts.php:33
+msgid "My account"
+msgstr ""
+
+#: partials/top-bar-auto-parts.php:50
+msgid "Currency "
+msgstr ""
+
+#: partials/top-bar-parts/top-bar-auth.php:38
+#: woocommerce/checkout/thankyou.php:43
+msgid "My Account"
+msgstr ""
+
+#: partials/trade-in.php:21 partials/trade-in.php:534 partials/trade-in.php:968
+msgid "User details<br/>First name"
+msgstr ""
+
+#: partials/trade-in.php:22 partials/trade-in.php:441 partials/trade-in.php:535
+#: partials/trade-in.php:875 partials/trade-in.php:969
+#: partials/trade-in.php:1318 partials/user/private/dealer-settings.php:491
+#: partials/user/private/user-settings.php:89
+#: ulisting/account/edit-profile.php:55 ulisting/account/register.php:47
+#: woocommerce/myaccount/form-edit-account.php:40
+msgid "Last name"
+msgstr ""
+
+#: partials/trade-in.php:26 partials/trade-in.php:217
+msgid "Transmission"
+msgstr ""
+
+#: partials/trade-in.php:29 partials/trade-in.php:292 partials/trade-in.php:542
+#: partials/trade-in.php:755 partials/trade-in.php:976
+#: partials/trade-in.php:1195
+msgid "Exterior color"
+msgstr ""
+
+#: partials/trade-in.php:30 partials/trade-in.php:299 partials/trade-in.php:543
+#: partials/trade-in.php:761 partials/trade-in.php:977
+#: partials/trade-in.php:1202
+msgid "Interior color"
+msgstr ""
+
+#: partials/trade-in.php:31 partials/trade-in.php:306 partials/trade-in.php:544
+#: partials/trade-in.php:767 partials/trade-in.php:978
+#: partials/trade-in.php:1209
+msgid "Owner"
+msgstr ""
+
+#: partials/trade-in.php:32 partials/trade-in.php:545 partials/trade-in.php:979
+msgid "Exterior condition"
+msgstr ""
+
+#: partials/trade-in.php:33 partials/trade-in.php:546 partials/trade-in.php:980
+msgid "Interior condition"
+msgstr ""
+
+#: partials/trade-in.php:34 partials/trade-in.php:547 partials/trade-in.php:981
+msgid "Accident"
+msgstr ""
+
+#: partials/trade-in.php:36 partials/trade-in.php:549 partials/trade-in.php:983
+msgid "Video url"
+msgstr ""
+
+#: partials/trade-in.php:37 partials/trade-in.php:464 partials/trade-in.php:550
+#: partials/trade-in.php:895 partials/trade-in.php:984
+#: partials/trade-in.php:1338
+msgid "Comments"
+msgstr ""
+
+#. translators: listing title
+#: partials/trade-in.php:41
+#, php-format
+msgid "Request for %s"
+msgstr ""
+
+#: partials/trade-in.php:52 partials/trade-in.php:562 partials/trade-in.php:999
+msgid "Please fill"
+msgstr ""
+
+#: partials/trade-in.php:52 partials/trade-in.php:562 partials/trade-in.php:999
+msgid "field"
+msgstr ""
+
+#: partials/trade-in.php:60 partials/trade-in.php:570
+#: partials/trade-in.php:1007
+msgid "Your E-mail address is invalid"
+msgstr ""
+
+#: partials/trade-in.php:67 partials/trade-in.php:577
+#: partials/trade-in.php:1014
+msgid "Your Phone is invalid"
+msgstr ""
+
+#: partials/trade-in.php:100 partials/trade-in.php:610
+#: partials/trade-in.php:1046
+msgid "Nonce is expired"
+msgstr ""
+
+#: partials/trade-in.php:136 partials/trade-in.php:657
+msgid "Car Information"
+msgstr ""
+
+#: partials/trade-in.php:137 partials/trade-in.php:144
+#: partials/trade-in.php:658 partials/trade-in.php:665
+msgid "Add your vehicle details"
+msgstr ""
+
+#: partials/trade-in.php:143 partials/trade-in.php:664
+msgid "Vehicle Condition"
+msgstr ""
+
+#: partials/trade-in.php:150 partials/trade-in.php:671
+#: partials/trade-in.php:1107
+msgid "Contact details"
+msgstr ""
+
+#: partials/trade-in.php:151 partials/trade-in.php:672
+#: partials/trade-in.php:1108
+msgid "Your contact details"
+msgstr ""
+
+#: partials/trade-in.php:265 partials/trade-in.php:729
+msgid "Upload your car Photos"
+msgstr ""
+
+#: partials/trade-in.php:267 partials/trade-in.php:268
+#: partials/trade-in.php:731 partials/trade-in.php:732
+#: partials/trade-in.php:1170 partials/trade-in.php:1171
+msgid "Choose file..."
+msgstr ""
+
+#: partials/trade-in.php:276 partials/trade-in.php:740
+msgid "Provide a hosted video url of your car"
+msgstr ""
+
+#: partials/trade-in.php:313 partials/trade-in.php:398
+#: partials/trade-in.php:774 partials/trade-in.php:859
+#: partials/trade-in.php:1216 partials/trade-in.php:1301
+msgid "Save and continue"
+msgstr ""
+
+#: partials/trade-in.php:322 partials/trade-in.php:783
+#: partials/trade-in.php:1225
+msgid "What is the Exterior Condition?"
+msgstr ""
+
+#: partials/trade-in.php:325 partials/trade-in.php:326
+#: partials/trade-in.php:354 partials/trade-in.php:355
+#: partials/trade-in.php:786 partials/trade-in.php:787
+#: partials/trade-in.php:815 partials/trade-in.php:816
+#: partials/trade-in.php:1228 partials/trade-in.php:1229
+#: partials/trade-in.php:1257 partials/trade-in.php:1258
+msgid "Extra clean"
+msgstr ""
+
+#: partials/trade-in.php:330 partials/trade-in.php:331
+#: partials/trade-in.php:359 partials/trade-in.php:360
+#: partials/trade-in.php:791 partials/trade-in.php:792
+#: partials/trade-in.php:820 partials/trade-in.php:821
+#: partials/trade-in.php:1233 partials/trade-in.php:1234
+#: partials/trade-in.php:1262 partials/trade-in.php:1263
+msgid "Clean"
+msgstr ""
+
+#: partials/trade-in.php:335 partials/trade-in.php:336
+#: partials/trade-in.php:364 partials/trade-in.php:365
+#: partials/trade-in.php:796 partials/trade-in.php:797
+#: partials/trade-in.php:825 partials/trade-in.php:826
+#: partials/trade-in.php:1238 partials/trade-in.php:1239
+#: partials/trade-in.php:1267 partials/trade-in.php:1268
+#: woocommerce/single-product-reviews.php:116
+msgid "Average"
+msgstr ""
+
+#: partials/trade-in.php:340 partials/trade-in.php:341
+#: partials/trade-in.php:369 partials/trade-in.php:370
+#: partials/trade-in.php:801 partials/trade-in.php:802
+#: partials/trade-in.php:830 partials/trade-in.php:831
+#: partials/trade-in.php:1243 partials/trade-in.php:1244
+#: partials/trade-in.php:1272 partials/trade-in.php:1273
+msgid "Below Average"
+msgstr ""
+
+#: partials/trade-in.php:345 partials/trade-in.php:346
+#: partials/trade-in.php:374 partials/trade-in.php:375
+#: partials/trade-in.php:392 partials/trade-in.php:393
+#: partials/trade-in.php:806 partials/trade-in.php:807
+#: partials/trade-in.php:835 partials/trade-in.php:836
+#: partials/trade-in.php:853 partials/trade-in.php:854
+#: partials/trade-in.php:1248 partials/trade-in.php:1249
+#: partials/trade-in.php:1277 partials/trade-in.php:1278
+#: partials/trade-in.php:1295 partials/trade-in.php:1296
+msgid "I don't know"
+msgstr ""
+
+#: partials/trade-in.php:351 partials/trade-in.php:812
+#: partials/trade-in.php:1254
+msgid "What is the Interior Condition?"
+msgstr ""
+
+#: partials/trade-in.php:380 partials/trade-in.php:841
+msgid "Has vehicle been in accident"
+msgstr ""
+
+#: partials/trade-in.php:382 partials/trade-in.php:383
+#: partials/trade-in.php:843 partials/trade-in.php:844
+#: partials/trade-in.php:1285 partials/trade-in.php:1286
+#: partials/user/dealer-reviews.php:53
+#: partials/user/dealer-single-review.php:110
+#: partials/user/dealer-write-review.php:68
+msgid "Yes"
+msgstr ""
+
+#: partials/trade-in.php:386 partials/trade-in.php:388
+#: partials/trade-in.php:847 partials/trade-in.php:849
+#: partials/trade-in.php:1289 partials/trade-in.php:1291
+#: partials/user/dealer-reviews.php:60
+#: partials/user/dealer-single-review.php:113
+#: partials/user/dealer-write-review.php:72
+msgid "No"
+msgstr ""
+
+#: partials/trade-in.php:434 partials/trade-in.php:869
+#: partials/trade-in.php:1311 partials/user/private/dealer-settings.php:485
+#: partials/user/private/user-settings.php:81
+#: ulisting/account/edit-profile.php:44 ulisting/account/register.php:38
+#: woocommerce/myaccount/form-edit-account.php:35
+msgid "First name"
+msgstr ""
+
+#: partials/trade-in.php:448 partials/trade-in.php:881
+#: partials/trade-in.php:1324
+msgid "Email Address"
+msgstr ""
+
+#: partials/trade-in.php:483 partials/trade-in.php:485
+#: partials/trade-in.php:914 partials/trade-in.php:916
+#: partials/trade-in.php:1357 partials/trade-in.php:1359
+msgid "Save and finish"
+msgstr ""
+
+#: partials/trade-in.php:491
+msgid ""
+"By submitting this form, you will be requesting trade-in value at no "
+"obligation and will be contacted within 48 hours by a sales representative."
+msgstr ""
+
+#: partials/trade-in.php:514 partials/trade-in.php:946
+#: partials/trade-in.php:1389
+msgid "Mail successfully sent"
+msgstr ""
+
+#: partials/trade-in.php:922 partials/trade-in.php:1365
+msgid ""
+"By submitting this form, you will be requesting trade-in value at no "
+"obligation and\n"
+"\t\twill be contacted within 48 hours by a sales representative."
+msgstr ""
+
+#: partials/trade-in.php:973 partials/trade-in.php:1143
+msgid "Boat type"
+msgstr ""
+
+#: partials/trade-in.php:974 partials/trade-in.php:1149
+msgid "Length"
+msgstr ""
+
+#: partials/trade-in.php:975 partials/trade-in.php:1155
+msgid "Hull material"
+msgstr ""
+
+#: partials/trade-in.php:1093
+msgid "Boat Information"
+msgstr ""
+
+#: partials/trade-in.php:1094 partials/trade-in.php:1101
+msgid "Add your boat details"
+msgstr ""
+
+#: partials/trade-in.php:1100
+msgid "Boat Condition"
+msgstr ""
+
+#: partials/trade-in.php:1168
+msgid "Upload your boat Photos"
+msgstr ""
+
+#: partials/trade-in.php:1179
+msgid "Provide a hosted video url of your boat"
+msgstr ""
+
+#: partials/trade-in.php:1283
+msgid "Has boat been in accident"
+msgstr ""
+
+#: partials/user/dealer-inventory.php:26
+msgid "Dealer Inventory"
+msgstr ""
+
+#: partials/user/dealer-inventory.php:39
+#: partials/user/private/user-inventory.php:33
+msgid "Sort by"
+msgstr ""
+
+#: partials/user/dealer-inventory.php:42
+msgid "Popular items"
+msgstr ""
+
+#: partials/user/dealer-inventory.php:43
+msgid "Recent items"
+msgstr ""
+
+#: partials/user/dealer-inventory.php:53
+#: partials/user/private/user-favourite.php:24
+#: partials/user/private/user-inventory.php:22
+#: partials/user/user-public-profile.php:68
+#: ulisting/account/saved-searches.php:21
+#: ulisting/saved-searches/saved-searches.php:19
+msgid "Listing type"
+msgstr ""
+
+#: partials/user/dealer-inventory.php:55
+msgid "All Listings"
+msgstr ""
+
+#: partials/user/dealer-inventory.php:81 partials/user/dealer-inventory.php:97
+#: partials/user/dealer-reviews.php:87
+msgid "Show more"
+msgstr ""
+
+#: partials/user/dealer-inventory.php:104
+#: partials/user/user-public-profile.php:90
+msgid "No Inventory added yet."
+msgstr ""
+
+#: partials/user/dealer-public-profile.php:72
+msgid "Sales Phone"
+msgstr ""
+
+#: partials/user/dealer-public-profile.php:97
+#: partials/user/user-public-profile.php:42
+msgid "Seller email"
+msgstr ""
+
+#: partials/user/dealer-public-profile.php:107
+msgid "View Website"
+msgstr ""
+
+#: partials/user/dealer-public-profile.php:132
+msgid "Seller's Notes"
+msgstr ""
+
+#: partials/user/dealer-public-profile.php:143
+msgid "Dealer's Inventory"
+msgstr ""
+
+#: partials/user/dealer-public-profile.php:149
+msgid "Dealer Reviews"
+msgstr ""
+
+#: partials/user/dealer-public-profile.php:155
+msgid "Write a review"
+msgstr ""
+
+#: partials/user/dealer-reviews.php:9
+msgid "Dealer Rating"
+msgstr ""
+
+#: partials/user/dealer-reviews.php:12
+msgid "Average rating"
+msgstr ""
+
+#: partials/user/dealer-reviews.php:24
+#, php-format
+msgid "Based on %d %s"
+msgstr ""
+
+#: partials/user/dealer-reviews.php:24
+msgid "ratings"
+msgstr ""
+
+#: partials/user/dealer-reviews.php:41
+#: partials/user/dealer-single-review.php:81
+#: partials/user/dealer-write-review.php:58
+msgid "out of"
+msgstr ""
+
+#: partials/user/dealer-reviews.php:49
+msgid "Recommend"
+msgstr ""
+
+#: partials/user/dealer-reviews.php:92 partials/user/dealer-reviews.php:96
+msgid "Be the first to write a review!"
+msgstr ""
+
+#: partials/user/dealer-single-review.php:104
+msgid "By"
+msgstr ""
+
+#: partials/user/dealer-single-review.php:108
+msgid "Would I recommend this Dealer:"
+msgstr ""
+
+#: partials/user/dealer-single-review.php:119
+msgid "Report"
+msgstr ""
+
+#: partials/user/dealer-write-review.php:13
+msgid ""
+"You have already added review. If you leave another one review, previous "
+"will be deleted."
+msgstr ""
+
+#: partials/user/dealer-write-review.php:24
+msgid "Example: Great Service, clean facilities, etc"
+msgstr ""
+
+#: partials/user/dealer-write-review.php:28
+msgid "Your Review"
+msgstr ""
+
+#: partials/user/dealer-write-review.php:29
+msgid "Enter Your Review"
+msgstr ""
+
+#: partials/user/dealer-write-review.php:34
+msgid "I am not a dealer, and I am not employed by a dealership."
+msgstr ""
+
+#: partials/user/dealer-write-review.php:37
+#: partials/user/dealer-write-review.php:79
+msgid "Submit review"
+msgstr ""
+
+#: partials/user/dealer-write-review.php:65
+msgid "Would you recommend this dealer?"
+msgstr ""
+
+#: partials/user/dealer-write-review.php:176
+msgid "to leave a review"
+msgstr ""
+
+#: partials/user/listing-list-user-info.php:59
+msgid "Personal Seller"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:12
+#: partials/user/private/become-dealer.php:18
+#: partials/user/private/become-dealer.php:45
+#: partials/user/private/become-dealer.php:113
+msgid "Your review is under submission"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:21
+msgid "Your review is under submission. Paypal status - Completed"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:23
+msgid "Your review is under submission. Paypal status - Pending"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:27
+msgid "Your review is under submission. Redirecting to Paypal"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:67
+msgid "Company license"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:119
+msgid "Logo is required field"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:185
+#: partials/user/private/dealer-settings.php:138
+#: partials/user/private/dealer-settings.php:217
+msgid "Please load image with right extension (jpg, jpeg, png)"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:206
+#: partials/user/private/dealer-settings.php:364
+msgid "Account data saved. Reloading the page."
+msgstr ""
+
+#: partials/user/private/become-dealer.php:222
+#: partials/user/private/mobile/user-profile.php:104
+#: partials/user/private/user.php:60
+msgid "Become a dealer"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:240
+msgid "Upload your company logo"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:242
+#: partials/user/private/dealer-settings.php:422
+#: partials/user/private/dealer-settings.php:458
+#: partials/user/private/user-settings.php:63
+msgid "Choose file"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:244
+#: partials/user/private/become-dealer.php:332
+#: partials/user/private/dealer-settings.php:423
+#: partials/user/private/dealer-settings.php:459
+#: partials/user/private/dealer-settings.php:677
+#: partials/user/private/user-settings.php:64
+#: partials/user/private/user-settings.php:237
+msgid "No File Chosen"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:248
+#: partials/user/private/dealer-settings.php:427
+msgid "JPEG or PNG minimal 236x60px"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:255
+#: partials/user/private/dealer-settings.php:471
+#: partials/user/private/user-settings.php:75
+msgid "Main Information"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:264
+#: partials/user/private/dealer-settings.php:532
+msgid "Enter Company Name"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:270
+#: partials/user/private/dealer-settings.php:538
+msgid "License number"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:272
+#: partials/user/private/dealer-settings.php:540
+msgid "Enter License number"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:284
+#: partials/user/private/dealer-settings.php:551
+msgid "Enter Your location"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:298
+#: partials/user/private/dealer-settings.php:565
+msgid "Enter Your sales hours"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:305
+#: partials/user/private/dealer-settings.php:572
+msgid "Notes"
+msgstr ""
+
+#: partials/user/private/become-dealer.php:314
+msgid "Submit for review"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:7
+msgid "Error, try again"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:59
+msgid "Confirmation password is wrong"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:171
+msgid ""
+"Seems like image too small, please load image with minimal dimensions 500x282"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:290
+msgid "New password not saved, because of wrong confirmation."
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:420
+msgid "Upload new logo"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:456
+msgid "Upload Dealer Image"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:463
+msgid "JPEG or PNG minimal 500x282"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:477
+msgid "Company Website URL"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:478
+msgid "Enter Website URL"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:486
+#: partials/user/private/user-settings.php:84
+msgid "Enter First Name"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:492
+#: partials/user/private/user-settings.php:92
+msgid "Enter Last Name"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:513
+#: partials/user/private/user-settings.php:118
+msgid "Show Email Address on my Profile"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:523
+msgid "Dealer Information"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:583
+#: partials/user/private/user-settings.php:129
+msgid "Change password"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:589
+#: partials/user/private/user-settings.php:135
+msgid "New Password"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:595
+#: partials/user/private/user-settings.php:142
+msgid "Re-enter New Password"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:606
+#: partials/user/private/user-settings.php:153
+msgid "Your Social Networks"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:616
+#: partials/user/private/user-settings.php:165
+msgid "Enter your Facebook profile URL"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:625
+#: partials/user/private/user-settings.php:176
+msgid "Enter your Twitter URL"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:636
+#: partials/user/private/user-settings.php:189
+msgid "Enter Linkedin Public profile URL"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:645
+#: partials/user/private/user-settings.php:200
+msgid "Enter Youtube channel URL"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:655
+#: partials/user/private/user-settings.php:211
+msgid "Enter your Current Password to confirm changes"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:658
+#: partials/user/private/user-settings.php:215
+msgid "Current Password"
+msgstr ""
+
+#: partials/user/private/dealer-settings.php:661
+#: partials/user/private/user-settings.php:218
+msgid "Save Changes"
+msgstr ""
+
+#: partials/user/private/dealer.php:53
+#: partials/user/private/mobile/dealer-profile.php:106
+msgid "Dealer Contact Phone"
+msgstr ""
+
+#: partials/user/private/dealer.php:60
+#: partials/user/private/mobile/dealer-profile.php:114
+msgid "Dealer Email"
+msgstr ""
+
+#: partials/user/private/dealer.php:70 partials/user/private/dealer.php:111
+#: partials/user/private/mobile/dealer-profile.php:41
+#: partials/user/private/mobile/dealer-profile.php:75
+#: partials/user/private/mobile/user-profile.php:57
+#: partials/user/private/mobile/user-profile.php:89
+#: partials/user/private/user.php:87 partials/user/private/user.php:128
+msgid "Current Plan"
+msgstr ""
+
+#: partials/user/private/dealer.php:86 partials/user/private/dealer.php:100
+#: partials/user/private/mobile/dealer-profile.php:43
+#: partials/user/private/mobile/user-profile.php:59
+#: partials/user/private/user.php:103 partials/user/private/user.php:117
+msgid "Subscription renewal"
+msgstr ""
+
+#: partials/user/private/dealer.php:107
+#: partials/user/private/mobile/dealer-profile.php:71
+#: partials/user/private/mobile/user-profile.php:85
+#: partials/user/private/user.php:124
+msgid "Get new plan"
+msgstr ""
+
+#: partials/user/private/dealer.php:117
+#: partials/user/private/mobile/dealer-profile.php:83
+#: partials/user/private/mobile/user-profile.php:96
+#: partials/user/private/user.php:134
+msgid "Upgrade plan"
+msgstr ""
+
+#: partials/user/private/demo-alert.php:15
+msgid "Demo mode active"
+msgstr ""
+
+#: partials/user/private/demo-alert.php:18
+msgid ""
+"This action cannot be performed while the website is on demo mode. For more "
+"details, please contact the website administrator."
+msgstr ""
+
+#: partials/user/private/demo-alert.php:23
+msgid "Dismiss"
+msgstr ""
+
+#: partials/user/private/main.php:54
+msgid "Subscription Listings"
+msgstr ""
+
+#: partials/user/private/main.php:59
+msgid "Pay Per Listings"
+msgstr ""
+
+#: partials/user/private/main.php:104
+msgid "No listings yet"
+msgstr ""
+
+#: partials/user/private/mobile/user-profile.php:114
+#: partials/user/private/user.php:69
+msgid "Seller Contact Phone"
+msgstr ""
+
+#: partials/user/private/mobile/user-profile.php:122
+#: partials/user/private/user.php:76
+msgid "Seller Email"
+msgstr ""
+
+#: partials/user/private/password-recovery.php:22
+msgid "Password changed"
+msgstr ""
+
+#: partials/user/private/password-recovery.php:30
+msgid "Password Recovery"
+msgstr ""
+
+#: partials/user/private/password-recovery.php:35
+#: ulisting/account/edit-profile.php:164 ulisting/account/edit-profile.php:165
+#: woocommerce/myaccount/form-edit-account.php:78
+#: woocommerce/myaccount/form-reset-password.php:28
+msgid "New password"
+msgstr ""
+
+#: partials/user/private/password-recovery.php:36
+msgid "Enter new password"
+msgstr ""
+
+#: partials/user/private/password-recovery.php:37
+msgid "Set new password"
+msgstr ""
+
+#: partials/user/private/user-favourite.php:27
+#: partials/user/private/user-inventory.php:24
+#: partials/user/user-public-profile.php:71
+msgid "All listing types"
+msgstr ""
+
+#: partials/user/private/user-favourite.php:130
+msgid "Under review"
+msgstr ""
+
+#: partials/user/private/user-favourite.php:160
+msgid "Item has been removed"
+msgstr ""
+
+#: partials/user/private/user-favourite.php:169
+#: partials/user/private/user-favourite.php:176
+msgid "You have not added favorites yet"
+msgstr ""
+
+#: partials/user/private/user-inventory.php:4
+#: partials/user/private/user-inventory.php:8
+#: ulisting/account/my-listing.php:146 woocommerce/cart/cart.php:39
+msgid "Delete"
+msgstr ""
+
+#: partials/user/private/user-inventory.php:9
+#: partials/user/private/user-plans.php:124
+#: ulisting/account/my-plans/detail.php:83
+#: woocommerce/myaccount/my-orders.php:98
+msgid "Cancel"
+msgstr ""
+
+#: partials/user/private/user-inventory.php:106
+msgid "Do you want to delete Listing images permanently?"
+msgstr ""
+
+#: partials/user/private/user-plans.php:72
+msgid "Infinite"
+msgstr ""
+
+#: partials/user/private/user-plans.php:103
+msgid "Used slots"
+msgstr ""
+
+#: partials/user/private/user-plans.php:109
+msgid "Expire Through"
+msgstr ""
+
+#: partials/user/private/user-plans.php:118
+msgid "Pause"
+msgstr ""
+
+#: partials/user/private/user-plans.php:120
+msgid "Start"
+msgstr ""
+
+#: partials/user/private/user-plans.php:154
+msgid "Get Plan"
+msgstr ""
+
+#: partials/user/private/user-settings.php:61
+msgid "Upload new avatar"
+msgstr ""
+
+#: partials/user/private/user-settings.php:68
+msgid "JPEG or PNG minimal 160x160px"
+msgstr ""
+
+#: partials/user/private/user-settings.php:111
+msgid "Email*"
+msgstr ""
+
+#: partials/user/user-public-profile.php:51
+msgid "Seller phone"
+msgstr ""
+
+#: partials/user/user-public-profile.php:60
+msgid "Seller Inventory"
+msgstr ""
+
+#: ulisting/account/account-panel.php:39
+msgid "Log In "
+msgstr ""
+
+#: ulisting/account/account.php:31
+msgid "Registration"
+msgstr ""
+
+#: ulisting/account/dashboard.php:37
+msgid "Edit account"
+msgstr ""
+
+#: ulisting/account/dashboard.php:46
+msgid "Mobile:"
+msgstr ""
+
+#: ulisting/account/dashboard.php:52
+msgid "Office:"
+msgstr ""
+
+#: ulisting/account/dashboard.php:76
+msgid "License:"
+msgstr ""
+
+#: ulisting/account/dashboard.php:82
+msgid "Tax number:"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:33
+msgid "Avatar"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:48 ulisting/account/register.php:42
+msgid "Enter first name"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:59 ulisting/account/register.php:51
+msgid "Enter last name"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:70 ulisting/account/register.php:60
+msgid "Enter email"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:75
+msgid "Company Name"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:79
+msgid "Enter company name"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:82
+msgid "Mobile Phone"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:86
+msgid "Enter mobile phone"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:89
+msgid "Office phone"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:93
+msgid "Enter office phone"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:96
+msgid "Fax"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:100
+msgid "Enter fax"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:103
+#: woocommerce/myaccount/my-address.php:87
+msgid "Address"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:107
+msgid "Enter address"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:114
+msgid "Enter license"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:117
+msgid "Tax number"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:121
+msgid "Enter tax number"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:127
+msgid "Social"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:156 ulisting/account/edit-profile.php:157
+msgid "Old password"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:170 ulisting/account/edit-profile.php:171
+msgid "Confirmation new password"
+msgstr ""
+
+#: ulisting/account/edit-profile.php:179
+msgid "Load..."
+msgstr ""
+
+#: ulisting/account/edit-profile.php:180
+msgid "Update password"
+msgstr ""
+
+#: ulisting/account/login.php:23 ulisting/account/register.php:33
+msgid "Enter login"
+msgstr ""
+
+#: ulisting/account/my-listing.php:45
+msgid "Transport Type"
+msgstr ""
+
+#: ulisting/account/my-listing.php:74
+msgid "Sort by status"
+msgstr ""
+
+#: ulisting/account/my-listing.php:82 ulisting/account/my-listing.php:141
+msgid "Publish"
+msgstr ""
+
+#: ulisting/account/my-listing.php:89
+msgid "Draft"
+msgstr ""
+
+#: ulisting/account/my-listing.php:135
+msgid "Unpublish"
+msgstr ""
+
+#: ulisting/account/my-listing.php:154
+msgid "Loading"
+msgstr ""
+
+#: ulisting/account/my-listing.php:178
+msgid "Promotion over."
+msgstr ""
+
+#: ulisting/account/my-listing.php:179
+msgid "Promotion ends:"
+msgstr ""
+
+#: ulisting/account/my-listing.php:180
+msgid "Promotion will start:"
+msgstr ""
+
+#: ulisting/account/my-listing.php:182 ulisting/account/my-plans/list.php:35
+msgid "Expired"
+msgstr ""
+
+#: ulisting/account/my-listing.php:183
+msgid "Running"
+msgstr ""
+
+#: ulisting/account/my-listing.php:184
+msgid "Future"
+msgstr ""
+
+#: ulisting/account/my-listing.php:198 ulisting/add-listing/form.php:173
+msgid "select"
+msgstr ""
+
+#: ulisting/account/my-listing.php:207
+msgid "Loading..."
+msgstr ""
+
+#: ulisting/account/my-listing.php:209
+#: woocommerce/myaccount/form-reset-password.php:45
+msgid "Save"
+msgstr ""
+
+#: ulisting/account/my-listing.php:225
+msgid "No listings found"
+msgstr ""
+
+#: ulisting/account/my-plans/list.php:31 ulisting/add-listing/form.php:122
+msgid "Plan"
+msgstr ""
+
+#: ulisting/account/my-plans/list.php:34
+msgid "Payment Type"
+msgstr ""
+
+#: ulisting/account/my-plans/list.php:36
+#: ulisting/account/payment-history.php:35
+msgid "Created"
+msgstr ""
+
+#: ulisting/account/my-plans/list.php:47
+msgid "Pricing Plan not found "
+msgstr ""
+
+#: ulisting/account/my-plans/list.php:88
+msgid "You have no plans yet."
+msgstr ""
+
+#: ulisting/account/my-plans/list.php:89
+msgid "But you can buy them."
+msgstr ""
+
+#: ulisting/account/my-plans/list.php:91 ulisting/add-listing/form.php:180
+#: ulisting/add-listing/form.php:241 ulisting/pricing-plan/payment.php:93
+msgid "Buy plan"
+msgstr ""
+
+#: ulisting/account/navigation.php:23
+msgid "Dashboard"
+msgstr ""
+
+#: ulisting/account/payment-history.php:31
+msgid "Payment method"
+msgstr ""
+
+#: ulisting/account/payment-history.php:33
+msgid "Transaction"
+msgstr ""
+
+#: ulisting/account/payment-history.php:34
+msgid "Amount"
+msgstr ""
+
+#: ulisting/account/payment-history.php:36
+msgid "Updated"
+msgstr ""
+
+#: ulisting/account/payment-history.php:73
+msgid "You don't have any invoices."
+msgstr ""
+
+#: ulisting/account/register.php:65
+msgid "Role"
+msgstr ""
+
+#: ulisting/account/register.php:80
+msgid "Password repeat"
+msgstr ""
+
+#: ulisting/account/register.php:84
+msgid "Enter password repeat"
+msgstr ""
+
+#: ulisting/account/saved-searches.php:22
+#: ulisting/saved-searches/saved-searches.php:20
+msgid "Params"
+msgstr ""
+
+#: ulisting/account/saved-searches.php:23
+msgid "Action"
+msgstr ""
+
+#: ulisting/account/saved-searches.php:46 ulisting/wishlist/wishlist.php:64
+msgid "No result"
+msgstr ""
+
+#: ulisting/add-listing/add-listing.php:31
+msgid "Edit Item"
+msgstr ""
+
+#: ulisting/add-listing/add-listing.php:31
+msgid "Add New Item"
+msgstr ""
+
+#: ulisting/add-listing/add.php:27
+msgid "Create"
+msgstr ""
+
+#: ulisting/add-listing/edit.php:18
+msgid "Edit listing"
+msgstr ""
+
+#: ulisting/add-listing/edit.php:35
+msgid "Listing not found"
+msgstr ""
+
+#: ulisting/add-listing/form.php:50
+msgid "Category"
+msgstr ""
+
+#: ulisting/add-listing/form.php:61
+msgid "Region"
+msgstr ""
+
+#: ulisting/add-listing/form.php:228
+msgid "Plan for Feature"
+msgstr ""
+
+#: ulisting/add-listing/form.php:252
+msgid "Set feature"
+msgstr ""
+
+#: ulisting/add-listing/form.php:255
+msgid "My listing"
+msgstr ""
+
+#: ulisting/builder/element/similar-listings.php:26
+msgid "Similar Listings"
+msgstr ""
+
+#: ulisting/builder/element/similar-listings.php:37
+msgid "No similar listings found"
+msgstr ""
+
+#: ulisting/custom/add_listing_step_nav.php:19
+msgid "Listing Type"
+msgstr ""
+
+#: ulisting/custom/add_listing_step_nav.php:23
+msgid "Create listing"
+msgstr ""
+
+#: ulisting/custom/add_listing_step_nav.php:27
+msgid "Done"
+msgstr ""
+
+#: ulisting/custom/widget/widget_dealer_info.php:52
+msgid "Call Free 24/7"
+msgstr ""
+
+#: ulisting/custom/widget/widget_dealer_info.php:62
+msgid "Seller Email:"
+msgstr ""
+
+#: ulisting/filter/stm_search_form_advanced.php:35
+msgid "Clear all"
+msgstr ""
+
+#: ulisting/listing-compare/compare-page.php:10
+msgid "COMPARE ITEMS"
+msgstr ""
+
+#: ulisting/listing-compare/compare-page.php:37
+msgid "Remove From List"
+msgstr ""
+
+#: ulisting/listing-compare/compare-page.php:69
+msgid "You have not added cars to compare!"
+msgstr ""
+
+#: ulisting/listing-list/filter.php:20
+msgid "Search options"
+msgstr ""
+
+#: ulisting/listing-list/found_posts.php:3
+msgid "Matches"
+msgstr ""
+
+#: ulisting/listing-list/listing-order.php:24
+msgid "SORT BY:"
+msgstr ""
+
+#: ulisting/listing-list/pagination.php:27
+msgid "Prev"
+msgstr ""
+
+#: ulisting/pricing-plan/list.php:28 ulisting/pricing-plan/list.php:60
+#: ulisting/pricing-plan/payment.php:49
+msgid "Duration"
+msgstr ""
+
+#: ulisting/pricing-plan/list.php:29 ulisting/pricing-plan/list.php:61
+#: ulisting/pricing-plan/payment.php:50
+msgid "Status:"
+msgstr ""
+
+#: ulisting/pricing-plan/list.php:32 ulisting/pricing-plan/list.php:64
+msgid "Buy Now"
+msgstr ""
+
+#: ulisting/pricing-plan/list.php:41
+msgid ""
+"Pricing plans are currently under development. Please contact the site "
+"administrator for details."
+msgstr ""
+
+#: ulisting/pricing-plan/list.php:46
+msgid "Subscription"
+msgstr ""
+
+#: ulisting/pricing-plan/payment.php:31
+msgid "Checkout"
+msgstr ""
+
+#: ulisting/pricing-plan/payment.php:34
+msgid "Your plan"
+msgstr ""
+
+#: ulisting/pricing-plan/payment.php:64 ulisting/pricing-plan/payment.php:105
+msgid "Your Name"
+msgstr ""
+
+#: ulisting/pricing-plan/payment.php:68 ulisting/pricing-plan/payment.php:109
+msgid "Your Email"
+msgstr ""
+
+#: ulisting/pricing-plan/payment.php:71 ulisting/pricing-plan/payment.php:100
+msgid "Payment Method"
+msgstr ""
+
+#: ulisting/pricing-plan/payment.php:72 ulisting/pricing-plan/payment.php:101
+msgid "All transactions are secure and encrypted."
+msgstr ""
+
+#: ulisting/pricing-plan/payment.php:134 woocommerce/checkout/thankyou.php:40
+#: woocommerce/myaccount/my-orders.php:91
+msgid "Pay"
+msgstr ""
+
+#: ulisting/pricing-plan/payment.php:137
+msgid "Place Order"
+msgstr ""
+
+#: ulisting/saved-searches/add-button.php:12
+msgid "Save Search"
+msgstr ""
+
+#: ulisting/saved-searches/saved-searches.php:34
+#: woocommerce/myaccount/my-orders.php:104
+msgid "View"
+msgstr ""
+
+#: ulisting/saved-searches/saved-searches.php:44
+msgid "You don't have a saved search yet!"
+msgstr ""
+
+#: ulisting/wishlist/main.php:10 ulisting/wishlist/main.php:25
+msgid "Saved Search"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:57
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:94 woocommerce/cart/cart.php:35
+#: woocommerce/cart/cart.php:117 woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:130
+#: woocommerce/myaccount/my-orders.php:32
+#: woocommerce/myaccount/my-orders.php:58
+#: woocommerce/myaccount/my-orders.php:81
+#: woocommerce/order/order-details.php:69
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:58
+#: woocommerce/checkout/review-order.php:23
+#: woocommerce/emails/email-order-details.php:38
+#: woocommerce/order/order-details.php:48
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:95
+#: woocommerce/emails/email-order-details.php:39
+#: woocommerce/global/quantity-input.php:24
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:83
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:67
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:78
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:68
+#: woocommerce/checkout/form-checkout.php:98
+#: woocommerce/checkout/form-checkout.php:141
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:42
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:83
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:31
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:45
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:47
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:58
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:58
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:56
+msgid "Featured status for listing"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:58
+#, php-format
+msgid "(%1$s days)"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:62
+msgid "Pricing plan"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:52 woocommerce/checkout/thankyou.php:168
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:63
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:69
+#: woocommerce/order/order-details-customer.php:38
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:75
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:82
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:118
+msgid "View Listing"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:130
+msgid "Return to account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:159
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/content-product.php:67
+msgid "Sale Product"
+msgstr ""
+
+#: woocommerce/content-product.php:70
+msgid "Best Seller Product"
+msgstr ""
+
+#: woocommerce/content-product.php:73
+msgid "Top Rated Product"
+msgstr ""
+
+#: woocommerce/content-widget-reviews.php:33
+#: woocommerce/content-widget-reviews.php:46
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:30
+#: woocommerce/emails/email-order-details.php:32
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:65
+msgid "Pickup date"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:73
+msgid "Pickup location"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:81
+msgid "Return date"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:89
+msgid "Return location"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:24
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:51
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#. translators: 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:31
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:35
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Account Settings"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:47
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:50
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+#: woocommerce/myaccount/form-login.php:161
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:64
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Current password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:69
+#: woocommerce/myaccount/form-edit-account.php:79
+msgid " (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:72
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:82
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:87
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:97
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:134
+msgid "LOGIN"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:49
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+#: woocommerce/myaccount/form-login.php:171
+msgid "PASSWORD"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+#: woocommerce/myaccount/form-login.php:90
+#: woocommerce/myaccount/form-login.php:99
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:143
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:152
+msgid "EMAIL"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:184
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:29
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:42
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:20
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:27
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:30
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:32
+#: woocommerce/myaccount/my-address.php:38
+#: woocommerce/order/order-details-customer.php:65
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:33
+#: woocommerce/order/order-details-customer.php:79
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:36
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:50
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "Country"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:83
+msgid "Company"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:95
+msgid "State"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:99
+msgid "Postcode"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:107
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:32
+msgid "Available downloads"
+msgstr ""
+
+#. translators: %s product name
+#: woocommerce/myaccount/my-downloads.php:42
+#, php-format
+msgid "%s download(s) remaining"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:29
+#: woocommerce/myaccount/my-orders.php:55
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:30
+#: woocommerce/myaccount/my-orders.php:56
+#: woocommerce/myaccount/my-orders.php:75
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:49
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:70
+msgid "Order Number"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:82
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:58
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:63
+msgid "Created Date"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:68
+msgid "Reservation Period"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:82
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:123
+msgid "Go shop"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:125
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:29
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:37 woocommerce/order/tracking.php:35
+msgid "Order updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:43 woocommerce/order/tracking.php:41
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/notices/notice.php:31
+msgid "Informational"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:34
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Billing email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:49
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-again.php:29
+msgid "Contact Us"
+msgstr ""
+
+#: woocommerce/order/order-again.php:31
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:26
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:31
+#: woocommerce/order/order-details.php:105
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:45
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:55
+msgid "Vehicle"
+msgstr ""
+
+#: woocommerce/order/order-details.php:64
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/tracking.php:22
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:22
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:25
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:25
+msgid " ago"
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:35
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "Your rating:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:118
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:122
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:132
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Motors"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://motors.stylemixthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Automotive, Cars, Vehicle, Boat Dealership, Classifieds WordPress Theme by "
+"StylemixThemes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "StylemixThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://stylemixthemes.com/"
+msgstr ""

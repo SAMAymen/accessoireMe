@@ -1,0 +1,31 @@
+.stm-wcmap-ap-icon-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.stm-wcmap-ap-icon-box .stm-wcmap-ap-icon-wrap {
+    display: block;
+    min-width: 15%;
+    margin-right: 23px;
+}
+
+.stm-wcmap-ap-icon-box .stm-wcmap-ap-icon-wrap img {
+    display: block;
+    width: 100%;
+}
+
+.stm-wcmap-ap-icon-box .stm-wcmap-text-wrap h4 {
+    display: block;
+    line-height: 15px;
+    margin-bottom: 0;
+}
+
+.stm-wcmap-ap-icon-box .stm-wcmap-text-wrap .content {
+    font-size: 14px;
+    line-height: 24px;
+    color: #777777;
+    margin-top: 15px;
+}

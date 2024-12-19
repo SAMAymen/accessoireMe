@@ -1,0 +1,65 @@
+#wrapper .stm-banner-fullwidth {
+    position: static;
+}
+
+#wrapper .stm-banner-image-filter {
+    position: absolute;
+    max-height: 410px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 37px;
+    background-position: 50% 0;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+
+#wrapper .stm-banner-image-filter:after {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 1024px) {
+    #wrapper .stm-banner-image-filter {
+        top: 0;
+    }
+}
+
+#wrapper #stm-vivus-arrow {
+    position: absolute;
+    left: -50px;
+    top: 30px;
+}
+
+@media (max-width: 1199px) {
+    #wrapper #stm-vivus-arrow {
+        display: none;
+    }
+}
+
+#wrapper .centered-banner-content-listing {
+    position: relative;
+    padding: 160px 0 159px;
+}
+
+#wrapper .centered-banner-content-listing .inner {
+    position: relative;
+}
+
+#wrapper .centered-banner-content-listing .inner h1 {
+    margin-bottom: 5px;
+    font-size: 70px;
+    line-height: 50px;
+    letter-spacing: -3px;
+}
+
+.stm-boxed #wrapper .stm-banner-image-filter {
+    top: 0;
+}
